@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fatima"
+version = "0.1.0"
+description = "Fitrah-Aligned Tawhidic Integrity for Meaning and Authenticity — a holographic data format crossing Shannon's boundary"
+readme = "README.md"
+license = {text = "CC-BY-4.0"}
+requires-python = ">=3.10"
+authors = [
+    {name = "Bilal Syed Arfeen", email = "doctordopemusic@gmail.com"},
+]
+keywords = [
+    "fatima",
+    "holographic",
+    "semantic-integrity",
+    "data-format",
+    "verification",
+    "shannon",
+    "bayyinah",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "License :: Other/Proprietary License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering",
+    "Topic :: Security :: Cryptography",
+]
+
+[project.urls]
+"Bayyinah Enterprise" = "https://zenodo.org/doi/10.5281/zenodo.21500700"
+
+[project.scripts]
+fatima = "fatima.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["fatima*"]
