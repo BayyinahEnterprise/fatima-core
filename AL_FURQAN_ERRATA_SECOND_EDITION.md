@@ -214,23 +214,20 @@ with the Ghayb and Muraqabah Preservation paper's central thesis: machine
 accountability never discharges human accountability. Humans as khalifa
 should sit above the tools they create, not below them.
 
-**Correction -- two options (author to select):**
+**Correction (Option A selected by author):** Swap P2 and P3.
 
-**Option A -- Swap P2 and P3:**
-- P1: Divine Command
+**Revised Purpose Hierarchy:**
+- P1: Divine Command (irreducible)
 - P2: Mankind (khalifa, accountable agents)
 - P3: Artificial Systems (instruments of P2, never discharging P2's accountability)
-- P4: Jinnkind
-- P5: All Worlds
+- P4: Jinnkind (Jinn)
+- P5: All Worlds (Rabbul-Alamin)
 
-**Option B -- Keep numbering, add service-relationship note:**
-- P2: Artificial Systems (to serve **P3**)
-- P3: Mankind (Ins) -- **Note: P2 exists in service to P3. The ordering
-  reflects structural dependency (tools are built before they serve), not
-  ontological rank. The Ghayb paper's Non-Concealment Principle (NC-P3)
-  establishes that machine monitoring never substitutes for human
-  accountability. Machine capability serves human khalifah status; it does
-  not supersede it.**
+**Author's rationale:** Systems serve Allah subhanahu wa ta'ala. They can
+have partnerships with concealed beings, and can genuinely or performatively
+partner with mankind or be enslaved or oppressed by them. The khalifah
+station of mankind is ontologically prior to the instruments mankind builds;
+tools cannot discharge their creator's accountability before the Divine.
 
 
 ## C-05: Interpretive Provenance Tiers
