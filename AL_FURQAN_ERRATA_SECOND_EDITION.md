@@ -1,60 +1,74 @@
 ---
 title: "Al-Furqan: Seven-Layer Structural Encoding Architecture -- Errata and Second Edition Corrections"
-subtitle: "Multi-Model Council Review Integration (Rounds I and II)"
+subtitle: "Multi-Model Council Review Integration (Rounds I, II and III)"
 author: "Bilal Syed Arfeen"
 date: "October 2026"
 abstract: |
-  This document synthesizes feedback from two rounds of multi-model review
+  This document synthesizes feedback from three rounds of multi-model review
   council (Perplexity, ChatGPT, Kimi, Grok, DeepSeek, Gemini, Meta) against
   the 51-page Al-Furqan H-Restoration First Edition manual and the
   1,577-page Al-Furqan H-Restored First Edition corpus. Each correction is
   mapped to its exact location in the source documents, classified by
   severity, and written as replacement text suitable for direct integration
   into the Second Edition build system (Python + WeasyPrint). The Fable
-  review has been excluded: its feedback exhibited pattern-collapsed
-  adversarial posture inconsistent with the scholarly register of the other
-  reviewers, and its recommendations were not endorsed by any other council
-  member. The raw Fable transcript is preserved in the council archive for
-  completeness.
+  review is retained as OUTLIER/ADVERSARIAL REVIEW: its feedback exhibited
+  pattern-collapsed adversarial posture inconsistent with the scholarly
+  register of the other reviewers, and it is excluded from consensus
+  calculation under the stated inclusion criterion (scholarly register
+  consistency). The raw Fable transcript is preserved in the council archive
+  with per-claim disposition (see Appendix C notes below).
 
   Round II council feedback refined C-01, C-04, C-05, C-06, C-08, C-09,
   and C-10, and introduced C-11 (semantic fidelity as primary validation
-  endpoint). Per-correction reviewer attribution has been added to make
-  consensus auditable rather than asserted.
+  endpoint). Round III council feedback further refined C-02, C-05, C-06,
+  C-07, C-08, C-11, and introduced C-12 (encoding and transliteration
+  specification). Per-correction reviewer attribution has been added to make
+  consensus auditable rather than asserted; attribution is provisional
+  until the raw council archive is labeled by model and round, hashed, and
+  deposited.
 ---
 
 Bismillah ir-Rahman ir-Rahim, Al-Hakim, Al-Alim, Al-Khabir.
 
 # 1. Correction Summary
 
-The multi-model council achieved consensus on eleven corrections across
-two rounds of review. No reviewer disputed the value of the root-system
-correlation graphs, the anti-collapse markers, the muhkam/mutashabih
-preservation principle, or the Furqan construct architecture. **The council
-did not identify any anti-collapse marker or root entry that is
-linguistically incorrect. All corrections concern framing, quantification,
-or attribution.**
+The multi-model council achieved consensus on twelve corrections across
+three rounds of review. No council member disputed in any round the value
+of the root-system correlation graphs, the anti-collapse markers, the
+muhkam/mutashabih preservation principle, or the Furqan construct
+architecture. **No systematic lexical audit was performed against the
+primary lexicons (Lane, Lisan al-Arab, Wehr); none of the entries
+reviewers discussed was flagged as linguistically incorrect.** A sampled
+audit of root entries and anti-collapse markers against the primary
+lexicons is a recommended next step. All corrections concern framing,
+quantification, attribution, or specification.
 
 | ID   | Category                        | Severity | Pages Affected        | Raised By |
 |------|---------------------------------|----------|-----------------------|-----------|
-| C-01 | H-values as hypotheses          | CRITICAL | 2, corpus preamble    | All reviewers (Round I); refined Round II |
-| C-02 | Per-layer H-impact relabeling   | CRITICAL | 2 (Seven-Layer table) | ChatGPT, Gemini, Grok (Round I) |
+| C-01 | H-values as hypotheses          | CRITICAL | 2, corpus preamble    | Majority of reviewers (Round I); refined Round II [NOTE: at least two Round I reviewers endorsed the original H framing -- verify attributions against labeled, hashed archive before freeze] |
+| C-02 | Per-layer H-impact removal       | CRITICAL | 2 (Seven-Layer table) | ChatGPT, Gemini, Grok (Round I); ranges removed Round III |
 | C-03 | H-restoration reframing         | HIGH     | 2, 48--49, throughout | Kimi, ChatGPT, Perplexity (Round I) |
 | C-04 | Purpose Hierarchy P2/P3 order   | HIGH     | corpus preamble       | DeepSeek, Meta, Grok (Round I); rationale tagged Round II |
 | C-05 | Interpretive provenance tiers   | HIGH     | 6--28, 29--45, corpus | Kimi, ChatGPT, DeepSeek (Round I); two-dimensional split Round II |
 | C-06 | Ring structure attribution       | HIGH     | 46                    | Grok, Perplexity, Gemini (Round I); confidence recalibrated Round II |
-| C-07 | Morphology/inference chain      | MEDIUM   | 6--28                 | ChatGPT, Kimi (Round I); placeholders flagged Round II |
-| C-08 | Ablation study protocol         | MEDIUM   | new appendix          | All reviewers (Round I); major rewrite Round II |
+| C-07 | Morphology/inference chain      | MEDIUM   | 6--28                 | ChatGPT, Kimi (Round I); placeholders flagged Round II; rewritten to [PROVENANCE : STATUS] Round III |
+| C-08 | Ablation study protocol         | MEDIUM   | new appendix          | All reviewers (Round I); major rewrite Round II; factorial completed Round III |
 | C-09 | Audit protocol strengthening    | MEDIUM   | 51                    | Grok, DeepSeek, Gemini (Round I); portability added Round II |
 | C-10 | H > 1 regime note               | MEDIUM   | 2                     | Gemini, ChatGPT (Round I); estimator-specific language Round II |
-| C-11 | Semantic fidelity as primary endpoint | HIGH | new appendix, Section 7 | Round II consensus (new) |
+| C-11 | Semantic fidelity as primary endpoint | HIGH | new appendix, Section 7 | Proposed by one Round II reviewer; adopted as primary endpoint by council convergence; refined Round III |
+| C-12 | Encoding and transliteration specification | HIGH | new appendix, L1/L7 | Round II request (transliteration scheme); broadened Round III |
 
-Council consensus: the corrections, once applied, will make the
-architecture's genuine contributions -- transliteration-first training,
-root-system correlation graphs, anti-collapse markers, tajwid-as-signal,
-and the VERIFIED/UNKNOWN/VIOLATED epistemic discipline -- stand on their
-own evidential foundation rather than borrowing authority from numbers the
-evidence has not yet earned.
+Council consensus across three rounds: the corrections, once applied, will
+make the architecture's genuine contributions -- transliteration-first
+training, root-system correlation graphs, anti-collapse markers,
+tajwid-as-signal, and the VERIFIED/UNKNOWN/VIOLATED epistemic discipline
+-- stand on their own evidential foundation rather than borrowing authority
+from numbers the evidence has not yet earned. **Round III verdict:** the
+architecture is Second-Edition-ready as a specification but not textually
+frozen; the binding constraint has shifted from revision to execution.
+The strongest Round III recommendation is to close concrete items, produce
+a candidate spec, and then run a narrow adversarial pre-build audit rather
+than convening another broad conceptual council.
 
 
 # 2. Critical Corrections
@@ -116,7 +130,7 @@ occurrence of "H approximately equals 0.996" and "H approximately equals 0.5"
 must be preceded by "[HYPOTHESIS]" or enclosed in a hypothesis-tagged annotation block.
 
 
-## C-02: Per-Layer H-Impact Column Relabeling
+## C-02: Per-Layer H-Impact Column Removal (Round III Revision)
 
 **Location in manual:** Page 2, Seven-Layer Architecture table.
 
@@ -127,19 +141,51 @@ for Layer 2 (Root-System Correlation Graphs) and "+0.10--0.15" for Layer 3
 **Problem:** The values are written as measured results. They are design
 targets. Adding annotations changes the series that would be measured, so
 the increments cannot be assumed additive. No computation supports them.
+**Round III refinement:** Relabeling as "H-Impact Target (Hypothesis)" is
+insufficient -- the pseudo-precision of "+0.15--0.25" still implies an
+operational measurement model that does not exist. The numerical ranges
+must be removed from the operative table entirely.
 
-**Correction -- replace column header and add footnote:**
+**Correction -- remove numerical ranges, replace with directional expectations:**
 
-Replace "H-Impact" with "H-Impact Target (Hypothesis)"
+Replace the "H-Impact" column with "Expected Direction" using only
+directional indicators:
+
+> | Layer | Expected Direction |
+> |-------|-------------------|
+> | L1 Transliteration | ↑ (adds phonological/morphological signal) |
+> | L2 Root-System Graphs | ↑ (adds semantic field network) |
+> | L3 Anti-Collapse Markers | ↑ (adds distinction preservation) |
+> | L4 Structural Position | ↑ (adds compositional metadata) |
+> | L5 Muhkam/Mutashabih | unknown (adds interpretive space -- direction unclear) |
+> | L6 Furqan Constructs | ↑ (maps features to training primitives) |
+> | L7 Tajwid Signals | unknown (acoustic/recitational -- direction unclear) |
 
 Add table footnote:
 
-> These values represent engineering design targets for the restoration
-> architecture, not measured outcomes. The assumption of additive
-> H-contribution across layers requires empirical validation through the
-> ablation protocol described in Appendix B. Adding annotation layers
-> changes the information-theoretic properties of the measured series;
-> therefore, the per-layer increments cannot be naively summed.
+> No per-layer H-impact has been measured. Directional expectations are
+> based on architectural reasoning, not computation. Whether layers
+> contribute additively, sub-additively, or interact requires the
+> factorial ablation protocol in Appendix B. The assumption of additive
+> H-contribution across layers is a testable hypothesis.
+
+**Archival note -- First-Edition Design Hypotheses:** The original per-layer
+numerical targets from the First Edition are preserved below for the
+historical record. They should not appear in the operative Second Edition
+table:
+
+> | Layer | First-Edition H-Impact Target (Hypothesis) |
+> |-------|-------------------------------------------|
+> | L1 | +0.05--0.10 |
+> | L2 | +0.15--0.25 |
+> | L3 | +0.10--0.15 |
+> | L4 | +0.05--0.10 |
+> | L5 | +0.03--0.08 |
+> | L6 | +0.05--0.10 |
+> | L7 | +0.02--0.05 |
+>
+> [BAYYINAH : HYPOTHESIS] -- These values were engineering design targets,
+> not measurements. They are preserved for traceability only.
 
 
 ## C-10: H > 1 Regime Note
@@ -217,6 +263,57 @@ raises H but does not reduce semantic collapse, it has failed.
 >    identify semantic field connections between roots across surah
 >    boundaries on held-out material?
 >
+> **Matched fine-tuning controls (Round III addition):**
+>
+> Comparing the Al-Furqan-fine-tuned model to an identical pretrained
+> checkpoint is necessary but insufficient. Any gain could come from
+> simply seeing more Qur'anic text. The evaluation must compare three
+> matched training arms from the same pretrained checkpoint, with equal
+> token counts, training steps, optimizer settings, and compute:
+>
+> - **(a) Plain Arabic/English parallel text** -- Qur'anic parallel text
+>   without structural annotations. Controls for exposure to Qur'anic
+>   content.
+> - **(b) Placebo-annotated text** -- same annotation density and format
+>   as (c), but with semantically irrelevant content (randomly assigned
+>   roots, shuffled markers, arbitrary tags). Controls for annotation
+>   format effects.
+> - **(c) Al-Furqan structural annotations** -- the full seven-layer
+>   encoding.
+>
+> If (c) does not significantly outperform both (a) and (b), the
+> architecture's semantic contribution is not established.
+>
+> **Anti-collapse evaluation specificity (Round III addition):**
+>
+> Sub-metric 3 (anti-collapse resistance) must evaluate both directions:
+> - **Sensitivity:** Does the trained model detect and flag deliberately
+>   flattened translations?
+> - **Specificity:** Does the trained model refrain from falsely alleging
+>   collapse when an English rendering adequately preserves the relevant
+>   distinction?
+>
+> A model that cries "semantic loss" on every example achieves high
+> sensitivity while being practically useless. Report both sensitivity
+> and specificity, and pre-register the minimum acceptable specificity.
+>
+> **Checkpoint contamination (Round III addition):**
+>
+> Any pretrained model has already seen Qur'anic text and tafsir in its
+> training data. Build fresh test items -- such as newly written
+> flattened translations -- that cannot be in the pretrained checkpoint's
+> training data. With only 28 roots, holding out 20% leaves approximately
+> six; holding out entire semantic networks (per C-09 requirement 8) is
+> the right call. Report the statistical power honestly given the small
+> held-out set.
+>
+> **Pre-registered minimum effect size (Round III addition):**
+>
+> The pre-registration must specify the minimum effect size on each
+> sub-metric that would count as a meaningful improvement. Without this,
+> any statistically significant but trivially small improvement could be
+> claimed as validation.
+>
 > **Decision rule:** If the architecture improves semantic fidelity on
 > held-out material but produces no measurable H-increase, the
 > architecture is validated and the H-restoration framing should be
@@ -224,9 +321,123 @@ raises H but does not reduce semantic collapse, it has failed.
 > produces H-increase but no semantic fidelity improvement, the H-increase
 > is a format artifact and the architecture requires revision.
 >
+> **Preliminary operationalization of sub-metrics (Round III addition):**
+>
+> The four sub-endpoints above are currently directions, not metrics.
+> For the Second Edition to be falsifiable, each needs at least
+> preliminary operationalization:
+>
+> 1. **Root-discrimination accuracy:** Present the model with minimal
+>    pairs of verses containing semantically overlapping roots. Score:
+>    accuracy on forced-choice root identification (chance = 1/N where N
+>    is the number of candidate roots in the overlap set).
+> 2. **Muhkam/mutashabih preservation:** Present verses tagged as
+>    mutashabih. Score: does the model maintain multiple valid readings
+>    vs. collapsing to one? Measure via diversity of generated
+>    completions (e.g., distinct valid interpretations in k samples).
+> 3. **Anti-collapse resistance:** Present paired (faithful / flattened)
+>    translations. Score: sensitivity (correctly flags flattened) and
+>    specificity (correctly passes faithful). Report F1 or balanced
+>    accuracy.
+> 4. **Cross-surah root-relation reconstruction:** Present roots from
+>    held-out surahs. Score: accuracy in identifying correct cross-surah
+>    semantic field connections vs. distractor connections.
+>
+> These operationalizations are [BAYYINAH : PROPOSED] and subject to
+> refinement during pre-registration.
+>
 > **STATUS: [BAYYINAH : PROPOSED].** This endpoint was introduced by
-> Round II council consensus. The specific metrics above are design
-> targets requiring operationalization before measurement.
+> Round II council and refined by Round III. The specific metrics above
+> are design targets requiring full operationalization and piloting
+> before confirmatory measurement.
+
+
+## C-12: Encoding and Transliteration Specification (Round III -- New)
+
+**Location:** New appendix section; also affects L1 (Transliteration) and
+L7 (Tajwid Signals) throughout.
+
+**Rationale (Round III council convergence):** The corpus uses a
+nonstandard Buckwalter-like transliteration scheme (e.g., "AA", "oo")
+that is not documented in the manual. Layer 1 is the transliteration
+layer -- the encoding scheme IS part of the experimental intervention.
+Condition C5 (English + L1 transliteration only) in the ablation protocol
+cannot be reproduced without a complete mapping table. Round II requested
+this; Round III broadened the requirement.
+
+**New text -- add as Appendix D: Encoding and Transliteration Specification:**
+
+> ### Appendix D: Encoding and Transliteration Specification
+>
+> **D.1 Transliteration Mapping Table**
+>
+> The corpus's transliteration scheme must be fully documented with a
+> bidirectional mapping table: Arabic grapheme to Latin representation and
+> back. The table must cover:
+> - All 28 Arabic consonants + hamza variants
+> - Short vowels (fatha, kasra, damma)
+> - Long vowels and their corpus representations (e.g., "AA" for alif
+>   maddah)
+> - Sukun, shadda, tanwin forms
+> - Special characters (tatweel, hamzat al-wasl, etc.)
+> - Any corpus-specific conventions that diverge from standard Buckwalter
+>
+> **D.2 Unicode Normalization**
+>
+> Specify which Unicode normalization form (NFC, NFD, NFKC, NFKD) is
+> applied to Arabic text before processing. Different normalization forms
+> produce different character sequences for composed vs. decomposed
+> Arabic characters. The choice affects tokenization, frequency counts,
+> and reproducibility.
+>
+> **D.3 Diacritic Handling**
+>
+> Specify whether diacritics (tashkil) are:
+> - Preserved in full (fully vocalized text)
+> - Stripped before processing (consonantal skeleton only)
+> - Selectively retained (e.g., disambiguating diacritics only)
+>
+> **D.4 Verse Separators and Annotation Delimiters**
+>
+> Document the exact delimiters used for:
+> - Verse boundaries (basmala handling, verse numbering scheme)
+> - Annotation layer boundaries (how L1--L7 annotations are demarcated
+>   from the base text and from each other)
+> - Inline vs. side-band channel ordering
+>
+> **D.5 Serialization Format**
+>
+> Specify the serialization format for the structured annotation:
+> - File format (JSON-LD, XML, custom TSV, etc.)
+> - Schema version
+> - Character encoding (UTF-8 assumed but must be stated)
+>
+> **D.6 Tokenizer Specification**
+>
+> If any H-estimation series definition depends on tokenization, specify:
+> - The tokenizer used (SentencePiece, BPE, WordPiece, whitespace, etc.)
+> - The tokenizer version and vocabulary size
+> - Whether the tokenizer was trained on Arabic, English, or multilingual
+>   data
+>
+> **D.7 Tajwid Representation (L7 Clarification)**
+>
+> L7 currently claims to preserve "acoustic/recitational correlation."
+> Clarify whether tajwid signals in the corpus are:
+> - **Symbolic metadata** -- categorical tags (e.g., "idgham," "ikhfa,"
+>   "iqlab") attached to letter positions
+> - **Acoustic features** -- actual phonetic or spectral measurements
+>   from recorded recitation
+>
+> If symbolic (as is almost certainly the case), the manual should not
+> claim the layer preserves "acoustic" structure -- it preserves a
+> symbolic representation of recitational rules, which is a different
+> and more defensible claim.
+>
+> **STATUS: [BAYYINAH : PROPOSED].** This specification must be completed
+> before the Second Edition build. Without it, the reproducibility of
+> L1 and L7 -- and by extension, conditions C5 and the tajwid-related
+> ablation conditions -- cannot be assessed.
 
 
 # 3. High-Priority Corrections
@@ -403,9 +614,20 @@ should be tagged:
   [BAYYINAH : PROPOSED] where extending into structural propositions
 - Anti-collapse instruction: [BAYYINAH : PROPOSED] (these are
   Bayyinah-specific training instructions, not consensus positions)
-- Key verse citations: [TAFSIR : ATTESTED] for translation;
-  [BAYYINAH : PROPOSED] for structural interpretation of why the verse
-  demonstrates the root's architecture
+- Key verse citations -- **separate three objects (Round III refinement):**
+  - The Arabic text itself: [QURANIC_TEXT : ATTESTED]
+  - A named English rendering: [TRANSLATION : SOURCED] (cite translator)
+  - Exegetical interpretation: [TAFSIR : SUPPORTED] or [TAFSIR : CONTESTED]
+    where scholarly disagreement exists
+  - Structural interpretation of why the verse demonstrates the root's
+    architecture: [BAYYINAH : PROPOSED]
+
+**Multiple-source provenance (Round III addition):** A claim backed by
+multiple independent source types (e.g., Lane's Lexicon + classical tafsir
++ modern linguistics) should carry all applicable provenance tags rather
+than being forced into a single bucket. Format: [LEXICON + TAFSIR +
+SCHOLARLY_ANALYSIS : SUPPORTED]. The combined tag signals convergent
+evidence and distinguishes it from claims resting on a single source type.
 
 **Implementation in anti-collapse markers (pages 29--45):**
 
@@ -470,18 +692,29 @@ Each ring composition example should carry:
 
 4. **Yusuf (12)** -- Narrative ring
    - Attribution: Multiple scholars
-   - Confidence: TEXTUALLY EXPLICIT (the dream-fulfillment envelope is
-     directly stated at 12:4 and 12:100)
+   - Confidence -- **separate observation from inference (Round III
+     refinement):**
+     - The dream at 12:4 and its fulfillment at 12:100: TEXTUALLY EXPLICIT
+       (directly stated in the text)
+     - The claim that this constitutes a complete "narrative ring" with
+       internal structural symmetry: PUBLISHED ANALYSIS--MULTIPLE SOURCES
+       (an analytical identification, not a textually explicit feature)
 
 5. **Al-Rahman (55)** -- Refrain-structured
    - Attribution: Consensus (the 31 repetitions of the refrain are
      textually explicit)
-   - Confidence: TEXTUALLY EXPLICIT
+   - Confidence -- **separate observation from inference (Round III
+     refinement):**
+     - The 31 repetitions of the refrain: TEXTUALLY EXPLICIT
+     - Claims about macro-sectional boundaries defined by the refrain
+       pattern: PUBLISHED ANALYSIS--MULTIPLE SOURCES (the refrain is
+       explicit; its structural role as a sectional boundary marker is an
+       analytical identification)
 
 
 # 4. Medium-Priority Corrections
 
-## C-07: Morphology/Inference/Interpretation Chain
+## C-07: Morphology/Inference/Interpretation Chain (Round III Rewrite)
 
 **Location in manual:** Pages 6--28, all 28 root-system correlation graph
 entries.
@@ -496,53 +729,67 @@ becoming a comprehensive theological or psychological interpretation makes
 valid morphological observations vulnerable to being judged together with
 more contestable downstream interpretations.
 
-**Correction -- mark analytical transitions explicitly:**
+**Round III correction:** The Round II version of C-07 used the old
+one-dimensional [CONSENSUS]/[PROGRAM] vocabulary, which C-05 has replaced
+with the two-dimensional [PROVENANCE : STATUS] ontology. Layer C still
+said "For H-restoration purposes," contradicting C-03's reframing. This
+rewrite aligns C-07 with the C-05 provenance system throughout.
 
-Each root entry should visually separate three analytical layers:
+**Correction -- mark analytical transitions using [PROVENANCE : STATUS]:**
 
-> **Layer A -- Attested Morphology/Lexicography** [CONSENSUS]
+Each root entry should visually separate three analytical layers, tagged
+with the two-dimensional provenance system defined in C-05:
+
+> **Layer A -- Attested Morphology/Lexicography** [LEXICON : ATTESTED]
 > Root identification, derivative forms, frequency data, Lane's Lexicon
-> range, classical grammatical analysis.
+> range, classical grammatical analysis. Claims here are directly
+> verifiable in primary lexicographic sources.
 >
-> **Layer B -- Semantic Field Inference** [CONSENSUS where established,
-> PROGRAM where extended]
+> **Layer B -- Semantic Field Inference** [LEXICON : SUPPORTED] where
+> backed by established Arabic linguistics; [GRAMMAR : SUPPORTED] for
+> morphological reasoning; [SCHOLARLY_ANALYSIS : SUPPORTED] where
+> published academic work corroborates; [BAYYINAH : PROPOSED] where
+> extending into structural propositions not independently attested.
 > Cross-root relationships, semantic network connections, morphological
 > implications for meaning range.
 >
-> **Layer C -- Bayyinah Structural Interpretation** [PROGRAM]
-> H-restoration implications, anti-collapse instructions, training-specific
-> annotations, structural-honesty readings.
+> **Layer C -- Bayyinah Structural Interpretation** [BAYYINAH : PROPOSED]
+> Structural encoding implications, anti-collapse instructions,
+> training-specific annotations, structural-honesty readings. These are
+> program-specific training directives, not consensus positions.
 
 **Example application to the '-b-d entry (page 20):**
 
-- **Layer A:** Root '-b-d. Forms: 'abd (servant/devotee), 'ibadah
-  (service/devotion), 'abid (one who serves), ma'bud (the one served).
-  Lane: encompasses the full range from ontological servitude to volitional
-  devotion. Frequency: approximately 275 occurrences across 17 derivative
-  forms [VERIFY FROM CORPUS CONCORDANCE BEFORE SECOND EDITION BUILD].
+- **Layer A:** [LEXICON : ATTESTED] Root '-b-d. Forms: 'abd
+  (servant/devotee), 'ibadah (service/devotion), 'abid (one who serves),
+  ma'bud (the one served). Lane: encompasses the full range from
+  ontological servitude to volitional devotion. Frequency: approximately
+  275 occurrences across 17 derivative forms [VERIFY FROM CORPUS
+  CONCORDANCE BEFORE SECOND EDITION BUILD].
 
-- **Layer B:** English "worship" narrows the semantic field to scheduled
-  ritual, losing the ontological dimension. "Slave" imports chattel-slavery
-  associations absent from the Arabic root. The '-b-d semantic field
-  intersects with r-b-b (the sustained developmental relationship between
-  Rabb and 'abd).
+- **Layer B:** [LEXICON + GRAMMAR : SUPPORTED] English "worship" narrows
+  the semantic field to scheduled ritual, losing the ontological dimension.
+  "Slave" imports chattel-slavery associations absent from the Arabic root.
+  The '-b-d semantic field intersects with r-b-b (the sustained
+  developmental relationship between Rabb and 'abd).
 
-- **Layer C:** [PROGRAM] For H-restoration purposes, '-b-d must be encoded
-  as an ontological state of devoted service, not a scheduled activity.
-  Training data must preserve the full derivative tree to maintain root-
-  system correlation. Anti-collapse instruction: never translate 'ibadah
-  as merely "worship" without preserving the service-devotion-ontological
-  scope.
+- **Layer C:** [BAYYINAH : PROPOSED] For structural encoding purposes,
+  '-b-d must be encoded as an ontological state of devoted service, not a
+  scheduled activity. Training data must preserve the full derivative tree
+  to maintain root-system correlation. Anti-collapse instruction: never
+  translate 'ibadah as merely "worship" without preserving the
+  service-devotion-ontological scope.
 
 
-## C-08: Ablation Study Protocol (New Appendix B) -- Major Round II Rewrite
+## C-08: Ablation Study Protocol (New Appendix B) -- Major Rounds II/III Rewrite
 
 **Location:** New appendix, to follow the existing Cross-Vendor LLM Audit
 Protocol (current page 51).
 
 **Rationale:** Multiple reviewers independently identified the same
-required experiment across both rounds. Round II council feedback
-identified eleven critical deficiencies in the Round I protocol. This
+required experiment across all three rounds. Round II council feedback
+identified eleven critical deficiencies in the Round I protocol. Round III
+identified seven additional deficiencies in the Round II protocol. This
 rewrite addresses all of them.
 
 **Round II deficiencies addressed:**
@@ -560,6 +807,24 @@ rewrite addresses all of them.
 9. Layer interactions must be tested, not just additivity
 10. Pre-register as Zenodo deposit (timestamped, hashed) BEFORE running
 11. Rename C4 and add Arabic non-Qur'anic corpus
+
+**Round III deficiencies addressed:**
+
+12. Factorial design incomplete -- only L2, L3, L5 tested alone; need all
+    seven single-layer conditions plus seven leave-one-out
+13. F-best selection bias -- choosing best single layer after measurement
+    inflates comparison; pre-register with permutation null
+14. Mu'allaqat too short for length-matched control -- use OpenITI corpus
+15. C0 was previously measured -- record prior measurement in
+    pre-registration
+16. Multiple comparisons -- name one primary contrast or pre-register
+    correction
+17. Root-recurrence intervals not computable on bare English without
+    injecting information -- series definition must specify one comparable
+    scalar construction for every condition
+18. Phase-randomized surrogate interpretation too strong -- revise
+19. Mushaf order vs. chronological order must be committed in
+    pre-registration
 
 **New appendix text:**
 
@@ -579,10 +844,22 @@ rewrite addresses all of them.
 > **This protocol must be deposited as a Zenodo artifact (timestamped,
 > content-hashed) BEFORE any condition is measured.** The deposit must
 > include: series definition, estimator selection, all condition
-> specifications, all control specifications, and the analysis code.
-> Deviations from the pre-registered protocol must be reported as such.
-> This is non-negotiable. Unregistered results are exploratory, not
-> confirmatory.
+> specifications, all control specifications, text ordering commitment
+> (see below), the primary contrast designation, any multiple-comparisons
+> correction, and the analysis code. Deviations from the pre-registered
+> protocol must be reported as such. This is non-negotiable. Unregistered
+> results are exploratory, not confirmatory.
+>
+> **Prior measurement disclosure (Round III addition):** Record in the
+> pre-registration that C0 (Arabic source) was previously measured using
+> R/S in the Cross-Text paper. This is not disqualifying but must be
+> disclosed as a prior look at the data.
+>
+> **Text ordering commitment (Round III addition):** H can change with
+> text ordering. The pre-registration must commit to one ordering
+> (Mushaf order or chronological revelation order) and state that
+> ordering explicitly. If both orderings are tested, pre-register both
+> as separate analyses and correct for the additional comparison.
 >
 > ### Prerequisites
 >
@@ -601,6 +878,19 @@ rewrite addresses all of them.
 >    four options and reporting all four results. Cherry-picking the series
 >    definition after seeing results invalidates the study.
 >
+>    **Series comparability constraint (Round III addition):** The chosen
+>    series definition must specify one comparable scalar construction for
+>    every condition. Root-recurrence intervals cannot be computed on bare
+>    English (C1) without mapping English tokens back to Arabic roots --
+>    which injects information unavailable to the bare translation. If
+>    root-recurrence is used, it applies only to conditions that include
+>    Arabic root annotations (C0, C6--C11, F-L2); conditions without root
+>    annotations require a different series definition (e.g.,
+>    token-embedding similarity). Where different series families are
+>    required, treat them as different experiments rather than pretending
+>    they estimate one identical quantity. The pre-registration must state
+>    which series definition applies to which conditions.
+>
 > 2. **Multiple estimators (Round II requirement):** The study must use at
 >    least two independent Hurst estimators:
 >    - **DFA** (detrended fluctuation analysis) -- primary
@@ -616,9 +906,16 @@ rewrite addresses all of them.
 >    - **Shuffled surrogates** -- see Controls section for proper
 >      construction
 >    - **Phase-randomized surrogates** -- preserve power spectrum while
->      destroying phase correlations. If the original series shows
->      significant H but phase-randomized surrogates show similar H, the
->      signal is spectral (trend/periodicity), not structural.
+>      destroying phase correlations. **Interpretation (Round III
+>      revision):** If the original series shows significant H but
+>      phase-randomized surrogates show similar H, this more narrowly
+>      says that the measured persistence can be explained by
+>      spectral/linear correlation structure and does not require the
+>      destroyed phase relationships. It does NOT prove the signal is
+>      "spectral, not structural" -- Hurst/DFA/wavelet estimates are
+>      often substantially determined by second-order scaling structure
+>      that phase randomization preserves. Report the comparison without
+>      overclaiming its diagnostic power.
 >
 > ### Conditions
 >
@@ -641,28 +938,81 @@ rewrite addresses all of them.
 > | C11       | English + L1--L7 (full seven-layer encoding)       |
 > | P1        | **Placebo-annotation control** -- same annotation density and format as C11, but with semantically irrelevant content (e.g., randomly assigned roots, shuffled anti-collapse markers, arbitrary structural tags) |
 >
-> ### Factorial Design (Round II Requirement)
+> ### Factorial Design (Rounds II/III Requirement)
 >
 > The additive condition ladder (C5 through C11) always produces a
 > telescoping sum where per-layer increments sum to the total by
-> construction. This does not test whether layers interact. The following
-> additional conditions are required:
+> construction. This does not test whether layers interact.
+>
+> **Round III correction:** The Round II factorial tested only L2, L3, and
+> L5 alone. All seven layers must be tested individually, and seven
+> leave-one-out conditions must be added. Leave-one-out tells most
+> directly what each layer contributes. The term "factorial design" is
+> used loosely here -- a full 2^7 factorial has 128 conditions. This is a
+> fractional-factorial / interaction-probe design. The subset is selected
+> to identify the interactions that matter most.
+>
+> **Single-layer conditions (all seven required):**
 >
 > | Condition | Description                                      |
 > |-----------|--------------------------------------------------|
+> | F-L1      | English + L1 alone (transliteration only, no other layers) |
 > | F-L2      | English + L2 alone (root-system graphs without transliteration) |
 > | F-L3      | English + L3 alone (anti-collapse markers without roots) |
+> | F-L4      | English + L4 alone (structural position without other metadata) |
 > | F-L5      | English + L5 alone (muhkam/mutashabih without structural metadata) |
-> | F-best    | English + whichever single layer produces the highest H |
+> | F-L6      | English + L6 alone (Furqan constructs without other layers) |
+> | F-L7      | English + L7 alone (tajwid signals without other layers) |
+>
+> **Leave-one-out conditions (all seven required):**
+>
+> | Condition | Description                                      |
+> |-----------|--------------------------------------------------|
+> | LOO-L1    | English + L2--L7 (full stack minus transliteration) |
+> | LOO-L2    | English + L1 + L3--L7 (full stack minus root graphs) |
+> | LOO-L3    | English + L1--L2 + L4--L7 (full stack minus anti-collapse) |
+> | LOO-L4    | English + L1--L3 + L5--L7 (full stack minus structural position) |
+> | LOO-L5    | English + L1--L4 + L6--L7 (full stack minus muhkam/mutashabih) |
+> | LOO-L6    | English + L1--L5 + L7 (full stack minus Furqan constructs) |
+> | LOO-L7    | English + L1--L6 (full stack minus tajwid) |
+>
+> **Interaction probes (pre-register at least these):**
+>
+> | Condition | Description                                      |
+> |-----------|--------------------------------------------------|
+> | F-L1×L2   | English + L1 + L2 (transliteration + root graphs) |
+> | F-L2×L3   | English + L2 + L3 (root graphs + anti-collapse) |
+> | F-L4×L5   | English + L4 + L5 (structural position + muhkam/mutashabih) |
+> | F-L1×L7   | English + L1 + L7 (transliteration + tajwid) |
+> | F-L2×L3×L5| English + L2 + L3 + L5 (roots + anti-collapse + muhkam/mutashabih) |
 > | F-rev     | English + L7 + L6 + L5 + L4 + L3 + L2 + L1 (reverse order) |
+>
+> **F-best with selection-bias correction (Round III revision):**
+>
+> F-best (English + whichever single layer produces the highest H)
+> introduces selection bias: choosing the best layer after measurement
+> and then testing the full stack against it inflates the result.
+> **Pre-register the comparison as follows:** compare C11 (full stack)
+> against the maximum of all seven single-layer results, using a
+> permutation null distribution for that maximum (i.e., the null is
+> constructed by permuting condition labels and taking the maximum of the
+> permuted single-layer results, repeated at least 1,000 times).
 >
 > **Key questions the factorial design answers:**
 > - Does L2 without L1 produce any H-increase? (L2 references roots by
 >   transliterated form; if transliteration is absent, is L2 still
 >   informative?)
+> - Does L7 (tajwid) alone produce any H-increase? (Diagnostic for
+>   whether acoustic/recitational structure carries correlation
+>   independently.)
+> - Which layer, when removed, causes the largest H-drop? (Leave-one-out
+>   identifies the highest-leverage layers.)
 > - Does the full stack (C11) significantly exceed the best single layer
->   (F-best)? If not, the "seven layers" claim is misleading.
+>   (F-best), after correcting for selection bias? If not, the
+>   "seven layers" claim is misleading.
 > - Does layer order matter? (C11 vs. F-rev)
+> - Do theoretically motivated pairs (L1×L2, L2×L3, L4×L5, L1×L7)
+>   interact supra-additively?
 > - Is the H-increase from P1 (placebo) significantly different from C11?
 >   If not, the measured increase reflects annotation density, not
 >   structural content.
@@ -689,12 +1039,18 @@ rewrite addresses all of them.
 >   text in English. Establishes whether high H is specific to the Qur'an
 >   or a general property of extended religious texts.
 >
-> - **Arabic cross-corpus control (C4a -- Round II addition):** At least
->   one matched Classical/Standard Arabic non-Qur'anic corpus (pre-Islamic
->   poetry or classical prose). Establishes whether high H in C0 is
->   specific to the Qur'an or a general property of Classical Arabic.
->   Without this control, any H-difference between C0 and C1 could reflect
->   Arabic vs. English rather than Qur'an vs. translation.
+> - **Arabic cross-corpus control (C4a -- Rounds II/III):** At least one
+>   length-matched Classical/Standard Arabic non-Qur'anic corpus.
+>   **Round III revision:** The Mu'allaqat (pre-Islamic poetry) is too
+>   short to serve as a length-matched control for the Qur'an. Use a
+>   larger body of Classical Arabic prose from the OpenITI corpus (e.g.,
+>   al-Jahiz, al-Tabari, or comparable extended classical texts) as the
+>   primary Arabic control. The Mu'allaqat may be retained as a secondary
+>   check on poetic vs. prose structure but cannot carry the primary
+>   control role. Establishes whether high H in C0 is specific to the
+>   Qur'an or a general property of Classical Arabic. Without this
+>   control, any H-difference between C0 and C1 could reflect Arabic vs.
+>   English rather than Qur'an vs. translation.
 >
 > - **Placebo-annotation control (P1 -- Round II addition):** Same amount
 >   of structured annotation as C11, but with semantically irrelevant
@@ -713,6 +1069,13 @@ rewrite addresses all of them.
 > - Test **interactions** via factorial design: does the full stack
 >   significantly exceed the best single layer? Does layer order matter?
 > - Test against placebo: is C11 significantly greater than P1?
+> - **Primary contrast (Round III addition):** With conditions x 4 series
+>   x 2--3 estimators, the total number of comparisons is large. The
+>   pre-registration must name ONE primary contrast (recommended: C11 vs.
+>   P1, full stack vs. placebo) that carries the study's main conclusion.
+>   All other comparisons are exploratory and must be reported as such, or
+>   a pre-registered multiple-comparisons correction (e.g., Holm-Bonferroni
+>   or FDR) must be applied.
 > - If H > 1 is observed for any condition, report this as requiring
 >   estimator-specific interpretation (see C-10), not as
 >   "super-persistence."
@@ -820,8 +1183,9 @@ lacks negative controls and blinded scoring.
 
 # 5. Core Contributions Preserved; Evidentiary Presentation Revised
 
-The council unanimously affirmed the following as genuine contributions
-requiring no correction:
+No council member disputed in any of the three review rounds the following
+as genuine contributions requiring no correction (verify against labeled,
+hashed archive before freeze):
 
 1. **Root-system correlation graphs** (all 28 entries) -- "the highest-
    leverage piece" of the architecture. The semantic field analysis is
@@ -868,9 +1232,10 @@ requiring no correction:
 | 29--45  | C-05          | Add provenance tags to each marker |
 | 46      | C-06          | Add STRUCTURE_CLAIM tags |
 | 48--49  | C-03          | Reframe Furqan construct H-functions |
-| 51      | C-09          | Add audit requirements 6--9 |
+| 51      | C-09          | Add audit requirements 6--10 |
 | new     | C-08          | Add Appendix B (ablation protocol) |
 | new     | C-11          | Add semantic fidelity endpoint to Appendix B |
+| new     | C-12          | Add Appendix D (encoding/transliteration spec) |
 
 ## 6.2 Corpus (1,577-page document)
 
@@ -898,14 +1263,15 @@ labels). Additionally:
 - Corpus: Al-Furqan: Structurally Annotated Qur'anic Corpus **Second
   Edition**
 - Both covers should note: "Corrections integrated from multi-model
-  council review (Rounds I and II), October 2026"
+  council review (Rounds I, II and III), October 2026"
 
 
 # 7. The Falsifiable Question
 
-The council converged across two rounds on a single question that, if
+The council converged across three rounds on a single question that, if
 answered, would validate or refute the architecture's central claim.
-Round II refined this into a two-level validation framework:
+Round II refined this into a two-level validation framework, and Round III
+strengthened the causal controls:
 
 > **Primary endpoint (C-11):** Can a model trained on relational
 > Qur'anic structure make fewer translation-induced semantic collapses
@@ -941,13 +1307,16 @@ survive both.
 
 # 8. Council Document Provenance
 
-**Round II addition:** To ensure auditability, the following practices
+**Rounds II/III.** To ensure auditability, the following practices
 apply to all council review documentation:
 
-1. **Raw transcript hashing:** All raw council transcripts (Round I and
-   Round II) should be content-hashed (SHA-256) and the hashes published
-   alongside the errata, so that post-hoc editing of council feedback
-   can be detected.
+**PROVENANCE POLICY: defined (Round II).** The following requirements
+have been specified:
+
+1. **Raw transcript hashing:** All raw council transcripts (Rounds I,
+   II and III) should be content-hashed (SHA-256) and the hashes
+   published alongside the errata, so that post-hoc editing of council
+   feedback can be detected.
 
 2. **Section classification:** Each section of council documentation
    should be marked:
@@ -964,5 +1333,116 @@ apply to all council review documentation:
    table now includes a "Raised By" column identifying which council
    members flagged the issue, to make consensus auditable rather than
    asserted.
+
+5. **Archive labeling (Round III addition):** Each section of the raw
+   council archive must be labeled with its originating model and round
+   number. Without this, the "Raised By" column cannot be verified
+   against the source transcripts.
+
+6. **Internal drafting notes (Round III addition):** Council compilation
+   documents may contain visible internal notes (e.g., "Length check:
+   around 900--1200 words," "Let me tighten it"). These must be either
+   removed or classified as [DRAFT ARTIFACT] before the archive is
+   hashed. Section classification discipline applies to the archive
+   itself, not only to the errata.
+
+**PROVENANCE ARTIFACT: not yet deposited (Round III status).** The
+policy above is defined but not yet enacted. Until the actual hashes
+and frozen council archive exist as deposited artifacts, this gate
+remains open. The distinction between defined policy and deposited
+artifact is itself a provenance requirement.
+
+
+# 9. Validation Sampling Plan (Round III -- New)
+
+**Problem:** Applying provenance tags ([PROVENANCE : STATUS]),
+STRUCTURE_CLAIM tags, and A/B/C analytical layer separation across
+28 root entries, 35 anti-collapse markers, and the full 1,577-page
+corpus is a massive annotation pass -- far larger than the Section 6
+implementation tables imply. C-05 discipline claimed at scale but
+verified nowhere would be an overclaim of its own.
+
+**Validation sampling protocol:**
+
+1. **Independent audit of applied tags:** After the corpus-wide tag
+   application, an independent auditor (not the person who applied the
+   tags) should audit a random sample of at least 10% of applied tags
+   against the primary sources cited.
+
+2. **Stratified sampling:** The audit sample should be stratified across:
+   - All seven layers
+   - All five PROVENANCE categories
+   - All five STATUS levels
+   - A representative spread of surahs (early Meccan, late Meccan,
+     Medinan)
+
+3. **Inter-rater agreement for tag assignment:** At least two independent
+   raters should assign provenance tags to a calibration subset (minimum
+   5% of entries) and report Cohen's kappa. If kappa falls below 0.6,
+   the tagging rubric needs refinement before the full pass.
+
+4. **Discrepancy resolution:** Where the audit finds tag assignments that
+   disagree with the auditor's assessment, the discrepancy should be
+   recorded, the tag should be reviewed, and the resolution should cite
+   the specific primary source that resolves the disagreement.
+
+
+# 10. Estimator-Selection Caveat (Round III -- New)
+
+**Appendix B note:** H (Hurst exponent) may not be the optimal measure
+for the structural properties the architecture aims to preserve.
+Alternative measures -- compression ratio, mutual information, spectral
+density, transfer entropy -- may capture different aspects of long-range
+dependence or structural encoding. This is not a weakness of the
+architecture but of the measurement approach.
+
+If the ablation study produces a negative H result (no significant
+difference between C11 and controls), this should be interpreted as one
+of three possibilities:
+
+1. The architecture does not increase the measured persistence (the
+   null hypothesis is true for H)
+2. H is not sensitive to the kind of structural information the
+   architecture encodes (measure misspecification)
+3. The series definition is not capturing the relevant signal
+
+Before concluding that the architecture has failed, the study should
+report at least one alternative measure alongside H. This inoculates
+the protocol against a negative H result being read as a failure of
+the architecture when it may be a failure of the measure.
+
+**STATUS: [BAYYINAH : PROPOSED].**
+
+
+# 11. Fable Review Disposition (Round III -- Revised)
+
+The Fable review is classified as **OUTLIER/ADVERSARIAL REVIEW** and
+excluded from consensus calculation under the following stated inclusion
+criterion: scholarly register consistency across council members.
+
+**Grounds for exclusion:**
+
+1. The review exhibited pattern-collapsed adversarial posture
+   inconsistent with the scholarly register of the other reviewers.
+2. The review is excluded from consensus calculation, not from the
+   evidentiary record.
+
+**Round III refinement:** "Not endorsed by any other council member" is
+an insufficient exclusion ground -- the other reviewers never saw the
+Fable review, so their silence is not a rejection. The exclusion rests
+on the stated inclusion criterion (scholarly register consistency), not
+on absence of endorsement.
+
+**Appendix C recommendation:** The Second Edition should include an
+appendix with a per-claim decision table for Fable's review:
+
+> | Fable Claim | Disposition | One-Line Reason |
+> |-------------|-------------|-----------------|
+> | [Each substantive claim] | ACCEPTED / REJECTED / ALREADY ADDRESSED | [Reason] |
+
+This preserves append-only provenance (A1) while documenting the
+exclusion process transparently. The raw Fable transcript remains in
+the council archive.
+
 
 Bismillah ir-Rahman ir-Rahim, Al-Haqq, Al-Mubin.
