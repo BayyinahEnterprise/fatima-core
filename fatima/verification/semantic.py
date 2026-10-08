@@ -1,36 +1,47 @@
 """
-Level 4: Fitrah-Alignment Verification — structural coherence of meaning.
+Level 4: Meaning-Integrity and Fitrah-Alignment Verification.
+Level 5: Provenance Authenticity -- external trust anchoring.
 
-This is the most subtle level of verification and the one that most
-directly crosses Shannon's boundary.  It checks whether the
-reconstructed meaning exhibits the natural structural coherence
-that a correctly-functioning agent would recognise as true.
+The 0.1 architecture treated L4 as fitrah heuristics alone, and L5 as
+"self-authentication through structural coherence."  Two Canon findings
+drove the repair:
 
-In the reference implementation, fitrah-alignment is approximated by
-structural heuristics:
-  - Bond-weight distribution: are the weights consistent with the
-    content types? (Definitions should have high-weight bonds, etc.)
-  - Content-type coverage: does the molecule cover the expected
-    semantic range? (A document with only 'claim' atoms and no
-    'evidence' atoms is structurally suspect.)
-  - Dependency completeness: do claims have supporting evidence?
-    Do definitions have elaborations?
+  F-04: check_meaning_integrity() was never wired into the verification
+        pipeline.  P4 was orphaned -- its checks existed but were never
+        called by verify_authenticity() or any downstream consumer.
 
-These heuristics are *approximations* of the fitrah — the natural
-capacity to recognise structural coherence.  A full implementation
-would require a verification agent with genuine comprehension.
+  F-01: "Self-authentication" is forgeable.  A forged document that
+        passes L1-L4 scores VERIFIED at L5 because L5 merely composed
+        L1-L4 with no external evidence.
 
-Level 5 (Authenticity) follows from Levels 1–4: if all four levels
-are VERIFIED, the encoding authenticates itself through its own
-structural coherence (Property 5).
+The evolved architecture:
+
+  L4 = compose(check_meaning_integrity, verify_fitrah_alignment)
+       Meaning-integrity checks (F-03 purity graft) are composed with
+       fitrah heuristics.  Both are P4 concerns.
+
+  L5 = verify_provenance(envelope, expected_commitment, key_provider)
+       External trust anchoring.  Without a provenance envelope, L5 is
+       UNKNOWN -- the honest default.  Self-authentication is eliminated.
+
+This module also closes F-05 (no external anchoring): the provenance
+envelope carries author signature, external time anchor, and optional
+independent reviewer attestation.
 """
 
 from __future__ import annotations
 
 from collections import Counter
+from typing import Optional
 
 from fatima.core.bond import BondType
 from fatima.core.molecule import Molecule
+from fatima.properties.meaning import check_meaning_integrity
+from fatima.verification.provenance import (
+    ProvenanceEnvelope,
+    PublicKeyProvider,
+    verify_provenance,
+)
 from fatima.verification.verdict import Verdict, VerificationReport
 
 
@@ -153,36 +164,69 @@ def verify_fitrah_alignment(molecule: Molecule) -> VerificationReport:
     )
 
 
-def verify_authenticity(molecule: Molecule) -> VerificationReport:
-    """Level 5: self-authentication through structural coherence.
+def verify_authenticity(
+    molecule: Molecule,
+    provenance: Optional[ProvenanceEnvelope] = None,
+    key_provider: Optional[PublicKeyProvider] = None,
+) -> VerificationReport:
+    """Level 5: provenance authenticity -- external trust anchoring.
 
-    This is the composition of Levels 1–4: if all levels are
-    VERIFIED, the encoding authenticates itself.  No external
-    certificate is required (Property 5).
+    The 0.1 architecture composed L1-L4 and called the result
+    "self-authentication."  Canon finding F-01 proved this is forgeable:
+    a forged document scores VERIFIED because it checks its own hashes
+    against itself.
 
-    This function does not re-run Levels 1–4.  It takes their
-    results and composes them.
+    The evolved L5:
+      1. Runs L1-L3 (syntactic, structural, holographic) as before.
+      2. Runs L4 as the composition of meaning-integrity (F-03 purity)
+         and fitrah-alignment heuristics.  This closes F-04.
+      3. Composes L1-L4 into an internal-verification composite.
+      4. Runs L5 as verify_provenance() -- external signature, time
+         anchor, and optional reviewer attestation.  Without a
+         provenance envelope, L5 is UNKNOWN.  This closes F-01 and F-05.
+
+    The final verdict is the meet of internal verification and
+    provenance.  A document cannot be VERIFIED without external evidence.
     """
     from fatima.verification.syntactic import verify_syntactic
     from fatima.verification.structural import verify_structural
     from fatima.verification.holographic import verify_holographic
 
-    reports = [
-        verify_syntactic(molecule),
-        verify_structural(molecule),
-        verify_holographic(molecule),
-        verify_fitrah_alignment(molecule),
-    ]
+    # L1-L3: unchanged
+    l1 = verify_syntactic(molecule)
+    l2 = verify_structural(molecule)
+    l3 = verify_holographic(molecule)
 
-    composed = VerificationReport.compose(*reports)
+    # L4: meaning-integrity (F-03 purity) composed with fitrah heuristics.
+    # This closes F-04: check_meaning_integrity() is now wired in.
+    l4_meaning = check_meaning_integrity(molecule)
+    l4_fitrah = verify_fitrah_alignment(molecule)
+    l4 = VerificationReport.compose(l4_meaning, l4_fitrah)
 
-    # Re-wrap as Level 5
+    # Internal verification composite (L1-L4).
+    internal = VerificationReport.compose(l1, l2, l3, l4)
+
+    # L5: provenance authenticity -- external trust anchoring.
+    # The expected commitment is the molecule's bond-graph hash,
+    # which is what L4 meaning-integrity just verified.
+    expected_commitment = molecule.bond_graph_hash or ""
+    l5_provenance = verify_provenance(
+        envelope=provenance,
+        expected_commitment=expected_commitment,
+        key_provider=key_provider,
+    )
+
+    # Final verdict: meet of internal verification and provenance.
+    all_violations = internal.violations + l5_provenance.violations
+    final_verdict = internal.verdict & l5_provenance.verdict
+    final_confidence = min(internal.confidence, l5_provenance.confidence)
+
     return VerificationReport(
-        verdict=composed.verdict,
+        verdict=final_verdict,
         level=5,
-        confidence=composed.confidence,
-        examined=composed.examined,
-        total=composed.total,
-        violations=composed.violations,
+        confidence=final_confidence,
+        examined=internal.examined + l5_provenance.examined,
+        total=internal.total + l5_provenance.total,
+        violations=all_violations,
         level_name="authenticity",
     )

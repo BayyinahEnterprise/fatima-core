@@ -95,16 +95,13 @@ class Atom:
         """SHA-256 of the content — Level 1 syntactic integrity."""
         return hashlib.sha256(self.content.encode("utf-8")).hexdigest()
 
-    def compute_semantic_hash(self) -> str:
-        """SHA-256 of content + bond IDs + shard — Level 2+ integrity.
+    def semantic_hash_value(self) -> str:
+        """Return the semantic commitment without mutating this atom.
 
-        This captures the atom's position in the meaning-structure:
-        the same content with different bonds has a different semantic
-        hash, because its *meaning in context* is different.
-
-        This is the mechanism by which Property 4 (Meaning-Integrity)
-        operates: altering the bonds while preserving the content
-        changes the semantic hash, making the distortion detectable.
+        This is the verification-safe form.  Verification MUST call this
+        method and compare the returned value with the stored commitment;
+        it must never rewrite ``semantic_hash`` while deciding whether the
+        stored commitment is still valid.
         """
         material = (
             self.content
@@ -113,7 +110,16 @@ class Atom:
             + "|"
             + self.holographic_shard.hex()
         )
-        h = hashlib.sha256(material.encode("utf-8")).hexdigest()
+        return hashlib.sha256(material.encode("utf-8")).hexdigest()
+
+    def compute_semantic_hash(self) -> str:
+        """Finalise and store the semantic commitment.
+
+        This method is intentionally mutating and is therefore a BUILD-TIME
+        operation only.  Verification uses :meth:`semantic_hash_value`.
+        Separating commit from compare closes Canon finding F-03.
+        """
+        h = self.semantic_hash_value()
         self.semantic_hash = h
         return h
 

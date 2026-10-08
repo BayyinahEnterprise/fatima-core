@@ -22,94 +22,99 @@ from fatima.verification.verdict import Verdict, VerificationReport
 
 
 def check_meaning_integrity(molecule: Molecule) -> VerificationReport:
-    """Check Property 4: Meaning-Integrity.
+    """Check Property 4 without mutating the object being verified.
 
-    Verifies that the semantic hashes (content + bond structure)
-    are consistent with the current state of the molecule.
+    Established commitments are treated as expected values.  The verifier
+    recomputes fresh values through pure functions and compares them.
 
-    If semantic hashes have been computed (after finalisation),
-    any change to the bond graph without updating the hashes
-    indicates meaning distortion.
+    Detected mismatch => VIOLATED.
+    Missing commitment/evidence => UNKNOWN.
+    Complete agreement => VERIFIED.
 
-    Also checks that the bond graph hash is current — a stale
-    graph hash means the meaning-structure has changed since
-    the last integrity checkpoint.
+    This separation closes Canon finding F-03: verification can no longer
+    erase the evidence of tampering by recomputing *into* the stored field.
     """
     violations: list[str] = []
+    unknowns: list[str] = []
     total_checks = 0
 
     if molecule.atom_count == 0:
         return VerificationReport(
             verdict=Verdict.UNKNOWN,
-            level=2,
+            level=4,
             confidence=0.0,
             examined=0,
             total=0,
             level_name="meaning_integrity",
         )
 
-    # Check 1: Bond graph hash currency
+    # Check 1: bond-graph commitment, observationally pure.
     total_checks += 1
     if not molecule.bond_graph_hash:
-        violations.append(
-            "Bond graph hash not computed — meaning-structure "
-            "has not been checkpointed"
+        unknowns.append(
+            "Bond graph hash absent -- meaning-structure has not been committed"
         )
     else:
-        current_hash = molecule.compute_bond_graph_hash()
-        # Note: compute_bond_graph_hash updates the stored hash,
-        # so if they differ, the structure changed since checkpoint
-        # We need to compare with a fresh computation
-        pass  # The hash is always recomputed; staleness check below
+        current_hash = molecule.bond_graph_hash_value()
+        if current_hash != molecule.bond_graph_hash:
+            violations.append(
+                "Bond graph hash mismatch -- meaning-structure changed "
+                "since finalisation"
+            )
 
-    # Check 2: Semantic hash consistency for each atom
-    total_checks += molecule.atom_count
-    atoms_with_semantic_hash = 0
+    # Check 2: per-atom semantic commitments, observationally pure.
+    atoms_with_commitments = 0
     for atom in molecule.atoms.values():
-        if atom.semantic_hash:
-            atoms_with_semantic_hash += 1
-            expected = atom.compute_semantic_hash()
-            if atom.semantic_hash != expected:
-                violations.append(
-                    f"Atom '{atom.atom_id}' semantic hash mismatch — "
-                    f"meaning-structure has changed since finalisation"
-                )
+        total_checks += 1
+        if not atom.semantic_hash:
+            unknowns.append(
+                f"Atom '{atom.atom_id}' has no semantic commitment"
+            )
+            continue
+        atoms_with_commitments += 1
+        expected = atom.semantic_hash_value()
+        if atom.semantic_hash != expected:
+            violations.append(
+                f"Atom '{atom.atom_id}' semantic hash mismatch -- "
+                "content/bonds/shard changed since finalisation"
+            )
 
-    if atoms_with_semantic_hash == 0 and molecule.atom_count > 0:
-        violations.append(
-            "No atoms have semantic hashes — call "
-            "molecule.compute_all_semantic_hashes() after finalisation"
+    if atoms_with_commitments == 0:
+        unknowns.append(
+            "No atoms have semantic commitments -- finalisation evidence absent"
         )
 
-    # Check 3: Bond rationale coverage — bonds without rationale
-    # are opaque to review (NC-P1: Full-Disclosure Consistency)
+    # Check 3: rationale coverage.
     total_checks += 1
     bonds_without_rationale = [
         b for b in molecule.bonds.values() if not b.rationale
     ]
     if bonds_without_rationale:
-        violations.append(
+        unknowns.append(
             f"{len(bonds_without_rationale)} bonds lack rationale "
-            f"(cannot verify meaning-relationship under full disclosure)"
+            "(meaning-relationship cannot be independently reviewed)"
         )
 
-    # Verdict
-    examined = total_checks
     if violations:
-        verdict = Verdict.UNKNOWN  # meaning-integrity cannot be confirmed
+        verdict = Verdict.VIOLATED
+    elif unknowns:
+        verdict = Verdict.UNKNOWN
     else:
         verdict = Verdict.VERIFIED
 
-    confidence = 1.0 - (len(violations) / max(total_checks, 1))
-    confidence = max(0.0, confidence)
+    notes = tuple(violations + unknowns)
+    confidence = (
+        1.0 if verdict == Verdict.VERIFIED
+        else max(0.0, 1.0 - (len(notes) / max(total_checks, 1)))
+    )
 
     return VerificationReport(
         verdict=verdict,
-        level=2,
+        level=4,
         confidence=confidence,
-        examined=examined,
+        examined=total_checks,
         total=total_checks,
-        violations=tuple(violations),
+        violations=notes,
         level_name="meaning_integrity",
     )
 

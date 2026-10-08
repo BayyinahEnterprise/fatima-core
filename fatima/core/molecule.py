@@ -255,24 +255,27 @@ class Molecule:
 
     # --- Integrity ---
 
-    def compute_bond_graph_hash(self) -> str:
-        """SHA-256 of the serialised bond graph.
+    def bond_graph_hash_value(self) -> str:
+        """Return the current bond-graph commitment without mutation.
 
-        This is the structural fingerprint of the document's meaning.
-        Two documents with the same bond graph hash have the same
-        meaning-structure, regardless of the bit-level content of
-        their atoms.
+        Verification-safe: this function observes the graph and returns its
+        deterministic SHA-256 commitment.  It does not rewrite the stored
+        ``bond_graph_hash``.
         """
-        # Deterministic serialisation: sorted bond IDs, each bond
-        # represented as source:target:type:weight
         bond_strings = sorted(
             f"{b.source_id}:{b.target_id}:{b.bond_type.value}:{b.weight}"
             for b in self.bonds.values()
         )
         material = "\n".join(bond_strings)
-        self.bond_graph_hash = hashlib.sha256(
-            material.encode("utf-8")
-        ).hexdigest()
+        return hashlib.sha256(material.encode("utf-8")).hexdigest()
+
+    def compute_bond_graph_hash(self) -> str:
+        """Finalise and store the current bond-graph commitment.
+
+        BUILD-TIME operation.  Verification must call
+        :meth:`bond_graph_hash_value` and compare, never rewrite.
+        """
+        self.bond_graph_hash = self.bond_graph_hash_value()
         return self.bond_graph_hash
 
     def compute_all_semantic_hashes(self) -> None:
