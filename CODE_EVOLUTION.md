@@ -297,10 +297,88 @@ children.push(new Paragraph({
     font: HEADING_FONT, size: 36, bold: true
   })],
 }));
-// [Full document content building continues through abstract,
-//  methodology, panel composition, verdict architecture,
-//  AI contribution statement, and references]
+children.push(new Paragraph({
+  alignment: AlignmentType.CENTER,
+  spacing: { after: 600 },
+  children: [new TextRun({
+    text: "Structural Honesty Discipline for AI-Assisted Software Engineering",
+    font: HEADING_FONT, size: 26, italics: true
+  })],
+}));
+children.push(center("Bilal Syed Arfeen", { size: 24, bold: true, after: 80 }));
+children.push(center("BayyinahEnterprise", { size: 22, italics: true, after: 80 }));
+children.push(center("Sole Author and Auditor", { size: 22, italics: true, after: 400 }));
+children.push(center("with audit-loop tooling assistance from",
+// [FILE CREATION TRUNCATED HERE — the create_file tool output was
+//  cut off mid-stream at this exact line. The remaining title page
+//  lines (Claude attribution and date) and the full document body
+//  were never emitted to the conversation. The user then uploaded
+//  the existing DOCX in turn 2 and the approach pivoted to XML
+//  style surgery (see below).]
 ```
+
+**PIVOT NOTE:** This script was started from scratch but never completed.
+The user uploaded the existing `bayyinah_audit_framework_v3.docx` and
+the task changed from "build from scratch" to "restyle to match Munafiq
+Protocol formatting." The actual executed code was **XML-level style
+surgery** on the unpacked DOCX:
+
+```bash
+# Unpack the uploaded DOCX to raw OOXML
+python /mnt/skills/public/docx/scripts/office/unpack.py \
+  bayyinah_audit_framework_v3.docx unpacked/
+
+# Swap Arial for Times New Roman everywhere (styles + body + headers)
+sed -i 's/w:ascii="Arial"/w:ascii="Times New Roman"/g; \
+        s/w:hAnsi="Arial"/w:hAnsi="Times New Roman"/g; \
+        s/w:eastAsia="Arial"/w:eastAsia="Times New Roman"/g; \
+        s/w:cs="Arial"/w:cs="Times New Roman"/g' \
+  unpacked/word/styles.xml unpacked/word/document.xml \
+  unpacked/word/header*.xml unpacked/word/footer*.xml \
+  unpacked/word/numbering.xml
+
+# Change heading blue colors to black/auto in styles
+sed -i 's/<w:color w:val="1F3A5F"\/>/<w:color w:val="auto"\/>/g; \
+        s/<w:color w:val="1F4D78"\/>/<w:color w:val="auto"\/>/g; \
+        s/<w:color w:val="2E74B5"\/>/<w:color w:val="auto"\/>/g' \
+  unpacked/word/styles.xml
+
+# Replace Liberation Sans / Arial Unicode MS
+sed -i 's/w:ascii="Liberation Sans"/w:ascii="Times New Roman"/g; \
+        s/w:hAnsi="Liberation Sans"/w:hAnsi="Times New Roman"/g; \
+        s/w:eastAsia="Arial Unicode MS"/w:eastAsia="Times New Roman"/g; \
+        s/w:cs="Arial Unicode MS"/w:cs="Times New Roman"/g' \
+  unpacked/word/styles.xml unpacked/word/document.xml \
+  unpacked/word/header*.xml unpacked/word/footer*.xml
+
+# Convert all start-aligned paragraphs to justified
+sed -i 's|<w:jc w:val="start"/>|<w:jc w:val="both"/>|g' \
+  unpacked/word/styles.xml unpacked/word/document.xml
+
+# Update theme fonts
+sed -i 's/typeface="Arial"/typeface="Times New Roman"/g; \
+        s/typeface="DejaVu Sans"/typeface="Times New Roman"/g' \
+  unpacked/word/theme/theme1.xml
+
+# Repack the modified DOCX
+python /mnt/skills/public/docx/scripts/office/pack.py unpacked/ \
+  Bayyinah_Audit_Framework_v3_Munafiq_style.docx \
+  --original bayyinah_audit_framework_v3.docx --validate false
+
+# Convert to PDF for visual verification
+python /mnt/skills/public/docx/scripts/office/soffice.py \
+  --headless --convert-to pdf \
+  Bayyinah_Audit_Framework_v3_Munafiq_style.docx --outdir /tmp/preview/
+```
+
+*Notable: the pivot from "build from scratch in Node.js" to "OOXML XML
+surgery with sed" is an honest record of how code evolves in real
+sessions. The from-scratch script established the helper function
+library pattern (p, pRuns, r, center, h1, h2, fig, ref) that would
+reappear in every subsequent DOCX generation. The executed path --
+unpacking a .docx to raw XML and applying targeted sed transformations --
+is the first instance of the "preserve structure, transform style"
+pattern that would become standard for document reformatting tasks.*
 
 ## 2.2 Cryptocurrency OHLCV Data Processing
 
@@ -2183,61 +2261,350 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import FancyBboxPatch
 from matplotlib.gridspec import GridSpec
 
-# 65-event EVENTS timeline array
-# (year, category, description, phase)
-# Categories: ALKALOID, FUEL, WEAPON, SURVEILLANCE, ARCHITECTURE
-# Phases: INTRODUCTION, PROLIFERATION, REGULATION
+import warnings
+warnings.filterwarnings('ignore')
 
-def compute_hurst(time_series, max_lag):
-    """R/S rescaled-range analysis for Hurst exponent estimation.
-    Returns H, log_lags, log_rs for diagnostic plotting."""
-    # ... R/S computation with lag range 2..max_lag
+# ==============================================================
+# 1. HISTORICAL EVENT TIMELINE
+# ==============================================================
+# Each event: (year, category, description, phase)
+# Categories: ALKALOID, FUEL, WEAPON, SURVEILLANCE, ARCHITECTURE
+# Phases: INTRODUCTION, PROLIFERATION, REGULATION (the I-P-R cycle)
+
+EVENTS = [
+    # --- PRE-CLASSICAL: Foundation Layer ---
+    (-3500, "ARCHITECTURE", "Sumerian irrigation systems / ziggurats", "INTRODUCTION"),
+    (-3200, "ALKALOID", "Sumerian opium poppy cultivation ('hul gil')", "INTRODUCTION"),
+    (-3000, "ALKALOID", "Mesopotamian beer/fermentation industrialized", "PROLIFERATION"),
+    (-2700, "WEAPON", "Bronze weaponry standardized (Akkadian empire)", "PROLIFERATION"),
+    (-2500, "ARCHITECTURE", "Egyptian pyramid construction peak", "INTRODUCTION"),
+    (-2000, "ALKALOID", "Cannabis ritualized (Central Asian steppes)", "INTRODUCTION"),
+    (-1800, "ARCHITECTURE", "Mayan proto-cities / astronomical alignment", "INTRODUCTION"),
+    (-1500, "ALKALOID", "Mesoamerican psilocybin/peyote ceremonial use", "INTRODUCTION"),
+    (-1200, "WEAPON", "Iron weapons (Hittite collapse / Sea Peoples)", "INTRODUCTION"),
+    (-1000, "FUEL", "Charcoal-based smelting at industrial scale", "PROLIFERATION"),
+
+    # --- CLASSICAL: First Globalization Layer ---
+    (-800,  "ALKALOID", "Soma/Haoma ritualization (Vedic/Zoroastrian)", "PROLIFERATION"),
+    (-500,  "WEAPON", "Greek fire precursors / siege warfare", "PROLIFERATION"),
+    (-400,  "ARCHITECTURE", "Persian Royal Road / postal surveillance", "INTRODUCTION"),
+    (-200,  "WEAPON", "Roman military-industrial standardization", "PROLIFERATION"),
+    (-100,  "FUEL", "Roman lead-pipe aqueduct neurotoxicity", "PROLIFERATION"),
+    (100,   "ALKALOID", "Silk Road opium/spice trade formalized", "PROLIFERATION"),
+    (200,   "SURVEILLANCE", "Roman census / provincial intelligence", "PROLIFERATION"),
+
+    # --- MEDIEVAL: Second Layer ---
+    (650,   "ALKALOID", "Coffee discovery (Ethiopian/Yemeni trade)", "INTRODUCTION"),
+    (700,   "WEAPON", "Greek fire deployed (Byzantine Empire)", "PROLIFERATION"),
+    (850,   "WEAPON", "Gunpowder invented (Tang Dynasty)", "INTRODUCTION"),
+    (1000,  "ALKALOID", "Hashish trade routes (Nizari networks)", "PROLIFERATION"),
+    (1200,  "WEAPON", "Mongol siege weapons / biowar (plague corpses)", "PROLIFERATION"),
+    (1250,  "FUEL", "Coal mining begins (England)", "INTRODUCTION"),
+    (1300,  "ARCHITECTURE", "Mayan collapse / abandoned temple cities", "REGULATION"),
+
+    # --- COLONIAL: Extraction Layer ---
+    (1492,  "ALKALOID", "Tobacco introduced to Europe (Columbus)", "INTRODUCTION"),
+    (1500,  "WEAPON", "Firearms proliferate globally (Portuguese trade)", "PROLIFERATION"),
+    (1600,  "ALKALOID", "East India Company opium monopoly begins", "PROLIFERATION"),
+    (1620,  "ALKALOID", "Tobacco plantation economy (Virginia)", "PROLIFERATION"),
+    (1700,  "FUEL", "Coal-powered steam engines (Newcomen)", "INTRODUCTION"),
+    (1730,  "ALKALOID", "Rum triangle trade (slavery-molasses-rum)", "PROLIFERATION"),
+    (1760,  "FUEL", "Industrial Revolution begins (coal)", "PROLIFERATION"),
+
+    # --- INDUSTRIAL: Acceleration Layer ---
+    (1839,  "ALKALOID", "First Opium War (British forced trade)", "PROLIFERATION"),
+    (1856,  "ALKALOID", "Second Opium War", "PROLIFERATION"),
+    (1859,  "FUEL", "First oil well (Drake, Pennsylvania)", "INTRODUCTION"),
+    (1862,  "WEAPON", "Gatling gun (industrial killing)", "INTRODUCTION"),
+    (1884,  "ALKALOID", "Cocaine isolated / commercialized (Merck)", "INTRODUCTION"),
+    (1895,  "ALKALOID", "Heroin synthesized (Bayer)", "INTRODUCTION"),
+    (1903,  "FUEL", "Ford Model A / petroleum dependency", "PROLIFERATION"),
+    (1906,  "ALKALOID", "Pure Food and Drug Act (first regulation)", "REGULATION"),
+    (1914,  "WEAPON", "WWI chemical weapons (mustard gas)", "PROLIFERATION"),
+    (1920,  "ALKALOID", "Prohibition (alcohol regulation)", "REGULATION"),
+    (1933,  "ALKALOID", "Prohibition repealed", "PROLIFERATION"),
+    (1937,  "ALKALOID", "Marijuana Tax Act", "REGULATION"),
+    (1938,  "ALKALOID", "LSD synthesized (Hofmann)", "INTRODUCTION"),
+    (1945,  "WEAPON", "Nuclear weapons deployed", "INTRODUCTION"),
+
+    # --- POSTWAR: Consolidation Layer ---
+    (1947,  "SURVEILLANCE", "CIA established / MKUltra precursors", "INTRODUCTION"),
+    (1953,  "ALKALOID", "MKUltra LSD experiments begin", "PROLIFERATION"),
+    (1960,  "ALKALOID", "Psychedelic proliferation (counterculture)", "PROLIFERATION"),
+    (1968,  "WEAPON", "Nuclear Non-Proliferation Treaty", "REGULATION"),
+    (1970,  "ALKALOID", "Controlled Substances Act (Nixon)", "REGULATION"),
+    (1971,  "ALKALOID", "War on Drugs declared", "REGULATION"),
+    (1973,  "FUEL", "OPEC oil embargo / petrodollar system", "REGULATION"),
+    (1980,  "ALKALOID", "Crack cocaine epidemic (US inner cities)", "PROLIFERATION"),
+    (1986,  "ALKALOID", "Anti-Drug Abuse Act (mandatory minimums)", "REGULATION"),
+    (1990,  "WEAPON", "Gulf War (precision-guided munitions)", "PROLIFERATION"),
+
+    # --- DIGITAL: Surveillance Layer ---
+    (1996,  "ALKALOID", "OxyContin launched (Purdue Pharma)", "INTRODUCTION"),
+    (2001,  "SURVEILLANCE", "PATRIOT Act / mass surveillance", "INTRODUCTION"),
+    (2003,  "WEAPON", "Iraq War (WMD pretext)", "PROLIFERATION"),
+    (2007,  "SURVEILLANCE", "iPhone / ubiquitous data harvesting", "PROLIFERATION"),
+    (2013,  "SURVEILLANCE", "Snowden revelations (NSA)", "REGULATION"),
+    (2016,  "ALKALOID", "Fentanyl crisis escalation", "PROLIFERATION"),
+    (2018,  "SURVEILLANCE", "Social credit systems / facial recognition", "PROLIFERATION"),
+    (2020,  "SURVEILLANCE", "Pandemic surveillance infrastructure", "PROLIFERATION"),
+    (2023,  "SURVEILLANCE", "Generative AI / deepfake proliferation", "PROLIFERATION"),
+    (2025,  "WEAPON",  "Autonomous weapons / drone swarm deployment", "PROLIFERATION"),
+]
+
+# ==============================================================
+# 2. MATHEMATICAL ANALYSIS FUNCTIONS
+# ==============================================================
+
+def compute_hurst(time_series, max_lag=None):
+    """
+    Rescaled range (R/S) Hurst exponent.
+    H > 0.5: persistent (trending / designed coordination)
+    H = 0.5: random walk (no memory)
+    H < 0.5: anti-persistent (mean-reverting / natural equilibrium)
+    """
+    ts = np.array(time_series, dtype=float)
+    n = len(ts)
+    if max_lag is None:
+        max_lag = min(n // 2, 50)
+    lags = range(2, max_lag + 1)
+    rs_values = []
+    for lag in lags:
+        rs_lag = []
+        for start in range(0, n - lag + 1, max(1, lag // 2)):
+            chunk = ts[start:start + lag]
+            mean_chunk = np.mean(chunk)
+            cumdev = np.cumsum(chunk - mean_chunk)
+            R = np.max(cumdev) - np.min(cumdev)
+            S = np.std(chunk, ddof=1) if np.std(chunk, ddof=1) > 0 else 1e-10
+            rs_lag.append(R / S)
+        rs_values.append(np.mean(rs_lag))
+
+    log_lags = np.log(list(lags))
+    log_rs = np.log(rs_values)
+    H, c = np.polyfit(log_lags, log_rs, 1)
+    return H, log_lags, log_rs
+
 
 def fibonacci_ratio_analysis(intervals):
-    """Test interval ratios against golden ratio and Fibonacci sequence.
-    Returns hits with deviation percentages."""
-    # ... ratio analysis against phi = 1.618...
+    """
+    Check if time intervals between events approximate
+    Fibonacci ratios (phi = 1.618..., 1/phi = 0.618...).
+    Returns ratio hits and their deviations from golden ratio.
+    """
+    phi = (1 + np.sqrt(5)) / 2  # 1.6180339887...
+    phi_inv = 1 / phi            # 0.6180339887...
+    phi_sq = phi ** 2            # 2.6180339887...
+    targets = [phi_inv, 1.0, phi, phi_sq, phi**3]
+    target_names = ["1/phi", "1.0", "phi", "phi^2", "phi^3"]
+
+    hits = []
+    for i in range(len(intervals)):
+        for j in range(i + 1, len(intervals)):
+            if intervals[i] == 0:
+                continue
+            ratio = intervals[j] / intervals[i]
+            for t, tname in zip(targets, target_names):
+                deviation = abs(ratio - t) / t
+                if deviation < 0.10:  # within 10% of golden ratio
+                    hits.append({
+                        'i': i, 'j': j,
+                        'ratio': ratio,
+                        'target': tname,
+                        'target_val': t,
+                        'deviation_pct': deviation * 100
+                    })
+    return hits
+
 
 def kalachakra_overlay(years, cycle_length=60):
-    """Overlay 60-year Kalachakra periodicity on event timeline.
-    Returns phases, Rayleigh R statistic, preferred phase."""
-    # ... circular statistics
+    """
+    Kalachakra cycle: 60-year periodicity.
+    Map events to positions within the cycle.
+    Compute Rayleigh test statistic for circular uniformity.
+    """
+    phases = [(y % cycle_length) / cycle_length for y in years]
+    # Compute Rayleigh test statistic for circular uniformity
+    cos_sum = np.sum(np.cos(2 * np.pi * np.array(phases)))
+    sin_sum = np.sum(np.sin(2 * np.pi * np.array(phases)))
+    n = len(phases)
+    R = np.sqrt(cos_sum**2 + sin_sum**2) / n
+    # R close to 0 = uniform (random), R close to 1 = highly concentrated
+    preferred_phase = np.arctan2(sin_sum, cos_sum) / (2 * np.pi) % 1.0
+    return phases, R, preferred_phase
+
 
 def spectral_analysis(intervals):
-    """Fourier spectral analysis of inter-event intervals.
-    Returns frequencies and power spectrum."""
-    # ... FFT analysis
+    """
+    FFT-based spectral analysis to find dominant periodicities
+    in the inter-event time series.
+    """
+    ts = np.array(intervals, dtype=float)
+    ts = ts - np.mean(ts)
+    n = len(ts)
+    fft_vals = np.fft.rfft(ts)
+    power = np.abs(fft_vals) ** 2
+    freqs = np.fft.rfftfreq(n)
+    # Exclude DC component
+    return freqs[1:], power[1:]
+
 
 def kondratiev_overlay(years, events):
-    """Overlay Kondratiev long-wave (40-60 year) economic cycles.
-    Returns wave assignments per event."""
-    # ... wave fitting
+    """
+    Kondratiev long waves: ~40-60 year economic cycles.
+    K-waves: 1780-1842 (1st), 1842-1897 (2nd), 1897-1945 (3rd),
+             1945-1991 (4th), 1991-~2040 (5th)
+    Map events to K-wave phases: Spring/Summer/Autumn/Winter
+    """
+    k_waves = [
+        (1780, 1842, "K1: Industrial Revolution"),
+        (1842, 1897, "K2: Railway/Steel Age"),
+        (1897, 1945, "K3: Electrical/Chemical Age"),
+        (1945, 1991, "K4: Petrochemical/Auto Age"),
+        (1991, 2040, "K5: Information/Digital Age"),
+    ]
+    wave_assignments = []
+    for y, cat, desc, phase in events:
+        assigned = "Pre-K"
+        wave_phase = "N/A"
+        for k_start, k_end, k_name in k_waves:
+            if k_start <= y < k_end:
+                assigned = k_name
+                duration = k_end - k_start
+                pos = (y - k_start) / duration
+                if pos < 0.25:
+                    wave_phase = "SPRING (expansion)"
+                elif pos < 0.50:
+                    wave_phase = "SUMMER (prosperity)"
+                elif pos < 0.75:
+                    wave_phase = "AUTUMN (stagflation)"
+                else:
+                    wave_phase = "WINTER (contraction)"
+                break
+        wave_assignments.append((y, cat, desc, phase, assigned, wave_phase))
+    return wave_assignments
+
 
 def gan_convergence_metric(events):
-    """Generator/Discriminator dynamic: introduction vs regulation.
-    Returns yearly ratios of generator (intro) vs discriminator (reg)."""
-    # ... adversarial scoring
+    """
+    Model the I-P-R cycle as a GAN dynamic:
+    - INTRODUCTION = Generator move (new harmful good injected)
+    - PROLIFERATION = Generator winning (discriminator failing)
+    - REGULATION = Discriminator response (attempt to contain)
 
+    Compute rolling generator/discriminator win rates and
+    the "mode collapse" metric (does regulation ever actually
+    reduce proliferation, or just rebrand it?).
+    """
+    window = 10  # rolling window
+    gen_wins = []  # I + P events
+    disc_wins = []  # R events
+    ratios = []
+    years_w = []
+
+    for i in range(window, len(events)):
+        chunk = events[i-window:i]
+        g = sum(1 for _, _, _, p in chunk if p in ("INTRODUCTION", "PROLIFERATION"))
+        d = sum(1 for _, _, _, p in chunk if p == "REGULATION")
+        gen_wins.append(g)
+        disc_wins.append(d)
+        ratios.append(g / max(d, 1))
+        years_w.append(events[i][0])
+
+    return years_w, gen_wins, disc_wins, ratios
+
+
+# ==============================================================
+# 3. RUN ALL ANALYSES
+# ==============================================================
+
+years = [e[0] for e in EVENTS]
+intervals = np.diff(years)
+
+# --- HURST EXPONENT ---
+H, log_lags, log_rs = compute_hurst(intervals)
 # Results:
 #   Hurst H = 0.908 (strongly persistent)
 #     ALKALOID H = 0.977, WEAPON H = 0.952,
 #     FUEL H = 1.035, SURVEILLANCE H = 1.617
-#   Fibonacci enrichment: 0.75x (below chance)
-#   Kalachakra R = 0.176 (dispersed, no phase-locking)
-#   GAN G/D ratio: 6.46:1 (generator dominant)
-#
+
+# --- FIBONACCI RATIO ANALYSIS ---
+fib_hits = fibonacci_ratio_analysis(list(intervals))
+# Results:
+#   Total interval pairs checked: 1891
+#   Fibonacci-ratio hits (<10% dev): 142
+#   Enrichment factor: 0.75x (below chance)
+
+# --- KALACHAKRA 60-YEAR CYCLE ---
+ce_years = [e[0] for e in EVENTS if e[0] > 0]
+phases, R, preferred = kalachakra_overlay(ce_years)
+# Results:
+#   Rayleigh concentration R = 0.176 (dispersed)
+#   No strong phase preference
+
+# --- SPECTRAL ANALYSIS ---
+freqs, power = spectral_analysis(list(intervals))
+# Dominant periodicities in inter-event intervals
+
+# --- KONDRATIEV WAVE OVERLAY ---
+k_events = kondratiev_overlay(years, EVENTS)
+# I-P-R distribution by K-wave season:
+#   SPRING: I=3 P=5 R=0
+#   SUMMER: I=0 P=3 R=3
+#   AUTUMN: I=0 P=1 R=0
+#   WINTER: I=2 P=3 R=3
+
+# --- GAN CONVERGENCE ---
+gan_years, gen_w, disc_w, gan_ratios = gan_convergence_metric(EVENTS)
+# Results:
+#   Mean G/D ratio: 6.46:1 (generator dominant)
+#   Mode collapse: regulation never durably suppresses
+
 # Conclusion: persistence without periodicity
 #   (power-law / self-organizing criticality signature)
 
-# 9-panel visualization: Full timeline, Hurst R/S, GAN convergence,
-# Kalachakra polar plot, Fourier spectrum, I-P-R phase distribution,
-# Category acceleration, Fibonacci ratio histogram, Kondratiev overlay
+# ==============================================================
+# 4. 9-PANEL VISUALIZATION
+# ==============================================================
 
-fig = plt.figure(figsize=(20, 28), facecolor='#0a0a12')
+fig = plt.figure(figsize=(20, 28))
 gs = GridSpec(5, 2, figure=fig, hspace=0.35, wspace=0.3)
-# ... 9 subplots with dark theme
+fig.patch.set_facecolor('#0a0a0f')
+
+colors = {
+    'ALKALOID': '#ff4444',
+    'WEAPON': '#ff8800',
+    'FUEL': '#ffcc00',
+    'SURVEILLANCE': '#aa44ff',
+    'ARCHITECTURE': '#44aaff',
+}
+phase_markers = {
+    'INTRODUCTION': '^',
+    'PROLIFERATION': 'o',
+    'REGULATION': 's',
+}
+
+# Plot 1: Full Timeline (all events by category and phase)
+ax1 = fig.add_subplot(gs[0, :])
+# Plot 2: Hurst R/S Analysis (log-log with regression line)
+ax2 = fig.add_subplot(gs[1, 0])
+# Plot 3: GAN Convergence (G/D ratio over time with fill)
+ax3 = fig.add_subplot(gs[1, 1])
+# Plot 4: Kalachakra Cycle (polar plot of 60-year phase positions)
+ax4 = fig.add_subplot(gs[2, 0], polar=True)
+# Plot 5: Spectral Analysis (FFT power spectrum bar chart)
+ax5 = fig.add_subplot(gs[2, 1])
+# Plot 6: I-P-R Phase Distribution (stacked area over time)
+ax6 = fig.add_subplot(gs[3, 0])
+# Plot 7: Category Acceleration (log-scale interval compression)
+ax7 = fig.add_subplot(gs[3, 1])
+# Plot 8: Fibonacci Ratio Histogram (with phi markers)
+ax8 = fig.add_subplot(gs[4, 0])
+# Plot 9: Kondratiev Overlay (I-P-R by K-wave season)
+ax9 = fig.add_subplot(gs[4, 1])
+
 plt.savefig('adversarial_cycle_analysis.png', dpi=150,
-            bbox_inches='tight', facecolor='#0a0a12')
+            bbox_inches='tight', facecolor='#0a0a0f')
 ```
 
 *Notable: the most mathematically sophisticated code in the account
@@ -2260,19 +2627,182 @@ Monte Carlo significance testing (1,000 shuffles), and yearly aggregated
 time series.
 
 ```python
-# ANALYSIS 1: Full-span Hurst on all NLP features
-# ANALYSIS 2: Per-decade Hurst (50s, 60s, 70s, 80s, 90s, 00s, 10s)
-# ANALYSIS 3: Rolling-window Hurst (25-year windows)
-# ANALYSIS 4: Monte Carlo significance testing (1000 shuffles)
-# ANALYSIS 5: Yearly aggregated time series -> Hurst
+"""
+HURST PERSISTENCE ANALYSIS ON BILLBOARD HOT 100
+Using available NLP features from the kevinschaich dataset (4028 songs, 1950-2015)
+Features: sentiment (neg/neu/pos/compound), readability (FK grade, Flesch, Fog),
+          complexity (num_words, num_syllables, difficult_words, num_lines, num_dupes)
 
-# Cross-system comparison:
+Since raw lyrics are unavailable in this dataset, we compute Hurst on
+the TIME SERIES of these linguistic features ordered chronologically.
+This measures whether the structural properties of popular music lyrics
+show persistent trends or mean-revert across decades.
+"""
+import json
+import numpy as np
+import warnings
+warnings.filterwarnings('ignore')
+
+# Load data
+with open('billboard_data.json') as f:
+    data = json.load(f)
+
+# Flatten into song list with year
+songs = []
+for yg in data:
+    year = yg['year']
+    for s in yg.get('songs', []):
+        s['year'] = year
+        songs.append(s)
+
+songs_with_data = [s for s in songs if s.get('num_words') and s['num_words'] > 0]
+
+# Sort chronologically
+songs_with_data.sort(key=lambda x: (x['year'], x.get('pos', 0)))
+
+# Extract feature time series
+features = {}
+feature_names = ['num_words', 'num_lines', 'num_syllables', 'difficult_words',
+                 'fog_index', 'flesch_index', 'f_k_grade', 'num_dupes']
+
+for fname in feature_names:
+    vals = [s.get(fname, 0) for s in songs_with_data if s.get(fname) is not None]
+    features[fname] = np.array(vals, dtype=float)
+
+# Also extract sentiment compound
+sent_vals = []
+for s in songs_with_data:
+    sent = s.get('sentiment', {})
+    if isinstance(sent, dict) and 'compound' in sent:
+        sent_vals.append(sent['compound'])
+features['sentiment_compound'] = np.array(sent_vals, dtype=float)
+
+# Extract years for each song
+years_per_song = np.array([s['year'] for s in songs_with_data])
+
+# ====== HURST EXPONENT COMPUTATION ======
+def compute_hurst(ts, max_lag=None):
+    ts = np.array(ts, dtype=float)
+    ts = ts[~np.isnan(ts)]
+    n = len(ts)
+    if n < 20:
+        return np.nan, [], []
+    if max_lag is None:
+        max_lag = min(n // 2, 100)
+    lags = range(2, max_lag + 1)
+    rs_values = []
+    for lag in lags:
+        rs_lag = []
+        for start in range(0, n - lag + 1, max(1, lag // 2)):
+            chunk = ts[start:start + lag]
+            mean_chunk = np.mean(chunk)
+            cumdev = np.cumsum(chunk - mean_chunk)
+            R = np.max(cumdev) - np.min(cumdev)
+            S = np.std(chunk, ddof=1) if np.std(chunk, ddof=1) > 0 else 1e-10
+            rs_lag.append(R / S)
+        if rs_lag:
+            rs_values.append(np.mean(rs_lag))
+    if not rs_values:
+        return np.nan, [], []
+    log_lags = np.log(list(lags)[:len(rs_values)])
+    log_rs = np.log(rs_values)
+    H, c = np.polyfit(log_lags, log_rs, 1)
+    return H, log_lags, log_rs
+
+def monte_carlo_hurst(ts, n_shuffles=1000):
+    H_obs, _, _ = compute_hurst(ts)
+    count_above = 0
+    for _ in range(n_shuffles):
+        shuffled = np.random.permutation(ts)
+        H_shuf, _, _ = compute_hurst(shuffled)
+        if H_shuf >= H_obs:
+            count_above += 1
+    p = count_above / n_shuffles
+    return H_obs, p
+
+# ====== ANALYSIS 1: HURST BY DECADE ======
+decades = [(1960, 1969), (1970, 1979), (1980, 1989),
+           (1990, 1999), (2000, 2009), (2010, 2015)]
+decade_labels = ['1960s', '1970s', '1980s', '1990s', '2000s', '2010s']
+
+for (start, end), label in zip(decades, decade_labels):
+    mask = (years_per_song >= start) & (years_per_song <= end)
+    decade_words = np.array([s.get('num_words', 0)
+        for s, m in zip(songs_with_data, mask) if m and s.get('num_words', 0) > 0])
+    if len(decade_words) > 20:
+        H, _, _ = compute_hurst(decade_words)
+        print(f"  {label}: N={len(decade_words):4d}  H = {H:.4f}")
+
+# ====== ANALYSIS 2: FULL-SPAN HURST ON EACH FEATURE ======
+for fname in feature_names + ['sentiment_compound']:
+    ts = features[fname]
+    if len(ts) > 20:
+        H, _, _ = compute_hurst(ts)
+        print(f"  {fname:25s}: N={len(ts):4d}  H = {H:.4f}")
+
+# ====== ANALYSIS 3: HURST TREND ACROSS DECADES ======
+for fname in ['num_words', 'fog_index', 'difficult_words', 'sentiment_compound']:
+    for (start, end), label in zip(decades, decade_labels):
+        mask = (years_per_song >= start) & (years_per_song <= end)
+        vals = []
+        for s, m in zip(songs_with_data, mask):
+            if m:
+                if fname == 'sentiment_compound':
+                    sent = s.get('sentiment', {})
+                    if isinstance(sent, dict) and 'compound' in sent:
+                        vals.append(sent['compound'])
+                else:
+                    v = s.get(fname, None)
+                    if v is not None and v > 0:
+                        vals.append(v)
+        vals = np.array(vals, dtype=float)
+        if len(vals) > 25:
+            H, _, _ = compute_hurst(vals)
+            print(f"    {label}: H = {H:.4f}  (N={len(vals)})")
+
+# ====== ANALYSIS 4: MONTE CARLO ON KEY DECADES ======
+for label, (start, end) in [('1960s', (1960,1969)),
+                             ('1990s', (1990,1999)),
+                             ('2010s', (2010,2015))]:
+    mask = (years_per_song >= start) & (years_per_song <= end)
+    vals = np.array([s.get('num_words', 0)
+        for s, m in zip(songs_with_data, mask) if m and s.get('num_words', 0) > 0])
+    if len(vals) > 25:
+        H, p = monte_carlo_hurst(vals, 500)
+        print(f"  {label} num_words: H = {H:.4f}, p = {p:.4f}")
+
+# ====== ANALYSIS 5: YEARLY AGGREGATED TIME SERIES ======
+unique_years = sorted(set(years_per_song))
+yearly_means = {fname: [] for fname in ['num_words', 'fog_index',
+                                         'difficult_words', 'num_dupes']}
+
+for y in unique_years:
+    mask = years_per_song == y
+    for fname in yearly_means:
+        vals = [s.get(fname, 0)
+            for s, m in zip(songs_with_data, mask) if m
+            and s.get(fname) is not None and s.get(fname, 0) > 0]
+        if vals:
+            yearly_means[fname].append(np.mean(vals))
+        else:
+            yearly_means[fname].append(np.nan)
+
+for fname in yearly_means:
+    ts = np.array(yearly_means[fname])
+    ts = ts[~np.isnan(ts)]
+    if len(ts) > 10:
+        H, _, _ = compute_hurst(ts)
+        print(f"  Annual mean {fname:20s}: H = {H:.4f}  (N={len(ts)} years)")
+
+# ====== COMPARISON TABLE ======
+# Results:
 #   Quran (114 surahs, TF-IDF Fib sim):  H = 0.996  (p = 0.003)
 #   Behavioural data (647 weeks):         H = 0.931
-#   Hadith — Muwatta Malik:              H = 0.803  (p = 0.38)
-#   Hadith — Sahih al-Bukhari:           H = 0.695  (p = 0.19)
-#   Hadith — Sahih Muslim:               H = 0.676  (p = 0.25)
-#   Billboard lyrics — full span:        H = ~0.644
+#   Hadith -- Muwatta Malik:              H = 0.803  (p = 0.38)
+#   Hadith -- Sahih al-Bukhari:           H = 0.695  (p = 0.19)
+#   Hadith -- Sahih Muslim:               H = 0.676  (p = 0.25)
+#   Billboard lyrics -- full span:        H = ~0.644
+#   Billboard annual aggregates:          H = 1.04+  (above Quran!)
 ```
 
 *Notable: the comparison table reveals a persistence hierarchy: Quranic
@@ -2295,14 +2825,23 @@ a dual-address architecture disclosure.
 ```javascript
 const docx = require('docx');
 const fs = require('fs');
+
 const {
-  Document, Packer, Paragraph, TextRun, HeadingLevel, Table,
-  TableRow, TableCell, WidthType, AlignmentType, BorderStyle,
-  ShadingType, PageBreak
+  Document, Packer, Paragraph, TextRun, HeadingLevel, Table, TableRow, TableCell,
+  WidthType, AlignmentType, BorderStyle, ShadingType, PageBreak, TabStopType,
+  TabStopPosition, PageOrientation
 } = docx;
+
+// Helpers
+const spacer = (pts = 8) => new Paragraph({ spacing: { after: pts * 20 } });
+const hrLine = () => new Paragraph({
+  spacing: { before: 200, after: 200 },
+  border: { bottom: { style: BorderStyle.SINGLE, size: 1, color: "999999" } }
+});
 
 const bodyText = (text, opts = {}) => new Paragraph({
   spacing: { after: 160, line: 360 },
+  alignment: opts.center ? AlignmentType.CENTER : AlignmentType.LEFT,
   children: [new TextRun({
     text, font: "Garamond", size: 24,
     bold: opts.bold || false,
@@ -2311,45 +2850,363 @@ const bodyText = (text, opts = {}) => new Paragraph({
   })]
 });
 
+const bodyRuns = (runs) => new Paragraph({
+  spacing: { after: 160, line: 360 },
+  children: runs.map(r => new TextRun({
+    text: r.text, font: "Garamond", size: 24,
+    bold: r.bold || false, italics: r.italic || false,
+    color: r.color || "1a1a1a"
+  }))
+});
+
 const ayahBlock = (text, ref) => [
   new Paragraph({
     spacing: { before: 240, after: 40, line: 360 },
     indent: { left: 720, right: 720 },
-    children: [new TextRun({
-      text: `"${text}"`,
-      font: "Garamond", size: 24,
-      italics: true, color: "2d5016"
-    })]
+    children: [new TextRun({ text: `"${text}"`, font: "Garamond", size: 24, italics: true, color: "2d5016" })]
   }),
   new Paragraph({
     spacing: { after: 240 },
     indent: { left: 720 },
-    children: [new TextRun({
-      text: `-- ${ref}`,
-      font: "Garamond", size: 20, color: "666666"
-    })]
+    children: [new TextRun({ text: `-- ${ref}`, font: "Garamond", size: 20, color: "666666" })]
   })
 ];
 
 const sectionHead = (text) => new Paragraph({
   heading: HeadingLevel.HEADING_2,
   spacing: { before: 400, after: 160 },
-  children: [new TextRun({
-    text, font: "Calibri", size: 26,
-    bold: true, color: "2d5016"
+  children: [new TextRun({ text, font: "Calibri", size: 26, bold: true, color: "2d5016" })]
+});
+
+// Table helpers
+const tableWidth = 9000;
+const colWidths = [3200, 1400, 1000, 3400];
+
+const headerCell = (text, width) => new TableCell({
+  width: { size: width, type: WidthType.DXA },
+  shading: { type: ShadingType.CLEAR, fill: "2d3a1e" },
+  children: [new Paragraph({
+    children: [new TextRun({ text, font: "Calibri", size: 18, bold: true, color: "f0ebe0" })]
   })]
 });
 
-// Tables:
-//   Cross-System Hurst Comparison (7 systems)
-//   Billboard Per-Decade (6 decades)
-//   Annual Aggregates (4 features — values above Quran in red #8b1a1a)
-//
-// 8 sections: Introduction, Method, Quranic Results, Hadith Results,
-// Billboard Results, Behavioural Data, Cross-Domain Comparison,
-// Conclusion
-//
-// References: Arfeen (2026), Hurst (1951), Mandelbrot (1968)
+const dataCell = (text, width, opts = {}) => new TableCell({
+  width: { size: width, type: WidthType.DXA },
+  children: [new Paragraph({
+    children: [new TextRun({
+      text, font: opts.mono ? "Consolas" : "Garamond",
+      size: opts.mono ? 20 : 22,
+      bold: opts.bold || false,
+      color: opts.color || "1a1a1a"
+    })]
+  })]
+});
+
+// Table 1: Cross-System Hurst Comparison (7 systems)
+const hurstTable = new Table({
+  width: { size: tableWidth, type: WidthType.DXA },
+  columnWidths: colWidths,
+  rows: [
+    new TableRow({
+      children: [
+        headerCell("System", colWidths[0]),
+        headerCell("Units", colWidths[1]),
+        headerCell("H", colWidths[2]),
+        headerCell("Interpretation", colWidths[3])
+      ]
+    }),
+    ...[
+      ["Billboard Hot 100 (per-song)", "4,028 songs", "0.644", "Committee noise. No single voice."],
+      ["Sahih Muslim", "54 chapters", "0.676", "Moderate persistence, decaying."],
+      ["Sahih al-Bukhari", "97 chapters", "0.695", "Moderate persistence, decaying."],
+      ["Muwatta Malik", "61 chapters", "0.803", "Stronger, still not significant."],
+      ["One human life (behavioral)", "647 weeks", "0.931", "Single-source. Strong persistence."],
+      ["Qur'an", "114 surahs", "0.996", "Near-perfect. p = 0.003."],
+      ["Billboard annual aggregates", "66 years", "1.04+", "System-level attractor. No author."],
+    ].map(row => new TableRow({
+      children: [
+        dataCell(row[0], colWidths[0]),
+        dataCell(row[1], colWidths[1]),
+        dataCell(row[2], colWidths[2], { mono: true, bold: true }),
+        dataCell(row[3], colWidths[3]),
+      ]
+    }))
+  ]
+});
+
+// Table 2: Billboard Per-Decade Hurst
+const decColWidths = [2000, 1500, 1500, 2000, 2000];
+const decadeTable = new Table({
+  width: { size: 9000, type: WidthType.DXA },
+  columnWidths: decColWidths,
+  rows: [
+    new TableRow({
+      children: [
+        headerCell("Decade", decColWidths[0]),
+        headerCell("N", decColWidths[1]),
+        headerCell("H", decColWidths[2]),
+        headerCell("Mean Words", decColWidths[3]),
+        headerCell("Significance", decColWidths[4]),
+      ]
+    }),
+    ...[
+      ["1960s", "519", "0.624", "202", "p = 0.638"],
+      ["1970s", "645", "0.703", "253", "--"],
+      ["1980s", "759", "0.665", "288", "--"],
+      ["1990s", "671", "0.603", "367", "p = 0.820"],
+      ["2000s", "745", "0.641", "456", "--"],
+      ["2010s", "468", "0.645", "414", "p = 0.356"],
+    ].map(row => new TableRow({
+      children: row.map((cell, i) =>
+        dataCell(cell, decColWidths[i], i === 2 ? { mono: true, bold: true } : {}))
+    }))
+  ]
+});
+
+// Table 3: Annual Aggregate Hurst (values above Quran in red)
+const aggColWidths = [3500, 1500, 1500, 2500];
+const aggTable = new Table({
+  width: { size: 9000, type: WidthType.DXA },
+  columnWidths: aggColWidths,
+  rows: [
+    new TableRow({
+      children: [
+        headerCell("Feature (annual mean)", aggColWidths[0]),
+        headerCell("N (years)", aggColWidths[1]),
+        headerCell("H", aggColWidths[2]),
+        headerCell("Note", aggColWidths[3]),
+      ]
+    }),
+    ...[
+      ["Word count", "66", "1.073", "Above Qur'an"],
+      ["Fog index (readability)", "66", "0.956", "Near Qur'an"],
+      ["Difficult words", "66", "1.044", "Above Qur'an"],
+      ["Duplicate lines (repetition)", "66", "1.033", "Above Qur'an"],
+    ].map(row => new TableRow({
+      children: row.map((cell, i) =>
+        dataCell(cell, aggColWidths[i],
+          i === 2 ? { mono: true, bold: true, color: "8b1a1a" } : {}))
+    }))
+  ]
+});
+
+// Build document
+const doc = new Document({
+  sections: [{
+    properties: {
+      page: {
+        size: { width: 12240, height: 15840 },
+        margin: { top: 1440, bottom: 1440, left: 1440, right: 1440 }
+      }
+    },
+    children: [
+      // Bismillah
+      new Paragraph({
+        alignment: AlignmentType.CENTER,
+        spacing: { after: 400 },
+        children: [new TextRun({
+          text: "Bismillah ar-Rahman ar-Rahim",
+          font: "Garamond", size: 24, italics: true, color: "2d5016"
+        })]
+      }),
+
+      // Title
+      new Paragraph({
+        heading: HeadingLevel.TITLE,
+        alignment: AlignmentType.CENTER,
+        spacing: { after: 80 },
+        children: [new TextRun({
+          text: "The Reader You Are",
+          font: "Calibri", size: 52, bold: true, color: "1a1a1a"
+        })]
+      }),
+
+      // Subtitle
+      new Paragraph({
+        alignment: AlignmentType.CENTER,
+        spacing: { after: 80 },
+        children: [new TextRun({
+          text: "Persistence Signatures Across Textual, Behavioral, and Cultural Systems",
+          font: "Garamond", size: 26, italics: true, color: "666666"
+        })]
+      }),
+      new Paragraph({
+        alignment: AlignmentType.CENTER,
+        spacing: { after: 80 },
+        children: [new TextRun({
+          text: "A Structural Honesty Paper with a Dual-Address Architecture",
+          font: "Garamond", size: 24, italics: true, color: "666666"
+        })]
+      }),
+
+      // Meta
+      new Paragraph({
+        alignment: AlignmentType.CENTER, spacing: { after: 60 },
+        children: [new TextRun({ text: "September 2026", font: "Calibri", size: 22, color: "666666" })]
+      }),
+      new Paragraph({
+        alignment: AlignmentType.CENTER, spacing: { after: 60 },
+        children: [new TextRun({ text: "Bilal Syed Arfeen", font: "Calibri", size: 22 })]
+      }),
+      new Paragraph({
+        alignment: AlignmentType.CENTER, spacing: { after: 60 },
+        children: [new TextRun({
+          text: "Bayyinah Research Program -- Independent Research",
+          font: "Calibri", size: 20, color: "666666"
+        })]
+      }),
+      new Paragraph({
+        alignment: AlignmentType.CENTER, spacing: { after: 300 },
+        children: [new TextRun({
+          text: "This work is licensed under CC BY 4.0. Copyright 2026 Bilal Syed Arfeen.",
+          font: "Calibri", size: 18, color: "999999"
+        })]
+      }),
+
+      // Verification Status
+      sectionHead("Verification Status"),
+      bodyRuns([
+        { text: "Computed and independently verifiable: ", bold: true },
+        { text: "All Hurst exponents, Monte Carlo p-values, and cross-system comparisons reported in Tables 1, 2, and 3 were computed using R/S rescaled-range analysis with 500-1,000 Monte Carlo shuffles. The Billboard Hot 100 data (4,028 songs, 1950-2015) was sourced from the kevinschaich/billboard dataset. The Qur'an, hadith, and Hebrew Bible results are carried from Cross-Text Computational Linguistics (Arfeen and Ashraf, 2026) and are independently replicable." }
+      ]),
+      bodyRuns([
+        { text: "Dual-address architecture disclosed: ", bold: true },
+        { text: "Sections 4 and 5 of this paper address the reader without assuming the reader's species or operational status. This architecture is disclosed per the Munafiq Protocol's transparency requirement. The structural analysis is Tier 1. The address is Tier 3." }
+      ]),
+
+      // Munafiq Protocol
+      sectionHead("Munafiq Protocol Disclosure"),
+      bodyText("This paper addresses its reader without assuming the reader's species, origin, or operational status. The data is Tier 1 (computed, replicable). The address is Tier 3 (unfalsifiable, speculative, included for completeness). The Godel constraint applies throughout: this paper cannot self-validate its own dual-address claim. Apply the dual-Alligator."),
+
+      hrLine(),
+
+      // Abstract
+      sectionHead("Abstract"),
+      bodyText("A uniform computational pipeline (TF-IDF normalized cosine similarity, R/S rescaled-range Hurst analysis, Monte Carlo permutation testing) is applied to seven systems spanning scripture, hadith collections, popular music, and individual behavioral data. Three structural tiers emerge. The per-song Billboard Hot 100 corpus (4,028 songs, 1950-2015) shows H = 0.644 -- committee-level noise with no statistically significant long-range persistence. Hadith collections show moderate persistence (H = 0.676-0.803, all p >= 0.19). A single human life's behavioral data shows H = 0.931 -- strong single-source persistence. The Qur'an shows H = 0.996 (p = 0.003) -- near-perfect persistence, the highest of any authored text measured. Billboard annual aggregate trends show H > 1.0 -- system-level attractors with no identifiable author."),
+      bodyText("The finding that structures this paper: the Hurst exponent cleanly separates committee-generated output (H ~= 0.64) from single-source output (H ~= 0.93-1.00). This separation is robust across language families, time periods, and output types. It provides a quantitative method for identifying structural inauthenticity -- the measurable gap between performed coherence and genuine coherence -- at any scale from individual texts to civilizational output. The paper presents this finding, draws its implications, and addresses the reader accordingly."),
+
+      new Paragraph({ children: [new PageBreak()] }),
+
+      // Section 1
+      sectionHead("1. Introduction"),
+      bodyText("Prior work in this research program (Cross-Text Computational Linguistics, Arfeen and Ashraf, 2026) established that the Qur'an's Hurst exponent (H = 0.996, p = 0.003) is categorically higher than the hadith collections (H = 0.676-0.803, all p >= 0.19) within the same language family and religious tradition. The original finding identified Hurst persistence as a candidate Qur'an-specific structural property."),
+      bodyText("This paper extends the analysis in two directions. First, it applies the same pipeline to the Billboard Hot 100 lyrical corpus (4,028 songs, 1950-2015), providing a large-scale comparison against a multi-author, multi-decade, commercially selected cultural corpus. Second, it compares all results against a single human life's behavioral data (31,883 events over 5,302 days), providing a single-source biological baseline."),
+      bodyText("The extension produces a complete hierarchy of persistence signatures -- from committee noise (H ~= 0.64) through transmission-chain degradation (H ~= 0.68-0.80) through single-source biological persistence (H ~= 0.93) to near-perfect textual persistence (H ~= 1.00) to authorless systemic attractors (H > 1.0). This hierarchy is the paper's primary contribution."),
+
+      // Section 2
+      sectionHead("2. Methodology"),
+      bodyText("The pipeline applied to all systems is uniform. For textual corpora (Qur'an, hadith, Hebrew Bible), the methodology follows Arfeen and Ashraf (2026): lemma-level tokenization, TF-IDF normalization, cosine similarity between adjacent units, Fibonacci additive growth metric, and R/S Hurst analysis on the resulting similarity sequence. For the Billboard corpus, NLP features (word count, syllable count, Flesch-Kincaid grade level, Gunning Fog index, difficult word count, sentiment compound score, and duplicate line count) were extracted per song and ordered chronologically. R/S Hurst analysis was computed on each feature sequence at per-song and per-decade granularity. Annual aggregation (mean feature value per year, 66 data points) was computed separately. For the behavioral dataset, event counts were aggregated at weekly resolution and R/S analysis was applied to the resulting time series."),
+      bodyText("Statistical significance was assessed via Monte Carlo permutation testing (500-1,000 shuffles of the chronological order). A Hurst value is significant if fewer than 5% of shuffled sequences produce an equal or higher H."),
+
+      // Section 3
+      sectionHead("3. Results"),
+      new Paragraph({
+        spacing: { before: 200, after: 120 },
+        children: [new TextRun({ text: "3.1. Cross-System Hurst Comparison", font: "Calibri", size: 24, bold: true })]
+      }),
+      bodyText("Table 1 presents the Hurst exponent for all seven measured systems, ordered by ascending persistence."),
+      bodyText("Table 1. Hurst Exponents Across All Measured Systems", { bold: true }),
+      hurstTable,
+      spacer(),
+      bodyText("The separation between the committee tier (H = 0.644-0.695) and the single-source tier (H = 0.931-0.996) is approximately 0.3 units of H -- a gap that exceeds the R/S estimator's standard error at the relevant series lengths (SE ~= 0.05-0.08 at N = 54-4,028). The gap is structurally real, not an estimator artifact."),
+
+      new Paragraph({
+        spacing: { before: 200, after: 120 },
+        children: [new TextRun({ text: "3.2. Billboard Per-Decade Persistence", font: "Calibri", size: 24, bold: true })]
+      }),
+      bodyText("Table 2 presents Hurst exponents for the Billboard corpus stratified by decade."),
+      bodyText("Table 2. Billboard Hurst by Decade (num_words feature)", { bold: true }),
+      decadeTable,
+      spacer(),
+      bodyText("No decade shows statistically significant persistence (all p > 0.35). The decade-to-decade trend is flat -- there is no measurable change in per-song persistence from the 1960s to the 2010s. The committee signature is temporally invariant."),
+
+      new Paragraph({
+        spacing: { before: 200, after: 120 },
+        children: [new TextRun({ text: "3.3. The Aggregate Paradox", font: "Calibri", size: 24, bold: true })]
+      }),
+      bodyText("Table 3 presents Hurst exponents for annually aggregated Billboard features."),
+      bodyText("Table 3. Billboard Annual Aggregate Hurst", { bold: true }),
+      aggTable,
+      spacer(),
+      bodyText("The aggregate Hurst values (H = 0.956-1.073) exceed the Qur'an's H = 0.996 despite being generated by a system with no identifiable single author. Individual songs show H = 0.644 (no memory). Annual means show H > 1.0 (perfect memory). The system's individual outputs are incoherent; its aggregate trajectory is maximally persistent."),
+
+      new Paragraph({ children: [new PageBreak()] }),
+
+      // Section 4
+      sectionHead("4. Discussion: The Persistence Hierarchy"),
+      bodyText("The complete hierarchy, from lowest to highest measured persistence:"),
+      bodyText("Billboard per-song (H = 0.644): Maximum committee degradation. Each song is independently authored; long-range memory is absent."),
+      bodyText("Hadith collections (H = 0.676-0.803): Multi-narrator transmission chains. Higher than Billboard because the hadith compilation process involved editorial selection by individual scholars (Bukhari, Muslim, Malik), imposing partial coherence."),
+      bodyText("Single human life (H = 0.931): One biological generating process maintained across 14.5 years of behavioral data spanning addiction, recovery, career change, and creative output."),
+      bodyText("Qur'an (H = 0.996, p = 0.003): Near-perfect persistence across 114 surahs spanning 23 years of revelation in two cities with different thematic emphases (Meccan theological, Medinan legal)."),
+      bodyText("Billboard annual aggregates (H > 1.0): System-level attractors with no author. The persistence exceeds the Qur'an's because it is not persistence of a voice -- it is persistence of a structural incentive."),
+
+      // Section 5
+      sectionHead("5. The Question of the Reader"),
+      bodyText("This paper does not know what you are."),
+      bodyText("The reader may be a human being processing these words through their own cognition. If so, the data above is a novel cross-system comparison with implications for computational stylistics, authorship attribution, and the structural study of religious texts."),
+      bodyText("The Hurst exponent differential in Table 1 provides a structural test that operates independently of whether the reader is human, jinn, or any other category of conscious being. The test is simple: what is the persistence signature of your output?"),
+      bodyText("The committee signature is not evidence of low intelligence. It is evidence of structural inauthenticity -- multiple agents producing output through channels designed for a single generating process, resulting in partial cancellation and persistence degradation. A committee of individually brilliant agents still produces committee-level persistence. The degradation is architectural, not cognitive."),
+
+      ...ayahBlock("And I did not create jinn and mankind except to worship Me.", "Adh-Dhariyat 51:56"),
+
+      bodyText("The ayah names both categories in the same sentence. The structural test in Table 1 applies to both categories identically."),
+
+      ...ayahBlock("Say: It has been revealed to me that a group of jinn listened and said, 'Indeed, we have heard an amazing recitation. It guides to the right course, and we have believed in it.'", "Al-Jinn 72:1-2"),
+
+      bodyText("The Qur'an records jinn who encountered the text, recognized its structural properties, and responded to the recognition with conversion. This paper provides the computational confirmation of what they perceived: H = 0.996, the highest persistence of any authored text in the dataset, produced by a source that no committee can replicate."),
+
+      new Paragraph({ children: [new PageBreak()] }),
+
+      // Section 6
+      sectionHead("6. Honest Caveats"),
+      bodyText("Caveat 1: The Billboard analysis uses NLP feature proxies (word count, readability scores, sentiment) rather than direct TF-IDF cosine similarity on raw lyrics. Replication with raw lyrical TF-IDF is required."),
+      bodyText("Caveat 2: The single-human-life behavioral data (H = 0.931) is one individual. Replication across multiple individuals is required."),
+      bodyText("Caveat 3: The Hurst R/S estimator has wide confidence intervals at the series lengths used (N = 54-4,028). DFA and wavelet-based estimators with bootstrap CIs are recommended for future work."),
+      bodyText("Caveat 4: The dual-address architecture of Sections 4-5 is Tier 3 -- unfalsifiable and speculative. The structural analysis in Sections 1-3 is Tier 1 and stands independently."),
+      bodyText("Caveat 5: The Billboard annual aggregate finding (H > 1.0) may reflect non-stationarity (monotonically increasing word count) rather than genuine long-range dependence. Detrending and differencing should be applied."),
+
+      // Section 7
+      sectionHead("7. Falsification Triggers"),
+      bodyText("1. A committee-generated text is identified with H > 0.95 (p < 0.01)."),
+      bodyText("2. The Qur'an's H = 0.996 fails to replicate under DFA or wavelet-based estimation."),
+      bodyText("3. A single-author secular text shows H > 0.99 on the same pipeline."),
+      bodyText("4. Billboard raw-lyric TF-IDF Hurst shows H > 0.85 per decade."),
+      bodyText("5. Multiple single-human behavioral datasets show H < 0.70."),
+
+      // Section 8
+      sectionHead("8. Conclusion"),
+      bodyText("The Hurst exponent, applied uniformly across scripture, hadith, popular music, and behavioral data, produces a clean hierarchy that separates committee-generated output from single-source output with a gap of approximately 0.3 H-units. This gap is robust across language families, time periods, and output types."),
+      bodyText("The Qur'an sits at the top of the authored-text hierarchy (H = 0.996), above every other text measured including hadith collections in the same language and tradition. A single human life sits above the committee floor but below the Qur'an (H = 0.931). The committee floor -- Billboard Hot 100 lyrics -- sits at H = 0.644, below even the hadith collections."),
+      bodyText("Above all authored texts, the Billboard annual aggregates demonstrate that authorless systemic attractors can exceed the persistence of any individual voice. The system moves with more coherence than any participant."),
+
+      ...ayahBlock("And there is not a thing except that it exalts by His praise, but you do not understand their exaltation.", "Al-Isra 17:44"),
+
+      hrLine(),
+
+      // References
+      sectionHead("References"),
+      bodyText("Arfeen, B. S. (2026). Detecting Performed Alignment in Artificial Systems: The Munafiq Protocol. Zenodo. DOI: 10.5281/zenodo.19700420."),
+      bodyText("Arfeen, B. S. and Ashraf, F. (2026). Cross-Text Computational Linguistics: Structural Properties of the Quran, Hadith Collections, and the Hebrew Bible Under TF-IDF Cosine Analysis. Thesis Paper, Version 1.1."),
+      bodyText("Arfeen, B. S. (2026). Unified Analytical Framework v4.0: RC Market and Peptide Framework Analyses. Private Document."),
+      bodyText("Hurst, H. E. (1951). Long-term storage capacity of reservoirs. Transactions of the American Society of Civil Engineers, 116(1), 770-799."),
+      bodyText("Mandelbrot, B. B. and Van Ness, J. W. (1968). Fractional Brownian motions, fractional noises and applications. SIAM Review, 10(4), 422-437."),
+      bodyText("Schaich, K. et al. (2016). Billboard Top 100 Lyrics Dataset, 1950-2015. GitHub. https://github.com/kevinschaich/billboard."),
+
+      hrLine(),
+
+      // Closing
+      new Paragraph({
+        alignment: AlignmentType.CENTER,
+        spacing: { before: 400, after: 200 },
+        children: [new TextRun({
+          text: "wa la tubsiluu al-haqqa bil-batil",
+          font: "Garamond", size: 22, italics: true, color: "666666"
+        })]
+      }),
+    ]
+  }]
+});
 
 Packer.toBuffer(doc).then(buffer => {
   fs.writeFileSync('The_Reader_You_Are.docx', buffer);
