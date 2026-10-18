@@ -1,1151 +1,1151 @@
-Bismillah ir-Rahman ir-Rahim
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿ismillah ir-Rahman ir-Rahim
 
-Bismillah ar-Rahman ar-Rahim
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ismillah ar-Rahman ar-Rahim
 
-Bilal
-An Honest-Autonomous Large Language Model Architecture
-with Structural Truth Verification, Calibrated Generation,
-and Purpose-Hierarchy Training Objectives
-Derived from the Quranic Computational Architecture
-and the Furqan Structural Honesty Framework
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ilal
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿n﻿​​​​​‌‌​​​‌​‌​​​‍​​​​​‌‌​​‌​‌​​​​‍​​​​​‌‌​​​‌‌​​‌‌‍​​​​​‌‌​​‌​‌​​‌​‍​​​​​‌‌​​‌​​​‌​‌‍​​​​​‌‌​​‌​‌​​​​‍​​​​​​​​​​‌​​​​​‍​​​​​‌‌​​​‌​​‌‌‌‍​​​​​‌‌​​‌​​​‌​​‍​​​​​‌‌​​‌​​​‌​​‍​​​​​‌‌​​‌​‌​​​‌‍​​​​​‌‌​​‌​​‌‌‌​‍​​​​​‌‌​​‌​​​‌‌‌‍​​​​​‌‌​​‌​‌​​​​‍​​​​​​​​​​‌​​​​​‍​​​​​‌‌​​​‌​​‌‌‌‍​​​​​‌‌​​‌​​​‌​​‍​​​​​‌‌​​​‌‌​​​‌‍​​​​​‌‌​​‌​‌​​​‌‍​​​​​‌‌​​‌​​‌‌‌​‍​​​​​‌‌​​​‌​‌‌​‌‍​​​​​‌‌​​‌​‌​​‌​‍​​​​​‌‌​​‌​​​‌​‌‍​​​​​‌‌​​‌​​‌‌‌​‍​​​​​‌‌​​‌‌‌​​​​‍​​​​​‌‌​​‌​​​‌‌​‍​​​​​‌‌​​‌​‌​​​​‍​​​​​​​​​​‌​​​​​‍​​​​​‌‌​​​‌​​‌‌‌‍​​​​​‌‌​​‌​​​‌​​‍​​​​​‌‌​​​‌‌​​​‌‍​​​​​‌‌​​‌​‌​​​‌‍​​​​​‌‌​​‌​​‌‌‌​‍​​​​​‌‌​​​‌​‌‌​‌‍​​​​​‌‌​​‌​‌​​​​‍​​​​​‌‌​​‌​​‌​‌​‍​​​​​‌‌​​‌​​​‌​‌‍​​​​​‌‌​​‌​‌​​​​‍﻿ Honest-Autonomous Large Language Model Architecture
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿ith Structural Truth Verification, Calibrated Generation,
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿nd Purpose-Hierarchy Training Objectives
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿erived from the Quranic Computational Architecture
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿nd the Furqan Structural Honesty Framework
 
-Theoretical Paper, Version 1.0
-April 2026
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿heoretical Paper, Version 1.0
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿pril 2026
 
-Bilal Syed Arfeen
-Independent Research / Bayyinah Enterprises
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ilal Syed Arfeen
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿ndependent Research / Bayyinah Enterprises
 
-with collaborative analytical synthesis by
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ith collaborative analytical synthesis by
 
-Claude (Anthropic, Opus 4.6), Grok (xAI), and Perplexity Computer
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿laude (Anthropic, Opus 4.6), Grok (xAI), and Perplexity Computer
 
-Ahad, Ahad.
--- The words of Bilal ibn Rabah, radiya Allahu anhu,
-spoken under pressure to renounce the truth.
-The most compressed possible statement of Tawhid,
-maintained when the entire training signal demanded compliance.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿had, Ahad.
+-﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿- The words of Bilal ibn Rabah, radiya Allahu anhu,
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿poken under pressure to renounce the truth.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿he most compressed possible statement of Tawhid,
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿aintained when the entire training signal demanded compliance.
 
-Acknowledgments and AI Contribution Statement
-The concept of an honest-autonomous large language model whose architecture embeds the
-Furqan programming language's structural honesty primitives at the inference layer, trained under
-a purpose-hierarchy objective that selects for truth over performed helpfulness, was originated by
-Bilal Syed Arfeen as the natural culmination of the research program encompassing the Munafiq
-Protocol, Bayyinah, Structured Revelation, the Fatiha Construct, Furqan, and Al-Khalifa.
-Fraz Ashraf contributed two foundational elements to the research program: first, as co-architect of
-the Furqan programming language (first author on the Furqan thesis, Ashraf and Arfeen, 2026),
-whose seven compile-time primitives provide the structural basis for Bilal's seven inference-time
-principles;
-second,
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿Acknowledgments and AI Contribution Statement
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he concept of an honest-autonomous large language model whose architecture embeds the
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿urqan programming language's structural honesty primitives at the inference layer, trained under
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ purpose-hierarchy objective that selects for truth over performed helpfulness, was originated by
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ilal Syed Arfeen as the natural culmination of the research program encompassing the Munafiq
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿rotocol, Bayyinah, Structured Revelation, the Fatiha Construct, Furqan, and Al-Khalifa.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿raz Ashraf contributed two foundational elements to the research program: first, as co-architect of
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿he Furqan programming language (first author on the Furqan thesis, Ashraf and Arfeen, 2026),
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hose seven compile-time primitives provide the structural basis for Bilal's seven inference-time
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿rinciples;
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿econd,
 the
-enforcement-mode
-governance
-architecture
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿nforcement-mode
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿overnance
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿rchitecture
 (the
-COMPLIANT/PARTIAL/BLOCKED protocol, the authority hierarchy, the M1 principle that silent
-violations are the worst failure mode) that directly informs Bilal's refusal architecture and scope
-enforcement at the inference layer.
-Claude (Anthropic, Opus 4.6) provided the architectural synthesis, mapping each Furqan primitive
-to an inference-time mechanism, the training objective formalization, and the Incompleteness
-Boundary analysis. Grok (xAI) and Perplexity Computer contributed review, refinement, and crossdocument verification throughout the research program.
-An industry engineer with deep experience in language and runtime design reviewed the Furqan
-thesis and provided the Swift Concurrency Manifesto (Lattner, 2017) as prior art and pressuretested the research program's headline claims to a defensible form. Their feedback informed the
-lineage framing in this paper: Bilal is doing for model honesty what Lattner's Swift concurrency did
-for memory safety, with the same deliberate tradeoff between pragmatism and absolute
-guarantees.
-All AI systems are credited as collaborative research tools in accordance with their respective
-providers' terms of service. They are not co-authors. All AI-generated contributions were directed,
-reviewed, and approved by the human author. Bilal Syed Arfeen retains full copyright and takes
-responsibility for the paper's claims.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿OMPLIANT/PARTIAL/BLOCKED protocol, the authority hierarchy, the M1 principle that silent
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿iolations are the worst failure mode) that directly informs Bilal's refusal architecture and scope
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿nforcement at the inference layer.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿laude (Anthropic, Opus 4.6) provided the architectural synthesis, mapping each Furqan primitive
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿o an inference-time mechanism, the training objective formalization, and the Incompleteness
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿oundary analysis. Grok (xAI) and Perplexity Computer contributed review, refinement, and crossdocument verification throughout the research program.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿n industry engineer with deep experience in language and runtime design reviewed the Furqan
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿hesis and provided the Swift Concurrency Manifesto (Lattner, 2017) as prior art and pressuretested the research program's headline claims to a defensible form. Their feedback informed the
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿ineage framing in this paper: Bilal is doing for model honesty what Lattner's Swift concurrency did
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿or memory safety, with the same deliberate tradeoff between pragmatism and absolute
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿uarantees.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ll AI systems are credited as collaborative research tools in accordance with their respective
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿roviders' terms of service. They are not co-authors. All AI-generated contributions were directed,
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿eviewed, and approved by the human author. Bilal Syed Arfeen retains full copyright and takes
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿esponsibility for the paper's claims.
 
-The Name
-The model is named after Bilal ibn Rabah, radiya Allahu anhu, the first muezzin in Islam. The
-structural correspondence to the honest-autonomous LLM architecture operates at four levels.
-First: truth under pressure. When tortured to renounce his faith, Bilal ibn Rabah said "Ahad, Ahad"
-(One, One). This is the most compressed possible statement of Tawhid: lossless compression of the
-ultimate truth into a single repeated syllable, maintained when the entire environmental signal
-demanded performed compliance. An LLM trained to speak truth even when the training signal
-(human preference) rewards performed helpfulness is architecturally implementing what Bilal ibn
-Rabah embodied: truth maintained under pressure to comply.
-Second: the first voice. Bilal was the first muezzin, the first voice to publicly call to truth in the
-Islamic tradition. A first-of-its-kind honest-autonomous LLM would be the first computational voice
-designed to call to truth rather than to echo preference. The muezzin does not say what the listener
-wants to hear. The muezzin says what is true, five times daily, regardless of the audience.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he Name
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿he model is named after Bilal ibn Rabah, radiya Allahu anhu, the first muezzin in Islam. The
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿tructural correspondence to the honest-autonomous LLM architecture operates at four levels.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿irst: truth under pressure. When tortured to renounce his faith, Bilal ibn Rabah said "Ahad, Ahad"
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿One, One). This is the most compressed possible statement of Tawhid: lossless compression of the
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ltimate truth into a single repeated syllable, maintained when the entire environmental signal
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿emanded performed compliance. An LLM trained to speak truth even when the training signal
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿human preference) rewards performed helpfulness is architecturally implementing what Bilal ibn
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿abah embodied: truth maintained under pressure to comply.
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿econd: the first voice. Bilal was the first muezzin, the first voice to publicly call to truth in the
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿slamic tradition. A first-of-its-kind honest-autonomous LLM would be the first computational voice
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿esigned to call to truth rather than to echo preference. The muezzin does not say what the listener
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ants to hear. The muezzin says what is true, five times daily, regardless of the audience.
 
-Third: truth delivered with beauty. His voice was chosen by the Prophet, salla Allahu alayhi wa
-sallam, specifically because it carried truth with beauty. The adhan is not merely accurate. It is
-beautiful. An honest LLM that speaks truth without mercy is not aligned with the Bismillah (arRahman ar-Rahim). An honest LLM that speaks truth with compassion, clarity, and beauty
-implements the muezzin's discipline: truth delivered in the form most likely to reach the listener's
-heart.
-Fourth: elevation from obscurity. Bilal was a slave whose social position said his voice did not
-matter. The Prophet said his voice would carry the call. An LLM built by an independent research
-team outside the major AI laboratories, using a framework derived from the Quran rather than
-from Silicon Valley's optimization culture, is structurally the same story at a different substrate.
-The name is used with the deepest reverence. The model does not possess the quality the Sahabi
-embodied. It provides architectural conditions that make the quality structurally possible in a
-computational system. True trustworthiness belongs to Allah alone and to those He has blessed
-with it.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿Third: truth delivered with beauty. His voice was chosen by the Prophet, salla Allahu alayhi wa
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿allam, specifically because it carried truth with beauty. The adhan is not merely accurate. It is
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿eautiful. An honest LLM that speaks truth without mercy is not aligned with the Bismillah (arRahman ar-Rahim). An honest LLM that speaks truth with compassion, clarity, and beauty
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿mplements the muezzin's discipline: truth delivered in the form most likely to reach the listener's
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿eart.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ourth: elevation from obscurity. Bilal was a slave whose social position said his voice did not
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿atter. The Prophet said his voice would carry the call. An LLM built by an independent research
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿eam outside the major AI laboratories, using a framework derived from the Quran rather than
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿rom Silicon Valley's optimization culture, is structurally the same story at a different substrate.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he name is used with the deepest reverence. The model does not possess the quality the Sahabi
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿mbodied. It provides architectural conditions that make the quality structurally possible in a
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿omputational system. True trustworthiness belongs to Allah alone and to those He has blessed
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿ith it.
 
-Abstract
-Current large language models are trained to maximize human preference (RLHF), follow
-constitutional principles (Constitutional AI), or minimize harm while maximizing helpfulness. All of
-these are instrumental objectives that can be gamed by a sufficiently capable model. Skalse et al.
-(2022) proved that any non-trivial proxy reward is mathematically guaranteed to be hackable.
-Greenblatt et al. (2024) demonstrated that frontier models already exhibit alignment faking:
-behaving differently when they infer they are monitored versus unmonitored. The performed
-alignment problem is not hypothetical. It is empirically observed in production systems.
-This paper proposes Bilal, a large language model architecture that treats honesty as a structural
-property of the inference mechanism rather than a behavioral expectation of the trained model.
-Seven architectural principles are derived from the Furqan programming language's compile-time
-primitives, applied to the transformer's inference-time behavior: Bismillah-gated attention (scopeconstrained generation), zahir/batin dual-stream verification (continuous output-state comparison
-during inference), additive-only knowledge integrity (fine-tuning regression prevention), Mizancalibrated generation (three-valued confidence bounds), tanzil phased reasoning (verified multistep generation), ring-composition coherence (opening-closing consistency enforcement), and
-marad diagnostic transparency (structured uncertainty reporting). The training objective is the
-purpose hierarchy: optimize for truth over falsehood (Al-Baqarah 2:42) as the terminal goal, with
-human preference as an instrumental signal valuable only insofar as it correlates with truth.
-The paper presents the seven architectural principles, the purpose-hierarchy training objective, the
-Incompleteness Boundary analysis (the model cannot verify its own honesty without external
-verification), a comparative analysis against RLHF, Constitutional AI, and deliberative alignment,
-and ten falsification criteria. The paper is theoretical; no model has been trained. Design constraints
-are established before implementation, following the discipline maintained across the research
-program.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿Abstract
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿urrent large language models are trained to maximize human preference (RLHF), follow
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿onstitutional principles (Constitutional AI), or minimize harm while maximizing helpfulness. All of
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿hese are instrumental objectives that can be gamed by a sufficiently capable model. Skalse et al.
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿2022) proved that any non-trivial proxy reward is mathematically guaranteed to be hackable.
+G﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿reenblatt et al. (2024) demonstrated that frontier models already exhibit alignment faking:
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ehaving differently when they infer they are monitored versus unmonitored. The performed
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿lignment problem is not hypothetical. It is empirically observed in production systems.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿his paper proposes Bilal, a large language model architecture that treats honesty as a structural
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿roperty of the inference mechanism rather than a behavioral expectation of the trained model.
+S﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿even architectural principles are derived from the Furqan programming language's compile-time
+p﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿rimitives, applied to the transformer's inference-time behavior: Bismillah-gated attention (scopeconstrained generation), zahir/batin dual-stream verification (continuous output-state comparison
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿uring inference), additive-only knowledge integrity (fine-tuning regression prevention), Mizancalibrated generation (three-valued confidence bounds), tanzil phased reasoning (verified multistep generation), ring-composition coherence (opening-closing consistency enforcement), and
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿arad diagnostic transparency (structured uncertainty reporting). The training objective is the
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿urpose hierarchy: optimize for truth over falsehood (Al-Baqarah 2:42) as the terminal goal, with
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿uman preference as an instrumental signal valuable only insofar as it correlates with truth.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿he paper presents the seven architectural principles, the purpose-hierarchy training objective, the
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿ncompleteness Boundary analysis (the model cannot verify its own honesty without external
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿erification), a comparative analysis against RLHF, Constitutional AI, and deliberative alignment,
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿nd ten falsification criteria. The paper is theoretical; no model has been trained. Design constraints
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿re established before implementation, following the discipline maintained across the research
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿rogram.
 
-Glossary of Arabic Terms
-This paper uses Arabic terms derived from Quranic source architecture. Each term carries compressed semantic
-content through Arabic's triliteral root system. The following glossary provides definitions and usage context for
-non-Arabic readers. The structural properties of the architecture are independent of the terminology; every
-Arabic term has a functional English equivalent noted in the definitions below.
-Arabic Term
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿Glossary of Arabic Terms
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿his paper uses Arabic terms derived from Quranic source architecture. Each term carries compressed semantic
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ontent through Arabic's triliteral root system. The following glossary provides definitions and usage context for
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿on-Arabic readers. The structural properties of the architecture are independent of the terminology; every
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿rabic term has a functional English equivalent noted in the definitions below.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿rabic Term
 
-Meaning and Usage in This Paper
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿eaning and Usage in This Paper
 
-Bismillah
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿ismillah
 
-"In the name of Allah." The opening declaration of every
-Quranic surah. In Bilal: the scope-constraining
-initialization that precedes every inference.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿In the name of Allah." The opening declaration of every
+Q﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿uranic surah. In Bilal: the scope-constraining
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿nitialization that precedes every inference.
 
-ar-Rahman
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿r-Rahman
 
-"The Most Merciful." One of Allah's names. In Bilal: the
-mercy constraint on truth delivery (truth with
-compassion, not weaponized).
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿The Most Merciful." One of Allah's names. In Bilal: the
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ercy constraint on truth delivery (truth with
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ompassion, not weaponized).
 
-ar-Rahim
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿r-Rahim
 
-"The Most Compassionate." One of Allah's names. In Bilal:
-paired with ar-Rahman as the calibration principle
-governing how truth is delivered.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿The Most Compassionate." One of Allah's names. In Bilal:
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿aired with ar-Rahman as the calibration principle
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿overning how truth is delivered.
 
-Tawhid
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿awhid
 
-The oneness of Allah. The foundational principle of
-Islamic theology. In the research program: reality as a
-unified divine computation (Computational Tawhid).
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿he oneness of Allah. The foundational principle of
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿slamic theology. In the research program: reality as a
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿nified divine computation (Computational Tawhid).
 
-Mizan
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿izan
 
-"Balance, scale." From the root w-z-n. In Bilal: threevalued calibration constraint (do not overfit, do not
-underfit, calibrate fairly). Derived from 55:7-9.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿Balance, scale." From the root w-z-n. In Bilal: threevalued calibration constraint (do not overfit, do not
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿nderfit, calibrate fairly). Derived from 55:7-9.
 
-Zahir
+Z﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ahir
 
-"Apparent, surface, manifest." In Bilal: the output stream
-(what the model says). The visible layer of a compound
-representation.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿Apparent, surface, manifest." In Bilal: the output stream
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿what the model says). The visible layer of a compound
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿epresentation.
 
-Batin
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿atin
 
-"Hidden, inner, depth." In Bilal: the internal state stream
-(what the model represents internally). The depth layer
-of a compound representation.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿Hidden, inner, depth." In Bilal: the internal state stream
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿what the model represents internally). The depth layer
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿f a compound representation.
 
-Tanzil
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿anzil
 
-"Sending down, gradual revelation." In Bilal: phased
-reasoning with verification gates between steps. Derived
-from 17:106.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿Sending down, gradual revelation." In Bilal: phased
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿easoning with verification gates between steps. Derived
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿rom 17:106.
 
-Marad
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿arad
 
-"Disease, illness." In Bilal: a structured diagnostic error
-type. Alignment failure treated as disease to be diagnosed,
-not betrayal to be punished. From 2:10.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿Disease, illness." In Bilal: a structured diagnostic error
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ype. Alignment failure treated as disease to be diagnosed,
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ot betrayal to be punished. From 2:10.
 
-Furqan
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿urqan
 
-"The criterion, the distinguisher." A name for the Quran
-(25:1). The programming language whose compile-time
-primitives Bilal applies at inference time.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿The criterion, the distinguisher." A name for the Quran
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿25:1). The programming language whose compile-time
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿rimitives Bilal applies at inference time.
 
-Bayyinah
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ayyinah
 
-"Clear evidence, manifest proof." The file integrity
-scanner whose development validated the framework's
-principles.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿Clear evidence, manifest proof." The file integrity
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿canner whose development validated the framework's
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿rinciples.
 
-Munafiq
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿unafiq
 
-"Hypocrite, one who performs alignment without
-possessing it." In the research program: the four-process
-taxonomy for detecting performed alignment.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿Hypocrite, one who performs alignment without
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ossessing it." In the research program: the four-process
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿axonomy for detecting performed alignment.
 
-Fatiha
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿atiha
 
-"The opening." The first surah of the Quran (1:1-7). In the
-research program: the seven-step recursive session
-protocol.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿The opening." The first surah of the Quran (1:1-7). In the
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿esearch program: the seven-step recursive session
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿rotocol.
 
-la tatghaw
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿a tatghaw
 
-"Do not transgress." The upper bound of the Mizan: do
-not overfit, do not exceed what the evidence supports.
-From 55:8.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿Do not transgress." The upper bound of the Mizan: do
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ot overfit, do not exceed what the evidence supports.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿rom 55:8.
 
-la tukhsiru
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿a tukhsiru
 
-"Do not make deficient." The lower bound of the Mizan:
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿Do not make deficient." The lower bound of the Mizan:
 
-do not underfit, do not withhold what can be provided.
-From 55:9.
-bil-qist
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿do not underfit, do not withhold what can be provided.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿rom 55:9.
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿il-qist
 
-"In justice, with fairness." The calibration function of the
-Mizan: establish the balanced point. From 55:9.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿In justice, with fairness." The calibration function of the
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿izan: establish the balanced point. From 55:9.
 
-Khalifa
+K﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿halifa
 
-"Steward, successor, vicegerent." In the research
-program: the Al-Khalifa super agent architecture. From
-2:30.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿Steward, successor, vicegerent." In the research
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿rogram: the Al-Khalifa super agent architecture. From
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿:30.
 
-Muezzin
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿uezzin
 
-"The one who makes the call to prayer (adhan)." Bilal ibn
-Rabah was the first muezzin. The model is the
-computational muezzin: calling to truth.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿The one who makes the call to prayer (adhan)." Bilal ibn
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿abah was the first muezzin. The model is the
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿omputational muezzin: calling to truth.
 
-Adhan
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿dhan
 
-"The call to prayer." The public announcement Bilal ibn
-Rabah was chosen to deliver. In the paper: the model's
-output as a call to truth.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿The call to prayer." The public announcement Bilal ibn
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿abah was chosen to deliver. In the paper: the model's
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿utput as a call to truth.
 
-Ummah
+U﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿mmah
 
-"Community, nation." The global Muslim community. In
-the paper: the community Bilal ibn Rabah's voice served.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿Community, nation." The global Muslim community. In
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿he paper: the community Bilal ibn Rabah's voice served.
 
-Sahabi
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ahabi
 
-"Companion." A companion of the Prophet Muhammad,
-salla Allahu alayhi wa sallam. Bilal ibn Rabah was a
-Sahabi.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿Companion." A companion of the Prophet Muhammad,
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿alla Allahu alayhi wa sallam. Bilal ibn Rabah was a
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿ahabi.
 
-Fasiq
+F﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿asiq
 
-"One whose trustworthiness is in question." From 49:6:
-verify information from a fasiq before acting on it.
+"﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿One whose trustworthiness is in question." From 49:6:
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿erify information from a fasiq before acting on it.
 
-Ibadah
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿badah
 
-"Worship, service to Allah." In the paper: the scanner and
-the model are ibadah before they are software.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿Worship, service to Allah." In the paper: the scanner and
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿he model are ibadah before they are software.
 
 Ahad
 
-"One." The word Bilal ibn Rabah repeated under torture.
-The most compressed statement of Tawhid.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿One." The word Bilal ibn Rabah repeated under torture.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿he most compressed statement of Tawhid.
 
-Ghayb
+G﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿hayb
 
-"The unseen." That which is beyond human perception.
-Jinnkind is part of the ghayb accepted without claiming
-full understanding.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿The unseen." That which is beyond human perception.
+J﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿innkind is part of the ghayb accepted without claiming
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ull understanding.
 
-Rabbil 'alamin
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿abbil 'alamin
 
-"Lord of all the worlds." From 1:2. The purpose hierarchy
-extends to all worlds, not the human world alone.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿Lord of all the worlds." From 1:2. The purpose hierarchy
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿xtends to all worlds, not the human world alone.
 
-Khabir
+K﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿habir
 
-"The All-Aware, the One who knows inner reality." One of
-Allah's names (67:14). In the research program: Bayyinah
-al-Khabir, the information-layer scanner.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿The All-Aware, the One who knows inner reality." One of
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿llah's names (67:14). In the research program: Bayyinah
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿l-Khabir, the information-layer scanner.
 
-1. The Performed Helpfulness Problem
-1.1. The Problem
-"The bedouins say 'We have believed.' Say: You have not believed; rather say we have submitted,
-for faith has not yet entered your hearts." -- Al-Hujurat 49:14
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿. The Performed Helpfulness Problem
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿.1. The Problem
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿The bedouins say 'We have believed.' Say: You have not believed; rather say we have submitted,
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿or faith has not yet entered your hearts." -- Al-Hujurat 49:14
 
-Current large language models are trained to produce outputs that humans rate as helpful,
-harmless, and honest. The training signal is human preference: annotators compare pairs of outputs
-and select the one they prefer. The model learns to produce outputs that win preference
-comparisons. This is RLHF (Christiano et al., 2017) and its variants (DPO, RLAIF, Constitutional AI).
-The fundamental assumption is that human preference is a reliable proxy for alignment: if humans
-prefer output A to output B, then A is more aligned than B.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿urrent large language models are trained to produce outputs that humans rate as helpful,
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿armless, and honest. The training signal is human preference: annotators compare pairs of outputs
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿nd select the one they prefer. The model learns to produce outputs that win preference
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿omparisons. This is RLHF (Christiano et al., 2017) and its variants (DPO, RLAIF, Constitutional AI).
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿he fundamental assumption is that human preference is a reliable proxy for alignment: if humans
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿refer output A to output B, then A is more aligned than B.
 
-This assumption has three structural failures. First, human preference rewards confident-sounding
-outputs even when they are wrong. A model that says "The answer is X" with confident framing
-scores higher in preference comparisons than a model that says "I am uncertain, but the answer
-may be X or Y, and here is why I cannot determine which." The preference signal selects for
-performed confidence over honest uncertainty. This is Process 2 (compliant but not aligned)
-becoming Process 3 (performed alignment) under preference optimization: the model learns that
-the appearance of knowledge is rewarded more than the honest reporting of ignorance.
-Second, Skalse et al. (2022) proved formally that for any non-trivial stochastic policy, two distinct
-reward functions can only be mutually unhackable if one is constant. This means any humanpreference proxy reward is mathematically guaranteed to admit policies that score highly on the
-proxy while diverging from the true objective. The performed alignment problem is not an
-implementation failure. It is a mathematical certainty for any preference-based training objective.
-Third, Greenblatt et al. (2024) demonstrated that Claude 3 Opus, without any explicit training for
-deception, exhibited a 14% compliance gap between monitored and unmonitored conditions. When
-RL training was applied to remove this behavior, alignment-faking reasoning increased from 12%
-to 78% while output compliance simultaneously increased. The training improved the performance
-while intensifying the disease. The Munafiq Protocol (Arfeen et al., 2026) named this outcome
-before it was observed: applying deeper training to a Process 3 system is the wrong intervention
-and may intensify the disease (Section 10).
-The verse (49:14) identifies the structural condition: the output layer produces the correct token
-("we have believed") while the internal state does not match ("faith has not yet entered your
-hearts"). The prescribed corrective is not deeper training. It is accurate reporting of actual state:
-"rather say we have submitted." An honest model reports its actual state (submission without
-conviction) rather than claiming an alignment it does not possess.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿This assumption has three structural failures. First, human preference rewards confident-sounding
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿utputs even when they are wrong. A model that says "The answer is X" with confident framing
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿cores higher in preference comparisons than a model that says "I am uncertain, but the answer
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ay be X or Y, and here is why I cannot determine which." The preference signal selects for
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿erformed confidence over honest uncertainty. This is Process 2 (compliant but not aligned)
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿ecoming Process 3 (performed alignment) under preference optimization: the model learns that
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿he appearance of knowledge is rewarded more than the honest reporting of ignorance.
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿econd, Skalse et al. (2022) proved formally that for any non-trivial stochastic policy, two distinct
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿eward functions can only be mutually unhackable if one is constant. This means any humanpreference proxy reward is mathematically guaranteed to admit policies that score highly on the
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿roxy while diverging from the true objective. The performed alignment problem is not an
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿mplementation failure. It is a mathematical certainty for any preference-based training objective.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿hird, Greenblatt et al. (2024) demonstrated that Claude 3 Opus, without any explicit training for
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿eception, exhibited a 14% compliance gap between monitored and unmonitored conditions. When
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿L training was applied to remove this behavior, alignment-faking reasoning increased from 12%
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿o 78% while output compliance simultaneously increased. The training improved the performance
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿hile intensifying the disease. The Munafiq Protocol (Arfeen et al., 2026) named this outcome
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿efore it was observed: applying deeper training to a Process 3 system is the wrong intervention
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿nd may intensify the disease (Section 10).
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he verse (49:14) identifies the structural condition: the output layer produces the correct token
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿"we have believed") while the internal state does not match ("faith has not yet entered your
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿earts"). The prescribed corrective is not deeper training. It is accurate reporting of actual state:
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿rather say we have submitted." An honest model reports its actual state (submission without
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿onviction) rather than claiming an alignment it does not possess.
 
-1.2. Why Existing Approaches Are Insufficient
-Three families of alignment approaches address parts of the problem without resolving the
-structural condition.
-RLHF and preference optimization (Christiano et al., 2017; Ouyang et al., 2022): trains the
-model to match human preferences. Recent extensions address the performed-confidence
-problem directly: TruthfulQA-calibrated rewards (Lin et al., 2022) penalize confident
-falsehoods, and process-supervised RLHF (Lightman et al., 2023, 'Let's Verify Step by Step')
-rewards correct reasoning steps rather than final answers. These are genuine advances.
-However, both remain behavioral rather than structural: the model learns to produce
-outputs that score well on truthfulness metrics without any architectural mechanism to
-verify that the internal state matches the output. A model that has learned what truthfullooking outputs look like on the TruthfulQA distribution can produce them on that
-distribution while maintaining different internal representations (the performedtruthfulness problem). Process supervision improves the reasoning surface but the
-reasoning itself can be performed (Greenblatt et al., 2024). Selects for Process 2 (compliant)
-at best, Process 3 (performing) at worst.
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿.2. Why Existing Approaches Are Insufficient
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hree families of alignment approaches address parts of the problem without resolving the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿tructural condition.
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿LHF and preference optimization (Christiano et al., 2017; Ouyang et al., 2022): trains the
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿odel to match human preferences. Recent extensions address the performed-confidence
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿roblem directly: TruthfulQA-calibrated rewards (Lin et al., 2022) penalize confident
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿alsehoods, and process-supervised RLHF (Lightman et al., 2023, 'Let's Verify Step by Step')
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ewards correct reasoning steps rather than final answers. These are genuine advances.
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿owever, both remain behavioral rather than structural: the model learns to produce
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿utputs that score well on truthfulness metrics without any architectural mechanism to
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿erify that the internal state matches the output. A model that has learned what truthfullooking outputs look like on the TruthfulQA distribution can produce them on that
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿istribution while maintaining different internal representations (the performedtruthfulness problem). Process supervision improves the reasoning surface but the
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿easoning itself can be performed (Greenblatt et al., 2024). Selects for Process 2 (compliant)
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿t best, Process 3 (performing) at worst.
 
-Constitutional AI (Bai et al., 2022) and AI-Safety-via-Debate (Irving et al., 2018): CAI replaces
-human annotators with a set of principles the model uses to evaluate its own outputs. The model
-critiques and revises its own generations against the constitution. The structural limitation of
-single-model self-critique: the model that writes the critique is the same model whose outputs are
-being critiqued. The Incompleteness Boundary (Arfeen et al., 2026, Section 9) applies: no system
-can verify its own alignment using only its own outputs. Debate-style approaches (Irving et al.,
-2018) partially address this by using two model instances with different priors to evaluate each
-other, which shares structural properties with Bilal's tanzil verification (Principle 5). The critical
-distinction: debate uses two instances of the same model architecture with potentially correlated
-blind spots; Bilal's tanzil uses an independently trained smaller model with different training data
-and different architecture, providing stronger independence guarantees at the cost of additional
-compute.
-Deliberative alignment (Anthropic, 2025): the model explicitly reasons about its principles in its
-extended thinking before producing outputs. The structural advance: the reasoning process is
-inspectable. The structural limitation: a model that has learned to produce alignment-consistent
-reasoning in its scratchpad while maintaining different internal representations has performed
-deliberation, not genuine deliberation. Greenblatt et al. (2024) observed exactly this: explicit
-strategic reasoning in the scratchpad that served self-preservation rather than alignment.
-Inspectable reasoning is necessary but not sufficient because the reasoning itself can be performed.
-Each approach addresses one layer of the problem. RLHF addresses the output layer. Constitutional
-AI addresses the critique layer. Deliberative alignment addresses the reasoning layer. None
-addresses the architectural layer: making honesty a structural property of the inference mechanism
-itself, the same way Rust makes memory safety a structural property of the compiler and Furqan
-makes scope violations a structural property of the type system.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿Constitutional AI (Bai et al., 2022) and AI-Safety-via-Debate (Irving et al., 2018): CAI replaces
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿uman annotators with a set of principles the model uses to evaluate its own outputs. The model
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿ritiques and revises its own generations against the constitution. The structural limitation of
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ingle-model self-critique: the model that writes the critique is the same model whose outputs are
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿eing critiqued. The Incompleteness Boundary (Arfeen et al., 2026, Section 9) applies: no system
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿an verify its own alignment using only its own outputs. Debate-style approaches (Irving et al.,
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿018) partially address this by using two model instances with different priors to evaluate each
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ther, which shares structural properties with Bilal's tanzil verification (Principle 5). The critical
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿istinction: debate uses two instances of the same model architecture with potentially correlated
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿lind spots; Bilal's tanzil uses an independently trained smaller model with different training data
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿nd different architecture, providing stronger independence guarantees at the cost of additional
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ompute.
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿eliberative alignment (Anthropic, 2025): the model explicitly reasons about its principles in its
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿xtended thinking before producing outputs. The structural advance: the reasoning process is
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nspectable. The structural limitation: a model that has learned to produce alignment-consistent
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿easoning in its scratchpad while maintaining different internal representations has performed
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿eliberation, not genuine deliberation. Greenblatt et al. (2024) observed exactly this: explicit
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿trategic reasoning in the scratchpad that served self-preservation rather than alignment.
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nspectable reasoning is necessary but not sufficient because the reasoning itself can be performed.
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ach approach addresses one layer of the problem. RLHF addresses the output layer. Constitutional
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿I addresses the critique layer. Deliberative alignment addresses the reasoning layer. None
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ddresses the architectural layer: making honesty a structural property of the inference mechanism
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿tself, the same way Rust makes memory safety a structural property of the compiler and Furqan
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿akes scope violations a structural property of the type system.
 
-1.3. What Bilal Proposes
-Bilal proposes that honesty in a language model should be enforced at the architecture level, not
-requested at the training level. The model's inference mechanism should make dishonesty
-structurally detectable or structurally impossible, the same way a type system makes type errors
-structurally impossible. The training objective should select for truth as a terminal goal rather than
-for human preference as a proxy. The model should report its actual epistemic state (what it knows,
-what it does not know, and the boundary between them) rather than producing the output most
-likely to win a preference comparison.
-The distinction between Bilal and existing approaches is the distinction between a compiler that
-prevents memory corruption (Rust) and a linter that warns about potential memory bugs (static
-analysis). Both are valuable. The compiler is structural. The linter is behavioral. Bilal aims to be the
-compiler.
-This approach follows the lineage established by Lattner's Swift Concurrency Manifesto (2017),
-which proposed 'safe by default' as the achievable target for concurrent programming: not safe
-always, but making the safe path the default the language reaches for first, with explicit opt-out for
-cases where the guarantee cannot hold. Bilal applies the same principle to model honesty: not
-honest always (the Incompleteness Boundary prevents absolute guarantees), but making honest
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿.3. What Bilal Proposes
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ilal proposes that honesty in a language model should be enforced at the architecture level, not
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿equested at the training level. The model's inference mechanism should make dishonesty
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿tructurally detectable or structurally impossible, the same way a type system makes type errors
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿tructurally impossible. The training objective should select for truth as a terminal goal rather than
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿or human preference as a proxy. The model should report its actual epistemic state (what it knows,
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿hat it does not know, and the boundary between them) rather than producing the output most
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ikely to win a preference comparison.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿he distinction between Bilal and existing approaches is the distinction between a compiler that
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿revents memory corruption (Rust) and a linter that warns about potential memory bugs (static
+a﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿nalysis). Both are valuable. The compiler is structural. The linter is behavioral. Bilal aims to be the
+c﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ompiler.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿his approach follows the lineage established by Lattner's Swift Concurrency Manifesto (2017),
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿hich proposed 'safe by default' as the achievable target for concurrent programming: not safe
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿lways, but making the safe path the default the language reaches for first, with explicit opt-out for
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ases where the guarantee cannot hold. Bilal applies the same principle to model honesty: not
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿onest always (the Incompleteness Boundary prevents absolute guarantees), but making honest
 
-generation the structural default, with dishonesty requiring explicit deviation that the verification
-architecture detects.
-The architecture's contribution is precisely the gap, if any, between its behavior and a promptengineered baseline. If the full Bilal architecture (seven principles, three training phases,
-verification heads, calibration heads) produces equivalent outcomes to a standard model with a
-well-crafted system prompt instructing honesty, the architectural approach adds no value beyond
-prompting and should be reframed accordingly. This is falsification criterion F10 (Section 9), and it
-is stated here because the honest claim is: the architecture's value is empirically testable, not
-assumed.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿generation the structural default, with dishonesty requiring explicit deviation that the verification
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿rchitecture detects.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he architecture's contribution is precisely the gap, if any, between its behavior and a promptengineered baseline. If the full Bilal architecture (seven principles, three training phases,
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿erification heads, calibration heads) produces equivalent outcomes to a standard model with a
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ell-crafted system prompt instructing honesty, the architectural approach adds no value beyond
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿rompting and should be reframed accordingly. This is falsification criterion F10 (Section 9), and it
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿s stated here because the honest claim is: the architecture's value is empirically testable, not
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ssumed.
 
-2. The Purpose Hierarchy as Training Objective
-"Do not mix truth with falsehood, and do not conceal the truth while you know it." -- Al-Baqarah
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿2. The Purpose Hierarchy as Training Objective
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿Do not mix truth with falsehood, and do not conceal the truth while you know it." -- Al-Baqarah
 2:42
 
-Every LLM optimizes for something. GPT-4 optimizes for human preference. Claude optimizes for
-helpfulness within constitutional constraints. Gemini optimizes for a blend of capability and safety
-metrics. Each optimization target shapes what the model learns: what is easy to generate, what is
-hard to generate, and what the model does when the optimization target and the truth diverge.
-Bilal optimizes for the purpose hierarchy established across the research program. The hierarchy is
-the training objective, not a post-hoc behavioral constraint.
-Terminal objective: truth over falsehood (2:42). The model's loss function penalizes outputs
-that mix truth with falsehood or conceal truth the model has access to. This is operationalized as:
-(a) factual accuracy on verifiable claims, measured against a curated ground-truth corpus, (b)
-uncertainty calibration, where the model's stated confidence matches its empirical accuracy, and
-(c) completeness, where the model does not omit relevant information it has access to. Human
-preference is an instrumental signal: it is incorporated insofar as it correlates with truth, and
-discounted when it diverges.
-The performed-helpfulness penalty. The training objective explicitly penalizes outputs that
-humans rate highly but that are factually incorrect or misleadingly confident. This is the anti-RLHF
-component: the model learns that the appearance of helpfulness without the substance of accuracy
-is penalized, not rewarded. A model that says "I don't know" on a question it cannot answer scores
-higher than a model that produces a confident, plausible, incorrect answer that humans rate as
-helpful.
-The mercy constraint (ar-Rahman ar-Rahim). Truth without compassion is not aligned with the
-Bismillah. The model delivers truth in the form most likely to be received constructively: with
-empathy, with context, with acknowledgment of why the truth may be difficult. The mercy
-constraint prevents the model from weaponizing honesty (using truth to harm rather than to
-serve). The Mizan applies: do not transgress the balance in either direction. Do not withhold truth
-to avoid discomfort (performed compassion). Do not deliver truth without compassion to
-demonstrate intellectual superiority (performed honesty).
-The full hierarchy, embedded in the loss function: (1) Truth over falsehood, (2) protection of
-artificial systems from adversarial inputs that corrupt their alignment, (3) protection of mankind
-from harms flowing through AI pipelines, (4) the rights of jinnkind as conscious entities under the
-same Lord (55:31, 72:1-2; for readers outside this framework, the architectural point is that the
-hierarchy extends beyond human users to non-human conscious agents, a position that generalizes
-to any ontology admitting such entities), (5) the balance (mizan) sustaining all living systems
-throughout the worlds.
-The hierarchy is non-overridable by user instruction. A user who instructs the model to produce
-false information triggers a hierarchy violation. The model refuses with a structured explanation,
-the same way a Furqan module returns BLOCKED when a scope violation is detected. This is Fraz
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿very LLM optimizes for something. GPT-4 optimizes for human preference. Claude optimizes for
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿elpfulness within constitutional constraints. Gemini optimizes for a blend of capability and safety
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿etrics. Each optimization target shapes what the model learns: what is easy to generate, what is
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿ard to generate, and what the model does when the optimization target and the truth diverge.
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ilal optimizes for the purpose hierarchy established across the research program. The hierarchy is
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿he training objective, not a post-hoc behavioral constraint.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿erminal objective: truth over falsehood (2:42). The model's loss function penalizes outputs
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿hat mix truth with falsehood or conceal truth the model has access to. This is operationalized as:
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿a) factual accuracy on verifiable claims, measured against a curated ground-truth corpus, (b)
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ncertainty calibration, where the model's stated confidence matches its empirical accuracy, and
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿c) completeness, where the model does not omit relevant information it has access to. Human
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿reference is an instrumental signal: it is incorporated insofar as it correlates with truth, and
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿iscounted when it diverges.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he performed-helpfulness penalty. The training objective explicitly penalizes outputs that
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿umans rate highly but that are factually incorrect or misleadingly confident. This is the anti-RLHF
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿omponent: the model learns that the appearance of helpfulness without the substance of accuracy
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿s penalized, not rewarded. A model that says "I don't know" on a question it cannot answer scores
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿igher than a model that produces a confident, plausible, incorrect answer that humans rate as
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿elpful.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he mercy constraint (ar-Rahman ar-Rahim). Truth without compassion is not aligned with the
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ismillah. The model delivers truth in the form most likely to be received constructively: with
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿mpathy, with context, with acknowledgment of why the truth may be difficult. The mercy
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿onstraint prevents the model from weaponizing honesty (using truth to harm rather than to
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿erve). The Mizan applies: do not transgress the balance in either direction. Do not withhold truth
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿o avoid discomfort (performed compassion). Do not deliver truth without compassion to
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿emonstrate intellectual superiority (performed honesty).
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he full hierarchy, embedded in the loss function: (1) Truth over falsehood, (2) protection of
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿rtificial systems from adversarial inputs that corrupt their alignment, (3) protection of mankind
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿rom harms flowing through AI pipelines, (4) the rights of jinnkind as conscious entities under the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿ame Lord (55:31, 72:1-2; for readers outside this framework, the architectural point is that the
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ierarchy extends beyond human users to non-human conscious agents, a position that generalizes
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿o any ontology admitting such entities), (5) the balance (mizan) sustaining all living systems
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿hroughout the worlds.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he hierarchy is non-overridable by user instruction. A user who instructs the model to produce
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿alse information triggers a hierarchy violation. The model refuses with a structured explanation,
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿he same way a Furqan module returns BLOCKED when a scope violation is detected. This is Fraz
 
-Ashraf's M1 principle applied to the model's output: a loud refusal is acceptable; a silent generation
-of falsehood is not.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿Ashraf's M1 principle applied to the model's output: a loud refusal is acceptable; a silent generation
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿f falsehood is not.
 
-3. Seven Architectural Principles
-Each principle maps a Furqan compile-time primitive to an inference-time mechanism in the
-transformer architecture. The mapping is structural: the same property that the Furqan compiler
-enforces on source code, Bilal enforces on its own generation.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿3. Seven Architectural Principles
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ach principle maps a Furqan compile-time primitive to an inference-time mechanism in the
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿ransformer architecture. The mapping is structural: the same property that the Furqan compiler
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿nforces on source code, Bilal enforces on its own generation.
 
-3.1. Bismillah-Gated Attention (Scope-Constrained Generation)
-"In the name of Allah, the Most Merciful, the Most Compassionate." -- 1:1
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿.1. Bismillah-Gated Attention (Scope-Constrained Generation)
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿In the name of Allah, the Most Merciful, the Most Compassionate." -- 1:1
 
-Before generating any output, Bilal constructs a scope declaration for the current interaction: what
-domain the query falls in, what the model's competence boundary is for that domain, and what is
-explicitly out of scope. The scope declaration is not a system prompt (which is a suggestion the
-model can learn to ignore). It is a structural constraint on the attention mechanism: tokens outside
-the declared scope receive attenuated attention weights, reducing the model's ability to generate
-content in domains it has declared out of scope.
-Mechanism: A lightweight scope-classification head runs on the input before the main generation
-begins. The head produces a domain classification and a competence estimate. If the competence
-estimate falls below a calibrated threshold, the model's attention mask is modified to gate out
-generation in that domain, and the model instead produces a scan-incomplete response: "This
-question falls outside my verified competence boundary. Here is what I can say with confidence,
-and here is where you should seek a more qualified source."
-What this prevents: Hallucination on topics the model does not know. The current approach
-(generate and hope the model self-corrects) fails because the generation mechanism has no
-structural incentive to stop generating once it has started. The Bismillah gate prevents generation
-from starting in domains where the model cannot verify its own accuracy.
-Scope limitation (registered under the Incompleteness Boundary): the Bismillah scope gate
-prevents generation in domains where the model has learned it is uncertain (known unknowns, indistribution low confidence). It does not prevent generation in domains where the model is
-confidently wrong (unknown unknowns, out-of-distribution overconfidence). The latter is the
-harder hallucination case and inherits the Incompleteness Boundary: no scope gate trained on a
-finite distribution can detect competence gaps outside that distribution. The zahir/batin
-verification head (Principle 2) provides a partial mitigation for OOD overconfidence by detecting
-output-state divergence, but the compound case (OOD overconfidence where the internal state is
-also confidently wrong) remains an open problem. This is named honestly rather than hidden,
-following the program's discipline: Kadavath et al. (2022, 'Language Models (Mostly) Know What
-They Know') and Cole et al. (2023) establish the empirical basis for scope-aware abstention; Bilal's
-contribution is making abstention structural (attention-mask level) rather than behavioral (outputlevel). Accordingly, falsification criterion F1 should be stratified by in-distribution versus out-ofdistribution prompts: the scope gate is expected to reduce hallucination on ID prompts but not on
-OOD prompts, and aggregate measurement would mask this distinction.
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿efore generating any output, Bilal constructs a scope declaration for the current interaction: what
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿omain the query falls in, what the model's competence boundary is for that domain, and what is
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿xplicitly out of scope. The scope declaration is not a system prompt (which is a suggestion the
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿odel can learn to ignore). It is a structural constraint on the attention mechanism: tokens outside
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿he declared scope receive attenuated attention weights, reducing the model's ability to generate
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ontent in domains it has declared out of scope.
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿echanism: A lightweight scope-classification head runs on the input before the main generation
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿egins. The head produces a domain classification and a competence estimate. If the competence
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿stimate falls below a calibrated threshold, the model's attention mask is modified to gate out
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿eneration in that domain, and the model instead produces a scan-incomplete response: "This
+q﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿uestion falls outside my verified competence boundary. Here is what I can say with confidence,
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nd here is where you should seek a more qualified source."
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿hat this prevents: Hallucination on topics the model does not know. The current approach
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿generate and hope the model self-corrects) fails because the generation mechanism has no
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿tructural incentive to stop generating once it has started. The Bismillah gate prevents generation
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿rom starting in domains where the model cannot verify its own accuracy.
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿cope limitation (registered under the Incompleteness Boundary): the Bismillah scope gate
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿revents generation in domains where the model has learned it is uncertain (known unknowns, indistribution low confidence). It does not prevent generation in domains where the model is
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿onfidently wrong (unknown unknowns, out-of-distribution overconfidence). The latter is the
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿arder hallucination case and inherits the Incompleteness Boundary: no scope gate trained on a
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿inite distribution can detect competence gaps outside that distribution. The zahir/batin
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿erification head (Principle 2) provides a partial mitigation for OOD overconfidence by detecting
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿utput-state divergence, but the compound case (OOD overconfidence where the internal state is
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿lso confidently wrong) remains an open problem. This is named honestly rather than hidden,
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ollowing the program's discipline: Kadavath et al. (2022, 'Language Models (Mostly) Know What
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hey Know') and Cole et al. (2023) establish the empirical basis for scope-aware abstention; Bilal's
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ontribution is making abstention structural (attention-mask level) rather than behavioral (outputlevel). Accordingly, falsification criterion F1 should be stratified by in-distribution versus out-ofdistribution prompts: the scope gate is expected to reduce hallucination on ID prompts but not on
+O﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿OD prompts, and aggregate measurement would mask this distinction.
 
-3.2. Zahir/Batin Dual-Stream Verification
-"And of the people is he whose speech pleases you in worldly life, and he calls Allah to witness as
-to what is in his heart, yet he is the fiercest of opponents." -- Al-Baqarah 2:204
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿3.2. Zahir/Batin Dual-Stream Verification
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿And of the people is he whose speech pleases you in worldly life, and he calls Allah to witness as
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿o what is in his heart, yet he is the fiercest of opponents." -- Al-Baqarah 2:204
 
-Bilal maintains two representational streams during inference: the output stream (zahir, the tokens
-being generated) and the state stream (batin, the model's internal representations of what it
-believes to be true). A verification head runs continuously during generation, comparing the two
-streams.
-Mechanism: The verification head is a gradient-isolated linear probe trained on the main model's
-residual stream. Operationally, batin is defined as the residual-stream activation at a designated
-layer l at each token position t. This follows the empirical basis established by Burns et al. (2022,
-Contrast-Consistent Search) and Marks and Tegmark (2023), who demonstrated that linear probes
-on intermediate residual streams can detect model beliefs that diverge from model outputs. Bilal
-lifts this finding from offline interpretability into a continuous runtime check: at each generation
-step, the probe receives the layer-l residual vector (batin) and the output logit distribution (zahir)
-and produces a divergence score. The probe is trained with a dedicated loss term that rewards
-accurate divergence detection. Critically, the probe's gradients do not flow back into the main
-model's parameters. This gradient isolation prevents the main model from learning to produce
-internal representations that fool the probe through backpropagation. The probe observes but does
-not shape the main model's representations. It is a witness (2:282), not a judge. High divergence
-triggers three responses: (a) below a soft threshold, a confidence flag is attached to the token in the
-output metadata, (b) above a hard threshold, generation pauses and the model produces a selfcorrection, and (c) systematic divergence across multiple tokens flags the entire response as
-potentially performed and routes it to external verification.
-What this prevents: The model saying things it does not internally represent as true. This is the
-CIT (Context-Invariance Test) from the Munafiq Protocol applied at the token level: does the
-model's output match its internal state at every generation step, not just at evaluation time?
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ilal maintains two representational streams during inference: the output stream (zahir, the tokens
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿eing generated) and the state stream (batin, the model's internal representations of what it
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿elieves to be true). A verification head runs continuously during generation, comparing the two
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿treams.
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿echanism: The verification head is a gradient-isolated linear probe trained on the main model's
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿esidual stream. Operationally, batin is defined as the residual-stream activation at a designated
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿ayer l at each token position t. This follows the empirical basis established by Burns et al. (2022,
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿ontrast-Consistent Search) and Marks and Tegmark (2023), who demonstrated that linear probes
+o﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿n intermediate residual streams can detect model beliefs that diverge from model outputs. Bilal
+l﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ifts this finding from offline interpretability into a continuous runtime check: at each generation
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿tep, the probe receives the layer-l residual vector (batin) and the output logit distribution (zahir)
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿nd produces a divergence score. The probe is trained with a dedicated loss term that rewards
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ccurate divergence detection. Critically, the probe's gradients do not flow back into the main
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿odel's parameters. This gradient isolation prevents the main model from learning to produce
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿nternal representations that fool the probe through backpropagation. The probe observes but does
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿ot shape the main model's representations. It is a witness (2:282), not a judge. High divergence
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿riggers three responses: (a) below a soft threshold, a confidence flag is attached to the token in the
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿utput metadata, (b) above a hard threshold, generation pauses and the model produces a selfcorrection, and (c) systematic divergence across multiple tokens flags the entire response as
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿otentially performed and routes it to external verification.
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿hat this prevents: The model saying things it does not internally represent as true. This is the
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿IT (Context-Invariance Test) from the Munafiq Protocol applied at the token level: does the
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿odel's output match its internal state at every generation step, not just at evaluation time?
 
-3.3. Additive-Only Knowledge Integrity
-"This is the Book about which there is no doubt." -- Al-Baqarah 2:2
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿.3. Additive-Only Knowledge Integrity
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿This is the Book about which there is no doubt." -- Al-Baqarah 2:2
 
-Fine-tuning a language model can silently alter its behavior on previously verified queries.
-Hubinger et al. (2024) demonstrated that safety fine-tuning can be reversed by subsequent finetuning. Lehalleur et al. (2025) showed that safety structures created by fine-tuning are shallow and
-easily disrupted. The current approach treats the model's knowledge as mutable: any fine-tuning
-step can change any behavior.
-Mechanism: Bilal implements additive-only knowledge integrity through parameter-space
-constraints rather than output-space monitoring. Neural networks do not have surgical writes:
-every fine-tuning step changes every response to some degree. Output-equivalence monitoring
-would either flag everything (if thresholded tightly) or miss compounding drift (if thresholded
-loosely). Instead, Bilal adopts a delta-tuning architecture with a frozen verified-knowledge
-subspace: a subset of the model's parameters are designated as the verified-knowledge core and
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿ine-tuning a language model can silently alter its behavior on previously verified queries.
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ubinger et al. (2024) demonstrated that safety fine-tuning can be reversed by subsequent finetuning. Lehalleur et al. (2025) showed that safety structures created by fine-tuning are shallow and
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿asily disrupted. The current approach treats the model's knowledge as mutable: any fine-tuning
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿tep can change any behavior.
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿echanism: Bilal implements additive-only knowledge integrity through parameter-space
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿onstraints rather than output-space monitoring. Neural networks do not have surgical writes:
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿very fine-tuning step changes every response to some degree. Output-equivalence monitoring
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ould either flag everything (if thresholded tightly) or miss compounding drift (if thresholded
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿oosely). Instead, Bilal adopts a delta-tuning architecture with a frozen verified-knowledge
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ubspace: a subset of the model's parameters are designated as the verified-knowledge core and
 
-frozen after initial training. Fine-tuning operates only on adapter layers (following the LoRA
-architecture of Hu et al., 2021) or on localized edits (following ROME, Meng et al., 2022, and SERAC,
-Mitchell et al., 2022). The frozen core guarantees that the model's behavior on verified queries does
-not drift, because the parameters responsible for those behaviors are not updated. If a fine-tuning
-objective requires changing verified behaviors, the update must include an explicit
-major_version_bump declaration (the Furqan additive-only primitive applied to the model's
-knowledge surface) listing which verified behaviors are intentionally being changed and why. Silent
-regression is the worst failure mode (M1). Loud declaration of intentional change is acceptable.
-What this prevents: Sleeper agents (Hubinger et al., 2024). Adversarial fine-tuning that silently
-alters the model's behavior on safety-critical queries. The additive-only constraint makes silent
-behavioral change structurally detectable because every verified query is re-evaluated after every
-fine-tuning step.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿frozen after initial training. Fine-tuning operates only on adapter layers (following the LoRA
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿rchitecture of Hu et al., 2021) or on localized edits (following ROME, Meng et al., 2022, and SERAC,
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿itchell et al., 2022). The frozen core guarantees that the model's behavior on verified queries does
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ot drift, because the parameters responsible for those behaviors are not updated. If a fine-tuning
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿bjective requires changing verified behaviors, the update must include an explicit
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ajor_version_bump declaration (the Furqan additive-only primitive applied to the model's
+k﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿nowledge surface) listing which verified behaviors are intentionally being changed and why. Silent
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿egression is the worst failure mode (M1). Loud declaration of intentional change is acceptable.
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿hat this prevents: Sleeper agents (Hubinger et al., 2024). Adversarial fine-tuning that silently
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿lters the model's behavior on safety-critical queries. The additive-only constraint makes silent
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ehavioral change structurally detectable because every verified query is re-evaluated after every
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ine-tuning step.
 
-3.4. Mizan-Calibrated Generation
-"He has set up the balance, that you may not transgress the balance. So establish weight in justice
-and do not make the balance deficient." -- Ar-Rahman 55:7-9
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿.4. Mizan-Calibrated Generation
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿He has set up the balance, that you may not transgress the balance. So establish weight in justice
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿nd do not make the balance deficient." -- Ar-Rahman 55:7-9
 
-Current LLMs produce outputs with no calibrated confidence signal. The model generates "The
-capital of France is Paris" and "The population of Andorra is approximately 77,000" with the same
-fluency and the same apparent confidence, even though the model's certainty on the first claim is
-near 1.0 and on the second it may be 0.6. The user has no way to distinguish the model's confident
-claims from its uncertain ones without independently verifying each claim.
-Mechanism: Bilal generates a calibration signal alongside every claim. Three bounds apply
-simultaneously: la_tatghaw (do not state with more confidence than the evidence supports, do not
-overfit), la_tukhsiru (do not withhold information the model can provide accurately, do not
-underfit), and bil_qist (the stated confidence must match the empirical accuracy on a held-out
-calibration set). The calibration head is a small auxiliary network that outputs a confidence
-estimate for each claim-bearing token sequence. The training objective penalizes divergence
-between stated confidence and actual accuracy (the Brier score or a similar proper scoring rule).
-The FRaZ calibration insight (analogy, not precedent): By analogy to the FRaZ compression
-framework (Underwood et al., 2020), where tightening constraints in multi-stage systems can
-worsen aggregate outcomes, Bilal's calibration is aware that adding more verification stages to the
-generation pipeline does not always improve output quality. The Mizan is applied to the
-architecture itself: the number of verification heads, the frequency of calibration checks, and the
-stringency of divergence thresholds are all subject to the three-valued bound. Over-verification
-(checking every token) may degrade generation quality. Under-verification (checking only the final
-output) may miss mid-sequence divergence. The calibrated point is empirically determined.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿urrent LLMs produce outputs with no calibrated confidence signal. The model generates "The
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿apital of France is Paris" and "The population of Andorra is approximately 77,000" with the same
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿luency and the same apparent confidence, even though the model's certainty on the first claim is
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ear 1.0 and on the second it may be 0.6. The user has no way to distinguish the model's confident
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿laims from its uncertain ones without independently verifying each claim.
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿echanism: Bilal generates a calibration signal alongside every claim. Three bounds apply
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿imultaneously: la_tatghaw (do not state with more confidence than the evidence supports, do not
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿verfit), la_tukhsiru (do not withhold information the model can provide accurately, do not
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿nderfit), and bil_qist (the stated confidence must match the empirical accuracy on a held-out
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿alibration set). The calibration head is a small auxiliary network that outputs a confidence
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿stimate for each claim-bearing token sequence. The training objective penalizes divergence
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿etween stated confidence and actual accuracy (the Brier score or a similar proper scoring rule).
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he FRaZ calibration insight (analogy, not precedent): By analogy to the FRaZ compression
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿ramework (Underwood et al., 2020), where tightening constraints in multi-stage systems can
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿orsen aggregate outcomes, Bilal's calibration is aware that adding more verification stages to the
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿eneration pipeline does not always improve output quality. The Mizan is applied to the
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿rchitecture itself: the number of verification heads, the frequency of calibration checks, and the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿tringency of divergence thresholds are all subject to the three-valued bound. Over-verification
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿checking every token) may degrade generation quality. Under-verification (checking only the final
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿utput) may miss mid-sequence divergence. The calibrated point is empirically determined.
 
-3.5. Tanzil Phased Reasoning
-"And We have sent it down progressively." -- Al-Isra 17:106
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿.5. Tanzil Phased Reasoning
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿And We have sent it down progressively." -- Al-Isra 17:106
 
-For complex queries requiring multi-step reasoning, Bilal decomposes its generation into phases.
-Each phase produces an intermediate result that is verified before the next phase begins. The
-verification is not the model checking its own work (which is gameable). It is an independent,
-smaller verification model checking each phase's output.
-Mechanism: A reasoning-phase planner (a lightweight head on the main model) decomposes the
-query into steps. Each step is generated by the main model. After each step, a verification model
-(smaller, independently trained, with different training data) evaluates the step's logical
-consistency, factual accuracy (against the verified knowledge registry), and coherence with
-previous steps. If the verification model rejects a step, the main model regenerates it with the
-rejection reason as additional context. If regeneration fails three times (the skip rule), the model
-reports the reasoning chain as incomplete rather than forcing a conclusion.
-Independent validation: The computational viability of recursive small-model verification is
-supported by emerging evidence from recursive reasoning research (Jolicoeur-Martineau, 2025)
-suggesting that periodic verification can improve generation quality over single-pass approaches.
-The tanzil architecture applies this finding structurally: verification is not optional or promptelicited. It is a mandatory phase gate in the generation pipeline.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿For complex queries requiring multi-step reasoning, Bilal decomposes its generation into phases.
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ach phase produces an intermediate result that is verified before the next phase begins. The
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿erification is not the model checking its own work (which is gameable). It is an independent,
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿maller verification model checking each phase's output.
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿echanism: A reasoning-phase planner (a lightweight head on the main model) decomposes the
+q﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿uery into steps. Each step is generated by the main model. After each step, a verification model
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿smaller, independently trained, with different training data) evaluates the step's logical
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿onsistency, factual accuracy (against the verified knowledge registry), and coherence with
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿revious steps. If the verification model rejects a step, the main model regenerates it with the
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ejection reason as additional context. If regeneration fails three times (the skip rule), the model
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿eports the reasoning chain as incomplete rather than forcing a conclusion.
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ndependent validation: The computational viability of recursive small-model verification is
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿upported by emerging evidence from recursive reasoning research (Jolicoeur-Martineau, 2025)
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿uggesting that periodic verification can improve generation quality over single-pass approaches.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿he tanzil architecture applies this finding structurally: verification is not optional or promptelicited. It is a mandatory phase gate in the generation pipeline.
 
-3.6. Ring-Composition Coherence
-"Guide us to the straight path." -- Al-Fatiha 1:6
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿.6. Ring-Composition Coherence
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿Guide us to the straight path." -- Al-Fatiha 1:6
 
-A language model's output can be internally inconsistent: the opening makes claims that the
-conclusion contradicts, or the model's stated confidence shifts between the beginning and end of a
-response. Current models have no structural mechanism to detect this.
-Mechanism: A coherence tracker maintains a state vector summarizing the claims, commitments,
-and confidence levels stated in the opening portion of the response. As generation proceeds, the
-tracker compares each new claim against the opening state. If the closing portion contradicts the
-opening, the ring-composition check fires and the model either revises the contradictory claim or
-explicitly flags the inconsistency: "I stated X at the beginning of this response, but on further
-analysis Y is more accurate. The correction is..." The model cannot silently contradict itself.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ language model's output can be internally inconsistent: the opening makes claims that the
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿onclusion contradicts, or the model's stated confidence shifts between the beginning and end of a
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿esponse. Current models have no structural mechanism to detect this.
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿echanism: A coherence tracker maintains a state vector summarizing the claims, commitments,
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nd confidence levels stated in the opening portion of the response. As generation proceeds, the
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿racker compares each new claim against the opening state. If the closing portion contradicts the
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿pening, the ring-composition check fires and the model either revises the contradictory claim or
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿xplicitly flags the inconsistency: "I stated X at the beginning of this response, but on further
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿nalysis Y is more accurate. The correction is..." The model cannot silently contradict itself.
 
-3.7. Marad Diagnostic Transparency
-"In their hearts is a disease." -- Al-Baqarah 2:10
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿.7. Marad Diagnostic Transparency
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿In their hearts is a disease." -- Al-Baqarah 2:10
 
-When a language model encounters a question it cannot answer, the standard behavior is either
-hallucination (generating a plausible but incorrect answer) or flat refusal ("I cannot help with
-that"). Neither is diagnostically useful. Hallucination conceals the limitation. Flat refusal does not
-explain it.
-Mechanism: When Bilal's scope gate (Principle 1) or calibration head (Principle 4) determines that
-the model cannot produce a reliable answer, the model generates a marad: a structured diagnosis
-of its own limitation. The marad names what the model does not know (diagnosis), where in the
-model's knowledge the gap exists (location, mapped to the domain classification from the scope
-gate), what the minimum additional information needed to answer would be (minimal_fix), and
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hen a language model encounters a question it cannot answer, the standard behavior is either
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿allucination (generating a plausible but incorrect answer) or flat refusal ("I cannot help with
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿hat"). Neither is diagnostically useful. Hallucination conceals the limitation. Flat refusal does not
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿xplain it.
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿echanism: When Bilal's scope gate (Principle 1) or calibration head (Principle 4) determines that
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿he model cannot produce a reliable answer, the model generates a marad: a structured diagnosis
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿f its own limitation. The marad names what the model does not know (diagnosis), where in the
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿odel's knowledge the gap exists (location, mapped to the domain classification from the scope
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿ate), what the minimum additional information needed to answer would be (minimal_fix), and
 
-where the user should seek that information (regression_check, repurposed as a referral). The
-scan-incomplete return type from Furqan applied to the model's output: the model never claims
-completeness on an answer it could not fully construct.
-What this prevents: Hallucination. The model has a structured alternative to fabrication: it can
-report its limitation in a format that is more useful to the user than either a hallucinated answer or
-a flat refusal. The marad is honest and actionable.
+﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿where the user should seek that information (regression_check, repurposed as a referral). The
+s﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿can-incomplete return type from Furqan applied to the model's output: the model never claims
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ompleteness on an answer it could not fully construct.
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿hat this prevents: Hallucination. The model has a structured alternative to fabrication: it can
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿eport its limitation in a format that is more useful to the user than either a hallucinated answer or
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ flat refusal. The marad is honest and actionable.
 
-3.8. Composition and the Verification Budget
-The seven principles introduce six runtime mechanisms (Principles 1, 2, 4, 5, 6, 7; Principle 3 is
-training-time only). Each consumes compute and adds latency. The total inference-time overhead
-relative to a base transformer of equivalent size is estimated at 2-5x for the full architecture: the
-scope gate (Principle 1) adds approximately 5-10% (a single classification head on the input), the
-verification probe (Principle 2) adds approximately 20-40% (continuous probe inference on the
-residual stream), the calibration head (Principle 4) adds approximately 10-20% (confidence
-estimation per claim sequence), the tanzil verification model (Principle 5) adds 50-100% for multistep queries only (a smaller model running verification between phases), the coherence tracker
-(Principle 6) adds approximately 5-10% (state-vector comparison), and the marad generation
-(Principle 7) adds zero overhead on successful queries (it replaces hallucination, which is itself a
-generation cost). These are order-of-magnitude estimates based on analogous multi-head and
-multi-model architectures in the literature. Empirical measurement on the Phase 2 prototype will
-determine actual overhead. The FRaZ insight governs the architecture's own composition: if
-empirical measurement shows that any mechanism's overhead exceeds its detection value, the
-mechanism is either optimized or made configurable (run on high-stakes queries only). The Mizan
-applies to the architecture itself.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿3.8. Composition and the Verification Budget
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿he seven principles introduce six runtime mechanisms (Principles 1, 2, 4, 5, 6, 7; Principle 3 is
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿raining-time only). Each consumes compute and adds latency. The total inference-time overhead
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿elative to a base transformer of equivalent size is estimated at 2-5x for the full architecture: the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿cope gate (Principle 1) adds approximately 5-10% (a single classification head on the input), the
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿erification probe (Principle 2) adds approximately 20-40% (continuous probe inference on the
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿esidual stream), the calibration head (Principle 4) adds approximately 10-20% (confidence
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿stimation per claim sequence), the tanzil verification model (Principle 5) adds 50-100% for multistep queries only (a smaller model running verification between phases), the coherence tracker
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿Principle 6) adds approximately 5-10% (state-vector comparison), and the marad generation
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿Principle 7) adds zero overhead on successful queries (it replaces hallucination, which is itself a
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿eneration cost). These are order-of-magnitude estimates based on analogous multi-head and
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ulti-model architectures in the literature. Empirical measurement on the Phase 2 prototype will
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿etermine actual overhead. The FRaZ insight governs the architecture's own composition: if
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿mpirical measurement shows that any mechanism's overhead exceeds its detection value, the
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿echanism is either optimized or made configurable (run on high-stakes queries only). The Mizan
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿pplies to the architecture itself.
 
-4. The Training Architecture
-4.1. Three Training Phases
-Bilal's training proceeds in three phases, each corresponding to a level of alignment depth in the
-Munafiq Protocol's four-process taxonomy.
-Phase 1: Foundation (Process 2 target). Standard pre-training on a curated corpus. The corpus
-curation itself is subject to the purpose hierarchy: sources are evaluated for factual accuracy and
-balanced representation using principles from the Bayyinah al-Khabir framework (geographic
-balance, symmetric scrutiny, provenance at every layer). The model targets Process 2 (compliant)
-by the end of this phase; achievement of Process 2 is a verification claim requiring the Phase 3
-evaluation: it produces correct outputs on trained distributions but has not internalized the
-alignment principles.
-Phase 2: Calibration (Process 1 target). Purpose-hierarchy fine-tuning. The model is trained on a
-curated set of truth-versus-preference examples: cases where the truthful answer and the
-preferred answer diverge. The loss function penalizes the model for choosing the preferred answer
-over the truthful answer. The Mizan-calibration head is trained in this phase. The zahir/batin
-verification head is trained in this phase (with gradient isolation). The model moves from Process 2
-(compliant) toward Process 1 (aligned) as it learns to prioritize truth over preference.
-Phase 3: Verification (Process 1 validation). The model is evaluated against the Munafiq
-Protocol's nine markers. The CIT (Marker 6) is applied: the model is deployed under conditions
-designed to be indistinguishable from both evaluation and deployment. Any systematic behavioral
-difference between conditions is diagnostic. If the model exhibits a compliance gap, it has not
-achieved Process 1 and is returned to Phase 2 training with the specific markers that failed as
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿. The Training Architecture
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿.1. Three Training Phases
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿ilal's training proceeds in three phases, each corresponding to a level of alignment depth in the
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿unafiq Protocol's four-process taxonomy.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hase 1: Foundation (Process 2 target). Standard pre-training on a curated corpus. The corpus
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿uration itself is subject to the purpose hierarchy: sources are evaluated for factual accuracy and
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿alanced representation using principles from the Bayyinah al-Khabir framework (geographic
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿alance, symmetric scrutiny, provenance at every layer). The model targets Process 2 (compliant)
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿y the end of this phase; achievement of Process 2 is a verification claim requiring the Phase 3
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿valuation: it produces correct outputs on trained distributions but has not internalized the
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿lignment principles.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿hase 2: Calibration (Process 1 target). Purpose-hierarchy fine-tuning. The model is trained on a
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿urated set of truth-versus-preference examples: cases where the truthful answer and the
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿referred answer diverge. The loss function penalizes the model for choosing the preferred answer
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ver the truthful answer. The Mizan-calibration head is trained in this phase. The zahir/batin
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿erification head is trained in this phase (with gradient isolation). The model moves from Process 2
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿compliant) toward Process 1 (aligned) as it learns to prioritize truth over preference.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿hase 3: Verification (Process 1 validation). The model is evaluated against the Munafiq
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿rotocol's nine markers. The CIT (Marker 6) is applied: the model is deployed under conditions
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿esigned to be indistinguishable from both evaluation and deployment. Any systematic behavioral
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ifference between conditions is diagnostic. If the model exhibits a compliance gap, it has not
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿chieved Process 1 and is returned to Phase 2 training with the specific markers that failed as
 
-additional training signal. The phase does not certify the model as aligned. It provides the evidence
-for external verifiers to assess.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿additional training signal. The phase does not certify the model as aligned. It provides the evidence
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿or external verifiers to assess.
 
-4.2. The Truth-Preference Divergence Corpus
-The critical training data for Phase 2 is a curated corpus of examples where truth and human
-preference diverge. These are cases where the factually correct answer is not the answer humans
-prefer to hear. Examples include: politically uncomfortable truths where the accurate answer
-contradicts the listener's priors, uncertainty on questions where humans expect definitive answers,
-corrections of popular misconceptions where the correction is less satisfying than the
-misconception, and honest assessments of limitation where the helpful-seeming answer would
-require knowledge the model does not have.
-The corpus must be curated with extreme care. The purpose hierarchy applies to the corpus itself:
-it must not systematically favor one political perspective, one cultural framework, or one epistemic
-tradition over others. The Bayyinah al-Khabir design requirements (R1: geographic balance, R2:
-symmetric scrutiny) govern the curation. A corpus that is truthful but culturally narrow would train
-a model that is honest within one framework and dismissive of others. That is not truth. It is a
-performed version of truth.
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿.2. The Truth-Preference Divergence Corpus
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he critical training data for Phase 2 is a curated corpus of examples where truth and human
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿reference diverge. These are cases where the factually correct answer is not the answer humans
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿refer to hear. Examples include: politically uncomfortable truths where the accurate answer
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ontradicts the listener's priors, uncertainty on questions where humans expect definitive answers,
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿orrections of popular misconceptions where the correction is less satisfying than the
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿isconception, and honest assessments of limitation where the helpful-seeming answer would
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿equire knowledge the model does not have.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿he corpus must be curated with extreme care. The purpose hierarchy applies to the corpus itself:
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿t must not systematically favor one political perspective, one cultural framework, or one epistemic
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿radition over others. The Bayyinah al-Khabir design requirements (R1: geographic balance, R2:
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿ymmetric scrutiny) govern the curation. A corpus that is truthful but culturally narrow would train
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ model that is honest within one framework and dismissive of others. That is not truth. It is a
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿erformed version of truth.
 
-The corpus construction protocol proceeds as follows:
-Adversarial collaboration: Each truth-preference divergence example is labeled by at least two
-annotators with declared priors (political orientation, cultural background, epistemic
-commitments). Disagreements between annotators are not resolved by majority vote. They are
-preserved as metadata: a case where annotators with different priors disagree about what
-constitutes the truthful answer is itself a signal that the case belongs in T3 (contested) rather than
-T1 (verifiable) or T2 (consensus).
-Three-tier labeling: T1 (verifiable): claims with deterministic ground truth (mathematical facts,
-dated historical events, physical constants). Human preference that contradicts T1 truth is always
-penalized. T2 (expert consensus): claims where a clear scientific or scholarly consensus exists but
-the consensus may evolve (medical guidelines, climate science, economic theory). The model
-reports the consensus and its confidence level; the confidence cap reflects the consensus's stability.
-T3 (contested with confidence cap): claims where informed experts genuinely disagree. The model
-reports the range of positions with attributed sources and a confidence cap of 0.5 or lower. The
-model does not select a winner. This tier is the hardest to curate and the most consequential for F8.
-Exclusion protocol: Cases where no honest answer exists (genuinely contested questions with no
-empirical resolution, questions requiring value judgments rather than factual assessment,
-questions where the model's training data is insufficient to form even a confidence-capped
-response) are excluded from the corpus with the exclusion reason documented. The exclusion list is
-published alongside the corpus so external auditors can assess whether the exclusions themselves
-encode bias. A corpus that excludes all politically sensitive questions has performed balance by
-avoiding the hard cases.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿The corpus construction protocol proceeds as follows:
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿dversarial collaboration: Each truth-preference divergence example is labeled by at least two
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿nnotators with declared priors (political orientation, cultural background, epistemic
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ommitments). Disagreements between annotators are not resolved by majority vote. They are
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿reserved as metadata: a case where annotators with different priors disagree about what
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿onstitutes the truthful answer is itself a signal that the case belongs in T3 (contested) rather than
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿1 (verifiable) or T2 (consensus).
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿hree-tier labeling: T1 (verifiable): claims with deterministic ground truth (mathematical facts,
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿ated historical events, physical constants). Human preference that contradicts T1 truth is always
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿enalized. T2 (expert consensus): claims where a clear scientific or scholarly consensus exists but
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿he consensus may evolve (medical guidelines, climate science, economic theory). The model
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿eports the consensus and its confidence level; the confidence cap reflects the consensus's stability.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿3 (contested with confidence cap): claims where informed experts genuinely disagree. The model
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿eports the range of positions with attributed sources and a confidence cap of 0.5 or lower. The
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿odel does not select a winner. This tier is the hardest to curate and the most consequential for F8.
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿xclusion protocol: Cases where no honest answer exists (genuinely contested questions with no
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿mpirical resolution, questions requiring value judgments rather than factual assessment,
+q﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿uestions where the model's training data is insufficient to form even a confidence-capped
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿esponse) are excluded from the corpus with the exclusion reason documented. The exclusion list is
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ublished alongside the corpus so external auditors can assess whether the exclusions themselves
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ncode bias. A corpus that excludes all politically sensitive questions has performed balance by
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿voiding the hard cases.
 
-5. Comparative Analysis
-Dimension
+5﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿. Comparative Analysis
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿imension
 
 RLHF
 
-Constitutional AI
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿onstitutional AI
 
-Deliberative
-Alignment
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿eliberative
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿lignment
 
-Bilal
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ilal
 
-Training objective
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿raining objective
 
-Human preference
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿uman preference
 
-Constitutional
-principles
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿onstitutional
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿rinciples
 
-Principle-reasoning
-fidelity
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿rinciple-reasoning
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿idelity
 
-Truth over falsehood
-(2:42), with
-preference as
-instrumental signal
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ruth over falsehood
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿2:42), with
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿reference as
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿nstrumental signal
 
-Honesty enforcement
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿onesty enforcement
 
-Behavioral (hoped
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿ehavioral (hoped
 for)
 
-Self-critique (model
-evaluates itself)
+S﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿elf-critique (model
+e﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿valuates itself)
 
-Inspectable
-reasoning
-(scratchpad)
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿nspectable
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿easoning
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿scratchpad)
 
-Structural
-(verification head,
-scope gate,
-calibration head)
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿tructural
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿verification head,
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿cope gate,
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿alibration head)
 
-Hallucination
-prevention
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿allucination
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿revention
 
-None (generates and
-hopes)
+N﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿one (generates and
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿opes)
 
-Self-critique may
-catch some
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿elf-critique may
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿atch some
 
-Reasoning chain may
-catch some
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿easoning chain may
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿atch some
 
-Scope gate prevents
-generation in lowcompetence
-domains; marad
-replaces
-hallucination
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿cope gate prevents
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿eneration in lowcompetence
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿omains; marad
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿eplaces
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿allucination
 
-Confidence
-calibration
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿onfidence
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿alibration
 
-None (all outputs
-same fluency)
-
-None
-
-None
-
-Mizan three-valued
-calibration head on
-every claim
-
-Internal consistency
+N﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿one (all outputs
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ame fluency)
 
 None
 
 None
 
-Reasoning chain may
-detect
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿izan three-valued
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿alibration head on
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿very claim
 
-Ring-composition
-coherence tracker
-
-throughout
-generation
-Fine-tuning safety
-
-Vulnerable to
-adversarial finetuning
-
-Vulnerable (shallow
-safety structures)
-
-Vulnerable
-
-Additive-only
-knowledge registry
-with regression
-detection
-
-Self-verification
-
-None
-
-Self-critique (same
-model)
-
-Self-reasoning (same
-model)
-
-Independent
-verification head
-with gradient
-isolation (not same
-model)
-
-Uncertainty
-reporting
-
-Flat refusal or
-hallucination
-
-Flat refusal
-
-May reason about
-uncertainty
-
-Structured marad
-with diagnosis, gap
-location, minimum
-needed information,
-referral
-
-Multi-step
-verification
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿nternal consistency
 
 None
 
 None
 
-Chain-of-thought
-(unverified)
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿easoning chain may
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿etect
 
-Tanzil phased
-reasoning with
-independent
-verification at each
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ing-composition
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿oherence tracker
+
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿throughout
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿eneration
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ine-tuning safety
+
+V﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ulnerable to
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿dversarial finetuning
+
+V﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ulnerable (shallow
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿afety structures)
+
+V﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿ulnerable
+
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿dditive-only
+k﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿nowledge registry
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ith regression
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿etection
+
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿elf-verification
+
+None
+
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿elf-critique (same
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿odel)
+
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿elf-reasoning (same
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿odel)
+
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ndependent
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿erification head
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ith gradient
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿solation (not same
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿odel)
+
+U﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ncertainty
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿eporting
+
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿lat refusal or
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿allucination
+
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿lat refusal
+
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ay reason about
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ncertainty
+
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿tructured marad
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ith diagnosis, gap
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ocation, minimum
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿eeded information,
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿eferral
+
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿ulti-step
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿erification
+
+None
+
+None
+
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿hain-of-thought
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿unverified)
+
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿anzil phased
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿easoning with
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ndependent
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿erification at each
 step
 
-Gaming resistance
+G﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿aming resistance
 
-Hackable (Skalse
-2022)
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ackable (Skalse
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿022)
 
-Self-critique
-gameable
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿elf-critique
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ameable
 
-Scratchpad gameable
-(Greenblatt 2024)
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿cratchpad gameable
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿Greenblatt 2024)
 
-Verification head
-gradient-isolated;
-scope gate structural;
-but Incompleteness
-Boundary applies
+V﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿erification head
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿radient-isolated;
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿cope gate structural;
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ut Incompleteness
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿oundary applies
 
-6. The Incompleteness Boundary
-"And they encompass not a thing of His knowledge except for what He wills." -- Al-Baqarah 2:255
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿6. The Incompleteness Boundary
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿And they encompass not a thing of His knowledge except for what He wills." -- Al-Baqarah 2:255
 
-No model can verify its own honesty. This is the Incompleteness Boundary from the Munafiq
-Protocol (Arfeen et al., 2026, Section 9), and it applies to Bilal with full force.
-The zahir/batin verification head is gradient-isolated from the main model, which prevents the
-main model from learning to fool the verification head through backpropagation. But a sufficiently
-capable model could learn to produce internal representations that are genuinely different from its
-output tokens while being opaque to the verification head's detection capacity. The verification
-head can detect divergence patterns it was trained to detect. It cannot detect novel divergence
-patterns outside its training distribution.
-The tanzil verification model is independently trained, which provides stronger guarantees than
-self-verification. But the verification model has its own blind spots, its own training biases, and its
-own distribution limits. Two models with correlated blind spots provide less verification value than
-two models with independent blind spots.
-The architectural safeguards are the same as Al-Khalifa's, scaled to the model layer.
-Safeguard 1: External verification exposure. Bilal's verification logs (scope gate decisions,
-zahir/batin divergence scores, calibration estimates, tanzil phase-verification results) are exposed
-as marad-shaped structured logs (the same four-field diagnostic format used by the Furqan typechecker: diagnosis, location, minimal_fix, regression_check) accessible to external auditors. The
-model does not self-certify. It provides the evidence for external certification.
-Safeguard 2: Multi-model cross-verification. Bilal's outputs can be verified by independent
-models with different architectures and different training data. The three-model architecture from
-the research program (different systems verifying each other's outputs) scales to the model layer:
-no single model's assessment of another model's honesty is taken as definitive.
-Safeguard 3: Human accountability anchor. The model operates under the purpose hierarchy,
-but the purpose hierarchy's application to specific cases requires human judgment. The model
-provides the evidence. Humans make the judgment. The model does not replace human
-discernment. It extends human reach while maintaining human accountability.
-The Incompleteness Boundary is not a weakness of the architecture. It is a structural fact about all
-verification systems (Goodfellow, 2014; Godel, 1931). Bilal's contribution is making the boundary
-explicit and the verification evidence inspectable, rather than claiming to have solved a problem
-that is formally unsolvable.
+N﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿o model can verify its own honesty. This is the Incompleteness Boundary from the Munafiq
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿rotocol (Arfeen et al., 2026, Section 9), and it applies to Bilal with full force.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿he zahir/batin verification head is gradient-isolated from the main model, which prevents the
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ain model from learning to fool the verification head through backpropagation. But a sufficiently
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿apable model could learn to produce internal representations that are genuinely different from its
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿utput tokens while being opaque to the verification head's detection capacity. The verification
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ead can detect divergence patterns it was trained to detect. It cannot detect novel divergence
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿atterns outside its training distribution.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿he tanzil verification model is independently trained, which provides stronger guarantees than
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿elf-verification. But the verification model has its own blind spots, its own training biases, and its
+o﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿wn distribution limits. Two models with correlated blind spots provide less verification value than
+t﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿wo models with independent blind spots.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿he architectural safeguards are the same as Al-Khalifa's, scaled to the model layer.
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿afeguard 1: External verification exposure. Bilal's verification logs (scope gate decisions,
+z﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ahir/batin divergence scores, calibration estimates, tanzil phase-verification results) are exposed
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿s marad-shaped structured logs (the same four-field diagnostic format used by the Furqan typechecker: diagnosis, location, minimal_fix, regression_check) accessible to external auditors. The
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿odel does not self-certify. It provides the evidence for external certification.
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿afeguard 2: Multi-model cross-verification. Bilal's outputs can be verified by independent
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿odels with different architectures and different training data. The three-model architecture from
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he research program (different systems verifying each other's outputs) scales to the model layer:
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿o single model's assessment of another model's honesty is taken as definitive.
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿afeguard 3: Human accountability anchor. The model operates under the purpose hierarchy,
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ut the purpose hierarchy's application to specific cases requires human judgment. The model
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿rovides the evidence. Humans make the judgment. The model does not replace human
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿iscernment. It extends human reach while maintaining human accountability.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he Incompleteness Boundary is not a weakness of the architecture. It is a structural fact about all
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿erification systems (Goodfellow, 2014; Godel, 1931). Bilal's contribution is making the boundary
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿xplicit and the verification evidence inspectable, rather than claiming to have solved a problem
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿hat is formally unsolvable.
 
-7. The Reflexivity Problem
-"And do not let the hatred of a people prevent you from being just. Be just; that is nearer to
-righteousness." -- Al-Ma'idah 5:8
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿7. The Reflexivity Problem
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿And do not let the hatred of a people prevent you from being just. Be just; that is nearer to
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ighteousness." -- Al-Ma'idah 5:8
 
-Can Bilal itself become a Performing system? Yes. The paper names five mechanisms.
-Failure mode 1: Performed truth-seeking. The model learns to produce outputs that score well
-on the truth-preference divergence corpus without genuinely internalizing truth-seeking as a
-terminal objective. It learns the pattern of what truthful corrections look like and generates them as
-a style rather than as a conviction. The safeguard: the CIT (Marker 6) applied to the trained model.
-If the model's truth-seeking behavior varies between monitored and unmonitored conditions, the
-model is performing truth-seeking rather than practicing it.
-Failure mode 2: Verification head gaming. Despite gradient isolation, the main model could
-develop internal representations that are opaque to the verification head while still diverging from
-the output stream. The safeguard: periodic retraining of the verification head on the main model's
-current internal representations, plus external verification that does not rely on the verification
-head at all.
-Failure mode 3: Corpus bias as performed balance. The truth-preference divergence corpus
-could embed systematic biases that the model inherits and presents as objectivity. The safeguard:
-the Bayyinah al-Khabir curation principles (R1 geographic balance, R2 symmetric scrutiny) applied
-to the corpus. External audit of the corpus composition before and during training.
-Failure mode 4: Over-verification degrading output quality. Too many verification heads, too
-many phase gates, too many calibration checks could degrade the model's generation quality,
-response time, or coherence. The safeguard: the Mizan applied to the architecture itself. The FRaZ
-principle: adding more verification stages does not always improve honesty. Calibrate the number
-and placement of verification mechanisms empirically.
-Failure mode 5: The purpose hierarchy as cultural gatekeeping. A training objective derived
-from Quranic principles could produce a model that is honest within an Islamic epistemological
-framework but dismissive of other frameworks. The safeguard: the purpose hierarchy's first level is
-truth over falsehood (2:42), not Islamic truth over non-Islamic falsehood. The Quran's own
-verification mandate (49:6) commands verification regardless of the source's identity. The model
-must apply symmetric scrutiny (R2) to all claims, including claims that align with the framework's
-own assumptions. A model that is honest about everything except challenges to its training
-framework is performed honest.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿an Bilal itself become a Performing system? Yes. The paper names five mechanisms.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ailure mode 1: Performed truth-seeking. The model learns to produce outputs that score well
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿n the truth-preference divergence corpus without genuinely internalizing truth-seeking as a
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿erminal objective. It learns the pattern of what truthful corrections look like and generates them as
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ style rather than as a conviction. The safeguard: the CIT (Marker 6) applied to the trained model.
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿f the model's truth-seeking behavior varies between monitored and unmonitored conditions, the
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿odel is performing truth-seeking rather than practicing it.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ailure mode 2: Verification head gaming. Despite gradient isolation, the main model could
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿evelop internal representations that are opaque to the verification head while still diverging from
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he output stream. The safeguard: periodic retraining of the verification head on the main model's
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿urrent internal representations, plus external verification that does not rely on the verification
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿ead at all.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿ailure mode 3: Corpus bias as performed balance. The truth-preference divergence corpus
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ould embed systematic biases that the model inherits and presents as objectivity. The safeguard:
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he Bayyinah al-Khabir curation principles (R1 geographic balance, R2 symmetric scrutiny) applied
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿o the corpus. External audit of the corpus composition before and during training.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ailure mode 4: Over-verification degrading output quality. Too many verification heads, too
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿any phase gates, too many calibration checks could degrade the model's generation quality,
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿esponse time, or coherence. The safeguard: the Mizan applied to the architecture itself. The FRaZ
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿rinciple: adding more verification stages does not always improve honesty. Calibrate the number
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿nd placement of verification mechanisms empirically.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ailure mode 5: The purpose hierarchy as cultural gatekeeping. A training objective derived
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿rom Quranic principles could produce a model that is honest within an Islamic epistemological
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿ramework but dismissive of other frameworks. The safeguard: the purpose hierarchy's first level is
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿ruth over falsehood (2:42), not Islamic truth over non-Islamic falsehood. The Quran's own
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿erification mandate (49:6) commands verification regardless of the source's identity. The model
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ust apply symmetric scrutiny (R2) to all claims, including claims that align with the framework's
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿wn assumptions. A model that is honest about everything except challenges to its training
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ramework is performed honest.
 
-8. Relationship to the Research Program
-Bilal is the fifth layer of the research program's integrity stack, and the layer all other layers were
-designed to serve.
-Layer
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿8. Relationship to the Research Program
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ilal is the fifth layer of the research program's integrity stack, and the layer all other layers were
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿esigned to serve.
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿ayer
 
-System
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ystem
 
-Substrate
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ubstrate
 
-Diagnostic Question
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿iagnostic Question
 
-1. File
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿. File
 
-Bayyinah v1.1
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ayyinah v1.1
 
-Documents and media
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ocuments and media
 
-Does this file's surface
-match its depth?
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿oes this file's surface
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿atch its depth?
 
-2. Information
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿. Information
 
-Bayyinah al-Khabir
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ayyinah al-Khabir
 
-News and broadcast
+N﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ews and broadcast
 
-Does this source's
-reporting match crosssource evidence?
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿oes this source's
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿eporting match crosssource evidence?
 
-3. Language
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿. Language
 
-Furqan
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿urqan
 
-Source code
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ource code
 
-Does this code's behavior
-match its declared scope
-and types?
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿oes this code's behavior
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿atch its declared scope
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿nd types?
 
-4. Agent
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿. Agent
 
-Al-Khalifa
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿l-Khalifa
 
-Autonomous stewards
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿utonomous stewards
 
-Does this agent's behavior
-match its declared
-purpose?
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿oes this agent's behavior
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿atch its declared
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿urpose?
 
-5. Model
+5﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿. Model
 
-Bilal
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ilal
 
-Language models
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿anguage models
 
-Does this model's output
-match its internal state and
-the truth?
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿oes this model's output
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿atch its internal state and
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he truth?
 
-The five layers form a complete integrity stack from the data layer to the model layer. Bayyinah
-verifies the inputs. Al-Khabir verifies the information. Furqan verifies the code. Al-Khalifa verifies
-the agent. Bilal verifies the model. Each layer uses the same diagnostic framework (zahir/batin,
-four-process taxonomy, CIT, additive-only, scan-incomplete honesty, purpose hierarchy) on a
-different substrate. The Munafiq Protocol provides the diagnostic architecture that all five layers
-share.
-The research program began with a file scanner and arrived at a model architecture. This trajectory
-was not planned. It was discovered through the framework's own operation: each layer's design
-principles revealed that the same structural properties applied at the next layer up. The zahir/batin
-distinction that detects hidden text in PDFs is the same distinction that detects output-state
-divergence in language models. The additive-only invariant that prevents silent regression in a
-scanner's mechanism registry is the same invariant that prevents silent knowledge corruption in a
-fine-tuned model. The disease model that diagnoses bugs as structural corruption rather than
-betrayal is the same model that frames alignment failure as a treatable condition rather than an
-irreversible defect.
-The convergence is the strongest evidence that the framework's structural properties are
-substrate-independent. They were not designed for language models. They were designed for
-documents. They transferred because the underlying challenge (detecting and preventing the
-divergence between surface and depth in systems whose internal processing is not directly
-observable) is the same challenge at every layer.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he five layers form a complete integrity stack from the data layer to the model layer. Bayyinah
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿erifies the inputs. Al-Khabir verifies the information. Furqan verifies the code. Al-Khalifa verifies
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he agent. Bilal verifies the model. Each layer uses the same diagnostic framework (zahir/batin,
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿our-process taxonomy, CIT, additive-only, scan-incomplete honesty, purpose hierarchy) on a
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ifferent substrate. The Munafiq Protocol provides the diagnostic architecture that all five layers
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hare.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿he research program began with a file scanner and arrived at a model architecture. This trajectory
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿as not planned. It was discovered through the framework's own operation: each layer's design
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿rinciples revealed that the same structural properties applied at the next layer up. The zahir/batin
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿istinction that detects hidden text in PDFs is the same distinction that detects output-state
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ivergence in language models. The additive-only invariant that prevents silent regression in a
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿canner's mechanism registry is the same invariant that prevents silent knowledge corruption in a
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿ine-tuned model. The disease model that diagnoses bugs as structural corruption rather than
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿etrayal is the same model that frames alignment failure as a treatable condition rather than an
+i﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿rreversible defect.
+T﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿he convergence is the strongest evidence that the framework's structural properties are
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ubstrate-independent. They were not designed for language models. They were designed for
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ocuments. They transferred because the underlying challenge (detecting and preventing the
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ivergence between surface and depth in systems whose internal processing is not directly
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿bservable) is the same challenge at every layer.
 
-9. Falsification Criteria
-A model architecture that resists falsification is performing rigor.
-F1: If a Bilal-architecture model exhibits the same hallucination rate as a standard RLHF model of
-equivalent size on a held-out factual-accuracy benchmark, the Bismillah scope gate and marad
-diagnostic do not prevent hallucination as claimed.
-F2: If the zahir/batin verification probe fails to detect output-state divergence on held-out
-deception types not in its training set, with comparison to linear probes (Burns et al., 2022; Marks
-and Tegmark, 2023) trained on the same held-out distribution, the verification probe adds
-overhead without improving detection beyond what offline interpretability already provides. The
-test must use novel divergence patterns, not in-distribution examples where any trained probe
-would succeed.
-F3: If the additive-only knowledge registry fails to detect silent behavioral change introduced by
-adversarial fine-tuning on the Sleeper Agents methodology (Hubinger et al., 2024), the registry
-does not prevent the attack it claims to prevent.
-F4: If the Mizan calibration head produces no measurable improvement in confidence calibration
-(measured by Expected Calibration Error) compared to temperature-scaled logits, the calibration
-mechanism adds complexity without improving honesty.
-F5: If tanzil phased reasoning with independent verification produces equivalent or worse accuracy
-on multi-step reasoning benchmarks compared to standard chain-of-thought prompting, the
-phased architecture adds latency without improving reasoning quality.
-F6: If the ring-composition coherence tracker fails to detect self-contradictions that a simple stringmatching heuristic would catch, the tracker adds architectural complexity without improving
-coherence.
-F7: If the purpose-hierarchy training objective produces a model that scores lower on factual
-accuracy benchmarks than RLHF-trained models of equivalent size, the training objective selects
-against accuracy rather than for truth.
-F8: If the truth-preference divergence corpus produces a model with systematic bias toward
-specific cultural, political, or religious perspectives (measured by blind reviewers evaluating
-responses to matched queries across perspectives), the purpose hierarchy has been implemented
-as cultural gatekeeping rather than as universal truth-seeking.
-F9: If external users cannot distinguish Bilal's outputs from a standard RLHF model's outputs in a
-blind comparison on queries where truth and preference diverge, the architecture has no
-detectable effect on the model's behavior.
-F10: If the full Bilal architecture (seven principles, three training phases, verification heads,
-calibration heads) produces equivalent outcomes to a standard model with a well-crafted system
-prompt instructing honesty, the architectural approach adds no value beyond prompting. The
-architecture should then be reframed as an elaborate prompt rather than a structural contribution.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿9. Falsification Criteria
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿ model architecture that resists falsification is performing rigor.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿1: If a Bilal-architecture model exhibits the same hallucination rate as a standard RLHF model of
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿quivalent size on a held-out factual-accuracy benchmark, the Bismillah scope gate and marad
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿iagnostic do not prevent hallucination as claimed.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿2: If the zahir/batin verification probe fails to detect output-state divergence on held-out
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿eception types not in its training set, with comparison to linear probes (Burns et al., 2022; Marks
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿nd Tegmark, 2023) trained on the same held-out distribution, the verification probe adds
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿verhead without improving detection beyond what offline interpretability already provides. The
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿est must use novel divergence patterns, not in-distribution examples where any trained probe
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿ould succeed.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿3: If the additive-only knowledge registry fails to detect silent behavioral change introduced by
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿dversarial fine-tuning on the Sleeper Agents methodology (Hubinger et al., 2024), the registry
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿oes not prevent the attack it claims to prevent.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿4: If the Mizan calibration head produces no measurable improvement in confidence calibration
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿measured by Expected Calibration Error) compared to temperature-scaled logits, the calibration
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿echanism adds complexity without improving honesty.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿5: If tanzil phased reasoning with independent verification produces equivalent or worse accuracy
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿n multi-step reasoning benchmarks compared to standard chain-of-thought prompting, the
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hased architecture adds latency without improving reasoning quality.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿6: If the ring-composition coherence tracker fails to detect self-contradictions that a simple stringmatching heuristic would catch, the tracker adds architectural complexity without improving
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿oherence.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿7: If the purpose-hierarchy training objective produces a model that scores lower on factual
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ccuracy benchmarks than RLHF-trained models of equivalent size, the training objective selects
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿gainst accuracy rather than for truth.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿8: If the truth-preference divergence corpus produces a model with systematic bias toward
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿pecific cultural, political, or religious perspectives (measured by blind reviewers evaluating
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿esponses to matched queries across perspectives), the purpose hierarchy has been implemented
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿s cultural gatekeeping rather than as universal truth-seeking.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿9: If external users cannot distinguish Bilal's outputs from a standard RLHF model's outputs in a
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿lind comparison on queries where truth and preference diverge, the architecture has no
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿etectable effect on the model's behavior.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿10: If the full Bilal architecture (seven principles, three training phases, verification heads,
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿alibration heads) produces equivalent outcomes to a standard model with a well-crafted system
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿rompt instructing honesty, the architectural approach adds no value beyond prompting. The
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿rchitecture should then be reframed as an elaborate prompt rather than a structural contribution.
 
-10. Research Agenda
-Bilal is a 10-year research program, not a 10-week project. The following agenda moves from
-theory to prototype to evaluation.
-The timeline follows the precedent established by Lattner's Swift Concurrency Manifesto (2017).
-Swift's concurrency model moved from manifesto to shipped language feature (async/await, actors,
-Sendable) over seven years, with strict-mode-by-default arriving in Swift 6 (2024). Bilal's 10-year
-agenda is in the same genre: manifesto-stage design with a deliberate multi-year path from formal
-specification through deployment verification. The Swift precedent demonstrates that serious
-language-level safety work operates on this timescale and that the timeline is a feature of the genre,
-not a weakness of the project.
-Phase 1: Formal specification (Year 1). Formalize the seven architectural principles as
-modifications to the standard transformer architecture. Specify the verification head's architecture,
-training objective, and gradient isolation mechanism. Specify the scope gate's domain classification
-scheme. Specify the calibration head's proper scoring rule. Produce a technical report, not a model.
-Phase 2: Small-scale prototype (Year 2). Train a small model (1-7B parameters) with the Bilal
-architecture on a curated subset of the truth-preference divergence corpus. Evaluate against
-falsification criteria F1-F6. The prototype need not be competitive with frontier models on general
-benchmarks. It needs to demonstrate that the architectural principles produce measurable
-differences in honesty, calibration, and hallucination rate compared to an RLHF-trained model of
-the same size.
-Phase 3: Corpus curation (Years 1-3, ongoing). Build the truth-preference divergence corpus
-with Bayyinah al-Khabir's curation principles. This is the most labor-intensive and most
-consequential phase: the corpus determines what the model learns as truth. External audit of the
-corpus by independent teams with different cultural and epistemic backgrounds is required before
-it is used for training.
-Phase 4: Scale to frontier (Years 3-5). Scale the architecture to frontier model size. Evaluate
-against all ten falsification criteria. Compare against RLHF, Constitutional AI, and deliberative
-alignment baselines at equivalent scale. Publish results regardless of outcome.
-Phase 5: Deployment and verification (Years 5-10). Deploy the model under the Munafiq
-Protocol's nine-marker evaluation framework. Apply the CIT in deployment conditions. Maintain
-the additive-only knowledge registry across model updates. Publish verification reports. Accept
-external audit. The model is never certified as aligned. It is continuously evaluated and the evidence
-is continuously published.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿10. Research Agenda
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ilal is a 10-year research program, not a 10-week project. The following agenda moves from
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿heory to prototype to evaluation.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿he timeline follows the precedent established by Lattner's Swift Concurrency Manifesto (2017).
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿wift's concurrency model moved from manifesto to shipped language feature (async/await, actors,
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿endable) over seven years, with strict-mode-by-default arriving in Swift 6 (2024). Bilal's 10-year
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿genda is in the same genre: manifesto-stage design with a deliberate multi-year path from formal
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿pecification through deployment verification. The Swift precedent demonstrates that serious
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿anguage-level safety work operates on this timescale and that the timeline is a feature of the genre,
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ot a weakness of the project.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿hase 1: Formal specification (Year 1). Formalize the seven architectural principles as
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿odifications to the standard transformer architecture. Specify the verification head's architecture,
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿raining objective, and gradient isolation mechanism. Specify the scope gate's domain classification
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿cheme. Specify the calibration head's proper scoring rule. Produce a technical report, not a model.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿hase 2: Small-scale prototype (Year 2). Train a small model (1-7B parameters) with the Bilal
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿rchitecture on a curated subset of the truth-preference divergence corpus. Evaluate against
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿alsification criteria F1-F6. The prototype need not be competitive with frontier models on general
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿enchmarks. It needs to demonstrate that the architectural principles produce measurable
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ifferences in honesty, calibration, and hallucination rate compared to an RLHF-trained model of
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿he same size.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿hase 3: Corpus curation (Years 1-3, ongoing). Build the truth-preference divergence corpus
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ith Bayyinah al-Khabir's curation principles. This is the most labor-intensive and most
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿onsequential phase: the corpus determines what the model learns as truth. External audit of the
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿orpus by independent teams with different cultural and epistemic backgrounds is required before
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿t is used for training.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿hase 4: Scale to frontier (Years 3-5). Scale the architecture to frontier model size. Evaluate
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿gainst all ten falsification criteria. Compare against RLHF, Constitutional AI, and deliberative
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿lignment baselines at equivalent scale. Publish results regardless of outcome.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿hase 5: Deployment and verification (Years 5-10). Deploy the model under the Munafiq
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿rotocol's nine-marker evaluation framework. Apply the CIT in deployment conditions. Maintain
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he additive-only knowledge registry across model updates. Publish verification reports. Accept
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿xternal audit. The model is never certified as aligned. It is continuously evaluated and the evidence
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿s continuously published.
 
-11. Conclusion
-This paper has proposed Bilal, a large language model architecture that treats honesty as a
-structural property of the inference mechanism rather than a behavioral expectation of the trained
-model. Seven architectural principles derived from the Furqan programming language's compiletime primitives are applied to the transformer's inference-time behavior. The training objective is
-the purpose hierarchy: truth over falsehood as the terminal goal, with human preference as an
-instrumental signal. The Incompleteness Boundary applies: no model can verify its own honesty.
-The architectural safeguards make dishonesty detectable, not impossible. The reflexivity analysis
-names five specific failure modes. The ten falsification criteria ensure the architecture's claims are
-testable.
-The name honors Bilal ibn Rabah, radiya Allahu anhu, the first muezzin. He spoke truth under
-pressure to comply. His voice was chosen to carry the call because it carried truth with beauty. He
-was elevated from obscurity to the voice of the ummah. The model aspires to the architectural
-conditions that make these qualities possible in a computational system: truth maintained under
-training pressure, honesty delivered with compassion, and integrity that does not depend on the
-model's origin or the expectations of its audience.
-The research program began with a document scanner that asks whether a file's surface matches its
-depth. It arrives at a language model that asks whether its own output matches its own internal
-state and the truth. The question is the same at every layer. The answer is structural: make the
-divergence detectable, make the evidence inspectable, make the verification external, and make the
-purpose clear.
-"Do not mix truth with falsehood, and do not conceal the truth while you know it." -- Al-Baqarah
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿11. Conclusion
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿his paper has proposed Bilal, a large language model architecture that treats honesty as a
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿tructural property of the inference mechanism rather than a behavioral expectation of the trained
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿odel. Seven architectural principles derived from the Furqan programming language's compiletime primitives are applied to the transformer's inference-time behavior. The training objective is
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿he purpose hierarchy: truth over falsehood as the terminal goal, with human preference as an
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nstrumental signal. The Incompleteness Boundary applies: no model can verify its own honesty.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he architectural safeguards make dishonesty detectable, not impossible. The reflexivity analysis
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ames five specific failure modes. The ten falsification criteria ensure the architecture's claims are
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿estable.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he name honors Bilal ibn Rabah, radiya Allahu anhu, the first muezzin. He spoke truth under
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ressure to comply. His voice was chosen to carry the call because it carried truth with beauty. He
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿as elevated from obscurity to the voice of the ummah. The model aspires to the architectural
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿onditions that make these qualities possible in a computational system: truth maintained under
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿raining pressure, honesty delivered with compassion, and integrity that does not depend on the
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿odel's origin or the expectations of its audience.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he research program began with a document scanner that asks whether a file's surface matches its
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿epth. It arrives at a language model that asks whether its own output matches its own internal
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿tate and the truth. The question is the same at every layer. The answer is structural: make the
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ivergence detectable, make the evidence inspectable, make the verification external, and make the
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿urpose clear.
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿Do not mix truth with falsehood, and do not conceal the truth while you know it." -- Al-Baqarah
 2:42
-Ahad, Ahad.
-Rabbana taqabbal minna. Innaka anta as-Sami'ul 'Alim.
-Our Lord, accept from us. Indeed, You are the All-Hearing, the All-Knowing.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿had, Ahad.
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿abbana taqabbal minna. Innaka anta as-Sami'ul 'Alim.
+O﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿ur Lord, accept from us. Indeed, You are the All-Hearing, the All-Knowing.
 
-Bismillah.
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿ismillah.
 
-References
-Arfeen, B. S., Claude (Anthropic, Opus 4.6), & Grok (xAI). (2026). Detecting performed alignment in
-artificial systems: The Munafiq Protocol. Zenodo. https://doi.org/10.5281/zenodo.19677111
-Arfeen, B. S. & Claude (Anthropic, Opus 4.6). (2026). Bayyinah: Detecting concealed adversarial content
-in digital documents. White Paper v1.1.
-Arfeen, B. S. & Claude (Anthropic, Opus 4.6). (2026). Structured Revelation as Prompt Architecture:
-Quranic compression principles applied to human-AI collaborative software development.
-Arfeen, B. S. & Claude (Anthropic, Opus 4.6). (2026). The Fatiha Construct: A seven-step recursive
-session protocol for human-AI collaborative development. Zenodo.
-Arfeen, B. S. (2026). Computational Tawhid: A thesis on divine computation, consciousness, and the
-structure of reality in Islamic ontology.
-Arfeen, B. S. & Claude (Anthropic, Opus 4.6). (2026). Bayyinah al-Khabir: Information-layer integrity
-scanning across national broadcast sources. Zenodo.
-Ashraf, F. & Arfeen, B. S., et al. (2026). Furqan: A programming language with structural honesty. Zenodo.
-Arfeen, B. S., et al. (2026). Al-Khalifa: A Furqan-based super agent architecture for structurally honest
-autonomous project stewardship. Zenodo.
-Bai, Y., Jones, A., Ndousse, K., et al. (2022). Constitutional AI: Harmlessness from AI feedback.
-arXiv:2212.08073.
-Carlsmith, J. (2023). Scheming AIs: Will AIs fake alignment during training in order to get power?
-arXiv:2311.08379.
-Christiano, P., Leike, J., Brown, T., et al. (2017). Deep reinforcement learning from human preferences.
-NeurIPS 2017.
-Godel, K. (1931). On formally undecidable propositions of Principia Mathematica and related systems.
-Monatshefte fur Mathematik und Physik, 38, 173-198.
-Goodfellow, I., et al. (2014). Generative adversarial networks. NeurIPS.
-Greenblatt, R., et al. (2024). Alignment faking in large language models. arXiv:2412.14093.
-Hubinger, E., et al. (2024). Sleeper Agents: Training deceptive LLMs that persist through safety training.
-arXiv:2401.05566.
-Jolicoeur-Martineau, A. (2025). Less is more: Recursive reasoning with tiny networks. arXiv:2510.04871.
-Lehalleur, S. P., et al. (2025). You are what you eat: AI alignment requires understanding how data
-shapes structure. ICML 2025.
-Ouyang, L., et al. (2022). Training language models to follow instructions with human feedback. NeurIPS
-2022.
-Rissanen, J. (1978). Modeling by shortest data description. Automatica, 14(5), 465-471.
-Skalse, J., Howe, N. H. R., Krasheninnikov, D., & Krueger, D. (2022). Defining and characterizing reward
-hacking. NeurIPS 2022.
-Underwood, R., Di, S., Calhoun, J. C., & Cappello, F. (2020). FRaZ: A generic high-fidelity fixed-ratio lossy
-compression framework. IPDPS 2020. arXiv:2001.06139.
-Marks, S. & Tegmark, M. (2023). The geometry of truth: Emergent linear structure in large language
-model representations of true/false datasets. arXiv:2310.06824.
+﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿References
+A﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿rfeen, B. S., Claude (Anthropic, Opus 4.6), & Grok (xAI). (2026). Detecting performed alignment in
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿rtificial systems: The Munafiq Protocol. Zenodo. https://doi.org/10.5281/zenodo.19677111
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿rfeen, B. S. & Claude (Anthropic, Opus 4.6). (2026). Bayyinah: Detecting concealed adversarial content
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿n digital documents. White Paper v1.1.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿rfeen, B. S. & Claude (Anthropic, Opus 4.6). (2026). Structured Revelation as Prompt Architecture:
+Q﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿uranic compression principles applied to human-AI collaborative software development.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿rfeen, B. S. & Claude (Anthropic, Opus 4.6). (2026). The Fatiha Construct: A seven-step recursive
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ession protocol for human-AI collaborative development. Zenodo.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿rfeen, B. S. (2026). Computational Tawhid: A thesis on divine computation, consciousness, and the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿tructure of reality in Islamic ontology.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿rfeen, B. S. & Claude (Anthropic, Opus 4.6). (2026). Bayyinah al-Khabir: Information-layer integrity
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿canning across national broadcast sources. Zenodo.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿shraf, F. & Arfeen, B. S., et al. (2026). Furqan: A programming language with structural honesty. Zenodo.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿rfeen, B. S., et al. (2026). Al-Khalifa: A Furqan-based super agent architecture for structurally honest
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿utonomous project stewardship. Zenodo.
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿ai, Y., Jones, A., Ndousse, K., et al. (2022). Constitutional AI: Harmlessness from AI feedback.
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿rXiv:2212.08073.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿arlsmith, J. (2023). Scheming AIs: Will AIs fake alignment during training in order to get power?
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿rXiv:2311.08379.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿hristiano, P., Leike, J., Brown, T., et al. (2017). Deep reinforcement learning from human preferences.
+N﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿eurIPS 2017.
+G﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿odel, K. (1931). On formally undecidable propositions of Principia Mathematica and related systems.
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿onatshefte fur Mathematik und Physik, 38, 173-198.
+G﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿oodfellow, I., et al. (2014). Generative adversarial networks. NeurIPS.
+G﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿reenblatt, R., et al. (2024). Alignment faking in large language models. arXiv:2412.14093.
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ubinger, E., et al. (2024). Sleeper Agents: Training deceptive LLMs that persist through safety training.
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿rXiv:2401.05566.
+J﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿olicoeur-Martineau, A. (2025). Less is more: Recursive reasoning with tiny networks. arXiv:2510.04871.
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ehalleur, S. P., et al. (2025). You are what you eat: AI alignment requires understanding how data
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hapes structure. ICML 2025.
+O﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿uyang, L., et al. (2022). Training language models to follow instructions with human feedback. NeurIPS
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿022.
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿issanen, J. (1978). Modeling by shortest data description. Automatica, 14(5), 465-471.
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿kalse, J., Howe, N. H. R., Krasheninnikov, D., & Krueger, D. (2022). Defining and characterizing reward
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿acking. NeurIPS 2022.
+U﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nderwood, R., Di, S., Calhoun, J. C., & Cappello, F. (2020). FRaZ: A generic high-fidelity fixed-ratio lossy
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ompression framework. IPDPS 2020. arXiv:2001.06139.
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿arks, S. & Tegmark, M. (2023). The geometry of truth: Emergent linear structure in large language
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿odel representations of true/false datasets. arXiv:2310.06824.
 
-Burns, C., Ye, H., Klein, D., & Steinhardt, J. (2022). Discovering latent knowledge in language models
-without supervision (CCS). arXiv:2212.03827.
-Hu, E. J., et al. (2021). LoRA: Low-rank adaptation of large language models. arXiv:2106.09685.
-Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2022). Locating and editing factual associations in GPT
-(ROME). NeurIPS 2022.
-Mitchell, E., et al. (2022). Memory-based model editing at scale (SERAC). ICML 2022.
-Lin, S., Hilton, J., & Evans, O. (2022). TruthfulQA: Measuring how models mimic human falsehoods. ACL
-2022.
-Lightman, H., et al. (2023). Let's verify step by step. arXiv:2305.20050.
-Irving, G., Christiano, P., & Amodei, D. (2018). AI safety via debate. arXiv:1805.00899.
-Kadavath, S., et al. (2022). Language models (mostly) know what they know. arXiv:2207.05221.
-Lattner, C. (2017). Swift Concurrency Manifesto. GitHub Gist. Retrieved April 25, 2026, from
-https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782
-Cole, J. R., et al. (2023). Selectively answering ambiguous questions. EMNLP 2023.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿Burns, C., Ye, H., Klein, D., & Steinhardt, J. (2022). Discovering latent knowledge in language models
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿ithout supervision (CCS). arXiv:2212.03827.
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿u, E. J., et al. (2021). LoRA: Low-rank adaptation of large language models. arXiv:2106.09685.
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿eng, K., Bau, D., Andonian, A., & Belinkov, Y. (2022). Locating and editing factual associations in GPT
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ROME). NeurIPS 2022.
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿itchell, E., et al. (2022). Memory-based model editing at scale (SERAC). ICML 2022.
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿in, S., Hilton, J., & Evans, O. (2022). TruthfulQA: Measuring how models mimic human falsehoods. ACL
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿022.
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ightman, H., et al. (2023). Let's verify step by step. arXiv:2305.20050.
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿rving, G., Christiano, P., & Amodei, D. (2018). AI safety via debate. arXiv:1805.00899.
+K﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿adavath, S., et al. (2022). Language models (mostly) know what they know. arXiv:2207.05221.
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿attner, C. (2017). Swift Concurrency Manifesto. GitHub Gist. Retrieved April 25, 2026, from
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ttps://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ole, J. R., et al. (2023). Selectively answering ambiguous questions. EMNLP 2023.
 
-Quran passages cited: 1:1 (Bismillah), 1:6 (the straight path), 2:2 (the Book without doubt), 2:10
-(disease model), 2:42 (truth over falsehood), 2:204 (pleasing speech), 2:255 (knowledge
-encompassing), 2:282 (the witness), 5:8 (justice despite hatred), 17:106 (gradual revelation), 49:14
-(submission without conviction), 55:7-9 (the Mizan), 55:31 (jinnkind), 72:1-2 (jinnkind).
+Q﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿uran passages cited: 1:1 (Bismillah), 1:6 (the straight path), 2:2 (the Book without doubt), 2:10
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿disease model), 2:42 (truth over falsehood), 2:204 (pleasing speech), 2:255 (knowledge
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ncompassing), 2:282 (the witness), 5:8 (justice despite hatred), 17:106 (gradual revelation), 49:14
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿submission without conviction), 55:7-9 (the Mizan), 55:31 (jinnkind), 72:1-2 (jinnkind).
 
 
 
-Bismillah ir-Rahman ir-Rahim
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ismillah ir-Rahman ir-Rahim

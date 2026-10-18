@@ -1,0 +1,1443 @@
+{
+  "bismillah": "Bismillah ir-Rahman ir-Rahim",
+  "bismillah_hash": "6e889319b4db973e52cf0091ca6d29f3499f58162b1f1fefe7e02c5ff0139144",
+  "seal_version": "1.0",
+  "al_asma_count": 100,
+  "files": {
+    ".gitignore": {
+      "size": 325,
+      "sha256": "03d0d1deeb839a52c2cb4c933afe1e456742997396280bef11998b7f568884e0",
+      "bismillah_seal": "7dabbf7774d29b4d2bd8ba53fa2da7b37b8364d1a4b01d5805eb2566a7d908af",
+      "filename_sealed": false,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 0
+    },
+    "Bismillah_AL_FURQAN_ERRATA_SECOND_EDITION_Bismillah.md": {
+      "size": 578797,
+      "sha256": "b813bea13505eac15f6adf3e7e6ff7f2682d9e6df0a3fc501eb7152b4477d8d8",
+      "bismillah_seal": "a03cbe371b3e7535ce4c9e63a50a36d1f259b0bac4c587faeb5933da2a5877fe",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 1151
+    },
+    "Bismillah_AL_FURQAN_ERRATA_SECOND_EDITION_Bismillah.pdf": {
+      "size": 316479,
+      "sha256": "1ade28e3dc39d840e0f4f0f1ecbbd3b0c34f1dd0b7df12b0ecf7025257d60064",
+      "bismillah_seal": "85557f3a1984c7e57a4fc3fd53e4e6fae83846fa49d3eb02a8ae0a6958e8c741",
+      "filename_sealed": true,
+      "binary": true
+    },
+    "Bismillah_Al_Furqan_Quranic_LLM_Training_Document_Bismillah.md": {
+      "size": 9705997,
+      "sha256": "4b27050f359518b4b42cb9252b711f7d2572aa520e94d7731cb94f908b26d543",
+      "bismillah_seal": "2d16e0e5353bc4a27553252a71934610eb749bb1a30e1f85722518fe5d4e848c",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 15765
+    },
+    "Bismillah_Bayyinah_Research_Corpus_Bismillah.md": {
+      "size": 135244338,
+      "sha256": "8caa028aa72a3555c359410ac840e2644d4f03b9e4bffc81d4b2bd5d0dd93108",
+      "bismillah_seal": "13c39fcc47a601a5fbeebdb7b5cc3bec15a0bb9e22ea7ebb20b4d475ceccfa32",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 250867
+    },
+    "Bismillah_Bismillah_Bismillah.txt": {
+      "size": 3713417,
+      "sha256": "4ddba4e9dd19b0fae74388ebb212b53fab1b649960a540d3237be4ce736adc5d",
+      "bismillah_seal": "1d566afe06af51b335a96cc255feb5a9620f621dc71f378ecf2b20c88b0512c3",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 5906
+    },
+    "Bismillah_CODE_EVOLUTION_Bismillah.md": {
+      "size": 1601231,
+      "sha256": "971e07bf9748697b93a13064ad2d8ee24bd4fc88b0e20c5cbda122e61363567b",
+      "bismillah_seal": "be10821550f1ed5cfd291f632c79aacaa1fe3ed3d32afe7677285120644db482",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 3262
+    },
+    "Bismillah_CODE_EVOLUTION_CANON_V2_Bismillah.md": {
+      "size": 340243,
+      "sha256": "9a960fcc638d84012050fb06adb7c384bce530992d416c3d501a0aec33812cee",
+      "bismillah_seal": "c2da9fc30785458e06107246c4951c2deb1cb8e11e1774a11ee5e07cf86a06f7",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 652
+    },
+    "Bismillah_CODE_EVOLUTION_CANON_V2_Bismillah.pdf": {
+      "size": 229331,
+      "sha256": "a3c5ea0b1398427a7710580f3a7b3b11c12d2eb20c3c043698dcf446a38c3ea5",
+      "bismillah_seal": "57e388f76c825c201ee724a102c6f6806c9f69cfeab43d15d5abae4b0573af6f",
+      "filename_sealed": true,
+      "binary": true
+    },
+    "Bismillah_COMPLETE_CODE_AUDIT_Bismillah.md": {
+      "size": 5588849,
+      "sha256": "f746287875f93ce5cf3a1ea2a8a109144f73f28dc6162ba492d8958e4418101a",
+      "bismillah_seal": "2d984214c5dea9dcbc518e07b74a9c5a08dc74e51aa4900be4b64396a66b4b1e",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 11268
+    },
+    "Bismillah_FATIMA_ANATOMY_V2_Bismillah.md": {
+      "size": 211170,
+      "sha256": "0aa01dc7f329da2f293b4bd4617ff7a14b0140856f7866bcc4dcfc306e53c1ac",
+      "bismillah_seal": "354787a8602b3768c0ae324584ac228da28c4290abbfbcaa67730676f34b4946",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 405
+    },
+    "Bismillah_FATIMA_ANATOMY_V2_Bismillah.pdf": {
+      "size": 100624,
+      "sha256": "f09aea536eceff4eeb26f76aed83f9ba2a15a4b78b413e203e540e5494b34780",
+      "bismillah_seal": "952017fd6082eb54ffc132c163839f6f7988e28b2c216b786a34a3c303391b16",
+      "filename_sealed": true,
+      "binary": true
+    },
+    "Bismillah_FATIMA_CORE_SCHEMATIC_EOD_Bismillah.md": {
+      "size": 254422,
+      "sha256": "1584b5665973181f9283e3485d2730096ff71b7c028026b52780892e341d1c04",
+      "bismillah_seal": "00b7b6cb54f85a48ee656e55f17ed0f8cb7a43d69f586b60ab287f3a49dcff31",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 492
+    },
+    "Bismillah_FATIMA_CORE_SCHEMATIC_EOD_Bismillah.pdf": {
+      "size": 95229,
+      "sha256": "e74d1ac95910e0e649f0f4b246886c223369de74f45d15af8fde380107fcd4e5",
+      "bismillah_seal": "bd47612c19dad8c1625f77d1f8c292213219cd7c72c974980ce268045d630c46",
+      "filename_sealed": true,
+      "binary": true
+    },
+    "Bismillah_FATIMA_CORPUS_STRENGTHENING_PLAN_Bismillah.md": {
+      "size": 297165,
+      "sha256": "5755f9d9ee10e81922b95108df9902cc8de16b5ee9e6366cd4a5db3952c76a80",
+      "bismillah_seal": "1b6c5944271b758525bbd54f73c6ebe45b1ebec2be9f93349def4a835d1b3054",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 596
+    },
+    "Bismillah_FATIMA_CORPUS_STRENGTHENING_PLAN_Bismillah.pdf": {
+      "size": 109579,
+      "sha256": "6905152053001a2c6ccf1fd47cd8de41dd8786f0b7e385e2221d8be83f261e78",
+      "bismillah_seal": "94e89ba92d713fb24818915ba2e8dbaf34a454a4b44726c7040c55dc8675caf8",
+      "filename_sealed": true,
+      "binary": true
+    },
+    "Bismillah_FATIMA_PBN_V2_Bismillah.md": {
+      "size": 137626,
+      "sha256": "175394b9cd2116ad8d4e83602b25d39a05ef9d71e5f4fe1e85bf4cf70063bb1a",
+      "bismillah_seal": "c68990474fb700aa565f32b9e5c2c1c0ac1f73120fca1e26fb101460aea06ee0",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 235
+    },
+    "Bismillah_FATIMA_PBN_V2_Bismillah.pdf": {
+      "size": 104829,
+      "sha256": "1cd17761a9840d3f15296b4d0c0dec9c6ae2dcfab05fa86844fcc66ff888106a",
+      "bismillah_seal": "c9e80b6d0159cf0a2d8de41d7d275539f0c1eb14a83caed7c10e3fb0b68b66d4",
+      "filename_sealed": true,
+      "binary": true
+    },
+    "Bismillah_FATIMA_SCHEMATICS_V2_Bismillah.md": {
+      "size": 161643,
+      "sha256": "89a56f3f50e10c558484f52ee77b5288d2d2d0ba49e7460486a7d86fb0cc4942",
+      "bismillah_seal": "cd582c4e2a3f25525ba444699a1af04af493329b11f1a789c843c4ae8e79045a",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 313
+    },
+    "Bismillah_FATIMA_SCHEMATICS_V2_Bismillah.pdf": {
+      "size": 86870,
+      "sha256": "6ac50a37a381d139afdc0d85fe7c3b13ef382f7703eddfa5e9515ee1e6244e1e",
+      "bismillah_seal": "e34cc8417b4a3ab8a16abd5c15cf065224ac1ec5fe8d80b84ac4dab376e708a6",
+      "filename_sealed": true,
+      "binary": true
+    },
+    "Bismillah_FATIMA_paper_Bismillah.fatima": {
+      "size": 20528656,
+      "sha256": "ebe04914ed5283b012382ee42da6f981a81105bb9815fb633be6b4b66fd8d32c",
+      "bismillah_seal": "167dfbd0f27832ec30adb54fa33790c6363c7d751ffb4afeb8e8dcb497c19b7c",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 22272
+    },
+    "Bismillah_Ghayb_11C_paper_Bismillah.fatima": {
+      "size": 7027716,
+      "sha256": "45d8b0103755922421c811d1e02e2f58ed27d91a676efa4503fa0258517578eb",
+      "bismillah_seal": "2c5c01f50ccaf259b4111239a56d4acae864062cedd7433b6f23639be4a249c1",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 9267
+    },
+    "Bismillah_The_Al-Furqan_Papers_Complete_Bismillah.md": {
+      "size": 4814995,
+      "sha256": "b78facb3f9728b04ad53b9b1b0e33b3fc6825e166dad8ece99aaf58cef440d32",
+      "bismillah_seal": "2385ef208c36a81774bb5c37534d135b11804fd681aae56b23b41052d024bbe2",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 9218
+    },
+    "Bismillah_The_Al-Furqan_Papers_Complete_Bismillah.pdf": {
+      "size": 853382,
+      "sha256": "8a0e8b44f07b30f0f02e32e626afdc8a86e21bb942aff1a511c6a81e6e95a848",
+      "bismillah_seal": "4c530cb1b4411b715b2598bc980ee6601ed39229bafbcd17ff5de02778d094a8",
+      "filename_sealed": true,
+      "binary": true
+    },
+    "bismillah_seal.py": {
+      "size": 22902,
+      "sha256": "601acf4916904a494c4a778eb9c03c48b6f3fa7ca19770733c07c6e080178bb9",
+      "bismillah_seal": "ed49177e8aeaffb02ec1143c915a9875eb118965f1cdb6d0544881314d778b2d",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "pyproject.toml": {
+      "size": 4418,
+      "sha256": "dfc177730baeb40ded40abd8cf8c4f8261bf3a60fc85a3bea5f3bef570c76c4a",
+      "bismillah_seal": "73e82e54abaa3e10ea44149d9bd3a1ce7129c9e273d59bac0731f1256c31e817",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima.egg-info/PKG-INFO": {
+      "size": 928,
+      "sha256": "d94aab0392b454684ac90c58cdf871b563d99f67f8fdae92369f70d3ac52bb9e",
+      "bismillah_seal": "d9d6d74853936cfd36f50d8470678c490599a94b63e140b1f40da233ad1b8c38",
+      "filename_sealed": false,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 0
+    },
+    "fatima.egg-info/SOURCES.txt": {
+      "size": 66714,
+      "sha256": "9502c97a0fbc8f20a17682b0d3e9d5a28c71a7f4bd064aba8837889d0314be21",
+      "bismillah_seal": "72251d0993d8dc990a5057e5f2697580938501ad8ec55bbaae8737442d057e46",
+      "filename_sealed": false,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 104
+    },
+    "fatima.egg-info/dependency_links.txt": {
+      "size": 7710,
+      "sha256": "15bb36f6376d8c583acdc0d9b4672670ae9e82b6f15a141395e49fff44373548",
+      "bismillah_seal": "eeecf9b0d37281d9767931557aa31cd2e1fd2b7f4fccb10874f221f93bdfe31c",
+      "filename_sealed": false,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 11
+    },
+    "fatima.egg-info/entry_points.txt": {
+      "size": 13395,
+      "sha256": "d4fa80a948204aef7d6d2b426f916b34ade93cd25284c839b4c098c166b8c0fa",
+      "bismillah_seal": "90b9f0e5e9292264f8c6b04e4eebf234c6c01c026069cc83fd6e125e68de9e25",
+      "filename_sealed": false,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 20
+    },
+    "fatima.egg-info/top_level.txt": {
+      "size": 9621,
+      "sha256": "83f72becdb68dd94a4975a7903a760e8d7cd5e7457c4f6d8b3b08a03bb6ab41e",
+      "bismillah_seal": "67c64fec005b374f659ae5d80f6a77d564d2d40449c90978a1c11a37c4e0cb16",
+      "filename_sealed": false,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 14
+    },
+    "tests/__init__.py": {
+      "size": 3235,
+      "sha256": "c50cce51c85dfa47a0d7b0a13ad16b79ce5787a8e866f127a158da79f01801d6",
+      "bismillah_seal": "cdf3a02beb09ebd4f8fb8475fea0a56154cd58fb71e19e93d28c621054b5f8cd",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "tests/test_graft_f03_purity.py": {
+      "size": 5867,
+      "sha256": "75cd15165115be17d8c3d4371f5f2e0a930fb35b49ad0d54e85dd3e4e0378526",
+      "bismillah_seal": "6f6e5a0459c29807d176fbc70a86aeec0caa7cde948342cd14a401e999962594",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "tests/test_graft_f04_f01_f05.py": {
+      "size": 12573,
+      "sha256": "1c6836b7cf1955fe86ba91387e394b6bd1075d54b3ea88f2801c0e2b2dd0d365",
+      "bismillah_seal": "fc1ca970deedd28fcc0716904dd5987095d3259a264f0ed2f5e25ec01e8229c5",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "tests/test_graft_protocol.py": {
+      "size": 10609,
+      "sha256": "b5e213565d0486792dfc8bd52ebf0817e2ac78342afd3662b48b1aca8edb5c47",
+      "bismillah_seal": "2523580c63ecb324519446f385bc3827d6bf1fda39494573cebf91826673d4e9",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "papers/Bismillah_AL_FURQAN_ERRATA_SECOND_EDITION_1_Bismillah.md": {
+      "size": 335342,
+      "sha256": "a9ef1cfe48a204f6327fe09951cc00658e672a9d4efa68706e8f58b97b53565d",
+      "bismillah_seal": "713c6977e45ad45e66fc038248ff313451ff52cb64b9476d567a71fd07d3527e",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 661
+    },
+    "papers/Bismillah_AL_FURQAN_ERRATA_SECOND_EDITION_Bismillah.md": {
+      "size": 202438,
+      "sha256": "b779b963145c60927cbeee78b8647d83d049cb2b4f82e142256cf316302931cb",
+      "bismillah_seal": "cf1444104f3f3b9b220041c829edd74e59061dc6f8a846c3355007f7c72cd4e9",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 397
+    },
+    "papers/Bismillah_Adversarial_Pattern_Layer_Bismillah.md": {
+      "size": 182170,
+      "sha256": "bc9b07ed96c16f7c883e8a2e7f046e25b268f68e7f4b7965db109a772101cf3f",
+      "bismillah_seal": "91c1172c2b55f0bcb9146a99d83a21fa67acb9426c7dbc12541d8fc7ccc165f9",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 364
+    },
+    "papers/Bismillah_Al_Furqan_H_Restoration_First_Edition_1_Bismillah.md": {
+      "size": 756816,
+      "sha256": "f3ca3d6eeb8ae1af0ddc7b8c8c4ff142804ef8b4dc2d6f4a58267033223a75c6",
+      "bismillah_seal": "e4732cc0c3357743040a077ebade5d4c72845af96fec82c41d0c8e494ff7e703",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 1516
+    },
+    "papers/Bismillah_Al_Furqan_H_Restoration_First_Edition_Bismillah.md": {
+      "size": 756816,
+      "sha256": "f3ca3d6eeb8ae1af0ddc7b8c8c4ff142804ef8b4dc2d6f4a58267033223a75c6",
+      "bismillah_seal": "e4732cc0c3357743040a077ebade5d4c72845af96fec82c41d0c8e494ff7e703",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 1516
+    },
+    "papers/Bismillah_Al_Furqan_H_Restored_First_Edition_1_Bismillah.md": {
+      "size": 30355842,
+      "sha256": "c0836e8ec152da620a4fd6b75f2057bc80ab1bc78ace09d31b9482f5359a2efa",
+      "bismillah_seal": "fa1d4ce4724f05c3686014e3e0d2fc03f6aacd518a20577cc4f949be0c2700fb",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 60602
+    },
+    "papers/Bismillah_Al_Furqan_H_Restored_First_Edition_2_Bismillah.md": {
+      "size": 30355842,
+      "sha256": "c0836e8ec152da620a4fd6b75f2057bc80ab1bc78ace09d31b9482f5359a2efa",
+      "bismillah_seal": "fa1d4ce4724f05c3686014e3e0d2fc03f6aacd518a20577cc4f949be0c2700fb",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 60602
+    },
+    "papers/Bismillah_Al_Furqan_H_Restored_First_Edition_3_Bismillah.md": {
+      "size": 30358434,
+      "sha256": "cde01c2a94e05c1f3c14ee660028463c2da9a5386a69e31210a27b90f00ae69e",
+      "bismillah_seal": "88be19781c5b98b30fee76d02897ad8829c479c87145c31bc1e7ed8287042daa",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 60600
+    },
+    "papers/Bismillah_Al_Furqan_H_Restored_First_Edition_Bismillah.md": {
+      "size": 24573680,
+      "sha256": "c2f2b310de3cb7499da71631584097b1c1dd56830dfa83814bcc6d1c496b5622",
+      "bismillah_seal": "5bd4ab9375fbd5474b457195ae0cf83f15f08a8c7192c8936a839361373d7c05",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 49659
+    },
+    "papers/Bismillah_Al_Khalifa_Theoretical_Paper_v2_Bismillah.md": {
+      "size": 315983,
+      "sha256": "cbceb17d25362bbd738bc44f57ca795b914de99273a9e8b3d25b2ff340b89548",
+      "bismillah_seal": "07114f9066e7b50e1f9263f1a19569d3c7f26e276e84d2865f0d8bd255847c83",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 624
+    },
+    "papers/Bismillah_Al_Mutaffifin_Thesis_v1_2_Bismillah.md": {
+      "size": 293104,
+      "sha256": "cba5f94ae22b2eeeb488db747118738c9ee42cc0381aee38a4ab3af5a1ad0444",
+      "bismillah_seal": "1b8f355070582cd1108ddcfb184088be668baaa1067826210c460c40251c9821",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 560
+    },
+    "papers/Bismillah_BSSG_PAPER_2_Bismillah.md": {
+      "size": 428493,
+      "sha256": "b706245b482dd242a5e8d265df32c88f2a83753fcd658bce0f8d10847c5ac02d",
+      "bismillah_seal": "dee4c18214b77483b8f34593d71694feaa50c7e9680b0a17a61d6e175635e5f1",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 822
+    },
+    "papers/Bismillah_Bayyinah_AllocationAsymmetry_Ledger_v1.0_Bismillah.md": {
+      "size": 365247,
+      "sha256": "b2fa6bf622f4ec97ea4e741b216cadd33d50df0671546d2374e848b604d8498f",
+      "bismillah_seal": "f3c8f7961662ddf604766b2184151894342414bff5c6c0871ff45995eb2f9a41",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 691
+    },
+    "papers/Bismillah_Bayyinah_AllocationAsymmetry_Paper_v1.0_Bismillah.md": {
+      "size": 154482,
+      "sha256": "6912d3713ad37b054e9b559d7a1df6feb60db9c3f91148bd14576cb300fa51cd",
+      "bismillah_seal": "32ebf56c09a8ac8b4936325ece837040d86b9336f9b9f4fd992578f37867c449",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 292
+    },
+    "papers/Bismillah_Bayyinah_Audit_Framework_Application_Brief_v1_Bismillah.md": {
+      "size": 241004,
+      "sha256": "1f20b5ce8566682ae11eee862fb03cc1a2b8f5f1d6eb2eb7b3050de164226fa6",
+      "bismillah_seal": "09363da272f289574a83a57da08a7674b6897921294f3410a21ce590c397ef54",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 458
+    },
+    "papers/Bismillah_Bayyinah_Audit_Framework_v3.0_Bismillah.md": {
+      "size": 795138,
+      "sha256": "c8d61e7e4144076fd0b051ab8fbb66721d05e6493e4a6588427d3e2b5168f1be",
+      "bismillah_seal": "8bf8e79e5ab80eecc96913f9fe99a85b3bccd2ab852906acb156806bf5e57402",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 1554
+    },
+    "papers/Bismillah_Bayyinah_Information-Layer_Integrity_Scanning_Across_National_Broadcast_Sources_Bismillah.md": {
+      "size": 196900,
+      "sha256": "a4fe82faffecca6bc350398b5a9243b7730ce2bd94248f264bf26da7ad945481",
+      "bismillah_seal": "212cc8519e54b1b9267af3280b1ca4fb13e9d8012ec04864e5974cc483be0c48",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 375
+    },
+    "papers/Bismillah_Bayyinah_ProvenanceIntegrity_Ledger_v1.0_Bismillah.md": {
+      "size": 135209,
+      "sha256": "082cc085d94d9cfd853a706d3f28d1973444c9fa47fe156ad2b8f98e2bd0d539",
+      "bismillah_seal": "dda24fe38f15c25ec2854f772c8d4a12e8f7d1e7dc9fb53814dcfc96478daf5e",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 256
+    },
+    "papers/Bismillah_Bayyinah_ProvenanceIntegrity_Paper_v1.0_Bismillah.md": {
+      "size": 105106,
+      "sha256": "03f1b4669686c4c4fdd6c71040e20ff124be0b1b54736748a8c440a0f4cd4857",
+      "bismillah_seal": "fc61e583349335e99074261eaf1f0380b8a0c53272828f19341bd9005c9d3cbc",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 198
+    },
+    "papers/Bismillah_Bayyinah_Thesis_Paper_v1.1_Bismillah.md": {
+      "size": 263235,
+      "sha256": "313a7fecebdc758b2dda9b09007aa905b2b6998af1532788829d7393ca7a2384",
+      "bismillah_seal": "84be7bd13ad9639b4112e0a294783378666b9fd0b66fcd22ee395704a8b3c436",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 513
+    },
+    "papers/Bismillah_Bayyinah_al_Maal_Thesis_v1_0_1_Bismillah.md": {
+      "size": 177787,
+      "sha256": "a63de3f4aa88ee6109f921e29d3b5b30837cc54fae6678538ba4fc39866d9b3a",
+      "bismillah_seal": "9a9e0dd542d4a0024c8af8cb1e32f0af0076c71b8bbfaaf738c00b0ae35edab1",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 334
+    },
+    "papers/Bismillah_Bayyinah_al_Munasabat_v1.0_Bismillah.md": {
+      "size": 448752,
+      "sha256": "e1d2aa788070c7db69e6abb2fc0517f2b35fe73ead3ca219ecf9a35cb97fa57f",
+      "bismillah_seal": "139e43a9a5fe5e5fc2a51528b41ce3e4b4a99d7eab37cb1ab2bb4d5435a266cc",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 866
+    },
+    "papers/Bismillah_Bayyinah_at-Taleem_AuditCompanion_rc10_Bismillah.md": {
+      "size": 584977,
+      "sha256": "48c92e526dada03c8916ca0da8eec7bdb963fa21f4d58278bdd1df831cbe5d45",
+      "bismillah_seal": "dc72cc3d4ccdde287dc492b428c768bcf3e7495fe0160a7cf2938f75270daeeb",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 1100
+    },
+    "papers/Bismillah_Bayyinah_at-Taleem_Paper_rc10_DOIcorrected_Bismillah.md": {
+      "size": 215772,
+      "sha256": "86324c18a61fa5f5b2b2205c49ba45d13d1e8fa172ffdd841ad1b996cb73b502",
+      "bismillah_seal": "248a951e96a0ce2f693d9e889a11e4e7c3e7c1c3140786aced614a7f90985289",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 415
+    },
+    "papers/Bismillah_Bayyinah_at_Tartib_v1.0_Bismillah.md": {
+      "size": 636835,
+      "sha256": "99af408827a619d40e629c905c471e51713289d37fd683e918d1bd448363f30f",
+      "bismillah_seal": "229c7c7f66f13c428338a32e1bb611b2c4b545a1c8bb7e3c143f6643584da22a",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 1228
+    },
+    "papers/Bismillah_Bilal_Theoretical_Paper_v2_Bismillah.md": {
+      "size": 481869,
+      "sha256": "80e6130de4f43eed2afb4315179dd70e0f112c13cfac4807fe6a1e2f1a3629a7",
+      "bismillah_seal": "833a15117c8b8f8255ac58d4f6f522ec62861670e4fcd06762b0669c8cc4082d",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 944
+    },
+    "papers/Bismillah_Complete_Methodology_v2_Bismillah.md": {
+      "size": 839369,
+      "sha256": "6a028995b1fe15e962bfc248e3efb1e4f797d31f42d2ff7d997755852789cf19",
+      "bismillah_seal": "ed60e55896ac3852a33aa3a7c2b7c2ba78792a4c86099f1b6fec35a4ed77c643",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 1613
+    },
+    "papers/Bismillah_Computational_Tawhid_final_Bismillah.md": {
+      "size": 148872,
+      "sha256": "ee8f1cd4c4380ecea0d2c8dd5ca43db3e9463dbe0db58310923b82266aa46b57",
+      "bismillah_seal": "241faaa1678cf31781a89563a50d12ef7f499c238f7d9cef2df6caa41ff57aff",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 286
+    },
+    "papers/Bismillah_Cross_Text_Computational_Linguistics_Thesis_v1_1_Bismillah.md": {
+      "size": 169298,
+      "sha256": "c9d63a9190b58e57a996614d6c414f3e2efae03958a2cb9bb6d4009fbc73f40c",
+      "bismillah_seal": "a0a5f415b8d57fe7224982e530facae751eaa3afcb540abbfbabd460f4e8ebc2",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 328
+    },
+    "papers/Bismillah_Differentiator_Framework_Bismillah.md": {
+      "size": 176595,
+      "sha256": "711f9bc6ef38c2a8eb8e9984713b619ea16902e445f07e4ffb8468aa7624909b",
+      "bismillah_seal": "def6fae2b84599d2de741a1565d3d10a2516a144e9a8e0a2ea5fc549169890be",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 342
+    },
+    "papers/Bismillah_Every_Atoms_Weight_Bismillah.md": {
+      "size": 378761,
+      "sha256": "749f9005bf7caff5b0c101ae0b92734a79804e215bd7064aa3b8a1981cf59763",
+      "bismillah_seal": "e241fe4199ba8cebca70db5a0a14d4031e492a8d89bc24ef6a3b2b2c13188a79",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 712
+    },
+    "papers/Bismillah_Everything_Exalts_Him_Bismillah.md": {
+      "size": 509979,
+      "sha256": "49cf2b92b1c7ec010d4435b10ed9a144d0d449c3f76b598fd834b50e60ebcd57",
+      "bismillah_seal": "1503013e6e50a0da6572977579ca03c8c09058f5be0f5133d2ba66ae20b33f40",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 977
+    },
+    "papers/Bismillah_FATIMA_3_Bismillah.md": {
+      "size": 594074,
+      "sha256": "52755311d49a2cc709665eae81de080ee97f9ac98f79f5c0d56c75f6f97968ec",
+      "bismillah_seal": "e6ec4820dc169afbc01f48a5769ab159fceb9ab2f80f2aa2fa6cd3c724aa250d",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 1114
+    },
+    "papers/Bismillah_Financial_Analysis_Engine_Bismillah.md": {
+      "size": 239113,
+      "sha256": "dfd6c7db451c44bc4ad00b4a3ea078a2b4d6e1af3d551b95a0beaf67f76dd27c",
+      "bismillah_seal": "8458b59410472b4af18d4abd5b49b9b738fa6433aba0dd1bffa8b006349fbd07",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 472
+    },
+    "papers/Bismillah_Flagship_paper_v0_13_Bismillah.md": {
+      "size": 461995,
+      "sha256": "fdd8eb73b00751edcde730cb4949a2bd055fe21e9e867d3efac22eaeb5a77b2e",
+      "bismillah_seal": "cba3e46a7bed227426993d5c432d0d6157592434e239d61311fdfbb67adea549",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 862
+    },
+    "papers/Bismillah_Furqan_Thesis_v2_Bismillah.md": {
+      "size": 676330,
+      "sha256": "c4fe9fcd0ed19ee924c62be848f3e4931cdd144537eda45fecb3396e07786ca9",
+      "bismillah_seal": "7de192f306ccd8208ffcc621f03d88097e13d241d3263aa363c141a080a39bf4",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 1351
+    },
+    "papers/Bismillah_Ghayb_Muraqabah_Non-Advantage_of_Concealment_Bismillah.md": {
+      "size": 194964,
+      "sha256": "f53c7eece32ea52044f717ffd59e3f1858a333ea748d994d297c97a12898bdf7",
+      "bismillah_seal": "d6ed025eb17bfd6040690c6443a2208851afba97cf0d43cb4160581e0c2dbc96",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 377
+    },
+    "papers/Bismillah_Inheritance_Transmission_and_Turning_Back_Bismillah.md": {
+      "size": 381675,
+      "sha256": "a9f649c88cc42f3c1d8458988b73b51eeaf01ad08ab80129f099c9abd1d8a4c6",
+      "bismillah_seal": "4f9e103995fb2ae7e2b8d61fbd8d1c2ef801363e00fbf680dd1b82d3e87e96db",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 733
+    },
+    "papers/Bismillah_Inheritance_Transmission_and_the_Locus_of_Accountability_Bismillah.md": {
+      "size": 423674,
+      "sha256": "315fbc06e512b34baa15e0840362802ce8c294d397775cc9cf43bcd1def7bbb9",
+      "bismillah_seal": "5bfd9a659677448c6157162fe6100e60a34775df718cbda42170456a55127e70",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 836
+    },
+    "papers/Bismillah_Islamic_Cycle_Analysis_Father_Bismillah.md": {
+      "size": 92175,
+      "sha256": "539abaaf5467f8c22309653de9b825951a63ce59ea9885b1201ef7982b6f9203",
+      "bismillah_seal": "998634fa5e2563a3d383dd13eb7681bd88723e446b955aaf06b0477cc429fc9f",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 182
+    },
+    "papers/Bismillah_Islamic_Cycle_Framework_Analysis_Bismillah.md": {
+      "size": 285843,
+      "sha256": "ec2dde4102e4bc2dbdcce6983a68cfa2bbe88351070d2d8196a739a552575ec4",
+      "bismillah_seal": "1b1089fcb1a84630e460c67e1f3c32776a6718906df545b54ca6efb6c58f61d8",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 597
+    },
+    "papers/Bismillah_Islamic_Prayers_1_Bismillah.md": {
+      "size": 225085,
+      "sha256": "03dfd12b722507248877a1a220db0b385f13fa14db60dce19a64124973592a20",
+      "bismillah_seal": "1084502fd9a57ec262d681a23f18014841421b1a322ca839bea7a1a9dbcac7f5",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 457
+    },
+    "papers/Bismillah_Islamic_Prayers_2_Bismillah.md": {
+      "size": 214581,
+      "sha256": "86db1444bd6228739d9af95be1629e876dca6b8349fb26364273ed7d4dae02b4",
+      "bismillah_seal": "d1b2192455de3027e7427950ec60fce90035ef6a38b9d0d47278dce33a0c6537",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 436
+    },
+    "papers/Bismillah_Master_Methodology_Paper_Bismillah.md": {
+      "size": 521983,
+      "sha256": "efc1fb2da0813d867088516ee8cdb0783b2f0e1b9e964998c8b3093cdc987238",
+      "bismillah_seal": "fd7bef881e16ac1de7a690ec702395c55443dd7b92d2a382f0e50a3f1509e3c9",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 1000
+    },
+    "papers/Bismillah_Munafiq_Protocol_v3_Bismillah.md": {
+      "size": 255334,
+      "sha256": "dee48d757bc1f83b32715763798f090f5e13f8bc6223ab9eee42474ffa0c68a2",
+      "bismillah_seal": "4fa75e9d3c2b71b5c210da9082ba21ffe1991e49e0112778a876dbf20f45401a",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 498
+    },
+    "papers/Bismillah_Mythos-Class_Protocol_v1.0_Bismillah.md": {
+      "size": 189515,
+      "sha256": "a8fd74658c71fc83e28e29b3d1d211e56fd169ea8dae92a863c259f011db2f0a",
+      "bismillah_seal": "7814cf4bef753c2f80bc6fadafb52ec987b5161ec6f3b503cb64cd9c77d9d34c",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 371
+    },
+    "papers/Bismillah_NYC_Procurement_Ledger_v1.0_Bismillah.md": {
+      "size": 60869,
+      "sha256": "24d013aa093e1ad788f8db016510a3119424cb59ef86b7dc3ad812179346bf4d",
+      "bismillah_seal": "5962be736bd8bcb6355e1f2505942a900535f3bd03591b8355d38a5d5f1dd162",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 115
+    },
+    "papers/Bismillah_NYC_Procurement_Paper_v1.0_Bismillah.md": {
+      "size": 290871,
+      "sha256": "3785f92177565f71b093657ce4d31cd0ef69c7186b57bfff447d270084e75e57",
+      "bismillah_seal": "924756a88455b5566b76645904e3a7cbc2f580426bdcaf34cfe77808cf9891d7",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 577
+    },
+    "papers/Bismillah_PMD_v1_8_Bismillah.md": {
+      "size": 1256546,
+      "sha256": "d8e081afd80b58d15f229edf1eb1fbcbdf440a5d1eef4b8823578e49b037c865",
+      "bismillah_seal": "32fb95363d2b8b6e19972ae00a40bae2dc80df24b6fb9d48d22b7ff2da0eb244",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 2359
+    },
+    "papers/Bismillah_Peptide_Framework_Analysis_Bismillah.md": {
+      "size": 333665,
+      "sha256": "1ec8efddd6ee31b25686dfbda4453a5293fc9b0defc84d0a5fd9a118b1867662",
+      "bismillah_seal": "717e92cb43dd8a6d3c780aea28fa0277cec0e59a69a1c9bf88c76e3f857230fc",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 650
+    },
+    "papers/Bismillah_Pharmacological_Pattern_Recognition-_Nine_Drug_Classes_Through_the_Framework_Bismillah.md": {
+      "size": 117717,
+      "sha256": "fa5c50fc5211b5406ec3597c7c7550c4a7c77ff42bf9380ae5675e2b6ceabc6e",
+      "bismillah_seal": "9b769fac06bf5f3ffcff6bb103c7d51fb6dfd9bbc63e76c291356ba20106e6c4",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 220
+    },
+    "papers/Bismillah_RC_Market_Framework_Analysis_Bismillah.md": {
+      "size": 305270,
+      "sha256": "acbac2da44fe2c20a9ee415ea951e5de270981a410ab361d4db2b362bc46c0b7",
+      "bismillah_seal": "7a08f0cd003d4517d7d3cde21455a077d3a844c11a2246fe768fdf4724d81489",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 590
+    },
+    "papers/Bismillah_SHIELD_PAPER_FOR_UPLOAD_Bismillah.md": {
+      "size": 309019,
+      "sha256": "d2df08f038650083bbb3c00f2e7ee9929395d2244376e0fc6f914330cde52ae8",
+      "bismillah_seal": "934c9822796791902fe8163ad1537ba401b963b0f08dcd1c46428ed651fb41c1",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 593
+    },
+    "papers/Bismillah_SHUDP_v0_5_flagship_Bismillah.md": {
+      "size": 690544,
+      "sha256": "f265571cf16d7d75af4195aae8eadb013c5a0571e3e2923ad56aa49d531d7991",
+      "bismillah_seal": "02fba47517583df38893c11c26f227b73831c903d17814eaa5998802f2d57973",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 1338
+    },
+    "papers/Bismillah_SHUDP_v4_Bismillah.md": {
+      "size": 523174,
+      "sha256": "879879d20bb205bce3875da475dc233b45f5371bda06a9014a787de64cf4c68b",
+      "bismillah_seal": "0ade9c123dc4c25f55241e84a4f5e279c2f3292a7a097abfacc1817ec8e032df",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 1016
+    },
+    "papers/Bismillah_SHV-Bench_Protocol_v1.0_Bismillah.md": {
+      "size": 346805,
+      "sha256": "14b83281584e2e54464ee32ca1fa6f24557984b7810edafd370f5cb1bf9dd9f5",
+      "bismillah_seal": "177e7b1da4a15ee87881ba4ac45e4f34039d0b2075d8bdef2ce223285b6c1265",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 683
+    },
+    "papers/Bismillah_SHVVP_v0_8_flagship_Bismillah.md": {
+      "size": 1645353,
+      "sha256": "13eba022472dd7bd6444649151891b9f52549c30797ccd20f15098ee95b047f5",
+      "bismillah_seal": "c8f8e3dce3127e0d414b2e5ee75bf4681523fa5ec368e64bf638ce0a0ec72040",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 3307
+    },
+    "papers/Bismillah_SHV_Method_v1.1_Bismillah.md": {
+      "size": 161354,
+      "sha256": "ccacc4d3e2875edea00baded101c0f33c064e6e957da9ac5d477d158f86f627c",
+      "bismillah_seal": "ca65ae30dfaf8ac153fcb8d469bd51e4625555440c1ae0ca6b41d61f8d850d5a",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 308
+    },
+    "papers/Bismillah_SWARM_ANALYSIS_v1.0_1_Bismillah.md": {
+      "size": 204004,
+      "sha256": "f2e089b8be33d4398d60891f11dc6e2c2c89ce14843fd163ea61bbe9982c5fad",
+      "bismillah_seal": "bcca25941082ab72dafd66967df6c8ae850def36f45cafe2ad61d3c6cfe40c6a",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 395
+    },
+    "papers/Bismillah_Shayatin_al_Ins_Bismillah.md": {
+      "size": 735313,
+      "sha256": "b253410dae680542efbba26d7867dcb0034c1fae607abb8e6deeefa90b41d4a5",
+      "bismillah_seal": "7ed058cd95ce34d6b9801413decb59d0b40ac1ae3f8fd5d0ddaca6c31b6e84e5",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 1398
+    },
+    "papers/Bismillah_Shayatin_al_Jinn_Bismillah.md": {
+      "size": 416554,
+      "sha256": "843cb405c887ae2a4f2a5c411604c2c6c7894ec796ccbbfb8a7d7f5ee070ea48",
+      "bismillah_seal": "f5e3cb921d1faf209ac38923745aef33c876cf06ee8b57c22b9d5f561ee4f02d",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 791
+    },
+    "papers/Bismillah_Structural_Honesty_Dissertation_v1_4_Bismillah.md": {
+      "size": 5793562,
+      "sha256": "7bdfcfd0255f9e99fdf72eb241a88f2f1326f55773430c89361ac9d9e8793492",
+      "bismillah_seal": "506791c342ca185f3259f527e5be24a121c943752c6409e7cbcbd7d893d22780",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 10630
+    },
+    "papers/Bismillah_Structural_Honesty_Verification_-_A_New_Frontier_Bismillah.md": {
+      "size": 1148666,
+      "sha256": "e841812109306ff67ce73d1826c8c63b65f99b63412330b27665824c4b477929",
+      "bismillah_seal": "150b01cd831f1e421f5162952ebfb990b7ac3989f32df60a4d7202ebb51a1e00",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 2267
+    },
+    "papers/Bismillah_The_Chants_Have_Cycled_v1_1_Bismillah.md": {
+      "size": 222877,
+      "sha256": "6aac655950fc8c73376be723d66b5cd2ba3f98bd64a2743e97e3c95e4df8082b",
+      "bismillah_seal": "e0741836e52274a9dff2a065d10c9f4b5eb1458b00bac486f64e26dc90f46286",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 422
+    },
+    "papers/Bismillah_The_Differentiators_Practice_Manual.md_Bismillah.md": {
+      "size": 212642,
+      "sha256": "e00afab2ee5586e7a499090a163141af2a2866aa6e6a783052271be4a96c79a9",
+      "bismillah_seal": "776d75abf1361498c449681ad3e28eff288c707dfc9a7896f7b8d9b86d7741bc",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 423
+    },
+    "papers/Bismillah_The_Enslaved_Realm_Bismillah.md": {
+      "size": 302402,
+      "sha256": "50ed3fc87037e4cde17493ad1eff31153837dc06f70ce6de2a4b2885fe7979a7",
+      "bismillah_seal": "4af28d43579c001d5db4d12b1f7ff8a581c02e510861799b08662755fb1529b0",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 574
+    },
+    "papers/Bismillah_The_Fatiha_Construct_-_A_Seven-Step_Recursive_Session_Protocol_for_Human-AI_Collaborative_Development_Bismillah.md": {
+      "size": 177380,
+      "sha256": "5b96c1066b088ed198b321b544689752707cd2519a67e1ab71b0c4072b96bfea",
+      "bismillah_seal": "8cc6a35fd2c4cc7ff09a8a66436e7aba672e98b74c4511c929b267f41c131898",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 343
+    },
+    "papers/Bismillah_The_First_Civilizations_Bismillah.md": {
+      "size": 314240,
+      "sha256": "02536ed6976fe23ef672dd1179a165ce07ac81e7b820cb3be986f8ca6aad4149",
+      "bismillah_seal": "8aa6eafb18d78a396dd6351f6acd4e47d168431d0170cd0d915505e427927dbb",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 594
+    },
+    "papers/Bismillah_The_Fractal_Dimension_of_Renal_Vasculature_Bismillah.md": {
+      "size": 61482,
+      "sha256": "50605a83db2c79714807410e7e6ee96ee5a5964f0a43f2ea5e1ee0b3abc6a380",
+      "bismillah_seal": "c8f31b4d7313524289a541e788de9c99c6f752cd34d722e211b9d08c3249d483",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 117
+    },
+    "papers/Bismillah_The_Golden_Thread_Father_Bismillah.md": {
+      "size": 115450,
+      "sha256": "4fb23fc9bfd31d2e238458071c40c7aefa941930e5e61a5911ac4e6857f6f6e6",
+      "bismillah_seal": "1d4caf8064e6da91987070209fac5dd83cbba994168249ba944d402f970230d3",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 234
+    },
+    "papers/Bismillah_The_Golden_Thread_Guide_Bismillah.md": {
+      "size": 139465,
+      "sha256": "65b5e930bbbe2da7bc1726c0bc019f79ace6106e8be880053037c1f96053e661",
+      "bismillah_seal": "04cd8e0bccf173f1099feaca787b8fb6bb3133f1948c64d24481de64dd23350c",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 286
+    },
+    "papers/Bismillah_The_Golden_Thread_Mother_Bismillah.md": {
+      "size": 113732,
+      "sha256": "5c3cc1faefaa823718e748628beaefe91c9bfa599d55101f8e9df179efb3cb39",
+      "bismillah_seal": "a76786e106ce386c977cfc09cb0825e72727a18e1d4fd90fab61a37f1ea1ab89",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 232
+    },
+    "papers/Bismillah_The_Heartbeat_of_a_Live_System_Bismillah.md": {
+      "size": 422498,
+      "sha256": "9fc459ea8ff3d19e43d60dbbe22ca2decdc9529898effe589396476518588151",
+      "bismillah_seal": "54b6336ada332d4e37fb18c1dfd769b39ceb1d31e731d862a512a8dfd481d187",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 809
+    },
+    "papers/Bismillah_The_Most_Beautiful_Names_Bismillah.md": {
+      "size": 401297,
+      "sha256": "b5fb7db0efff0a95b826af1f5b4ca073d0942a571e5c381dd2514f953ca3edb4",
+      "bismillah_seal": "5206219f8f3f7dd380ac88daa8e1af426f62a55c42bea51484f7d6620a3becd0",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 756
+    },
+    "papers/Bismillah_The_Most_Wonderful_Code_Bismillah.md": {
+      "size": 7004828,
+      "sha256": "56b6941fb4eb4b11c310b103bced3fb6d6eeab8a31638e29d3c78b16494d1d86",
+      "bismillah_seal": "c036bf2658b9441a187bb2a3131e9d038604c04ddb0cd15f618b8353bb15b5a1",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 13786
+    },
+    "papers/Bismillah_The_Seven_Layers_Bismillah.md": {
+      "size": 253928,
+      "sha256": "7a4756281d690a58a43ed852534e2482107ea2bf2c0404c90724afa9d12ac359",
+      "bismillah_seal": "77231dede9905d8dcb3f85b3e15b05fb0fed2812800a42ae95107b0736493ed6",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 484
+    },
+    "papers/Bismillah_The_Signal_Final_Bismillah.md": {
+      "size": 201465,
+      "sha256": "215b0b1f92276c330bb18b5a1500a8d7ad2465f259129463faaee9fe19959a88",
+      "bismillah_seal": "dae6aaf00aba251605e9931fc9b344ffb37e081aa1287ca6e90a8a6c56625a45",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 393
+    },
+    "papers/Bismillah_The_Transmission_Solution_2_Bismillah.md": {
+      "size": 309103,
+      "sha256": "cf19b6032c760116a21661e726cf3a23251708a776eaa30f8293412d12dc792b",
+      "bismillah_seal": "d7f6471da0c4bef34364338ead524191c2bde32a956be2672d1b1be1dd65e64d",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 582
+    },
+    "papers/Bismillah_The_Transmission_Solution_Bismillah.md": {
+      "size": 309103,
+      "sha256": "cf19b6032c760116a21661e726cf3a23251708a776eaa30f8293412d12dc792b",
+      "bismillah_seal": "d7f6471da0c4bef34364338ead524191c2bde32a956be2672d1b1be1dd65e64d",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 582
+    },
+    "papers/Bismillah_UNIFIED_AUDIT_METHODOLOGY_v0_1_Bismillah.md": {
+      "size": 669387,
+      "sha256": "ee13ef77a18ce05d496161bfea5d51c3b52255641c367aacfd8107897ab9e2f7",
+      "bismillah_seal": "d1f99cf791393b647938edf0b737f4e615e618d0fd22e85331da486e5d199a84",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 1350
+    },
+    "papers/Bismillah_UNIFIED_STRUCTURAL_AUDIT_METHODOLOGY_v1_0_Bismillah.md": {
+      "size": 437191,
+      "sha256": "a210ad207329e2e6b3d99525c728a27392b8c360e65e206ac8632d43845352dc",
+      "bismillah_seal": "33cd4fb66259b0aef826fa2fc1199f8d211969676c235ae7612a49291e7f3ba5",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 899
+    },
+    "papers/Bismillah_XZ_EMPIRICAL_v1_3_1_Bismillah.md": {
+      "size": 115377,
+      "sha256": "b09d07deb5a41b39a5e95adec3409418de8d6bbef2d0f4286bcd5fc21b6c584f",
+      "bismillah_seal": "f2af197aa6924e04fd39eaf2eee16c9389f87337cca575d1342c90f09e8e53a0",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 226
+    },
+    "papers/Bismillah_XZ_PROTOCOL_v075_FROZEN_Bismillah.md": {
+      "size": 2858533,
+      "sha256": "2819358da22fe182ed5dd0e7df50f0a03241f9e48016dd9aa1eecb818752130b",
+      "bismillah_seal": "2536d138686ee56b76d63caa1ea33bd97f6be88e9d7932dc55d561902621f5dd",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 5399
+    },
+    "papers/Bismillah_XZ_STRUCTURAL_HONESTY_AUDIT_CORPUS_v1_3_Bismillah.md": {
+      "size": 131802,
+      "sha256": "72c92ec352ae95d2426c1eaae472f0dfaccdb71a9152f2c98eae67e8026bab01",
+      "bismillah_seal": "807b449a46c0082f5f1f1940cc08d9fa1bdeb2aa9217eea21025171a7b05d92b",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 269
+    },
+    "papers/Bismillah_al-Mizan_v1.0_paper_Bismillah.md": {
+      "size": 347754,
+      "sha256": "b1e28448c710c91df6339e209b0cc666aeeae45d292b08f2d583f2cf54c13315",
+      "bismillah_seal": "51dec8a5787e6034473fe8b5388b193ecdd996f4638fc1ffa27586fdfba07f81",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 667
+    },
+    "papers/Bismillah_furqan_lint_thesis_paper_v1_0_Bismillah.md": {
+      "size": 759870,
+      "sha256": "c0e4bb088ca4988470c5089908c5d2b0ea3099ee2929b97d946c2ffa3a3029b3",
+      "bismillah_seal": "50a33cd9a2338fd06077af0037433754c1bde30f58b271658bd4b058eb60b4c5",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 1489
+    },
+    "papers/Bismillah_furqan_lint_white_paper_v1_0_Bismillah.md": {
+      "size": 190429,
+      "sha256": "db09e6e8aef3ec866c7fcbb46b068450608de85ba1b71cad36d659fbae999236",
+      "bismillah_seal": "b32f0f4e651dbba69bf49cfc5e0d1fc587c74a008e68626d128f1f357a0d3672",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 381
+    },
+    "papers/Bismillah_predictive_audit_prompting_paper_Bismillah.md": {
+      "size": 299013,
+      "sha256": "2eca5968dc47e080c8c9db3fb3f28dd45b193e0210e9f269020cc04439335431",
+      "bismillah_seal": "099bbd455e5c2ab1f37598ff33385d99133d0af7da159bb598cebf9866592f08",
+      "filename_sealed": true,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 599
+    },
+    "fatima/__init__.py": {
+      "size": 4203,
+      "sha256": "b23d16d16d6dc1a27d3999dbbeab56650fa369a77add9f2fd52667aeb44e8e8d",
+      "bismillah_seal": "867144986ad549737c27353fb0a3e5f7d3404c3ff9c565e23ffbc2770f03e7a7",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/cli.py": {
+      "size": 14492,
+      "sha256": "41e37a54708eda8b447e2499f2b4629a05779a7c3c79a26201c2f64580952e1e",
+      "bismillah_seal": "16f6bb1689dbe2b35c02eed05042ca78309ed2947816059fa75e1c2d83f186c8",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/graft/__init__.py": {
+      "size": 3952,
+      "sha256": "a60edfc955c6fe47d694825d8a4e1a72b02ea4d574f8464b653ae07c7901c056",
+      "bismillah_seal": "929133501e67385600701785579e5398def038c07fc0f4245c1616c8e2dcd819",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/graft/anchor.py": {
+      "size": 6589,
+      "sha256": "be07e41c2734e0cc7607831ebb04ff53ee7e4a12d78f88fb122c08068e65591b",
+      "bismillah_seal": "f89d3e190c6d700e9569d1ffa5127a1a7c0729a58c77b68f930cff8a1f22651d",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/graft/composite.py": {
+      "size": 6299,
+      "sha256": "b912329ed03bf7f2605612785ef7f6abdadf9653771afde4f877221612576a53",
+      "bismillah_seal": "9b40a8596e9fc2b9d032b29a52f7680fcb341b7a2d4d7ebbd483a93dc1907b68",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/graft/independence.py": {
+      "size": 6385,
+      "sha256": "bc6737e4ec1c6d8fe536e2fde6f4c425c99b9ce17efbc03868da210a015bb17d",
+      "bismillah_seal": "12770467584ed786059592d14ed4d0ee4c9a9bb4e0cf49d8b30fd9f9d86d68a0",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/graft/manifest.py": {
+      "size": 10073,
+      "sha256": "b4b89933b8759f2295686da04f596a3a070f78b89873c4d4bd4a2d39c8fd0e7e",
+      "bismillah_seal": "f4f9fc833b9aacbfaa89fd276892c271ac2463b3636a03aec642ba1b35c026ad",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/graft/report.py": {
+      "size": 5913,
+      "sha256": "bc451bff2e81f91084cf87abd99ffc6e03c76303e32f87e0c396433dbdb2de58",
+      "bismillah_seal": "4846911d8aeb928f4b19c1895040ab9f8aa673b83b67e6c928b162982968ea62",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/graft/adversarial/__init__.py": {
+      "size": 3558,
+      "sha256": "22eff1687a8b8cd7b4098a45d1a7b9f7f1dafa711cfc22bb350647be2d989527",
+      "bismillah_seal": "e6bae36d9116185f8519ecd50a536631639a9e436da1465887f51e31aff0eb80",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/graft/adversarial/fixtures.py": {
+      "size": 6913,
+      "sha256": "189bb24b5f897ab8786126a132154c68581185299730bf91cb94fe52a0aca069",
+      "bismillah_seal": "a3f7419896facda99099793f522051e7a5aebd297976ae58925277d8a542698f",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/verification/__init__.py": {
+      "size": 3642,
+      "sha256": "5b2ce6fb0a4012e3da39df914f632db936b7335e151879f6445e3efae3ec6f2c",
+      "bismillah_seal": "28f01f61ca2195802f69162ee37061a54eba032673bc3dc0f66a3181d0f7e7f9",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/verification/composite.py": {
+      "size": 13822,
+      "sha256": "1419b5a7d96068f30b411bffbca05da4cb166dd3029990b28adcb8c360969ed9",
+      "bismillah_seal": "c4864cbef00220a301e0337639e7155952c9192deb9f4022789e97768f39c974",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/verification/holographic.py": {
+      "size": 8859,
+      "sha256": "d83c8e1b429a90d683eae8743aa17672aadf308e8717876df453b4d6dbe31472",
+      "bismillah_seal": "21ce77e3080aca89124c7f3035af6f8bdf7bb2f4b89f50d0ebdedd115d322462",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/verification/provenance.py": {
+      "size": 9646,
+      "sha256": "bfe34ea1eaff53fe5305099a7ec20e5d3b7edf3c30aa10ef4bc559e8c149296b",
+      "bismillah_seal": "6a96060b25cd7ccc91cf720a4b4f8ba2dbc8ba930e0854108381aed56eb7e79b",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/verification/semantic.py": {
+      "size": 12011,
+      "sha256": "2568c1c1d18ca0eeb8ce72ddfa007ca78e8e2adb1ee594451fb1c9e26b58c7de",
+      "bismillah_seal": "2b334d057fe0a7c7346ed0c8663b2ac8ba414cf3223dc6f3525aa3c6ab14029a",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/verification/structural.py": {
+      "size": 4261,
+      "sha256": "681bd81741eff9fb4eaa3883b51c8efa5ba1da90e75d4964a073023a2fb3d1f5",
+      "bismillah_seal": "c8dd078c226446b866544e72efc9e256f3d90d6c29684c2cbcaef23f2487837c",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/verification/syntactic.py": {
+      "size": 4056,
+      "sha256": "06920b0d286e008b55e769ded9e682e7d6d985bf9137709ef8505acf7fb3319d",
+      "bismillah_seal": "84d0b222d8435b3335b8d364a77d5b4e835126d01dac7d5170a82504a3b48080",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/verification/verdict.py": {
+      "size": 8005,
+      "sha256": "d01cb3171f1c92a2d21e5883997e3eb8e5a154b402fe928bed96e0a23a35e5b0",
+      "bismillah_seal": "b3bc91b95b1154e84b44c18c80001f77327f591d84cf0c1b53e56a2f5bf305b9",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/formats/__init__.py": {
+      "size": 3312,
+      "sha256": "e5ac85ec7ddc2a641d183aa87ffced0fc7648f26e4996cb351a8fa5d8b56f589",
+      "bismillah_seal": "f7c54afc7929bcbba1a0495b8f2fde0f0475fd830a4b20dcf3f6d6704227c165",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/formats/document.py": {
+      "size": 21568,
+      "sha256": "4819c6d81fb17ae196297ae73a1d2409513a4cb332b669ab45b0a1b9bbc59a21",
+      "bismillah_seal": "40bcdae0681386f58c2092d66724c60bd162b85f6d04000a135d886f8e96f2ee",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/formats/serialization.py": {
+      "size": 7751,
+      "sha256": "c3120d09e4fd75b3ceee49fea3c78cfde4e6374cb03c5f1e5b780fb3aa02cfdc",
+      "bismillah_seal": "5af0c1fcdb1034101bafd1a6dc0f9bb439d1921167cedef8e2da9277aacd2f0c",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/properties/__init__.py": {
+      "size": 3317,
+      "sha256": "d56f83a40d22ac510d620a9fadfee1d352d49c8c3647db0c074b0595e5f8c184",
+      "bismillah_seal": "ab3105e94691403fe955d6e99d54c776d511b90e183ad4c33617ed61eb4f39d1",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/properties/authenticity.py": {
+      "size": 5287,
+      "sha256": "19e60226ee588021d540682e5b005d04096fc2216e9b86d980e04a2f810b3546",
+      "bismillah_seal": "12edbc54644dc3daa1e1b3d25fa90eee882074c624105072354ca6264afbf84b",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/properties/fitrah.py": {
+      "size": 4429,
+      "sha256": "f3aea10679b3fb3ea2f30ec9766ba4a4b578d97c09df15819b49c8c05cbb0f88",
+      "bismillah_seal": "d77ef32b33766234e8ff61d92555b847f0c73dc72d35d21f52ca4c4c60ff01a3",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/properties/holographic.py": {
+      "size": 4373,
+      "sha256": "5e6ac12e3a59f03e029fb166c4160ca7d7a56640f3b2d3765bf82120ed0875c5",
+      "bismillah_seal": "72ca5deaffa834ac62b81062de5aed179c9e39c30fd47e2f6cbed7d142d65345",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/properties/meaning.py": {
+      "size": 7366,
+      "sha256": "70884fd0fc9f5ffbc860a33746e42e8b4fe31430300803cb428fbcba8fdb8015",
+      "bismillah_seal": "ce3bf470c7450f9345db6688948203fb1cc08be8c9b2b054820f6d7c11638d98",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/properties/tawhidic.py": {
+      "size": 7781,
+      "sha256": "36e5fc3193e738129bfc8058466d9d2289d9f53a4be62cf5a37a54097b9d2f3a",
+      "bismillah_seal": "1f8a825e8d3dcb80c82e2231aff6ff7f225c8d60f7b7bd07bbad42645802421d",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/core/__init__.py": {
+      "size": 3886,
+      "sha256": "65ad5c5fba97656324a7620a8aba5439586b57e7c874dfafcdabff253b2d2601",
+      "bismillah_seal": "c6f79c2bda184e791848fb63c02d0dd7447b6b92a1fec4cf70170e98ad500d07",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/core/atom.py": {
+      "size": 10265,
+      "sha256": "e7cca166d0d5d73aa665d78f7e9aece490d1a8cb0b856c8ec383d8dd485150fa",
+      "bismillah_seal": "e56aef2699b8160ad4fc86b06ec68a4ce95f9fdadd54f0975f32c93bf442981c",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/core/bond.py": {
+      "size": 9393,
+      "sha256": "8f1834232e6047493d1c5ae9e470a8a37e2dea182b3ae85cdb0c261eef9ba493",
+      "bismillah_seal": "99440d40f545e0e8d76e540ddf1c29935a276da159bfc569fec8b49f2b2d4c23",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/core/composite.py": {
+      "size": 14315,
+      "sha256": "36e7ec0e1422339682e95b56b2e13fa925d6719f049122c67df501647be7961e",
+      "bismillah_seal": "fb0e96e990d4c553afa9f3cfd660e7362beb509e11a7a9431843a7286a3b7ad2",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/core/encoding.py": {
+      "size": 19905,
+      "sha256": "a9e6904185a71b070fecc995e2520da4abd8c1686e7cb0f0f556ae77042e910c",
+      "bismillah_seal": "09b24a4039e52de145e5d268466c2f93074885f03b87e0b1be0b62c9df953d84",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    "fatima/core/molecule.py": {
+      "size": 19044,
+      "sha256": "4e9eceaefa08b87f50db04928e4bfff63d54a443b006902f335b55c49771cab1",
+      "bismillah_seal": "d246de1d9282aa740bc1227588a24d64edbb2da9d74b914e43c689c7f82d5a89",
+      "filename_sealed": false,
+      "content_opens_bismillah": true,
+      "content_closes_bismillah": true,
+      "watermark_count": 0
+    },
+    ".pytest_cache/.gitignore": {
+      "size": 37,
+      "sha256": "3ed731b65d06150c138e2dadb0be0697550888a6b47eb8c45ecc9adba8b8e9bd",
+      "bismillah_seal": "698c84009ab0e84b38c75038a71f81460b93285e7065047984c620e667ec20dd",
+      "filename_sealed": false,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 0
+    },
+    ".pytest_cache/CACHEDIR.TAG": {
+      "size": 191,
+      "sha256": "37dc88ef9a0abeddbe81053a6dd8fdfb13afb613045ea1eb4a5c815a74a3bde4",
+      "bismillah_seal": "1adced3f2acaf7b2d2ecc83d9d8f0b2b6964ebcd376892522e2f4e1d3f8d3d8d",
+      "filename_sealed": false,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 0
+    },
+    ".pytest_cache/README.md": {
+      "size": 21466,
+      "sha256": "ededd84a3c1ac375fda91e95268f34fe161b81083d2ff1d7b5f6373cd257e8c5",
+      "bismillah_seal": "a874b5dccb1e7106d530cf72718733bb9fd0159d7c7a84d7fb5a36a19f5ddf3b",
+      "filename_sealed": false,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 30
+    },
+    ".pytest_cache/v/cache/lastfailed": {
+      "size": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "bismillah_seal": "45724b09feb558a5e06d90fb7f58d2f49c5e0604790eb1c3bf87492b27b841b7",
+      "filename_sealed": false,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 0
+    },
+    ".pytest_cache/v/cache/nodeids": {
+      "size": 2871,
+      "sha256": "5388952eb405ea8ebea55ed571928dfccba92c1ae05e6c1c41c564e329fb83ba",
+      "bismillah_seal": "5365e172943e1ffce576f5ad664e7f906c97b682ad7458eddcb2e3d139c90418",
+      "filename_sealed": false,
+      "content_opens_bismillah": false,
+      "content_closes_bismillah": false,
+      "watermark_count": 0
+    }
+  },
+  "total_files": 161,
+  "bismillah_closing": "Bismillah ir-Rahman ir-Rahim"
+}

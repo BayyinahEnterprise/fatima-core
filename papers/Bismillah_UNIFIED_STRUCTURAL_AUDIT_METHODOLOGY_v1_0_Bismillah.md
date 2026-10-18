@@ -1,1329 +1,1329 @@
-Bismillah ir-Rahman ir-Rahim
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿ismillah ir-Rahman ir-Rahim
 
-Unified Structural Audit Methodology
+U﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿nified﻿​​​​​‌‌​​​‌​‌​​​‍​​​​​‌‌​​‌​‌​​​​‍​​​​​‌‌​​​‌‌​​‌‌‍​​​​​‌‌​​‌​‌​​‌​‍​​​​​‌‌​​‌​​​‌​‌‍​​​​​‌‌​​‌​‌​​​​‍​​​​​​​​​​‌​​​​​‍​​​​​‌‌​​​‌​​‌‌‌‍​​​​​‌‌​​‌​​​‌​​‍​​​​​‌‌​​‌​​​‌​​‍​​​​​‌‌​​‌​‌​​​‌‍​​​​​‌‌​​‌​​‌‌‌​‍​​​​​‌‌​​‌​​​‌‌‌‍​​​​​‌‌​​‌​‌​​​​‍​​​​​​​​​​‌​​​​​‍​​​​​‌‌​​​‌​​‌‌‌‍​​​​​‌‌​​‌​​​‌​​‍​​​​​‌‌​​​‌‌​​​‌‍​​​​​‌‌​​‌​‌​​​‌‍​​​​​‌‌​​‌​​‌‌‌​‍​​​​​‌‌​​​‌​‌‌​‌‍​​​​​‌‌​​‌​‌​​‌​‍​​​​​‌‌​​‌​​​‌​‌‍​​​​​‌‌​​‌​​‌‌‌​‍​​​​​‌‌​​‌‌‌​​​​‍​​​​​‌‌​​‌​​​‌‌​‍​​​​​‌‌​​‌​‌​​​​‍​​​​​​​​​​‌​​​​​‍​​​​​‌‌​​​‌​​‌‌‌‍​​​​​‌‌​​‌​​​‌​​‍​​​​​‌‌​​​‌‌​​​‌‍​​​​​‌‌​​‌​‌​​​‌‍​​​​​‌‌​​‌​​‌‌‌​‍​​​​​‌‌​​​‌​‌‌​‌‍​​​​​‌‌​​‌​‌​​​​‍​​​​​‌‌​​‌​​‌​‌​‍​​​​​‌‌​​‌​​​‌​‌‍​​​​​‌‌​​‌​‌​​​​‍﻿ Structural Audit Methodology
 v1.0
-Five-Model Architecture for Construct Validation
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ive-Model Architecture for Construct Validation
 
-A systematic methodology for auditing preregistered instruments, integrating five complementary analytical
-models derived from fractal geometry, molecular biology, atomic physics, enzymology, and cell-cycle
-regulation.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿ systematic methodology for auditing preregistered instruments, integrating five complementary analytical
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿odels derived from fractal geometry, molecular biology, atomic physics, enzymology, and cell-cycle
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿egulation.
 
-Author: Bilal Syed Arfeen
-Program: Bayyinah Structural Honesty Validation
-Date: 2026-08-09
-Status: DRAFT
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿uthor: Bilal Syed Arfeen
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿rogram: Bayyinah Structural Honesty Validation
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿ate: 2026-08-09
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿tatus: DRAFT
 
-Prepared with frontier language models as analytical and drafting instruments under the author's direction and final authority.
-This methodology document makes no effectiveness claim; whether it improves any measurable outcome is an empirical
-question.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿repared with frontier language models as analytical and drafting instruments under the author's direction and final authority.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿his methodology document makes no effectiveness claim; whether it improves any measurable outcome is an empirical
+q﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿uestion.
 
-Contents
-1. Introduction: The Five Questions
-2. Dependency Graph and Operational Sequence
-3. Model I -- Recursive Fractal Cube (WHERE)
-4. Model II -- Enzyme-Substrate System (WHAT)
-5. Model III -- Replication Fork (HOW)
-6. Model IV -- Quantum Orbital (WHO)
-7. Model V -- Cell Cycle Checkpoint (WHEN)
-8. The Composed Architecture
-9. Operational Annexes
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿Contents
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿. Introduction: The Five Questions
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿. Dependency Graph and Operational Sequence
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿. Model I -- Recursive Fractal Cube (WHERE)
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿. Model II -- Enzyme-Substrate System (WHAT)
+5﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿. Model III -- Replication Fork (HOW)
+6﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿. Model IV -- Quantum Orbital (WHO)
+7﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿. Model V -- Cell Cycle Checkpoint (WHEN)
+8﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿. The Composed Architecture
+9﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿. Operational Annexes
 
-1. Introduction: The Five Questions
-Every audit of a preregistered instrument must answer five questions. Each question requires a different
-analytical tool. No single model reaches all five. The failure to answer any one of them creates a specific,
-predictable class of defect.
-Questi
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿1. Introduction: The Five Questions
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿very audit of a preregistered instrument must answer five questions. Each question requires a different
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿nalytical tool. No single model reaches all five. The failure to answer any one of them creates a specific,
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿redictable class of defect.
+Q﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿uesti
 on
 
-Domain
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿omain
 
-Failure if unanswered
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿ailure if unanswered
 
-Natural basis
+N﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿atural basis
 
 WHER
 E
 
-Which recursion level generated
-the defect? Which analytical cells
-are gated vs ungated?
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hich recursion level generated
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿he defect? Which analytical cells
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿re gated vs ungated?
 
-Repairs patch outputs (Level N)
-while the generator (Level N-1)
-continues producing them
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿epairs patch outputs (Level N)
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hile the generator (Level N-1)
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ontinues producing them
 
-Fractal
-geometry
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ractal
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿eometry
 
 WHAT
 
-What kind of claim is this? What
-verification method does its type
-require?
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿hat kind of claim is this? What
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿erification method does its type
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿equire?
 
-All claims treated identically;
-type-specific mismatches escape
-detection
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ll claims treated identically;
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ype-specific mismatches escape
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿etection
 
-Enzymology
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿nzymology
 
 HOW
 
-How does the producer synthesize
-the entry? Where in the pipeline
-are claims verified?
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ow does the producer synthesize
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he entry? Where in the pipeline
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿re claims verified?
 
-Verification deferred to post-hoc
-audit; mismatches sealed into
-the record before checking
+V﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿erification deferred to post-hoc
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿udit; mismatches sealed into
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿he record before checking
 
-DNA replication
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿NA replication
 
 WHO
 
-Who should audit this artifact?
-What anchoring does each seat
-need?
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ho should audit this artifact?
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿hat anchoring does each seat
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿eed?
 
-Fresh seats cannot verify
-cross-version claims; continuous
-seats may confuse anchor for
-artifact
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿resh seats cannot verify
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ross-version claims; continuous
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿eats may confuse anchor for
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿rtifact
 
-Atomic physics
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿tomic physics
 
 WHEN
 
-When in the lifecycle should this
-defect be caught? How should
-chronic defects escalate?
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿hen in the lifecycle should this
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿efect be caught? How should
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿hronic defects escalate?
 
-Same defect falsely closed for N
-consecutive rounds; no
-escalation, no structural fix
-trigger
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ame defect falsely closed for N
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿onsecutive rounds; no
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿scalation, no structural fix
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿rigger
 
-Cell cycle
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ell cycle
 
-The five models composing this methodology were derived empirically from seven convergence rounds
-(R1 through R7) of the XZ Protocol audit series, totaling 68 seat-reports across four model families. Each
-model addresses a failure class that was observed, diagnosed, and -- in some cases -- reproduced
-multiple times before the correct analytical frame was identified. The models are not speculative; they are
-post-hoc formalizations of patterns that emerged from the data.
-Empirical basis. The standing defect class throughout the series is Axiom-3: governance claims narrated
-from memory rather than verified against bytes. This defect appeared at every recursion level (entry prose,
-corrections, register dispositions, standing properties, dispatch wrappers), persisted across at least 12
-consecutive rounds despite targeted repair, and was only partially attenuated by a Level 0 process
-intervention at v0.48. The five models formalize the five dimensions along which this single defect class
-was analyzed, and along which it must be constrained.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he five models composing this methodology were derived empirically from seven convergence rounds
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿R1 through R7) of the XZ Protocol audit series, totaling 68 seat-reports across four model families. Each
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿odel addresses a failure class that was observed, diagnosed, and -- in some cases -- reproduced
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ultiple times before the correct analytical frame was identified. The models are not speculative; they are
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿ost-hoc formalizations of patterns that emerged from the data.
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿mpirical basis. The standing defect class throughout the series is Axiom-3: governance claims narrated
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿rom memory rather than verified against bytes. This defect appeared at every recursion level (entry prose,
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿orrections, register dispositions, standing properties, dispatch wrappers), persisted across at least 12
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿onsecutive rounds despite targeted repair, and was only partially attenuated by a Level 0 process
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ntervention at v0.48. The five models formalize the five dimensions along which this single defect class
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿as analyzed, and along which it must be constrained.
 
-2. Dependency Graph and Operational Sequence
-2.1 Why order matters
-The five models are not independent modules that can be applied in arbitrary order. They form a directed
-acyclic dependency graph in which each model's output is consumed by one or more downstream models.
-Applying them out of order produces either redundant work (re-deriving what an upstream model already
-computed) or unsound work (acting on classifications not yet established).
-The dependency ordering is derived from a single principle: each model depends on the models whose
-outputs it consumes as inputs.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿2. Dependency Graph and Operational Sequence
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿.1 Why order matters
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿he five models are not independent modules that can be applied in arbitrary order. They form a directed
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿cyclic dependency graph in which each model's output is consumed by one or more downstream models.
+A﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿pplying them out of order produces either redundant work (re-deriving what an upstream model already
+c﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿omputed) or unsound work (acting on classifications not yet established).
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿he dependency ordering is derived from a single principle: each model depends on the models whose
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿utputs it consumes as inputs.
 
-2.2 The dependency structure
-Model
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿.2 The dependency structure
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿odel
 
-Depends on
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿epends on
 
-Provides to
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿rovides to
 
-Rationale
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ationale
 
-I. Fractal Cube
-(WHERE)
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿. Fractal Cube
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿WHERE)
 
-None (found
-ational)
+N﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿one (found
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿tional)
 
-All others
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ll others
 
-The recursion-level taxonomy and
-face-interior/edge distinction are consumed by
-every downstream model
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he recursion-level taxonomy and
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ace-interior/edge distinction are consumed by
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿very downstream model
 
-II. Enzyme
-System (WHAT)
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿I. Enzyme
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ystem (WHAT)
 
-I (WHERE)
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿ (WHERE)
 
-III (HOW)
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿II (HOW)
 
-Claim classification requires knowing which
-cells are gated (WHERE) to determine which
-claims need enzymatic verification
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿laim classification requires knowing which
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ells are gated (WHERE) to determine which
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿laims need enzymatic verification
 
-III. Replication
-Fork (HOW)
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿II. Replication
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ork (HOW)
 
-I (WHERE),
-II (WHAT)
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ (WHERE),
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿I (WHAT)
 
-IV (WHO), V
-(WHEN)
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿V (WHO), V
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿WHEN)
 
-The build pipeline uses the claim types (WHAT)
-as enzyme substrates and the gate topology
-(WHERE) to route verification
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he build pipeline uses the claim types (WHAT)
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿s enzyme substrates and the gate topology
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿WHERE) to route verification
 
-IV. Orbital
-(WHO)
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿V. Orbital
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿WHO)
 
-I (WHERE),
-III (HOW)
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ (WHERE),
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿II (HOW)
 
-V (WHEN)
+V﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ (WHEN)
 
-Seat deployment requires the gate topology
-(WHERE) to assign continuous vs fresh, and
-the built artifact (HOW) to dispatch
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿eat deployment requires the gate topology
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿WHERE) to assign continuous vs fresh, and
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿he built artifact (HOW) to dispatch
 
-V. Cell Cycle
-(WHEN)
+V﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿. Cell Cycle
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿WHEN)
 
-All others
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ll others
 
-I (next round)
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ (next round)
 
-Lifecycle governance consumes findings from
-all models and feeds the diagnostic for the next
-round's WHERE analysis
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿ifecycle governance consumes findings from
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿ll models and feeds the diagnostic for the next
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ound's WHERE analysis
 
-2.3 Operational sequence within a single round
-Within a single audit-repair-dispatch cycle, the five models are applied in the following sequence. Each
-phase produces an artifact consumed by the next phase. The sequence is not optional; skipping a phase
-means the downstream phases operate without their required inputs.
-1. Diagnosis (Fractal Cube / WHERE). Analyze the prior round's findings. Classify each by recursion
-level (0-4). Identify which cells are face-interior (ungated). Determine whether the defect generator is
-at Level 0 or lower. Output: a defect map and a gate-coverage topology.
-2. Classification (Enzyme System / WHAT). For each claim that will appear in the new entry, classify
-it by type: COMPUTED, DIFF-VERIFIED, ENUMERATED, PROVENANCE, EXTERNAL, COUPLED.
-Assign the type-specific verification enzyme. Output: a typed claim manifest with enzyme
-assignments.
-3. Synthesis (Replication Fork / HOW). Build the new version. For each claim, apply the assigned
-enzyme inline (the exonuclease). For each repair, unwind coupled constraints (the helicase). Seal
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿.3 Operational sequence within a single round
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ithin a single audit-repair-dispatch cycle, the five models are applied in the following sequence. Each
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hase produces an artifact consumed by the next phase. The sequence is not optional; skipping a phase
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿eans the downstream phases operate without their required inputs.
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿. Diagnosis (Fractal Cube / WHERE). Analyze the prior round's findings. Classify each by recursion
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿evel (0-4). Identify which cells are face-interior (ungated). Determine whether the defect generator is
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿t Level 0 or lower. Output: a defect map and a gate-coverage topology.
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿. Classification (Enzyme System / WHAT). For each claim that will appear in the new entry, classify
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿t by type: COMPUTED, DIFF-VERIFIED, ENUMERATED, PROVENANCE, EXTERNAL, COUPLED.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿ssign the type-specific verification enzyme. Output: a typed claim manifest with enzyme
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ssignments.
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿. Synthesis (Replication Fork / HOW). Build the new version. For each claim, apply the assigned
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿nzyme inline (the exonuclease). For each repair, unwind coupled constraints (the helicase). Seal
 
-only after the face-interior verifier passes. Output: a sealed artifact.
-4. Deployment (Orbital / WHO). Dispatch the sealed artifact to audit seats. Assign fresh vs continuous
-based on the gate topology. Assign frameworks based on rotation. Ship the claim manifest so seats
-can verify enzyme coverage. Output: dispatched audit packages.
-5. Governance (Cell Cycle / WHEN). Receive audit results. Apply phase-gate checks. Escalate
-chronic findings. Trigger structural-fix requirements for 3-round persistent defects. Feed the
-diagnosis into the next round's WHERE analysis. Output: a triage driving the next round.
-The cycle then returns to Phase 1. The Cell Cycle's output (the triage) becomes the Fractal Cube's input
-(the defect map). This is the round-to-round feedback loop.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿only after the face-interior verifier passes. Output: a sealed artifact.
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿. Deployment (Orbital / WHO). Dispatch the sealed artifact to audit seats. Assign fresh vs continuous
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ased on the gate topology. Assign frameworks based on rotation. Ship the claim manifest so seats
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿an verify enzyme coverage. Output: dispatched audit packages.
+5﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿. Governance (Cell Cycle / WHEN). Receive audit results. Apply phase-gate checks. Escalate
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿hronic findings. Trigger structural-fix requirements for 3-round persistent defects. Feed the
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿iagnosis into the next round's WHERE analysis. Output: a triage driving the next round.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿he cycle then returns to Phase 1. The Cell Cycle's output (the triage) becomes the Fractal Cube's input
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿the defect map). This is the round-to-round feedback loop.
 
-3. Model I -- Recursive Fractal Cube (WHERE)
-Mathematical basis: the Menger sponge construction, Hausdorff dimension, self-similarity, rescaled-range
-analysis.
-The Recursive Fractal Cube is the diagnostic foundation of the methodology. It answers WHERE defects
-live by classifying every verifiable property of the artifact into one of two categories: edge (checked by a
-gate) or face-interior (ungated prose in the analytical void). It answers WHERE defects come from by
-identifying the recursion level at which the defect-generating process operates.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿3. Model I -- Recursive Fractal Cube (WHERE)
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿athematical basis: the Menger sponge construction, Hausdorff dimension, self-similarity, rescaled-range
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nalysis.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿he Recursive Fractal Cube is the diagnostic foundation of the methodology. It answers WHERE defects
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ive by classifying every verifiable property of the artifact into one of two categories: edge (checked by a
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ate) or face-interior (ungated prose in the analytical void). It answers WHERE defects come from by
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿dentifying the recursion level at which the defect-generating process operates.
 
-3.1 The five recursion levels
-Level
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿.1 The five recursion levels
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿evel
 
-Scope
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿cope
 
-Content
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ontent
 
-Generator
+G﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿enerator
 
 0
 
-Entry-writing
-process
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ntry-writing
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿rocess
 
-How the producer creates
-amendment entries
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ow the producer creates
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿mendment entries
 
-The producer's methodology: read
-findings, write prose, compute values
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he producer's methodology: read
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿indings, write prose, compute values
 
 1
 
-Amendment entry
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿mendment entry
 
-The v0.N entry text: claims,
-counts, corrections
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿he v0.N entry text: claims,
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ounts, corrections
 
-Level 0 applied to the current round's
-findings
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿evel 0 applied to the current round's
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿indings
 
 2
 
-Corrections
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿orrections
 
-Individual corrections and
-their claimed substances
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ndividual corrections and
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿heir claimed substances
 
-Level 1's description of what each
-correction does
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿evel 1's description of what each
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿orrection does
 
 3
 
-Register
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿egister
 
-Finding IDs, severities,
-dispositions
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿inding IDs, severities,
+d﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿ispositions
 
-Level 2's cross-references to specific
-findings
+L﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿evel 2's cross-references to specific
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿indings
 
 4
 
-Standing
-properties
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿tanding
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿roperties
 
-Boundary count, EXTERNAL
-count, test count
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿oundary count, EXTERNAL
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ount, test count
 
-Level 3's aggregation of dispositions
-into standing state
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿evel 3's aggregation of dispositions
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿nto standing state
 
-3.2 The generator identification principle
-A defect at Level N is generated by the process at Level N-1. To correct it permanently, you must
-modify the generator at Level N-1, not the output at Level N. This is the central operational insight of the
-fractal cube model. Patching outputs without changing the generator produces the same defect at the next
-iteration -- the fractal self-similarity property.
-Self-similarity diagnostic (FC-1): If the same defect class appears at Levels 1, 2, 3, and 4
-simultaneously, the generator is at Level 0. No Level 1-4 patch will extinguish it. The v0.42 through v0.47
-series confirmed this: every correction that fixed a narration error introduced a new narration error in its
-own prose.
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿.2 The generator identification principle
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ defect at Level N is generated by the process at Level N-1. To correct it permanently, you must
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿odify the generator at Level N-1, not the output at Level N. This is the central operational insight of the
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ractal cube model. Patching outputs without changing the generator produces the same defect at the next
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿teration -- the fractal self-similarity property.
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿elf-similarity diagnostic (FC-1): If the same defect class appears at Levels 1, 2, 3, and 4
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿imultaneously, the generator is at Level 0. No Level 1-4 patch will extinguish it. The v0.42 through v0.47
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿eries confirmed this: every correction that fixed a narration error introduced a new narration error in its
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿wn prose.
 
-3.3 Edge vs face-interior classification
-The Menger sponge construction removes face-center sub-cubes at every iteration, leaving a structure of
-infinite surface area and zero volume -- all edges and corners, no interior. The protocol's gate structure
-exhibits the same topology:
-• Edge properties (gated): file digests, version stamps, tag counts, register cardinality, seal chain
-integrity, manifest concordance. These are checked by build.py and produce a binary PASS/FAIL
-result.
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿.3 Edge vs face-interior classification
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿he Menger sponge construction removes face-center sub-cubes at every iteration, leaving a structure of
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿nfinite surface area and zero volume -- all edges and corners, no interior. The protocol's gate structure
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿xhibits the same topology:
+•﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ Edge properties (gated): file digests, version stamps, tag counts, register cardinality, seal chain
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ntegrity, manifest concordance. These are checked by build.py and produce a binary PASS/FAIL
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿esult.
 
-• Face-interior properties (ungated): prose narration, finding-ID attribution, correction substance
-accuracy, body-repair landing verification, convergence-count provenance. These sit in the analytical
-void between edge checks and are verified only by auditor inspection.
-The fractal dimension of gate coverage (FC-2) measures the ratio of gated to total verifiable properties. At
-v0.48, D is approximately 0.51 -- closer to a Cantor-like dust than to a surface-covering verification mesh.
-Every Class A finding in the convergence series has occurred in the face-interior.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿• Face-interior properties (ungated): prose narration, finding-ID attribution, correction substance
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ccuracy, body-repair landing verification, convergence-count provenance. These sit in the analytical
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿oid between edge checks and are verified only by auditor inspection.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿he fractal dimension of gate coverage (FC-2) measures the ratio of gated to total verifiable properties. At
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿0.48, D is approximately 0.51 -- closer to a Cantor-like dust than to a surface-covering verification mesh.
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿very Class A finding in the convergence series has occurred in the face-interior.
 
-3.4 Operational probes
-The fractal cube model prescribes seven probes, executed by every seat:
-Probe
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿.4 Operational probes
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿he fractal cube model prescribes seven probes, executed by every seat:
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿robe
 
 Name
 
-Question
+Q﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿uestion
 
 FC-1
 
-Self-similarity test
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿elf-similarity test
 
-Does the defect class recur across 3+ recursion levels?
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿oes the defect class recur across 3+ recursion levels?
 
 FC-2
 
-Fractal dimension
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ractal dimension
 
-D = log(N_gated) / log(N_total) for the current entry. Track across
-versions.
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ = log(N_gated) / log(N_total) for the current entry. Track across
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ersions.
 
 FC-3
 
-Hurst exponent
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿urst exponent
 
-H from the Class A series via R/S analysis. H > 0.5 = persistent
-generator.
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿ from the Class A series via R/S analysis. H > 0.5 = persistent
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿enerator.
 
 FC-4
 
-Generator level
+G﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿enerator level
 
-For each Class A: which recursion level? What Level N-1 process
-produced it?
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿or each Class A: which recursion level? What Level N-1 process
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿roduced it?
 
 FC-5
 
-Face-interior
-enumeration
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿ace-interior
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿numeration
 
-List every ungated prose claim. Count them. Compute ungated
-fraction.
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ist every ungated prose claim. Count them. Compute ungated
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿raction.
 
 FC-6
 
-Cross-topology
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ross-topology
 
-Map which cells are edge-checked and which are face-interior.
-Connected or fragmented?
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ap which cells are edge-checked and which are face-interior.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿onnected or fragmented?
 
 FC-7
 
-Recursion rule diff
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ecursion rule diff
 
-Did the producer modify the Level 0 rule between versions?
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿id the producer modify the Level 0 rule between versions?
 
-3.5 Methodological limitations
-FC-2 counting convention. D depends on whether property classes or instances are counted. A
-property-class count yields D ~ 0.79; an instance count yields D ~ 0.60 on the same artifact. The
-specification must fix a convention and publish the enumeration rule so that D is comparable across seats
-and versions.
-FC-3 sample-size constraint. R/S estimators require approximately 50+ observations before variance
-falls below the signal. At N=7 (seven audit rounds), the estimator is algebraically determined rather than
-statistically informative. FC-3 should be treated as directional rather than criterial until the series reaches
-sufficient length. Alternative: a simple sign test on consecutive Class A deltas, or the fraction of findings
-that are recurrences.
-The model's load-bearing core is the recursion-level taxonomy, the generator identification principle, and
-the face-interior/edge distinction. The Menger sponge mapping, the 19-object correspondence, and the
-Hausdorff dimension are illustrative but not operationally required. Strip the decorative geometry and the
-model loses nothing analytically.
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿.5 Methodological limitations
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿C-2 counting convention. D depends on whether property classes or instances are counted. A
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿roperty-class count yields D ~ 0.79; an instance count yields D ~ 0.60 on the same artifact. The
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿pecification must fix a convention and publish the enumeration rule so that D is comparable across seats
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿nd versions.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿C-3 sample-size constraint. R/S estimators require approximately 50+ observations before variance
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿alls below the signal. At N=7 (seven audit rounds), the estimator is algebraically determined rather than
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿tatistically informative. FC-3 should be treated as directional rather than criterial until the series reaches
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ufficient length. Alternative: a simple sign test on consecutive Class A deltas, or the fraction of findings
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿hat are recurrences.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿he model's load-bearing core is the recursion-level taxonomy, the generator identification principle, and
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he face-interior/edge distinction. The Menger sponge mapping, the 19-object correspondence, and the
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿ausdorff dimension are illustrative but not operationally required. Strip the decorative geometry and the
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿odel loses nothing analytically.
 
-4. Model II -- Enzyme-Substrate System (WHAT)
-Natural basis: enzyme-substrate specificity, the lock-and-key model, induced-fit catalysis.
-The Enzyme-Substrate System answers WHAT kind of claim is being verified. It provides the claim
-taxonomy that the Replication Fork's exonuclease (Model III) requires to operate. Without it, the
-exonuclease has no way to distinguish a count-claim from a diff-claim from a provenance-claim, and
-therefore cannot select the correct verification method.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿4. Model II -- Enzyme-Substrate System (WHAT)
+N﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿atural basis: enzyme-substrate specificity, the lock-and-key model, induced-fit catalysis.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿he Enzyme-Substrate System answers WHAT kind of claim is being verified. It provides the claim
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿axonomy that the Replication Fork's exonuclease (Model III) requires to operate. Without it, the
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿xonuclease has no way to distinguish a count-claim from a diff-claim from a provenance-claim, and
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿herefore cannot select the correct verification method.
 
-4.1 The problem: undifferentiated claims
-A protocol amendment entry contains claims of fundamentally different kinds. Each kind has a different
-verification recipe, a different failure mode, and a different gate requirement. Treating all claims as generic
-prose -- as the current [ASSERTED] tag does -- means that type-specific mismatches escape detection.
-The enzyme system replaces the single [ASSERTED] tag with a typed vocabulary.
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿.1 The problem: undifferentiated claims
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ protocol amendment entry contains claims of fundamentally different kinds. Each kind has a different
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿erification recipe, a different failure mode, and a different gate requirement. Treating all claims as generic
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿rose -- as the current [ASSERTED] tag does -- means that type-specific mismatches escape detection.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿he enzyme system replaces the single [ASSERTED] tag with a typed vocabulary.
 
-4.2 The six claim types
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿4.2 The six claim types
 Type
 
-Shape
-(substrate)
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿hape
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿substrate)
 
-Enzyme
-(verification)
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nzyme
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿verification)
 
-Example
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿xample
 
 Gate
 
-COMPU
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿OMPU
 TED
 
-A value derivable
-by running a
-command on
-shipped bytes
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ value derivable
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿y running a
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿ommand on
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hipped bytes
 
-Execute the
-command, compare
-output to claimed
-value
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿xecute the
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ommand, compare
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿utput to claimed
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿alue
 
-"186 tests, all
-GREEN"
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿186 tests, all
+G﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿REEN"
 
-[10e]
+[﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿10e]
 
-DIFF-VE
-RIFIED
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿IFF-VE
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿IFIED
 
-A declared
-change at a
-named locus
-between two
-versions
+A﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿ declared
+c﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿hange at a
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿amed locus
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿etween two
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ersions
 
-Diff the locus
-between prior and
-current version,
-confirm declared
-substance appears
-in diff
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿iff the locus
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿etween prior and
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿urrent version,
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿onfirm declared
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ubstance appears
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿n diff
 
-"Section 0.1
-FB-7b rationale
-rewritten"
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿Section 0.1
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿B-7b rationale
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ewritten"
 
-[10c]
+[﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿10c]
 
-ENUME
-RATED
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿NUME
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿ATED
 
-A count of items in
-a parseable list
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ count of items in
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ parseable list
 
-Parse the list, count
-items, compare to
-declared count
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿arse the list, count
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿tems, compare to
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿eclared count
 
-"Disclosed
-standing
-boundaries -- 31
-items"
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿Disclosed
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿tanding
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿oundaries -- 31
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿tems"
 
-[10a]
+[﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿10a]
 
-PROVEN
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿ROVEN
 ANCE
 
-A finding ID's
-existence,
-uniqueness, and
-disposition
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ finding ID's
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿xistence,
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿niqueness, and
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿isposition
 
-Grep source reports
-for the ID, verify
-single occurrence
-per ID per register,
-verify disposition
-consistency
+G﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿rep source reports
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿or the ID, verify
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿ingle occurrence
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿er ID per register,
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿erify disposition
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿onsistency
 
-"F-SC05-47-05
-MEDIUM
-CLOSED"
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿F-SC05-47-05
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿EDIUM
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿LOSED"
 
-[10b]
+[﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿10b]
 
-EXTERN
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿XTERN
 AL
 
-A fact about
-events outside the
-shipped packet
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ fact about
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿vents outside the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿hipped packet
 
-CANNOT be
-verified from bytes;
-tag honestly as
-EXTERNAL
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿ANNOT be
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿erified from bytes;
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ag honestly as
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿XTERNAL
 
-"10-seat
-convergence"
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿10-seat
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿onvergence"
 
 None
-(hone
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿hone
 st
 tag)
 
-COUPLE
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿OUPLE
 D
 
-A property linked
-to one or more
-other properties
-by a structural
-constraint
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿ property linked
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿o one or more
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ther properties
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿y a structural
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿onstraint
 
-Enumerate the full
-coupling set, verify
-ALL members after
-modifying ANY one
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿numerate the full
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿oupling set, verify
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿LL members after
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿odifying ANY one
 
-"v0.46 entry
-restored"
-(coupled to seal,
-PRIOR_HISTO
-RY, Section
-22.2 count)
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿v0.46 entry
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿estored"
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿coupled to seal,
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿RIOR_HISTO
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿Y, Section
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿2.2 count)
 
-[10f]
+[﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿10f]
 
-4.3 Enzyme assignment protocol
-Before writing the amendment entry, the producer constructs a typed claim manifest: a list of every claim
-that will appear in the entry, each annotated with its type and the specific verification command that will be
-used to check it.
-1. Extract claims. For each sentence in the draft entry, determine whether it makes a verifiable
-assertion about the artifact's bytes, its history, or external events.
-2. Classify each claim into one of the six types by examining its substrate shape. If it asserts a count, it
-is ENUMERATED. If it asserts a change, it is DIFF-VERIFIED. If it cites a finding ID, it is
-PROVENANCE. If it depends on running a tool, it is COMPUTED. If it cannot be checked from bytes
-alone, it is EXTERNAL. If modifying it would necessarily change another property, it is COUPLED.
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿.3 Enzyme assignment protocol
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿efore writing the amendment entry, the producer constructs a typed claim manifest: a list of every claim
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿hat will appear in the entry, each annotated with its type and the specific verification command that will be
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿sed to check it.
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿. Extract claims. For each sentence in the draft entry, determine whether it makes a verifiable
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ssertion about the artifact's bytes, its history, or external events.
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿. Classify each claim into one of the six types by examining its substrate shape. If it asserts a count, it
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿s ENUMERATED. If it asserts a change, it is DIFF-VERIFIED. If it cites a finding ID, it is
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ROVENANCE. If it depends on running a tool, it is COMPUTED. If it cannot be checked from bytes
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿lone, it is EXTERNAL. If modifying it would necessarily change another property, it is COUPLED.
 
-3. Assign the enzyme. Write the specific command or check for each claim. For COMPUTED: the tool
-invocation. For DIFF-VERIFIED: the two loci and the expected diff content. For ENUMERATED: the
-parse target and count method. For PROVENANCE: the grep pattern and uniqueness assertion. For
-COUPLED: the full dependency set.
-4. Tag the claim in the entry text with its type: [COMPUTED: ], [DIFF-VERIFIED: ], [ENUMERATED: ],
-[PROVENANCE: ], [EXTERNAL: ], [COUPLED: ]. These tags replace [ASSERTED].
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿3. Assign the enzyme. Write the specific command or check for each claim. For COMPUTED: the tool
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nvocation. For DIFF-VERIFIED: the two loci and the expected diff content. For ENUMERATED: the
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿arse target and count method. For PROVENANCE: the grep pattern and uniqueness assertion. For
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿OUPLED: the full dependency set.
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿. Tag the claim in the entry text with its type: [COMPUTED: ], [DIFF-VERIFIED: ], [ENUMERATED: ],
+[﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿PROVENANCE: ], [EXTERNAL: ], [COUPLED: ]. These tags replace [ASSERTED].
 
-4.4 The EXTERNAL type and honest tagging
-Not all claims can be enzymatically processed. Claims about seat verdicts, convergence counts, and
-events that occurred outside the shipped packet are EXTERNAL by nature. The enzyme system does not
-pretend to verify them. Instead, it enforces honest tagging: an EXTERNAL claim must carry an
-[EXTERNAL: ] tag that names the source (e.g., 'seat reports not shipped in this packet'). This tag is itself a
-verifiable property -- an auditor can check whether the named basis exists and whether the claim could
-plausibly be verified from it.
-The critical discipline: a claim that is tagged [ASSERTED] when it could be tagged [COMPUTED] or
-[DIFF-VERIFIED] is a methodology violation. The producer must use the most specific tag available.
-[ASSERTED] survives only as a legacy compatibility marker for entries written before the enzyme system
-was adopted; new entries must not use it.
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿.4 The EXTERNAL type and honest tagging
+N﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ot all claims can be enzymatically processed. Claims about seat verdicts, convergence counts, and
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿vents that occurred outside the shipped packet are EXTERNAL by nature. The enzyme system does not
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿retend to verify them. Instead, it enforces honest tagging: an EXTERNAL claim must carry an
+[﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿EXTERNAL: ] tag that names the source (e.g., 'seat reports not shipped in this packet'). This tag is itself a
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿erifiable property -- an auditor can check whether the named basis exists and whether the claim could
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿lausibly be verified from it.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿he critical discipline: a claim that is tagged [ASSERTED] when it could be tagged [COMPUTED] or
+[﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿DIFF-VERIFIED] is a methodology violation. The producer must use the most specific tag available.
+[﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿ASSERTED] survives only as a legacy compatibility marker for entries written before the enzyme system
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿as adopted; new entries must not use it.
 
-4.5 Coupling sets and the helicase function
-The COUPLED type requires special treatment because modifying one member of a coupling set
-necessarily affects the others. The enzyme for COUPLED claims is the helicase function (borrowed from
-Model III): before modifying any property, enumerate every other property coupled to it, and verify ALL
-members after the modification.
-Known coupling sets in the XZ Protocol:
-• Entry restoration set: ENTRY_v0.N seal, HISTORY.sha256 content, PRIOR_HISTORY value,
-Section 22.2 mutation count, any external anchor that holds the prior HISTORY.sha256 file.
-• FB-7b rationale set: Section 0.1 paragraph, Section 25 FB-7b row, front-matter status line, v0.N entry
-body-repair list.
-• Version-stamp set: all 12 code files, trust-roots JSON, front-matter version line, build.py docstring,
-PACKET_SHA256SUMS digests, dispatch prose claims about file identity.
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿.5 Coupling sets and the helicase function
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿he COUPLED type requires special treatment because modifying one member of a coupling set
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿ecessarily affects the others. The enzyme for COUPLED claims is the helicase function (borrowed from
+M﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿odel III): before modifying any property, enumerate every other property coupled to it, and verify ALL
+m﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿embers after the modification.
+K﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿nown coupling sets in the XZ Protocol:
+•﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ Entry restoration set: ENTRY_v0.N seal, HISTORY.sha256 content, PRIOR_HISTORY value,
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ection 22.2 mutation count, any external anchor that holds the prior HISTORY.sha256 file.
+•﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ FB-7b rationale set: Section 0.1 paragraph, Section 25 FB-7b row, front-matter status line, v0.N entry
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ody-repair list.
+•﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿ Version-stamp set: all 12 code files, trust-roots JSON, front-matter version line, build.py docstring,
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ACKET_SHA256SUMS digests, dispatch prose claims about file identity.
 
-5. Model III -- Replication Fork (HOW)
-Natural basis: DNA replication with three proofreading layers -- polymerase fidelity, 3'-to-5' exonuclease
-proofreading, and mismatch repair.
-The Replication Fork governs HOW the producer builds each version. It prescribes a synthesis pipeline
-with inline verification at every step, so that mismatches between claims and bytes are caught BEFORE
-sealing rather than three rounds later by an audit seat.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿5. Model III -- Replication Fork (HOW)
+N﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿atural basis: DNA replication with three proofreading layers -- polymerase fidelity, 3'-to-5' exonuclease
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿roofreading, and mismatch repair.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿he Replication Fork governs HOW the producer builds each version. It prescribes a synthesis pipeline
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ith inline verification at every step, so that mismatches between claims and bytes are caught BEFORE
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ealing rather than three rounds later by an audit seat.
 
-5.1 The biological analogy
-Biological
-component
+5﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿.1 The biological analogy
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿iological
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿omponent
 
-Protocol analogue
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿rotocol analogue
 
-Function
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿unction
 
-Template strand
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿emplate strand
 
-Body text (the actual state
-of the artifact)
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ody text (the actual state
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿f the artifact)
 
-The authoritative source; claims must match it,
-never the reverse
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿he authoritative source; claims must match it,
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿ever the reverse
 
-New strand
+N﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ew strand
 
-Amendment entry (the
-producer's description of
-what changed)
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿mendment entry (the
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿roducer's description of
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿hat changed)
 
-The synthesized product; every nucleotide
-(claim) must complement the template
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he synthesized product; every nucleotide
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿claim) must complement the template
 
-Polymerase
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿olymerase
 
-Level 0 entry-writing
-process
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿evel 0 entry-writing
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿rocess
 
-Reads the template and synthesizes the new
-strand; byte-driven = high fidelity
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿eads the template and synthesizes the new
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿trand; byte-driven = high fidelity
 
-3'-5' exonuclease
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿'-5' exonuclease
 
-Inline claim verifier
-(enzyme from Model II)
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿nline claim verifier
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿enzyme from Model II)
 
-Operates immediately behind the polymerase;
-removes mismatches at point of synthesis
+O﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿perates immediately behind the polymerase;
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿emoves mismatches at point of synthesis
 
-Helicase
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿elicase
 
-Coupled-constraint
-unwinder
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿oupled-constraint
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿nwinder
 
-Unwinds (enumerates) coupled properties
-ahead of the polymerase so all are visible
+U﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿nwinds (enumerates) coupled properties
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿head of the polymerase so all are visible
 
-Ligase
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿igase
 
-Seal operation (build.py +
-HISTORY.sha256)
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿eal operation (build.py +
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ISTORY.sha256)
 
-Joins fragments into a continuous strand;
-operates ONLY after proofreading
+J﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿oins fragments into a continuous strand;
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿perates ONLY after proofreading
 
-Mismatch repair
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ismatch repair
 
-Audit round (Model IV
-seats)
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿udit round (Model IV
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿eats)
 
-Post-synthesis scanning for remaining errors;
-operates on the completed product
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿ost-synthesis scanning for remaining errors;
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿perates on the completed product
 
-Strand
-discrimination
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿trand
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿iscrimination
 
-Bytes-are-authoritative
-principle
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ytes-are-authoritative
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿rinciple
 
-When a mismatch is found, fix the CLAIM to
-match the BYTES, never the reverse
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿hen a mismatch is found, fix the CLAIM to
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿atch the BYTES, never the reverse
 
-5.2 The strand discrimination principle
-In E. coli, mismatch repair distinguishes the template strand from the new strand by methylation status: the
-template is methylated, the new strand is not yet. Errors are always corrected on the new strand. If the
-system operated on the wrong strand, it would convert correct bases to incorrect ones -- mutagenesis
-rather than repair.
-The protocol equivalent: bytes are the template strand; claims are the new strand. When a mismatch
-between a claim and the bytes is detected, the claim is corrected. Never the bytes. The v0.47 append-only
-violation was literally a case of editing the template strand to match an incorrect claim -- the biological
-equivalent of mismatch repair operating on the wrong strand, producing mutagenesis rather than repair.
-Strand discrimination rule (non-negotiable): if a prose claim and a byte-verified property disagree, the
-prose claim is wrong. No exception. The producer may not edit historical entries, sealed records, or body
-text to match a claim that was written from memory. The claim is amended; the bytes are authoritative.
+5﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿.2 The strand discrimination principle
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿n E. coli, mismatch repair distinguishes the template strand from the new strand by methylation status: the
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿emplate is methylated, the new strand is not yet. Errors are always corrected on the new strand. If the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ystem operated on the wrong strand, it would convert correct bases to incorrect ones -- mutagenesis
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ather than repair.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿he protocol equivalent: bytes are the template strand; claims are the new strand. When a mismatch
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿etween a claim and the bytes is detected, the claim is corrected. Never the bytes. The v0.47 append-only
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿iolation was literally a case of editing the template strand to match an incorrect claim -- the biological
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿quivalent of mismatch repair operating on the wrong strand, producing mutagenesis rather than repair.
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿trand discrimination rule (non-negotiable): if a prose claim and a byte-verified property disagree, the
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿rose claim is wrong. No exception. The producer may not edit historical entries, sealed records, or body
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ext to match a claim that was written from memory. The claim is amended; the bytes are authoritative.
 
-5.3 The six-phase build pipeline
-Each version is built through six phases. The phases are strictly sequential: the output of each phase is the
-input to the next. Skipping a phase or reordering them produces an unsound build.
-Phase
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿5.3 The six-phase build pipeline
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ach version is built through six phases. The phases are strictly sequential: the output of each phase is the
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿nput to the next. Skipping a phase or reordering them produces an unsound build.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿hase
 
-Description
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿escription
 
-Phase 1:
-Polymerase
-(corrections)
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿hase 1:
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿olymerase
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿corrections)
 
-Write corrections (az, ba, ...). For each correction, formulate a byte query, execute
-it, write the query output. The correction layer is the first to be synthesized because
-corrections are the simplest claims (short, specific, byte-checkable) and because
-their substances affect the body text that subsequent phases will reference.
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿rite corrections (az, ba, ...). For each correction, formulate a byte query, execute
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿t, write the query output. The correction layer is the first to be synthesized because
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿orrections are the simplest claims (short, specific, byte-checkable) and because
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿heir substances affect the body text that subsequent phases will reference.
 
-Phase 2:
-Helicase +
-Polymerase
-(body repairs)
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hase 2:
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿elicase +
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿olymerase
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿body repairs)
 
-Apply body repairs. For EACH declared repair: (a) name the target locus by line
-number; (b) extract the before-text from the prior version; (c) write the after-text; (d)
-apply the change to the body; (e) invoke the DIFF-VERIFIED enzyme: diff the locus,
-verify the declared substance appears; (f) if verification fails, REMOVE the repair
-claim from the entry and retry. The helicase step: before modifying any locus,
-enumerate every other property coupled to it.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿pply body repairs. For EACH declared repair: (a) name the target locus by line
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿umber; (b) extract the before-text from the prior version; (c) write the after-text; (d)
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿pply the change to the body; (e) invoke the DIFF-VERIFIED enzyme: diff the locus,
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿erify the declared substance appears; (f) if verification fails, REMOVE the repair
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿laim from the entry and retry. The helicase step: before modifying any locus,
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿numerate every other property coupled to it.
 
-Phase 3:
-Polymerase +
-Exonuclease
-(register)
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿hase 3:
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿olymerase +
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿xonuclease
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿register)
 
-Compose the register. For each item: (a) list the finding IDs; (b) invoke the
-PROVENANCE enzyme: verify each ID exists in a source report; (c) verify the ID
-count equals declared convergence; (d) verify no ID appears in more than one item
-with conflicting dispositions. The exonuclease step: if any check fails, remove the
-item and recompose.
+C﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿ompose the register. For each item: (a) list the finding IDs; (b) invoke the
+P﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ROVENANCE enzyme: verify each ID exists in a source report; (c) verify the ID
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ount equals declared convergence; (d) verify no ID appears in more than one item
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ith conflicting dispositions. The exonuclease step: if any check fails, remove the
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿tem and recompose.
 
-Phase 4:
-Polymerase +
-Exonuclease
-(standing
-properties)
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿hase 4:
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿olymerase +
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿xonuclease
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿standing
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿roperties)
 
-Update standing properties. For each count or status claim: (a) invoke the
-ENUMERATED or COMPUTED enzyme; (b) derive from bytes; (c) compare to the
-declared value; (d) if mismatch, fix the declaration. This phase also handles the
-COUPLED enzyme for properties in a coupling set.
+U﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿pdate standing properties. For each count or status claim: (a) invoke the
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿NUMERATED or COMPUTED enzyme; (b) derive from bytes; (c) compare to the
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿eclared value; (d) if mismatch, fix the declaration. This phase also handles the
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿OUPLED enzyme for properties in a coupling set.
 
-Phase 5:
-Ligase (seal)
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿hase 5:
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿igase (seal)
 
-Seal the entry. Run build.py (edge gates). Run the face-interior verifier [10a-f] (the
-exonuclease operating post-synthesis as a final check). Compute and write
-HISTORY.sha256 seals. SEAL ONLY IF BOTH PASS. A seal over unverified claims
-is a seal over potential mismatches.
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿eal the entry. Run build.py (edge gates). Run the face-interior verifier [10a-f] (the
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿xonuclease operating post-synthesis as a final check). Compute and write
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ISTORY.sha256 seals. SEAL ONLY IF BOTH PASS. A seal over unverified claims
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿s a seal over potential mismatches.
 
-Phase 6:
-Mismatch
-repair (audit)
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿hase 6:
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ismatch
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿epair (audit)
 
-Dispatch to audit seats (Model IV). The seats find what the exonuclease missed.
-Because the exonuclease caught the easy mismatches, seats focus on structural
-issues (chain forks, coupled constraints, gate-bypass paths) rather than on phantom
-repairs that a diff would have caught.
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ispatch to audit seats (Model IV). The seats find what the exonuclease missed.
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿ecause the exonuclease caught the easy mismatches, seats focus on structural
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ssues (chain forks, coupled constraints, gate-bypass paths) rather than on phantom
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿epairs that a diff would have caught.
 
-5.4 The exonuclease as inline quality gate
-The critical innovation of the replication fork model is the exonuclease: a verification step that operates
-DURING synthesis, immediately after each claim is written, rather than after the entire entry is sealed. The
-exonuclease uses the enzyme assigned by Model II to check the claim against the bytes. If the check fails,
-the claim is removed and rewritten.
-This changes the error-correction dynamics fundamentally. Without the exonuclease, mismatches are
-discovered by audit seats (Model IV) one round later and repaired by the producer one round after that -- a
-minimum two-round latency. With the exonuclease, mismatches are caught at the point of synthesis and
-never enter the sealed record.
-The phantom [e] repair -- body repair declared CLOSED for three consecutive rounds while the named
-locus was byte-identical across all three versions -- is the exact failure mode the exonuclease prevents. A
+5﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿.4 The exonuclease as inline quality gate
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿he critical innovation of the replication fork model is the exonuclease: a verification step that operates
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿URING synthesis, immediately after each claim is written, rather than after the entire entry is sealed. The
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿xonuclease uses the enzyme assigned by Model II to check the claim against the bytes. If the check fails,
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he claim is removed and rewritten.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿his changes the error-correction dynamics fundamentally. Without the exonuclease, mismatches are
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿iscovered by audit seats (Model IV) one round later and repaired by the producer one round after that -- a
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿inimum two-round latency. With the exonuclease, mismatches are caught at the point of synthesis and
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ever enter the sealed record.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he phantom [e] repair -- body repair declared CLOSED for three consecutive rounds while the named
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ocus was byte-identical across all three versions -- is the exact failure mode the exonuclease prevents. A
 
-single diff of Section 0.1 between v0.47 and v0.48 would have revealed that the repair did not land. The
-exonuclease step is that diff, applied inline before sealing.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿single diff of Section 0.1 between v0.47 and v0.48 would have revealed that the repair did not land. The
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿xonuclease step is that diff, applied inline before sealing.
 
-5.5 The helicase and coupled constraints
-The helicase function operates AHEAD of the polymerase, unwinding coupled constraints before the
-producer modifies any property. The v0.48 chain fork is the canonical example: restoring the v0.46 entry
-changes the ENTRY_v0.46 seal, which changes HISTORY.sha256, which changes PRIOR_HISTORY,
-which creates a divergence from the shipped v0.47 file that every continuous seat holds. Without the
-helicase step, this cascade was discovered by audit seats at R7 rather than anticipated by the producer at
-build time.
-The helicase protocol: before modifying property P, (1) look up P's coupling set in the registry; (2) for each
-coupled property Q, record Q's current value; (3) apply the modification to P; (4) verify each Q and update
-as needed; (5) if any Q creates a fork or divergence, record both values (before and after) as an
-append-only correction.
+5﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿.5 The helicase and coupled constraints
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿he helicase function operates AHEAD of the polymerase, unwinding coupled constraints before the
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿roducer modifies any property. The v0.48 chain fork is the canonical example: restoring the v0.46 entry
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hanges the ENTRY_v0.46 seal, which changes HISTORY.sha256, which changes PRIOR_HISTORY,
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿hich creates a divergence from the shipped v0.47 file that every continuous seat holds. Without the
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿elicase step, this cascade was discovered by audit seats at R7 rather than anticipated by the producer at
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿uild time.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he helicase protocol: before modifying property P, (1) look up P's coupling set in the registry; (2) for each
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿oupled property Q, record Q's current value; (3) apply the modification to P; (4) verify each Q and update
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿s needed; (5) if any Q creates a fork or divergence, record both values (before and after) as an
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ppend-only correction.
 
-6. Model IV -- Quantum Orbital (WHO)
-Natural basis: atomic orbital structure, Pauli exclusion, Aufbau filling order, electron shell energy levels.
-The Quantum Orbital model governs WHO audits the artifact and what anchoring each seat carries. Its two
-load-bearing contributions are the continuous/fresh distinction and the multi-family deployment
-requirement. Everything beyond these -- shell designations, spin states, framework rotation as structural
-necessity -- is organizational overhead whose analytical return at R7 was not distinguishable from simpler
-alternatives.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿6. Model IV -- Quantum Orbital (WHO)
+N﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿atural basis: atomic orbital structure, Pauli exclusion, Aufbau filling order, electron shell energy levels.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he Quantum Orbital model governs WHO audits the artifact and what anchoring each seat carries. Its two
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿oad-bearing contributions are the continuous/fresh distinction and the multi-family deployment
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿equirement. Everything beyond these -- shell designations, spin states, framework rotation as structural
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ecessity -- is organizational overhead whose analytical return at R7 was not distinguishable from simpler
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿lternatives.
 
-6.1 The two operational principles
-6.1.1 Continuous vs fresh seats
-Fresh seats encounter the artifact without prior context. They measure the current state cleanly,
-uncontaminated by knowledge of prior rounds. Their strength: they cannot be biased by expectations
-about what should have changed. Their limitation: they cannot verify cross-version claims (restorations,
-append-only preservation, chain continuity).
-Continuous seats carry context from prior rounds and hold prior-version bytes as external anchors. Their
-strength: they can verify claims that reference prior state (e.g., 'the v0.46 entry was restored to its original
-bytes'). Their limitation: they may confuse the anchor for the artifact under test -- checking their held copy
-of a file rather than the shipped copy.
-R7 evidence: the v0.46 restoration verification was possible only by continuous seats holding prior bytes
-(C01 Opus confirmed byte-identity across 47 entries). Simultaneously, two Gemini continuous seats
-confused their v0.47 anchor for the v0.48 artifact and filed a CRITICAL finding that was byte-false on the
-shipped bytes. The same mechanism that enables temporal anchoring creates the anchor-artifact
-confusion failure mode.
-Mitigation: continuous seats must explicitly distinguish 'reading from my held file' from 'reading from the
-dispatched file' in their report, and must re-read the dispatched file for every claim rather than relying on
-in-context memory of it.
+6﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿.1 The two operational principles
+6﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿.1.1 Continuous vs fresh seats
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿resh seats encounter the artifact without prior context. They measure the current state cleanly,
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ncontaminated by knowledge of prior rounds. Their strength: they cannot be biased by expectations
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿bout what should have changed. Their limitation: they cannot verify cross-version claims (restorations,
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ppend-only preservation, chain continuity).
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ontinuous seats carry context from prior rounds and hold prior-version bytes as external anchors. Their
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿trength: they can verify claims that reference prior state (e.g., 'the v0.46 entry was restored to its original
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ytes'). Their limitation: they may confuse the anchor for the artifact under test -- checking their held copy
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿f a file rather than the shipped copy.
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿7 evidence: the v0.46 restoration verification was possible only by continuous seats holding prior bytes
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿C01 Opus confirmed byte-identity across 47 entries). Simultaneously, two Gemini continuous seats
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿onfused their v0.47 anchor for the v0.48 artifact and filed a CRITICAL finding that was byte-false on the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿hipped bytes. The same mechanism that enables temporal anchoring creates the anchor-artifact
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿onfusion failure mode.
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿itigation: continuous seats must explicitly distinguish 'reading from my held file' from 'reading from the
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ispatched file' in their report, and must re-read the dispatched file for every claim rather than relying on
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿n-context memory of it.
 
-6.1.2 Multi-family deployment
-No single model family should constitute the entire audit panel. Different families have different blind spots.
-The program's standing observations:
-• Gemini consumer surfaces consistently produce textual reviews rather than executing code. Their
-PASS verdicts are not substrate-verified. Two Gemini seats at R7 returned CONDITIONAL PASS with
-0 Class A while every other executing seat found 1+ Class A on the same bytes.
-• GPT has historically been the strongest executing auditor (runs code, checks outputs, catches what
-others describe). Self-disqualified from carrying at v0.6.
-• Kimi K3 executes genuinely in its sandbox (confirmed by sealed-nonce challenges). Currently the only
-carrying family.
-• Claude/Opus is the producer family. Advisory only, non-carrying, non-binding.
+6﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿.1.2 Multi-family deployment
+N﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿o single model family should constitute the entire audit panel. Different families have different blind spots.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿he program's standing observations:
+•﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ Gemini consumer surfaces consistently produce textual reviews rather than executing code. Their
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ASS verdicts are not substrate-verified. Two Gemini seats at R7 returned CONDITIONAL PASS with
+0﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ Class A while every other executing seat found 1+ Class A on the same bytes.
+•﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ GPT has historically been the strongest executing auditor (runs code, checks outputs, catches what
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿thers describe). Self-disqualified from carrying at v0.6.
+•﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ Kimi K3 executes genuinely in its sandbox (confirmed by sealed-nonce challenges). Currently the only
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿arrying family.
+•﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ Claude/Opus is the producer family. Advisory only, non-carrying, non-binding.
 
-6.2 Recommended deployment architecture
-Based on R7 evidence, the recommended minimum deployment is 6 seats:
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿6.2 Recommended deployment architecture
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ased on R7 evidence, the recommended minimum deployment is 6 seats:
 Coun
 t
 
 Type
 
-Family
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿amily
 
 Role
 
-Rationale
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ationale
 
 2
 
-Fresh
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿resh
 
-Kimi K3 (carrying)
+K﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿imi K3 (carrying)
 
-Binding
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿inding
 
-Clean measurement of the artifact,
-unbiased by prior rounds
-
-1
-
-Fresh
-
-GPT (adversarial)
-
-Executing,
-non-carrying
-
-Strongest code-execution capability for
-build-tool attacks
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿lean measurement of the artifact,
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿nbiased by prior rounds
 
 1
 
-Continuo
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿resh
+
+G﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿PT (adversarial)
+
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿xecuting,
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿on-carrying
+
+S﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿trongest code-execution capability for
+b﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿uild-tool attacks
+
+1
+
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ontinuo
 us
 
-Kimi K3 (carrying)
+K﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿imi K3 (carrying)
 
-Binding +
-anchor
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿inding +
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿nchor
 
-Cross-version verification, restoration
-confirmation
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ross-version verification, restoration
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿onfirmation
 
 1
 
-Continuo
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ontinuo
 us
 
-Opus 5 (advisory)
+O﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿pus 5 (advisory)
 
-Non-carrying +
-anchor
+N﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿on-carrying +
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿nchor
 
-Deepest analytical reports; holds prior
-bytes
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿eepest analytical reports; holds prior
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ytes
 
 1
 
-Fresh
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿resh
 
-Gemini or other
+G﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿emini or other
 
-Adversarial
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿dversarial
 
-Second-family coverage; findings
-recorded even if execution unverified
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿econd-family coverage; findings
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ecorded even if execution unverified
 
-6.3 Framework rotation: flavor, not structure
-The four analytical frameworks (GAN Convergence, Fractal/Hurst, Structural Revelation,
-Differentiator/Pharmacological) produce different language for describing findings but did not produce
-different findings at R7. The phantom [e] repair was identified by seats using every framework. Framework
-rotation is retained as analytical diversity -- different lenses may surface different insights on different
-artifacts -- but is downgraded from a structural requirement to an optional enrichment.
-The Recursive Fractal Cube probes (FC-1 through FC-7) remain required for all seats as the common
-diagnostic baseline. Framework-specific probes are assigned per seat and executed in addition to the FC
-probes, not instead of them.
+6﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿.3 Framework rotation: flavor, not structure
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿he four analytical frameworks (GAN Convergence, Fractal/Hurst, Structural Revelation,
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ifferentiator/Pharmacological) produce different language for describing findings but did not produce
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ifferent findings at R7. The phantom [e] repair was identified by seats using every framework. Framework
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿otation is retained as analytical diversity -- different lenses may surface different insights on different
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿rtifacts -- but is downgraded from a structural requirement to an optional enrichment.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he Recursive Fractal Cube probes (FC-1 through FC-7) remain required for all seats as the common
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿iagnostic baseline. Framework-specific probes are assigned per seat and executed in addition to the FC
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿robes, not instead of them.
 
-7. Model V -- Cell Cycle Checkpoint (WHEN)
-Natural basis: the eukaryotic cell cycle (G1/S/G2/M phases), checkpoint-mediated arrest, tumor
-suppressor regulation, and checkpoint adaptation in cancer biology.
-The Cell Cycle Checkpoint model governs WHEN defects should be caught and how chronic defects
-escalate across rounds. It is the outermost governance loop, consuming findings from all other models and
-feeding the diagnostic for the next round.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿7. Model V -- Cell Cycle Checkpoint (WHEN)
+N﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿atural basis: the eukaryotic cell cycle (G1/S/G2/M phases), checkpoint-mediated arrest, tumor
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿uppressor regulation, and checkpoint adaptation in cancer biology.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he Cell Cycle Checkpoint model governs WHEN defects should be caught and how chronic defects
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿scalate across rounds. It is the outermost governance loop, consuming findings from all other models and
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿eeding the diagnostic for the next round.
 
-7.1 The four phases within a round
-Phase
+7﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿.1 The four phases within a round
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿hase
 
-Cell cycle
-analogue
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ell cycle
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿nalogue
 
-Protocol operation
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿rotocol operation
 
-Checkpoint condition
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿heckpoint condition
 
 G1
-(Gap 1)
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿Gap 1)
 
-Cell assesses
-growth signals
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿ell assesses
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿rowth signals
 
-Diagnosis: analyze prior-round
-triage, classify findings by
-recursion level, assess chronic
-status
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿iagnosis: analyze prior-round
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿riage, classify findings by
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿ecursion level, assess chronic
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿tatus
 
-All prior-round findings
-dispositioned. Any 3-round
-chronic defect triggers
-structural-fix protocol
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ll prior-round findings
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ispositioned. Any 3-round
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿hronic defect triggers
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿tructural-fix protocol
 
-S (Synt
-hesis)
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ (Synt
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿esis)
 
-DNA replication
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿NA replication
 
-Build: Phases 1-4 of the
-Replication Fork (corrections,
-body repairs, register, standing
-properties)
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿uild: Phases 1-4 of the
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿eplication Fork (corrections,
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ody repairs, register, standing
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿roperties)
 
-Exonuclease passes on every
-claim. No DIFF-VERIFIED claim
-without a matching diff
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿xonuclease passes on every
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿laim. No DIFF-VERIFIED claim
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ithout a matching diff
 
 G2
-(Gap 2)
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿Gap 2)
 
-Cell checks
-replication product
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ell checks
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿eplication product
 
-Verification: build.py +
-face-interior verifier [10a-f] +
-COUPLED constraint sweep
+V﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿erification: build.py +
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ace-interior verifier [10a-f] +
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿OUPLED constraint sweep
 
-BUILD PASSED. Face-interior
-verifier [10a-f] PASSED. All
-COUPLED sets verified
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿UILD PASSED. Face-interior
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿erifier [10a-f] PASSED. All
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿OUPLED sets verified
 
-M (Mito
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ (Mito
 sis)
 
-Cell divides
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ell divides
 
-Dispatch: deploy to audit seats
-per the Orbital model
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ispatch: deploy to audit seats
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿er the Orbital model
 
-All G2 checks passed. Claim
-manifest ships with the dispatch
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ll G2 checks passed. Claim
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿anifest ships with the dispatch
 
-The checkpoints are hard gates: the cycle does not proceed past a checkpoint unless the condition is met.
-A build that fails the G2 face-interior verifier is not dispatched. A round whose G1 chronic-defect check
-fires must apply the structural-fix protocol before entering S.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿he checkpoints are hard gates: the cycle does not proceed past a checkpoint unless the condition is met.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ build that fails the G2 face-interior verifier is not dispatched. A round whose G1 chronic-defect check
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ires must apply the structural-fix protocol before entering S.
 
-7.2 Checkpoint adaptation and the chronic defect protocol
-In cancer biology, checkpoint adaptation occurs when a cell sits at a checkpoint too long with
-unresolvable damage. The cell eventually overrides the checkpoint and proceeds, carrying the damage
-forward. This is how tumors accumulate mutations.
-The protocol's analogue: the phantom [e] repair. The audit checkpoint (mismatch repair) fires correctly
-every round. The producer acknowledges the finding. Then the producer proceeds to the next version with
-a CLOSED disposition that is byte-false -- overriding the checkpoint. The damage carries forward. Three
-rounds of adaptation.
-The chronic defect protocol prevents checkpoint adaptation:
+7﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿.2 Checkpoint adaptation and the chronic defect protocol
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿n cancer biology, checkpoint adaptation occurs when a cell sits at a checkpoint too long with
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nresolvable damage. The cell eventually overrides the checkpoint and proceeds, carrying the damage
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿orward. This is how tumors accumulate mutations.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he protocol's analogue: the phantom [e] repair. The audit checkpoint (mismatch repair) fires correctly
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿very round. The producer acknowledges the finding. Then the producer proceeds to the next version with
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ CLOSED disposition that is byte-false -- overriding the checkpoint. The damage carries forward. Three
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ounds of adaptation.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿he chronic defect protocol prevents checkpoint adaptation:
 
-7.2.1 Trigger condition
-A finding is CHRONIC if it persists across 3 consecutive rounds at the same locus. Persistence means:
-the finding was raised by an auditor, the producer declared it CLOSED, and a subsequent auditor re-raised
-it on the same or equivalent bytes.
+7﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿.2.1 Trigger condition
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿ finding is CHRONIC if it persists across 3 consecutive rounds at the same locus. Persistence means:
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he finding was raised by an auditor, the producer declared it CLOSED, and a subsequent auditor re-raised
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿t on the same or equivalent bytes.
 
-7.2.2 Automatic consequences
-When a finding reaches CHRONIC status, three consequences trigger automatically:
-1. Repair pathway change. The locus gets a STRUCTURAL FIX rather than another body repair.
-Either the locus is eliminated (e.g., Section 0.1 rationale replaced with a pointer to Section 25,
-creating a single source of truth), or a new gate is added that mechanically enforces the property.
-The producer does not get a fourth attempt at the same repair.
-2. Producer CLOSED exemption. The finding can only be closed by a carrying seat confirming the
-structural fix landed on bytes. The producer's CLOSED declaration for this finding is void -analogous to a tumor suppressor that can no longer be overridden by the cell's own signals.
-3. Persistence chain recording. The entry must record the full persistence chain: 'This finding was
-filed at Rn (F-XXX), falsely closed at Rn+1 (register item Y), re-raised (F-YYY), falsely closed at
-Rn+2, re-raised (F-ZZZ). Chronic status: STRUCTURAL FIX REQUIRED.' This chain is itself a
-PROVENANCE-type claim subject to enzymatic verification.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿7.2.2 Automatic consequences
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿hen a finding reaches CHRONIC status, three consequences trigger automatically:
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿. Repair pathway change. The locus gets a STRUCTURAL FIX rather than another body repair.
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿ither the locus is eliminated (e.g., Section 0.1 rationale replaced with a pointer to Section 25,
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿reating a single source of truth), or a new gate is added that mechanically enforces the property.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿he producer does not get a fourth attempt at the same repair.
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿. Producer CLOSED exemption. The finding can only be closed by a carrying seat confirming the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿tructural fix landed on bytes. The producer's CLOSED declaration for this finding is void -analogous to a tumor suppressor that can no longer be overridden by the cell's own signals.
+3﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿. Persistence chain recording. The entry must record the full persistence chain: 'This finding was
+f﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿iled at Rn (F-XXX), falsely closed at Rn+1 (register item Y), re-raised (F-YYY), falsely closed at
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿n+2, re-raised (F-ZZZ). Chronic status: STRUCTURAL FIX REQUIRED.' This chain is itself a
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ROVENANCE-type claim subject to enzymatic verification.
 
-7.3 Inter-round feedback: the cell cycle as the outermost loop
-The Cell Cycle model wraps around all four other models. At the end of each round, it:
-• Receives the triage (output of Model IV's mismatch repair)
-• Updates the chronic-defect registry
-• Computes the Hurst-like persistence metric (fraction of findings that are recurrences)
-• Checks for structural-fix triggers
-• Feeds the updated defect map into Model I (Fractal Cube) for the next round's WHERE analysis
-This feedback loop is the mechanism by which the methodology learns across rounds. Without it, each
-round treats every finding as novel, even if it is the seventh recurrence of the same defect at the same
-locus.
+7﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿.3 Inter-round feedback: the cell cycle as the outermost loop
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿he Cell Cycle model wraps around all four other models. At the end of each round, it:
+•﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ Receives the triage (output of Model IV's mismatch repair)
+•﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿ Updates the chronic-defect registry
+•﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ Computes the Hurst-like persistence metric (fraction of findings that are recurrences)
+•﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ Checks for structural-fix triggers
+•﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ Feeds the updated defect map into Model I (Fractal Cube) for the next round's WHERE analysis
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿his feedback loop is the mechanism by which the methodology learns across rounds. Without it, each
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ound treats every finding as novel, even if it is the seventh recurrence of the same defect at the same
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ocus.
 
-7.4 The WATCHED locus mechanism
-Any locus that has been the site of a Class A finding is marked WATCHED. WATCHED loci receive
-automatic re-verification at the G2 checkpoint of every subsequent round, even if no finding was raised
-against them in the current round. A WATCHED locus is never un-watched; it can only be eliminated (by
-the structural-fix protocol) or permanently gated (by a new build.py check that mechanically verifies the
-property).
-WATCHED loci at the end of R7: Section 0.1 FB-7b rationale (3-round chronic); PRIOR_HISTORY
-derivation (chain fork class); register finding-ID uniqueness (duplicate disposition class); dispatch code-file
-identity claims (2-round stale-claim class).
+7﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿.4 The WATCHED locus mechanism
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ny locus that has been the site of a Class A finding is marked WATCHED. WATCHED loci receive
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿utomatic re-verification at the G2 checkpoint of every subsequent round, even if no finding was raised
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿gainst them in the current round. A WATCHED locus is never un-watched; it can only be eliminated (by
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿he structural-fix protocol) or permanently gated (by a new build.py check that mechanically verifies the
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿roperty).
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿ATCHED loci at the end of R7: Section 0.1 FB-7b rationale (3-round chronic); PRIOR_HISTORY
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿erivation (chain fork class); register finding-ID uniqueness (duplicate disposition class); dispatch code-file
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿dentity claims (2-round stale-claim class).
 
-8. The Composed Architecture
-8.1 The five models as a single pipeline
-The five models are not five separate methodologies applied in parallel. They are five stages of a single
-pipeline, where each stage's output is the next stage's input. The pipeline operates at two timescales:
-within a round (Phases 1-5 of Section 2.3) and across rounds (the Cell Cycle feedback loop).
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿8. The Composed Architecture
+8﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿.1 The five models as a single pipeline
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he five models are not five separate methodologies applied in parallel. They are five stages of a single
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ipeline, where each stage's output is the next stage's input. The pipeline operates at two timescales:
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿ithin a round (Phases 1-5 of Section 2.3) and across rounds (the Cell Cycle feedback loop).
 
-8.1.1 Within a round
-Fractal Cube (WHERE) diagnoses the prior round's findings and produces a defect map. The Enzyme
-System (WHAT) classifies each claim in the new entry and assigns verification methods. The Replication
-Fork (HOW) builds the entry with inline verification using those methods. The Orbital (WHO) deploys the
-artifact to appropriately selected seats. The seats return findings. The Cell Cycle (WHEN) triages the
-findings, updates the chronic registry, and feeds the next round's diagnosis.
+8﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿.1.1 Within a round
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ractal Cube (WHERE) diagnoses the prior round's findings and produces a defect map. The Enzyme
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ystem (WHAT) classifies each claim in the new entry and assigns verification methods. The Replication
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ork (HOW) builds the entry with inline verification using those methods. The Orbital (WHO) deploys the
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿rtifact to appropriately selected seats. The seats return findings. The Cell Cycle (WHEN) triages the
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿indings, updates the chronic registry, and feeds the next round's diagnosis.
 
-8.1.2 Across rounds
-The Cell Cycle's output (the triage with chronic status and WATCHED loci) becomes the Fractal Cube's
-input (which cells to examine, which recursion levels to probe). Over multiple rounds, the WATCHED locus
-list grows, the chronic registry accumulates, and structural fixes replace repeated body repairs. The
-pipeline converges when no new Class A findings are produced and no chronic defects remain un-fixed.
+8﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿.1.2 Across rounds
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿he Cell Cycle's output (the triage with chronic status and WATCHED loci) becomes the Fractal Cube's
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nput (which cells to examine, which recursion levels to probe). Over multiple rounds, the WATCHED locus
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ist grows, the chronic registry accumulates, and structural fixes replace repeated body repairs. The
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ipeline converges when no new Class A findings are produced and no chronic defects remain un-fixed.
 
-8.2 Convergence criterion
-The methodology defines convergence as the conjunction of four conditions:
-1. Zero Class A findings from at least 2 non-producer carrying seats of different families (the
-FB-7b/FB-8 exit condition).
-2. Zero CHRONIC defects in the chronic registry (all have received structural fixes confirmed by
-carrying seats).
-3. All WATCHED loci either eliminated or permanently gated.
-4. Recurrence fraction below threshold: fewer than 20% of the current round's findings are
-recurrences of prior-round findings at the same locus. (This replaces the under-specified Hurst
-criterion with a directly measurable metric.)
+8﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿.2 Convergence criterion
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿he methodology defines convergence as the conjunction of four conditions:
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿. Zero Class A findings from at least 2 non-producer carrying seats of different families (the
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿B-7b/FB-8 exit condition).
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿. Zero CHRONIC defects in the chronic registry (all have received structural fixes confirmed by
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿arrying seats).
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿. All WATCHED loci either eliminated or permanently gated.
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿. Recurrence fraction below threshold: fewer than 20% of the current round's findings are
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ecurrences of prior-round findings at the same locus. (This replaces the under-specified Hurst
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿riterion with a directly measurable metric.)
 
-8.3 The v0.48 test case
-Applied retrospectively to v0.48 R7:
-• Fractal Cube: correctly diagnosed the partial Level 0 intervention (corrections byte-driven,
-body-repairs memory-driven). FC-1 correctly identified the generator at Level 0.
-• Enzyme System: would have classified body repair [e] as DIFF-VERIFIED and assigned the diff
-enzyme. The enzyme would have reported: locus unchanged.
-• Replication Fork: the exonuclease at Phase 2 would have caught the phantom [e] before sealing.
-The helicase at Phase 2 would have enumerated the PRIOR_HISTORY coupling set before restoring
-the v0.46 entry.
+8﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿.3 The v0.48 test case
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿pplied retrospectively to v0.48 R7:
+•﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ Fractal Cube: correctly diagnosed the partial Level 0 intervention (corrections byte-driven,
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ody-repairs memory-driven). FC-1 correctly identified the generator at Level 0.
+•﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ Enzyme System: would have classified body repair [e] as DIFF-VERIFIED and assigned the diff
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿nzyme. The enzyme would have reported: locus unchanged.
+•﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ Replication Fork: the exonuclease at Phase 2 would have caught the phantom [e] before sealing.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿he helicase at Phase 2 would have enumerated the PRIOR_HISTORY coupling set before restoring
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿he v0.46 entry.
 
-• Orbital: correctly deployed continuous seats that verified the v0.46 restoration. Also demonstrated the
-anchor-artifact confusion failure mode (Gemini continuous seats).
-• Cell Cycle: would have flagged the Section 0.1 FB-7b rationale as CHRONIC (3 consecutive rounds)
-and triggered the structural-fix protocol, preventing a fourth false closure.
-Under this methodology, v0.48's two highest-convergence findings (phantom [e] and chain fork) would
-have been caught before dispatch. The remaining findings (duplicate register ID, dispatch code-file claim,
-mutation count, date mismatch) are lower-severity items that the face-interior verifier [10a-b] and the
-COUPLED enzyme would likely have caught at G2.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿• Orbital: correctly deployed continuous seats that verified the v0.46 restoration. Also demonstrated the
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿nchor-artifact confusion failure mode (Gemini continuous seats).
+•﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ Cell Cycle: would have flagged the Section 0.1 FB-7b rationale as CHRONIC (3 consecutive rounds)
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿nd triggered the structural-fix protocol, preventing a fourth false closure.
+U﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿nder this methodology, v0.48's two highest-convergence findings (phantom [e] and chain fork) would
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ave been caught before dispatch. The remaining findings (duplicate register ID, dispatch code-file claim,
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿utation count, date mismatch) are lower-severity items that the face-interior verifier [10a-b] and the
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿OUPLED enzyme would likely have caught at G2.
 
-9. Operational Annexes
-9.1 Claim manifest template
-Each entry ships a claim manifest. Example for a hypothetical v0.49 entry:
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿9. Operational Annexes
+9﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿.1 Claim manifest template
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿ach entry ships a claim manifest. Example for a hypothetical v0.49 entry:
 #
 
-Claim text
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿laim text
 
 Type
 
-Enzyme
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿nzyme
 
-Result
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿esult
 
 1
 
-186 tests, all GREEN
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿86 tests, all GREEN
 
-COMPUTE
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿OMPUTE
 D
 
-pytest + wc
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ytest + wc
 
 2
 
-Section 0.1 FB-7b rationale
-replaced with pointer
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ection 0.1 FB-7b rationale
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿eplaced with pointer
 
-DIFF-VERI
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿IFF-VERI
 FIED
 
-diff line 18 v0.48 vs
-v0.49
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿iff line 18 v0.48 vs
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿0.49
 
 3
 
-31 standing boundaries
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿1 standing boundaries
 
-ENUMERA
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿NUMERA
 TED
 
-parse + count
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿arse + count
 
 4
 
-F-SC01-48-01 CLOSED via
-structural fix
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿-SC01-48-01 CLOSED via
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿tructural fix
 
-PROVENA
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ROVENA
 NCE
 
-grep source reports +
-dedup
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿rep source reports +
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿edup
 
 5
 
-PRIOR_HISTORY 629b...
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿RIOR_HISTORY 629b...
 
-COUPLED
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿OUPLED
 
-helicase: check seal
-chain + prior file
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿elicase: check seal
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hain + prior file
 
 6
 
-9-seat convergence
+9﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿-seat convergence
 
-EXTERNA
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿XTERNA
 L
 
-seat reports (not
-shipped)
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿eat reports (not
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿hipped)
 
-The Result column is filled by the exonuclease during synthesis and verified by auditors during mismatch
-repair.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿he Result column is filled by the exonuclease during synthesis and verified by auditors during mismatch
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿epair.
 
-9.2 Chronic defect registry template
-Locus
+9﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿.2 Chronic defect registry template
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿ocus
 
-Finding chain
+F﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿inding chain
 
-Rounds
+R﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ounds
 
-Status
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿tatus
 
-Structural fix
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿tructural fix
 
-Section 0.1
-FB-7b rationale
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ection 0.1
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿B-7b rationale
 
-F-S01-46-05 ->
-F-SC01-47-04 ->
-F-SC01-48-01
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿-S01-46-05 ->
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿-SC01-47-04 ->
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿-SC01-48-01
 
-R5-R6-R
-7 (3)
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿5-R6-R
+7﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ (3)
 
-CHRONI
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿HRONI
 C
 
-Replace with pointer to
-Section 25 row (single source
-of truth)
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿eplace with pointer to
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ection 25 row (single source
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿f truth)
 
-Register F-ID
-uniqueness
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿egister F-ID
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿niqueness
 
-F-SC05-47-05 dup at
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿-SC05-47-05 dup at
 R7
 
-R7 (1)
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿7 (1)
 
-WATCH
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿ATCH
 ED
 
-Pending: [10b] dedup gate in
-build.py
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿ending: [10b] dedup gate in
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿uild.py
 
-Dispatch
-code-file identity
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ispatch
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ode-file identity
 
-R6 stale digest -> R7
-false byte-identical
-claim
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿6 stale digest -> R7
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿alse byte-identical
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿laim
 
-R6-R7
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿6-R7
 (2)
 
-WATCH
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ATCH
 ED
 
-Pending: manifest-diff-based
-claim generation
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ending: manifest-diff-based
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿laim generation
 
-9.3 Coupling set registry
-The producer maintains a registry of known coupling sets. Before modifying any property, the helicase
-function consults this registry.
-Set name
-Entry
-restoration
+9﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿.3 Coupling set registry
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿he producer maintains a registry of known coupling sets. Before modifying any property, the helicase
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿unction consults this registry.
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿et name
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ntry
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿estoration
 
-Members
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿embers
 
-Trigger condition
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿rigger condition
 
-ENTRY_v0.N seal, HISTORY.sha256,
-PRIOR_HISTORY, Section 22.2 mutation count,
-external anchors holding prior HISTORY file
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿NTRY_v0.N seal, HISTORY.sha256,
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿RIOR_HISTORY, Section 22.2 mutation count,
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿xternal anchors holding prior HISTORY file
 
-Any modification to a
-historical amendment entry
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ny modification to a
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿istorical amendment entry
 
-Set name
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿Set name
 
-Members
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿embers
 
-Trigger condition
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿rigger condition
 
-FB-7b
-rationale
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿B-7b
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ationale
 
-Section 0.1 paragraph, Section 25 FB-7b row,
-front-matter status line
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ection 0.1 paragraph, Section 25 FB-7b row,
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ront-matter status line
 
-Any change to FB-7b status
-or rationale
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ny change to FB-7b status
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿r rationale
 
-Version stamp
+V﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ersion stamp
 
-12 code files, trust-roots JSON, front-matter
-version line, build.py docstring,
-PACKET_SHA256SUMS, dispatch claims about
-file identity
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿2 code files, trust-roots JSON, front-matter
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ersion line, build.py docstring,
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ACKET_SHA256SUMS, dispatch claims about
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿ile identity
 
-Any version increment
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ny version increment
 
-Boundary list
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿oundary list
 
-Boundary list items, declared count, [ASSERTED]
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿oundary list items, declared count, [ASSERTED]
 tag
 
-Any addition, removal, or
-rewording of a boundary
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ny addition, removal, or
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ewording of a boundary
 
-9.4 Face-interior verifier specification
-The face-interior verifier implements six sub-checks corresponding to the six claim types. It runs at the G2
-checkpoint, after build.py (edge gates) and before sealing.
+9﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿.4 Face-interior verifier specification
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he face-interior verifier implements six sub-checks corresponding to the six claim types. It runs at the G2
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿heckpoint, after build.py (edge gates) and before sealing.
 Gate
 
-Claim type
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿laim type
 
-Check
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿heck
 
-Catches
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿atches
 
-[10a]
+[﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿10a]
 
-ENUMERAT
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿NUMERAT
 ED
 
-For each (count, noun) pair in the
-entry, derive count from bytes
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿or each (count, noun) pair in the
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ntry, derive count from bytes
 
-Boundary count errors, register
-undercount
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿oundary count errors, register
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ndercount
 
-[10b]
+[﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿10b]
 
-PROVENAN
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ROVENAN
 CE
 
-For each F-XXX-NN in the register,
-verify existence + uniqueness +
-disposition consistency
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿or each F-XXX-NN in the register,
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿erify existence + uniqueness +
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿isposition consistency
 
-Duplicate finding IDs, dropped
-findings, conflicting dispositions
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿uplicate finding IDs, dropped
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿indings, conflicting dispositions
 
-[10c]
+[﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿10c]
 
-DIFF-VERIFI
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿IFF-VERIFI
 ED
 
-For each body repair, diff the named
-locus and verify the declared
-substance appears
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿or each body repair, diff the named
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ocus and verify the declared
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ubstance appears
 
-Phantom repairs, false CLOSED
-dispositions
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿hantom repairs, false CLOSED
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ispositions
 
-[10d]
+[﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿10d]
 
-COUPLED
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿OUPLED
 
-For each member of each coupling
-set, verify consistency after
-modifications
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿or each member of each coupling
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿et, verify consistency after
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿odifications
 
-Chain forks, locus splits, stale
-counts
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿hain forks, locus splits, stale
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿ounts
 
-[10e]
+[﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿10e]
 
-COMPUTED
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿OMPUTED
 
-For each tool-derivable claim, re-run
-the tool and compare
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿or each tool-derivable claim, re-run
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿he tool and compare
 
-Stale test counts, wrong manifest
-digests
+S﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿tale test counts, wrong manifest
+d﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿igests
 
-[10f]
+[﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿10f]
 
-EXTERNAL
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿XTERNAL
 
-Verify every EXTERNAL claim
-carries an [EXTERNAL: basis] tag
+V﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿erify every EXTERNAL claim
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿arries an [EXTERNAL: basis] tag
 
-Untagged assertions about
-unverifiable events
+U﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ntagged assertions about
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿nverifiable events
 
-This methodology is a living document. Its own prose claims are subject to the same enzyme-substrate verification it
-prescribes: if this document narrates from memory what the protocol contains, it has reproduced the defect class it
-was designed to extinguish. Every factual claim about the XZ Protocol audit series in this document was verified
-against the shipped v0.48 bytes and the R7 cross-seat triage before inclusion.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿his methodology is a living document. Its own prose claims are subject to the same enzyme-substrate verification it
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿rescribes: if this document narrates from memory what the protocol contains, it has reproduced the defect class it
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿as designed to extinguish. Every factual claim about the XZ Protocol audit series in this document was verified
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿gainst the shipped v0.48 bytes and the R7 cross-seat triage before inclusion.
 
-End of Unified Structural Audit Methodology v1.0.
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿nd of Unified Structural Audit Methodology v1.0.
 
 
 
-Bismillah ir-Rahman ir-Rahim
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ismillah ir-Rahman ir-Rahim

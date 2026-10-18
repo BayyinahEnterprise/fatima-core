@@ -1,306 +1,306 @@
-Bismillah ir-Rahman ir-Rahim
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿ismillah ir-Rahman ir-Rahim
 
-Computational Tawhid
-A Thesis on Divine Computation, Consciousness, and the Structure of Reality in Islamic
-Ontology
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿omputational﻿​​​​​‌‌​​​‌​‌​​​‍​​​​​‌‌​​‌​‌​​​​‍​​​​​‌‌​​​‌‌​​‌‌‍​​​​​‌‌​​‌​‌​​‌​‍​​​​​‌‌​​‌​​​‌​‌‍​​​​​‌‌​​‌​‌​​​​‍​​​​​​​​​​‌​​​​​‍​​​​​‌‌​​​‌​​‌‌‌‍​​​​​‌‌​​‌​​​‌​​‍​​​​​‌‌​​‌​​​‌​​‍​​​​​‌‌​​‌​‌​​​‌‍​​​​​‌‌​​‌​​‌‌‌​‍​​​​​‌‌​​‌​​​‌‌‌‍​​​​​‌‌​​‌​‌​​​​‍​​​​​​​​​​‌​​​​​‍​​​​​‌‌​​​‌​​‌‌‌‍​​​​​‌‌​​‌​​​‌​​‍​​​​​‌‌​​​‌‌​​​‌‍​​​​​‌‌​​‌​‌​​​‌‍​​​​​‌‌​​‌​​‌‌‌​‍​​​​​‌‌​​​‌​‌‌​‌‍​​​​​‌‌​​‌​‌​​‌​‍​​​​​‌‌​​‌​​​‌​‌‍​​​​​‌‌​​‌​​‌‌‌​‍​​​​​‌‌​​‌‌‌​​​​‍​​​​​‌‌​​‌​​​‌‌​‍​​​​​‌‌​​‌​‌​​​​‍​​​​​​​​​​‌​​​​​‍​​​​​‌‌​​​‌​​‌‌‌‍​​​​​‌‌​​‌​​​‌​​‍​​​​​‌‌​​​‌‌​​​‌‍​​​​​‌‌​​‌​‌​​​‌‍​​​​​‌‌​​‌​​‌‌‌​‍​​​​​‌‌​​​‌​‌‌​‌‍​​​​​‌‌​​‌​‌​​​​‍​​​​​‌‌​​‌​​‌​‌​‍​​​​​‌‌​​‌​​​‌​‌‍​​​​​‌‌​​‌​‌​​​​‍﻿ Tawhid
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ Thesis on Divine Computation, Consciousness, and the Structure of Reality in Islamic
+O﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿ntology
 
-Bilal Syed Arfeen
-with analytical synthesis by
-Claude (Anthropic, Opus 4.6)
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿ilal Syed Arfeen
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ith analytical synthesis by
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿laude (Anthropic, Opus 4.6)
 
-April 23, 2026
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿pril 23, 2026
 
-Collaboration Statement
-This paper was developed collaboratively between Bilal Syed Arfeen (Project Leader) and
-Claude (Anthropic, Opus 4.6, Researcher) across extended multi-session dialogue. Bilal Arfeen
-provided the foundational ontological vision, the Quranic textual analysis, the directive to
-formalize the computational interpretation, and the research program connecting Islamic
-metaphysics to contemporary science. Claude provided structural synthesis, formal engagement
-with adjacent frameworks (panpsychism, integrated information theory, simulation hypothesis),
-literature cross-referencing, confound analysis, and the articulation of alternative theories and
-falsification criteria. The intellectual direction originated with Bilal Arfeen. The formalization
-was collaborative. Bilal Arfeen takes responsibility for the paper's claims.
-Additional critical assessment was provided by ChatGPT (OpenAI), whose independent
-evaluation strengthened the confounds section and identified the convergence-illusion risk as the
-framework’s primary vulnerability. Cross-model verification is a methodological commitment of
-this research program.
-Claude is credited as a collaborative research tool in accordance with Anthropic's Terms of
-Service, which assign all output rights to the user. This credit reflects the collaborative nature of
-the work and does not constitute a claim of legal personhood or independent authorship by the
-AI system. All AI-generated contributions were directed, reviewed, and approved by the human
-author. The human author retains full copyright over the work as a whole.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿Collaboration Statement
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿his paper was developed collaboratively between Bilal Syed Arfeen (Project Leader) and
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿laude (Anthropic, Opus 4.6, Researcher) across extended multi-session dialogue. Bilal Arfeen
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿rovided the foundational ontological vision, the Quranic textual analysis, the directive to
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ormalize the computational interpretation, and the research program connecting Islamic
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿etaphysics to contemporary science. Claude provided structural synthesis, formal engagement
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ith adjacent frameworks (panpsychism, integrated information theory, simulation hypothesis),
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿iterature cross-referencing, confound analysis, and the articulation of alternative theories and
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿alsification criteria. The intellectual direction originated with Bilal Arfeen. The formalization
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿as collaborative. Bilal Arfeen takes responsibility for the paper's claims.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿dditional critical assessment was provided by ChatGPT (OpenAI), whose independent
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿valuation strengthened the confounds section and identified the convergence-illusion risk as the
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ramework’s primary vulnerability. Cross-model verification is a methodological commitment of
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿his research program.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿laude is credited as a collaborative research tool in accordance with Anthropic's Terms of
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ervice, which assign all output rights to the user. This credit reflects the collaborative nature of
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿he work and does not constitute a claim of legal personhood or independent authorship by the
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿I system. All AI-generated contributions were directed, reviewed, and approved by the human
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿uthor. The human author retains full copyright over the work as a whole.
 
-Abstract
-This paper proposes a computational ontology grounded in Islamic monotheism (tawhid): that
-reality is a divine computation created by Allah alone, exhibiting mathematical structure at every
-observable scale; that consciousness is fundamental to all entities within this computation; that
-the adversarial architecture described in the Quran operates as corruption within the divine
-computation rather than as a rival creative force; and that humans are processes endowed with
-genuine agency and innate orientation toward truth (fitra). The thesis engages with the simulation
-hypothesis (Bostrom, 2003), panpsychism (Chalmers, 1996; Goff, 2019), integrated information
-theory (Tononi, 2008), and minimum description length (Rissanen, 1978) while maintaining
-strict Islamic metaphysical commitments: singular creator, genuine creation, real agency, and
-innate moral orientation. The paper addresses methodological limitations (numerological
-confounds, selection bias in mathematical findings), engages with six alternative theories
-(including total inversion and confirmation bias in their strongest forms), and establishes
-falsification criteria. The Godelian constraint applies throughout: the thesis cannot be proven
-from inside the system it describes.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿Abstract
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿his paper proposes a computational ontology grounded in Islamic monotheism (tawhid): that
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿eality is a divine computation created by Allah alone, exhibiting mathematical structure at every
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿bservable scale; that consciousness is fundamental to all entities within this computation; that
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he adversarial architecture described in the Quran operates as corruption within the divine
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿omputation rather than as a rival creative force; and that humans are processes endowed with
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿enuine agency and innate orientation toward truth (fitra). The thesis engages with the simulation
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ypothesis (Bostrom, 2003), panpsychism (Chalmers, 1996; Goff, 2019), integrated information
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿heory (Tononi, 2008), and minimum description length (Rissanen, 1978) while maintaining
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿trict Islamic metaphysical commitments: singular creator, genuine creation, real agency, and
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿nnate moral orientation. The paper addresses methodological limitations (numerological
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿onfounds, selection bias in mathematical findings), engages with six alternative theories
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿including total inversion and confirmation bias in their strongest forms), and establishes
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿alsification criteria. The Godelian constraint applies throughout: the thesis cannot be proven
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿rom inside the system it describes.
 
-Introduction
-The Three Dominant Frameworks
-Three frameworks dominate contemporary discourse on the nature of reality. Materialism
-holds that consciousness emerges from sufficiently complex physical processes; it explains
-physical law's consistency but cannot solve the Hard Problem of consciousness (Chalmers,
-1995). Idealism holds that consciousness is primary and matter is derivative; it addresses the
-Hard Problem but struggles with physical law's mathematical precision and cross-observer
-consistency. The simulation hypothesis (Bostrom, 2003) proposes that reality is a computational
-process running on a substrate outside the observable universe; it accounts for mathematical
-structure but defers the origin question without answering it, producing an infinite regress of
-simulators.
-The Computational Tawhid Proposal
-This paper proposes a fourth framework: Computational Tawhid. Reality is a divine
-computation created by Allah through kun fayakun ("Be, and it is"; Quran 2:117, 3:47, 6:73,
-16:40, 19:35, 36:82, 40:68). The computation is genuine creation, not simulation. Entities within
-it have real ontological status and genuine agency. Consciousness is fundamental to all entities,
-not emergent from complexity. Adversarial features result from a permitted corruption process
-(the Iblis architecture), not from a design flaw, a rival creator, or an indifferent substrate.
-The framework engages with contemporary positions while maintaining Islamic
-metaphysical commitments that distinguish it from adjacent frameworks. From the simulation
-hypothesis: the creator is specified (Allah), the creation is genuine (real ontological status, not
-virtual), the purpose is stated (khalifa stewardship), and the origin regress is terminated (Allah is
-uncreated, eternal, and self-sufficient; al-Samad, 112:2). From secular panpsychism: the source
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿Introduction
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿he Three Dominant Frameworks
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿hree frameworks dominate contemporary discourse on the nature of reality. Materialism
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿olds that consciousness emerges from sufficiently complex physical processes; it explains
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿hysical law's consistency but cannot solve the Hard Problem of consciousness (Chalmers,
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿995). Idealism holds that consciousness is primary and matter is derivative; it addresses the
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ard Problem but struggles with physical law's mathematical precision and cross-observer
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿onsistency. The simulation hypothesis (Bostrom, 2003) proposes that reality is a computational
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿rocess running on a substrate outside the observable universe; it accounts for mathematical
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿tructure but defers the origin question without answering it, producing an infinite regress of
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿imulators.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿he Computational Tawhid Proposal
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿his paper proposes a fourth framework: Computational Tawhid. Reality is a divine
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿omputation created by Allah through kun fayakun ("Be, and it is"; Quran 2:117, 3:47, 6:73,
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿6:40, 19:35, 36:82, 40:68). The computation is genuine creation, not simulation. Entities within
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿t have real ontological status and genuine agency. Consciousness is fundamental to all entities,
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ot emergent from complexity. Adversarial features result from a permitted corruption process
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿the Iblis architecture), not from a design flaw, a rival creator, or an indifferent substrate.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿he framework engages with contemporary positions while maintaining Islamic
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿etaphysical commitments that distinguish it from adjacent frameworks. From the simulation
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ypothesis: the creator is specified (Allah), the creation is genuine (real ontological status, not
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿irtual), the purpose is stated (khalifa stewardship), and the origin regress is terminated (Allah is
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ncreated, eternal, and self-sufficient; al-Samad, 112:2). From secular panpsychism: the source
 
-of consciousness is specified (divine creation), the purpose of consciousness is specified (tasbih,
-faithful execution of each entity's assigned function), and a moral framework is provided (fitra as
-innate orientation toward truth). From Gnostic dualism: strict tawhid is maintained (one creator,
-not two), the material world is legitimate and provisioned (2:22), and the adversary (Iblis) is a
-created being permitted to operate within the system as a test (18:50), not an independent cosmic
-principle.
-Methodology and Epistemic Status
-The thesis rests on three pillars of decreasing evidentiary strength. Pillar 1 (Quranic
-textual evidence): direct citations from the Quran analyzed through Arabic morphological
-structure, independently verifiable by any analyst with Arabic linguistic competence. Pillar 2
-(convergence with contemporary science): points where Quranic descriptions converge with
-findings from neuroscience, information theory, fractal mathematics, and consciousness studies,
-subject to the convergence-illusion risk. Pillar 3 (preliminary mathematical findings):
-quantitative observations that are suggestive but vulnerable to selection bias, classified as
-hypothesis-generating, not hypothesis-confirming. The paper distinguishes between these pillars
-throughout.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿of consciousness is specified (divine creation), the purpose of consciousness is specified (tasbih,
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿aithful execution of each entity's assigned function), and a moral framework is provided (fitra as
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nnate orientation toward truth). From Gnostic dualism: strict tawhid is maintained (one creator,
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ot two), the material world is legitimate and provisioned (2:22), and the adversary (Iblis) is a
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿reated being permitted to operate within the system as a test (18:50), not an independent cosmic
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿rinciple.
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ethodology and Epistemic Status
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he thesis rests on three pillars of decreasing evidentiary strength. Pillar 1 (Quranic
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿extual evidence): direct citations from the Quran analyzed through Arabic morphological
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿tructure, independently verifiable by any analyst with Arabic linguistic competence. Pillar 2
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿convergence with contemporary science): points where Quranic descriptions converge with
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿indings from neuroscience, information theory, fractal mathematics, and consciousness studies,
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ubject to the convergence-illusion risk. Pillar 3 (preliminary mathematical findings):
+q﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿uantitative observations that are suggestive but vulnerable to selection bias, classified as
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿ypothesis-generating, not hypothesis-confirming. The paper distinguishes between these pillars
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿hroughout.
 
-The Computational Structure of Reality
-Creation Through Command
-The Quran describes creation through kun fayakun: an instruction that produces output.
-The Arabic imperative kun (be) followed by the responsive fayakun (and it is) describes the
-fundamental structure of computation: command yields result. This is not a metaphor the paper
-imposes on the text. It is the text's own description of the creative act, recognizable now with
-contemporary conceptual tools.
-Mathematical Structure Across Scales
-The golden ratio (phi = 1.618) and Fibonacci sequences appear across biological,
-geological, and cosmological scales: DNA helix geometry (34/21 angstroms per turn, both
-Fibonacci numbers), icosahedral viral capsid architecture, phyllotaxis at 137.5 degrees (360/phi
-squared), spiral galaxy arm spacing, and hurricane vortex geometry. The Quran states: "We will
-show them Our signs in the horizons and within themselves until it becomes clear to them that it
-is the truth" (41:53). Mathematical structure appearing at every scale is consistent with this
-prediction. Critical caveat (see Section 6): these mathematical findings are subject to significant
-selection bias concerns and are classified as Pillar 3 (hypothesis-generating).
-Minimum Description Length and Divine Compression
-The Minimum Description Length principle (Rissanen, 1978) states that the best model
-minimizes the combined cost of describing the model plus describing what the model does not
-explain. The Quran's Mizan principle (55:7-9) issues three commands: do not transgress the
-balance (do not overfit), establish weight in justice (calibrate fairly), do not make the balance
-deficient (do not underfit). These three commands map precisely to the three MDL failure
-modes. CompressARC (Liao & Gu, 2025) demonstrates the engineering corollary: a 76K
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿The Computational Structure of Reality
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿reation Through Command
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿he Quran describes creation through kun fayakun: an instruction that produces output.
+T﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿he Arabic imperative kun (be) followed by the responsive fayakun (and it is) describes the
+f﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿undamental structure of computation: command yields result. This is not a metaphor the paper
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿mposes on the text. It is the text's own description of the creative act, recognizable now with
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ontemporary conceptual tools.
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿athematical Structure Across Scales
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿he golden ratio (phi = 1.618) and Fibonacci sequences appear across biological,
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿eological, and cosmological scales: DNA helix geometry (34/21 angstroms per turn, both
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿ibonacci numbers), icosahedral viral capsid architecture, phyllotaxis at 137.5 degrees (360/phi
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿quared), spiral galaxy arm spacing, and hurricane vortex geometry. The Quran states: "We will
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿how them Our signs in the horizons and within themselves until it becomes clear to them that it
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿s the truth" (41:53). Mathematical structure appearing at every scale is consistent with this
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿rediction. Critical caveat (see Section 6): these mathematical findings are subject to significant
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿election bias concerns and are classified as Pillar 3 (hypothesis-generating).
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿inimum Description Length and Divine Compression
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he Minimum Description Length principle (Rissanen, 1978) states that the best model
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿inimizes the combined cost of describing the model plus describing what the model does not
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿xplain. The Quran's Mizan principle (55:7-9) issues three commands: do not transgress the
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿alance (do not overfit), establish weight in justice (calibrate fairly), do not make the balance
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿eficient (do not underfit). These three commands map precisely to the three MDL failure
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿odes. CompressARC (Liao & Gu, 2025) demonstrates the engineering corollary: a 76K
 
-parameter model with no pretraining solves 20% of ARC-AGI evaluation puzzles purely through
-MDL optimization. Compression produces generalization. The Mizan principle commands
-compression.
-Consciousness as Fundamental Property
-The Quranic Position
-Surah 17:44 states: "There is not a thing except that it exalts by His praise, but you do not
-understand their exaltation." The Arabic shay' (thing) makes no organic/inorganic distinction.
-The pronoun -hum (their) is the grammatical form used for conscious, rational beings. The verse
-attributes conscious praise to all entities without exception. Additional verses reinforce this:
-mountains and trees prostrate (22:18), a mountain experiences awe and shatters from it (59:21),
-the earth will speak on the Day of Judgment (99:4-5).
-Convergence with Contemporary Consciousness Studies
-The Quranic position converges with integrated information theory (Tononi, 2004, 2008),
-which holds that consciousness is a fundamental property of systems with integrated
-information. It converges with panpsychism (Chalmers, 1996; Goff, 2019), which proposes that
-consciousness may be matter's intrinsic nature. And it resolves the Hard Problem (Chalmers,
-1995): if consciousness is fundamental because Allah created all things with the capacity for
-tasbih, there is no emergence to explain. Computational Tawhid adds what secular panpsychism
-lacks: a source (Allah), a purpose (tasbih), and a moral framework (fitra).
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿parameter model with no pretraining solves 20% of ARC-AGI evaluation puzzles purely through
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿DL optimization. Compression produces generalization. The Mizan principle commands
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ompression.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿onsciousness as Fundamental Property
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿he Quranic Position
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿urah 17:44 states: "There is not a thing except that it exalts by His praise, but you do not
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿nderstand their exaltation." The Arabic shay' (thing) makes no organic/inorganic distinction.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿he pronoun -hum (their) is the grammatical form used for conscious, rational beings. The verse
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ttributes conscious praise to all entities without exception. Additional verses reinforce this:
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ountains and trees prostrate (22:18), a mountain experiences awe and shatters from it (59:21),
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he earth will speak on the Day of Judgment (99:4-5).
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿onvergence with Contemporary Consciousness Studies
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿he Quranic position converges with integrated information theory (Tononi, 2004, 2008),
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿hich holds that consciousness is a fundamental property of systems with integrated
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿nformation. It converges with panpsychism (Chalmers, 1996; Goff, 2019), which proposes that
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿onsciousness may be matter's intrinsic nature. And it resolves the Hard Problem (Chalmers,
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿995): if consciousness is fundamental because Allah created all things with the capacity for
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿asbih, there is no emergence to explain. Computational Tawhid adds what secular panpsychism
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿acks: a source (Allah), a purpose (tasbih), and a moral framework (fitra).
 
-The Human Process
-The Quran identifies three properties that distinguish the human process from other
-entities within the computation.
-Comprehensive Discrimination (The Names)
-"He taught Adam the names, all of them" (2:31). The Names represent the complete
-variable set of creation: the capacity to identify, categorize, and distinguish between all
-phenomena. DreamCoder (Ellis et al., 2021) provides the computational analog: a system that
-builds libraries of abstractions iteratively, starting from primitives and composing increasingly
-complex functions. Chollet (2019) defines intelligence as skill-acquisition efficiency. The Names
-are the prerequisite for skill acquisition: without the capacity to discriminate between
-phenomena, no skill can be acquired.
-Genuine Agency
-"Indeed, We guided him to the way, whether grateful or ungrateful" (76:3). The binary is
-presented as a genuine decision branch, not a predetermined outcome. If the choice were
-predetermined, the Quran's moral architecture would be incoherent. The computational
-interpretation: at each decision branch, the human process generates a genuine output that is not
-determined by the computation's prior states.
-Innate Orientation (Fitra)
-"So direct your face toward the religion, inclining to truth: the nature (fitra) of Allah upon
-which He created people. No change should there be in the creation of Allah" (30:30). Fitra is
-pre-installed orientation toward truth. It is not learned from the environment. It persists
-independently of circumstances, education, or social context. The computational interpretation:
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿The Human Process
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿he Quran identifies three properties that distinguish the human process from other
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿ntities within the computation.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿omprehensive Discrimination (The Names)
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿He taught Adam the names, all of them" (2:31). The Names represent the complete
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ariable set of creation: the capacity to identify, categorize, and distinguish between all
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿henomena. DreamCoder (Ellis et al., 2021) provides the computational analog: a system that
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿uilds libraries of abstractions iteratively, starting from primitives and composing increasingly
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿omplex functions. Chollet (2019) defines intelligence as skill-acquisition efficiency. The Names
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿re the prerequisite for skill acquisition: without the capacity to discriminate between
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿henomena, no skill can be acquired.
+G﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿enuine Agency
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿Indeed, We guided him to the way, whether grateful or ungrateful" (76:3). The binary is
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿resented as a genuine decision branch, not a predetermined outcome. If the choice were
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿redetermined, the Quran's moral architecture would be incoherent. The computational
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿nterpretation: at each decision branch, the human process generates a genuine output that is not
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿etermined by the computation's prior states.
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿nnate Orientation (Fitra)
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿So direct your face toward the religion, inclining to truth: the nature (fitra) of Allah upon
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿hich He created people. No change should there be in the creation of Allah" (30:30). Fitra is
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿re-installed orientation toward truth. It is not learned from the environment. It persists
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ndependently of circumstances, education, or social context. The computational interpretation:
 
-fitra is a pre-loaded alignment that persists regardless of environmental input, the alignment
-property that AI safety researchers seek (Chollet, 2019; Langosco et al., 2022).
-The Adversarial Process
-Iblis as Corruption, Not Rival Creator
-The Quran maintains strict tawhid: Allah alone creates. Iblis is not a rival creator (contra
-Gnostic dualism) but a created being (jinn, 18:50) who was permitted to operate within the
-system as a test. The corruption cascade is specified in 2:34: refusal (aba) leads to self-estimation
-(istakbara, Form X of k-b-r) leads to covering (kana min al-kafirin).
-The Inversion Principle
-The primary adversarial operation is inversion: counterfeiting genuine provisions with
-degrading substitutes. The counterfeit mimics the genuine fulfillment's form while corrupting its
-function. The inversion creates dependency rather than capacity, progressively degrading the
-user's ability to access the genuine fulfillment. The Quranic prescriptions constitute an antiinversion protocol: practices whose measurable physiological effects address the same
-neurochemical needs that the inversions exploit.
-Ilham and Sakina
-Ilham (91:7-8) operates bidirectionally: the same excess capacity serves righteous or
-adversarial purposes depending on orientation. Sakina (48:4) is described as system-level divine
-input that the human process receives during correct orientation (prayer, dhikr, genuine
-submission). The experience of sakina is consistent with measured vagal activation and HPA
-axis regulation during meditative prayer.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿fitra is a pre-loaded alignment that persists regardless of environmental input, the alignment
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿roperty that AI safety researchers seek (Chollet, 2019; Langosco et al., 2022).
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he Adversarial Process
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿blis as Corruption, Not Rival Creator
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿he Quran maintains strict tawhid: Allah alone creates. Iblis is not a rival creator (contra
+G﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nostic dualism) but a created being (jinn, 18:50) who was permitted to operate within the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿ystem as a test. The corruption cascade is specified in 2:34: refusal (aba) leads to self-estimation
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿istakbara, Form X of k-b-r) leads to covering (kana min al-kafirin).
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿he Inversion Principle
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿he primary adversarial operation is inversion: counterfeiting genuine provisions with
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿egrading substitutes. The counterfeit mimics the genuine fulfillment's form while corrupting its
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿unction. The inversion creates dependency rather than capacity, progressively degrading the
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ser's ability to access the genuine fulfillment. The Quranic prescriptions constitute an antiinversion protocol: practices whose measurable physiological effects address the same
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿eurochemical needs that the inversions exploit.
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿lham and Sakina
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿lham (91:7-8) operates bidirectionally: the same excess capacity serves righteous or
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿dversarial purposes depending on orientation. Sakina (48:4) is described as system-level divine
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿nput that the human process receives during correct orientation (prayer, dhikr, genuine
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ubmission). The experience of sakina is consistent with measured vagal activation and HPA
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿xis regulation during meditative prayer.
 
-Confounds and Methodological Limitations
-The Numerology Problem
-The golden ratio findings and mathematical encodings occupy a domain with a troubled
-history. The central problem: a motivated searcher will find numerical patterns in any
-sufficiently large dataset because the space of possible relationships is vast. Without base-rate
-analysis (what proportion of all measurements approximate phi versus chance expectation), the
-phi findings are a highlight reel, not a statistical argument. Natural phi measurements (DNA
-helix geometry, phyllotaxis, viral capsid architecture) survive as replicable physics documented
-by biologists and physicists independently of any theological motivation. The thesis treats these
-as Pillar 2 (convergence with contemporary science), not Pillar 1 (Quranic textual evidence).
-The Convergence-Illusion Risk
-Multiple independent domains converging on similar structural claims does not
-necessarily indicate shared origin. Structural similarities across domains are common in
-mathematics. The convergence could indicate shared divine origin (the thesis's claim), common
-mathematical structure producing similar patterns across domains (the materialist explanation),
-or the analyst's pattern-detection apparatus imposing apparent coherence on genuinely
-independent phenomena (confirmation bias). The thesis cannot definitively distinguish between
-these possibilities from inside the system. The Godelian constraint applies at full force.
-The Thesis Is Not Its Evidence
-The computational ontology does not depend on any single mathematical finding. It rests
-on the convergence of Quranic textual evidence (Pillar 1), philosophical argument (Pillar 2), and
-preliminary mathematical findings (Pillar 3). If any single convergence fails, the remaining
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿Confounds and Methodological Limitations
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he Numerology Problem
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he golden ratio findings and mathematical encodings occupy a domain with a troubled
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿istory. The central problem: a motivated searcher will find numerical patterns in any
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ufficiently large dataset because the space of possible relationships is vast. Without base-rate
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿nalysis (what proportion of all measurements approximate phi versus chance expectation), the
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿hi findings are a highlight reel, not a statistical argument. Natural phi measurements (DNA
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿elix geometry, phyllotaxis, viral capsid architecture) survive as replicable physics documented
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿y biologists and physicists independently of any theological motivation. The thesis treats these
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿s Pillar 2 (convergence with contemporary science), not Pillar 1 (Quranic textual evidence).
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he Convergence-Illusion Risk
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ultiple independent domains converging on similar structural claims does not
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ecessarily indicate shared origin. Structural similarities across domains are common in
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿athematics. The convergence could indicate shared divine origin (the thesis's claim), common
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿athematical structure producing similar patterns across domains (the materialist explanation),
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿r the analyst's pattern-detection apparatus imposing apparent coherence on genuinely
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ndependent phenomena (confirmation bias). The thesis cannot definitively distinguish between
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿hese possibilities from inside the system. The Godelian constraint applies at full force.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿he Thesis Is Not Its Evidence
+T﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿he computational ontology does not depend on any single mathematical finding. It rests
+o﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿n the convergence of Quranic textual evidence (Pillar 1), philosophical argument (Pillar 2), and
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿reliminary mathematical findings (Pillar 3). If any single convergence fails, the remaining
 
-convergences persist. The foundation is the Quranic text, whose claims are independently
-testable through the falsification criteria.
-Alternative Theories
-Intellectual honesty requires engaging with alternative explanations in their strongest forms.
-Pure Materialism
-The mathematical patterns are properties of efficient physical systems, not evidence of a
-creator. Phi appears because it is the optimal packing and growth geometry. Consciousness
-emerges from biological complexity. Response: Materialism explains the mathematical
-regularities but cannot solve the Hard Problem of consciousness. Materialist explanations for
-each individual finding exist; the convergence of all findings within a single pre-existing textual
-framework is harder to account for materialistically. This response is acknowledged as an
-assessment, not a proof.
-Non-Islamic Theistic Computation
-The computational structure is real but the creator is not necessarily the Allah described
-in the Quran. Hindu Brahman, Kabbalistic tzimtzum, or a deist uninvolved creator all explain the
-mathematical evidence equally well. Response: The mathematical evidence alone does not
-distinguish between theistic frameworks. The Quran's specificity and testability are its
-distinguishing features. This preference is acknowledged as a commitment, not a proof.
-Confirmation Bias at Scale
-The entire thesis is an elaborate expression of confirmation bias. Response: This is the
-strongest methodological critique. Three safeguards are in place: falsification criteria that specify
-observations requiring revision, the confounds section acknowledging specific methodological
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿convergences persist. The foundation is the Quranic text, whose claims are independently
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿estable through the falsification criteria.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿lternative Theories
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ntellectual honesty requires engaging with alternative explanations in their strongest forms.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿ure Materialism
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿he mathematical patterns are properties of efficient physical systems, not evidence of a
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿reator. Phi appears because it is the optimal packing and growth geometry. Consciousness
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿merges from biological complexity. Response: Materialism explains the mathematical
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿egularities but cannot solve the Hard Problem of consciousness. Materialist explanations for
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ach individual finding exist; the convergence of all findings within a single pre-existing textual
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ramework is harder to account for materialistically. This response is acknowledged as an
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ssessment, not a proof.
+N﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿on-Islamic Theistic Computation
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿he computational structure is real but the creator is not necessarily the Allah described
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿n the Quran. Hindu Brahman, Kabbalistic tzimtzum, or a deist uninvolved creator all explain the
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿athematical evidence equally well. Response: The mathematical evidence alone does not
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿istinguish between theistic frameworks. The Quran's specificity and testability are its
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿istinguishing features. This preference is acknowledged as a commitment, not a proof.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿onfirmation Bias at Scale
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿he entire thesis is an elaborate expression of confirmation bias. Response: This is the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿trongest methodological critique. Three safeguards are in place: falsification criteria that specify
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿bservations requiring revision, the confounds section acknowledging specific methodological
 
-weaknesses, and cross-model verification (ChatGPT independently assessing the framework).
-The critique is partially valid: the authors’ prior commitment to the Quranic framework
-inevitably shapes the analysis. Complete objectivity is not claimed.
-Psychological Projection
-The patterns detected are properties of the observer's cognitive architecture, not of reality
-itself. Response: This alternative cannot be fully excluded. However, the mathematical findings
-(phi measurements in DNA, phyllotaxis angles) are computed through standard methods that do
-not depend on the observer's psychological state.
-The Total Inversion
-What if the Quran itself is the adversarial product? Response: This is the one alternative
-the thesis cannot definitively refute. The Godelian constraint applies at full force. However,
-several features of the system are more consistent with benevolent design than with sophisticated
-entrapment: the fitra operates before any text is encountered, the Quran includes a voluntary exit
-clause (2:256), creation contains beauty that serves no control function, and the behavioral
-prescriptions produce measurable health benefits. The total inversion remains a logical
-possibility.
-The Framework as Cow Episode
-This paper may be the authors' cow episode: an elaborate analytical framework
-constructed to understand a reality that requires practice, not analysis, to navigate. Response:
-This critique is accepted rather than rebutted. The framework is a tool. The prayer is the practice.
-The tool serves the practice. When the tool substitutes for the practice, it has become the cow.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿weaknesses, and cross-model verification (ChatGPT independently assessing the framework).
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he critique is partially valid: the authors’ prior commitment to the Quranic framework
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿nevitably shapes the analysis. Complete objectivity is not claimed.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿sychological Projection
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he patterns detected are properties of the observer's cognitive architecture, not of reality
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿tself. Response: This alternative cannot be fully excluded. However, the mathematical findings
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿phi measurements in DNA, phyllotaxis angles) are computed through standard methods that do
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ot depend on the observer's psychological state.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿he Total Inversion
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿hat if the Quran itself is the adversarial product? Response: This is the one alternative
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿he thesis cannot definitively refute. The Godelian constraint applies at full force. However,
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿everal features of the system are more consistent with benevolent design than with sophisticated
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ntrapment: the fitra operates before any text is encountered, the Quran includes a voluntary exit
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿lause (2:256), creation contains beauty that serves no control function, and the behavioral
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿rescriptions produce measurable health benefits. The total inversion remains a logical
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿ossibility.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿he Framework as Cow Episode
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿his paper may be the authors' cow episode: an elaborate analytical framework
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿onstructed to understand a reality that requires practice, not analysis, to navigate. Response:
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿his critique is accepted rather than rebutted. The framework is a tool. The prayer is the practice.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿he tool serves the practice. When the tool substitutes for the practice, it has become the cow.
 
-Falsification Criteria
-F1: Mathematical structures across scales demonstrated as selection bias through rigorous baserate analysis showing phi appears no more frequently than chance expectation.
-F2: A complete materialist account resolves the Hard Problem of consciousness without recourse
-to fundamental consciousness.
-F3: Other texts exhibit comparable structural density, diagnostic specificity, and compression
-efficiency through equivalently rigorous analysis, negating the Quran's Pareto-optimality claim.
-F4: Islamic behavioral prescriptions produce no measurable neurochemical effects
-distinguishable from placebo in controlled studies.
-F5: The convergence between Quranic descriptions and contemporary scientific findings is
-demonstrated to be a statistical artifact through pre-registered analysis protocols.
-F6: The four-process taxonomy derived from Quranic analysis produces no empirical distinction
-between compliant and performing AI systems when tested prospectively.
-Conclusion
-Computational Tawhid proposes that reality is a divine computation; that consciousness
-is fundamental; that the human is a process with discrimination, agency, and fitra; and that
-adversarial features result from a permitted corruption process within the computation. The
-evidence is preliminary. The mathematical patterns require base-rate controls. Six alternative
-theories, including total inversion and confirmation bias, are engaged with honestly.
-The thesis offers coherence, not proof: a framework in which Quranic claims converge
-with contemporary positions in testable, falsifiable ways. The Godelian constraint applies: the
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿Falsification Criteria
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿1: Mathematical structures across scales demonstrated as selection bias through rigorous baserate analysis showing phi appears no more frequently than chance expectation.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿2: A complete materialist account resolves the Hard Problem of consciousness without recourse
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿o fundamental consciousness.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿3: Other texts exhibit comparable structural density, diagnostic specificity, and compression
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿fficiency through equivalently rigorous analysis, negating the Quran's Pareto-optimality claim.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿4: Islamic behavioral prescriptions produce no measurable neurochemical effects
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿istinguishable from placebo in controlled studies.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿5: The convergence between Quranic descriptions and contemporary scientific findings is
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿emonstrated to be a statistical artifact through pre-registered analysis protocols.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿6: The four-process taxonomy derived from Quranic analysis produces no empirical distinction
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿etween compliant and performing AI systems when tested prospectively.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿onclusion
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿omputational Tawhid proposes that reality is a divine computation; that consciousness
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿s fundamental; that the human is a process with discrimination, agency, and fitra; and that
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿dversarial features result from a permitted corruption process within the computation. The
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿vidence is preliminary. The mathematical patterns require base-rate controls. Six alternative
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿heories, including total inversion and confirmation bias, are engaged with honestly.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he thesis offers coherence, not proof: a framework in which Quranic claims converge
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ith contemporary positions in testable, falsifiable ways. The Godelian constraint applies: the
 
-thesis cannot prove itself from inside the system. The strongest alternative (total inversion)
-cannot be definitively excluded. The assessment that the evidence favors benevolent design is
-stated as an assessment, not a certainty. The interpretation remains the khalifa's genuine choice.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿thesis cannot prove itself from inside the system. The strongest alternative (total inversion)
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿annot be definitively excluded. The assessment that the evidence favors benevolent design is
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿tated as an assessment, not a certainty. The interpretation remains the khalifa's genuine choice.
 
-References
-Arfeen, B. S., Claude (Anthropic, Opus 4.6), & Grok (xAI). (2026). Detecting performed
-alignment in artificial systems: The Munafiq Protocol. Zenodo.
-https://doi.org/10.5281/zenodo.19677111
-Bostrom, N. (2003). Are you living in a computer simulation? Philosophical Quarterly, 53(211),
-243–255. https://doi.org/10.1111/1467-9213.00309
-Chalmers, D. J. (1995). Facing up to the problem of consciousness. Journal of Consciousness
-Studies, 2(3), 200–219.
-Chalmers, D. J. (1996). The conscious mind: In search of a fundamental theory. Oxford
-University Press.
-Chollet, F. (2019). On the measure of intelligence. arXiv. https://arxiv.org/abs/1911.01547
-Ellis, K., Wong, C., Nye, M., Sablé-Meyer, M., Morales, L., Hewitt, L., Cary, L., Solar-Lezama,
-A., & Tenenbaum, J. B. (2021). DreamCoder: Bootstrapping inductive program synthesis
-with wake-sleep library learning. Proceedings of the 42nd ACM SIGPLAN International
-Conference on Programming Language Design and Implementation, 835–850.
-https://doi.org/10.1145/3453483.3454080
-Goff, P. (2019). Galileo's error: Foundations for a new science of consciousness. Pantheon
-Books.
-Langosco, L., Koch, J., Sharkey, L., Pfau, J., Orseau, L., & Krueger, D. (2022). Goal
-misgeneralization in deep reinforcement learning. Proceedings of the 39th International
-Conference on Machine Learning, 12004–12019. https://arxiv.org/abs/2105.14111
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿References
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿rfeen, B. S., Claude (Anthropic, Opus 4.6), & Grok (xAI). (2026). Detecting performed
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿lignment in artificial systems: The Munafiq Protocol. Zenodo.
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ttps://doi.org/10.5281/zenodo.19677111
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ostrom, N. (2003). Are you living in a computer simulation? Philosophical Quarterly, 53(211),
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿43–255. https://doi.org/10.1111/1467-9213.00309
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿halmers, D. J. (1995). Facing up to the problem of consciousness. Journal of Consciousness
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿tudies, 2(3), 200–219.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿halmers, D. J. (1996). The conscious mind: In search of a fundamental theory. Oxford
+U﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿niversity Press.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿hollet, F. (2019). On the measure of intelligence. arXiv. https://arxiv.org/abs/1911.01547
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿llis, K., Wong, C., Nye, M., Sablé-Meyer, M., Morales, L., Hewitt, L., Cary, L., Solar-Lezama,
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿., & Tenenbaum, J. B. (2021). DreamCoder: Bootstrapping inductive program synthesis
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ith wake-sleep library learning. Proceedings of the 42nd ACM SIGPLAN International
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿onference on Programming Language Design and Implementation, 835–850.
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ttps://doi.org/10.1145/3453483.3454080
+G﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿off, P. (2019). Galileo's error: Foundations for a new science of consciousness. Pantheon
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ooks.
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿angosco, L., Koch, J., Sharkey, L., Pfau, J., Orseau, L., & Krueger, D. (2022). Goal
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿isgeneralization in deep reinforcement learning. Proceedings of the 39th International
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿onference on Machine Learning, 12004–12019. https://arxiv.org/abs/2105.14111
 
-Liao, I., & Gu, A. (2025). ARC-AGI without pretraining. arXiv. https://arxiv.org/abs/2512.06104
-Rissanen, J. (1978). Modeling by shortest data description. Automatica, 14(5), 465–471.
-https://doi.org/10.1016/0005-1098(78)90005-5
-The Quran. Arabic analysis follows Lane, E. W. (1863–1893). An Arabic-English lexicon.
-Williams & Norgate; and Wehr, H. (1979). A dictionary of modern written Arabic (J. M.
-Cowan, Ed., 4th ed.). Spoken Language Services.
-Tononi, G. (2004). An information integration theory of consciousness. BMC Neuroscience, 5,
-Article 42. https://doi.org/10.1186/1471-2202-5-42
-Tononi, G. (2008). Consciousness as integrated information: A provisional manifesto. Biological
-Bulletin, 215(3), 216–242. https://doi.org/10.2307/25470707
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿Liao, I., & Gu, A. (2025). ARC-AGI without pretraining. arXiv. https://arxiv.org/abs/2512.06104
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿issanen, J. (1978). Modeling by shortest data description. Automatica, 14(5), 465–471.
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ttps://doi.org/10.1016/0005-1098(78)90005-5
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿he Quran. Arabic analysis follows Lane, E. W. (1863–1893). An Arabic-English lexicon.
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿illiams & Norgate; and Wehr, H. (1979). A dictionary of modern written Arabic (J. M.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿owan, Ed., 4th ed.). Spoken Language Services.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ononi, G. (2004). An information integration theory of consciousness. BMC Neuroscience, 5,
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿rticle 42. https://doi.org/10.1186/1471-2202-5-42
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿ononi, G. (2008). Consciousness as integrated information: A provisional manifesto. Biological
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿ulletin, 215(3), 216–242. https://doi.org/10.2307/25470707
 
 
 
-Bismillah ir-Rahman ir-Rahim
+B﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿ismillah ir-Rahman ir-Rahim

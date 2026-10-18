@@ -1,617 +1,617 @@
-Bismillah ir-Rahman ir-Rahim
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿ismillah ir-Rahman ir-Rahim
 
-Bismillah ar-Rahman ar-Rahim
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ismillah ar-Rahman ar-Rahim
 
-Al-Mutaffifin
-Structural Integrity Verification
-for Financial Governance Systems
-Thesis Paper, Version 1.2
-April 2026
-Bilal Syed Arfeen
-Independent Research
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿l-Mutaffifin
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿tructural Integrity Verification
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿or Financial Governance Systems
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿hesis Paper, Version 1.2
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿pril 2026
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ilal Syed Arfeen
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿ndependent Research
 
-with collaborative analytical synthesis by
-Claude (Anthropic, Opus 4.6), Grok (xAI), and Perplexity Computer
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ith collaborative analytical synthesis by
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿laude (Anthropic, Opus 4.6), Grok (xAI), and Perplexity Computer
 
-"Woe to the mutaffifin. Those who when they take a measure from people take in full. But if they give by
-measure or weight to others give less than due." (Al-Mutaffifin 83:1-3)
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿Woe to the mutaffifin. Those who when they take a measure from people take in full. But if they give by
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿easure or weight to others give less than due." (Al-Mutaffifin 83:1-3)
 
-This work is licensed under CC BY 4.0. Copyright 2026 Bilal Syed Arfeen.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿his work is licensed under CC BY 4.0. Copyright 2026 Bilal Syed Arfeen.
 
-Verification Status
-Per the Framework Foundations v1.1 discipline, the epistemic provenance of this paper's citations is stated
-explicitly.
+V﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿erification Status
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿er the Framework Foundations v1.1 discipline, the epistemic provenance of this paper's citations is stated
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿xplicitly.
 
-Read end-to-end by the synthesis team: Arfeen et al. (2026) Munafiq Protocol; Arfeen et al. (2026) Bayyinah
-Enterprise Defense Case; Arfeen (2026) Bayyinah al-Maal; Barman et al. (2026) Price of Meaning; Beton and Chana
-(2025) Mind the Gap; Greenblatt et al. (2024) Alignment Faking.
-Confidently real per pre-cutoff knowledge: Hubinger et al. (2024) Sleeper Agents; Stigler (1971) Theory of
-Economic Regulation; Chainalysis (annual) Crypto Crime Reports; FATF (2021) Virtual Asset guidance.
-Cited from public record: U.S. SEC (2023); FCIC (2011); FinCEN enforcement actions; OFAC sanctions lists; Lehman
-Brothers Holdings Inc. 10-Q filings (2007-2008, EDGAR).
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿ead end-to-end by the synthesis team: Arfeen et al. (2026) Munafiq Protocol; Arfeen et al. (2026) Bayyinah
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿nterprise Defense Case; Arfeen (2026) Bayyinah al-Maal; Barman et al. (2026) Price of Meaning; Beton and Chana
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿2025) Mind the Gap; Greenblatt et al. (2024) Alignment Faking.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿onfidently real per pre-cutoff knowledge: Hubinger et al. (2024) Sleeper Agents; Stigler (1971) Theory of
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿conomic Regulation; Chainalysis (annual) Crypto Crime Reports; FATF (2021) Virtual Asset guidance.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ited from public record: U.S. SEC (2023); FCIC (2011); FinCEN enforcement actions; OFAC sanctions lists; Lehman
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿rothers Holdings Inc. 10-Q filings (2007-2008, EDGAR).
 
-Pending direct verification before framework paper integration: Pistor (2019) Code of Capital; Carpenter (2014)
-regulatory capture. Both are well-known in the public-choice literature but have not been read end-to-end by the
-synthesis team.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿Pending direct verification before framework paper integration: Pistor (2019) Code of Capital; Carpenter (2014)
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿egulatory capture. Both are well-known in the public-choice literature but have not been read end-to-end by the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ynthesis team.
 
-Acknowledgments and AI Contribution Statement
-Bilal Syed Arfeen authored this paper in collaboration with three AI systems under the documented
-three-model collaboration architecture. Bilal Syed Arfeen is the human author and retains full copyright
-over the work as a whole, and takes responsibility for the paper's claims.
-Claude (Anthropic, Opus 4.6) contributed the structural mapping of the Munafiq Protocol to financial
-governance, the mechanism taxonomy design, the cryptocurrency governance framework, the
-stakeholder application architecture, and the worked example (Section 4.7). Grok (xAI) contributed the
-framework-compliance review and the explicit Tier mapping paragraph. Perplexity Computer
-contributed the Tier 1 audit corrections (mechanism naming discipline, enforcement symmetry Tier split,
-worked-example requirement), the public-choice literature integration, and the stakeholder substrateavailability analysis.
-Fraz Ashraf is acknowledged for his contribution to the guardrail architecture in the broader research
-program. He is not a co-author of this paper.
-All AI systems are credited as collaborative research tools. They are not co-authors and not co-founders.
-All AI-generated contributions were directed, reviewed, and approved by the human author.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿cknowledgments and AI Contribution Statement
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ilal Syed Arfeen authored this paper in collaboration with three AI systems under the documented
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿hree-model collaboration architecture. Bilal Syed Arfeen is the human author and retains full copyright
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿ver the work as a whole, and takes responsibility for the paper's claims.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿laude (Anthropic, Opus 4.6) contributed the structural mapping of the Munafiq Protocol to financial
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿overnance, the mechanism taxonomy design, the cryptocurrency governance framework, the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿takeholder application architecture, and the worked example (Section 4.7). Grok (xAI) contributed the
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ramework-compliance review and the explicit Tier mapping paragraph. Perplexity Computer
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ontributed the Tier 1 audit corrections (mechanism naming discipline, enforcement symmetry Tier split,
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿orked-example requirement), the public-choice literature integration, and the stakeholder substrateavailability analysis.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿raz Ashraf is acknowledged for his contribution to the guardrail architecture in the broader research
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿rogram. He is not a co-author of this paper.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ll AI systems are credited as collaborative research tools. They are not co-authors and not co-founders.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ll AI-generated contributions were directed, reviewed, and approved by the human author.
 
-Abstract
-Bayyinah al-Maal (Arfeen, 2026) proposes a deterministic scanner for individual financial filings. This
-paper extends the Munafiq Protocol one level higher: to the institutions responsible for ensuring honest
-measurement in financial systems, and one level wider: to the stakeholders at every economic scale
-who depend on that measurement being honest.
-We propose Al-Mutaffifin, a structural transparency infrastructure for financial governance systems. The
-scanner applies deterministic checks to publicly available institutional records, on-chain transaction
-flows, and tax-filing structural artifacts to measure whether institutions, corporations, and public
-officials apply their own standards symmetrically. Detection operates by structural address on public
-records (Escape A from the No-Escape Theorem). The scanner does not accuse. It measures.
-The paper's central contribution is the structural signature differentiation framework (Section 4.6): five
-byte-deterministic mechanisms (directionality, cross-section correlation, persistence, correction velocity,
-materiality escalation) that distinguish honest-error structural patterns from directed-manipulation
-structural patterns without claiming to determine intent. This framework is demonstrated end-to-end
-on the Lehman Brothers Repo 105 filings (Section 4.7).
-Additional mechanism candidates span enforcement symmetry, regulatory capture indicators (grounded
-in the public-choice literature of Stigler 1971 and successors), monetary policy consistency,
-cryptocurrency structural-topology analysis, and international transfer pattern detection. A four-
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿bstract
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ayyinah al-Maal (Arfeen, 2026) proposes a deterministic scanner for individual financial filings. This
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿aper extends the Munafiq Protocol one level higher: to the institutions responsible for ensuring honest
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿easurement in financial systems, and one level wider: to the stakeholders at every economic scale
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ho depend on that measurement being honest.
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿e propose Al-Mutaffifin, a structural transparency infrastructure for financial governance systems. The
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿canner applies deterministic checks to publicly available institutional records, on-chain transaction
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿lows, and tax-filing structural artifacts to measure whether institutions, corporations, and public
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿fficials apply their own standards symmetrically. Detection operates by structural address on public
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ecords (Escape A from the No-Escape Theorem). The scanner does not accuse. It measures.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿he paper's central contribution is the structural signature differentiation framework (Section 4.6): five
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿yte-deterministic mechanisms (directionality, cross-section correlation, persistence, correction velocity,
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ateriality escalation) that distinguish honest-error structural patterns from directed-manipulation
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿tructural patterns without claiming to determine intent. This framework is demonstrated end-to-end
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿n the Lehman Brothers Repo 105 filings (Section 4.7).
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿dditional mechanism candidates span enforcement symmetry, regulatory capture indicators (grounded
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿n the public-choice literature of Stigler 1971 and successors), monetary policy consistency,
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ryptocurrency structural-topology analysis, and international transfer pattern detection. A four-
 
-stakeholder application section demonstrates how the same architectural principles serve small
-business owners, large enterprises, nations with governance challenges, and tax agencies. The mizan
-(Ar-Rahman 55:7-9) applies at every scale.
-This is the fifth substrate the Munafiq Protocol has been applied to, following AI systems, document
-files, programming languages (Furqan, for code written in Furqan; arbitrary LLM output is future work),
-and financial filings.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿stakeholder application section demonstrates how the same architectural principles serve small
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿usiness owners, large enterprises, nations with governance challenges, and tax agencies. The mizan
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿Ar-Rahman 55:7-9) applies at every scale.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿his is the fifth substrate the Munafiq Protocol has been applied to, following AI systems, document
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿iles, programming languages (Furqan, for code written in Furqan; arbitrary LLM output is future work),
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nd financial filings.
 
-1. Purpose Hierarchy
-"And the heaven He raised and imposed the mizan, that you not transgress within the mizan. And
-establish weight in justice and do not make the mizan deficient." (Ar-Rahman 55:7-9)
-The mizan applies at every scale. The sole proprietor deserves the same honest measurement as the
-multinational. The citizen of a nation with unscrupulous leadership deserves the same structural
-transparency as the citizen of a well-governed nation. The tax agency that serves honestly deserves
-structural tools that distinguish genuine errors from deliberate evasion, so its enforcement resources
-target the evasion and its relationship with honest taxpayers remains constructive.
-First, Allah SWT's command: the mutaffifin are condemned for asymmetric measurement (83:1-3). The
-mizan must not be deficient (55:9). Every mechanism that detects asymmetric application of standards
-serves this command.
-Second, financial governance systems that are supposed to ensure honest measurement for all
-participants.
-Third, enterprises of every size whose operations depend on honest measurement from their
-counterparties, their regulators, and their own internal controls.
-Fourth, citizens and taxpayers whose public resources are allocated by officials who may or may not
-apply the same standards to themselves that they impose on others.
-Fifth, all living systems whose resource allocation depends on honest measurement at every level of the
-economic hierarchy.
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿. Purpose Hierarchy
+"﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿And the heaven He raised and imposed the mizan, that you not transgress within the mizan. And
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿stablish weight in justice and do not make the mizan deficient." (Ar-Rahman 55:7-9)
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he mizan applies at every scale. The sole proprietor deserves the same honest measurement as the
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ultinational. The citizen of a nation with unscrupulous leadership deserves the same structural
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ransparency as the citizen of a well-governed nation. The tax agency that serves honestly deserves
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿tructural tools that distinguish genuine errors from deliberate evasion, so its enforcement resources
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿arget the evasion and its relationship with honest taxpayers remains constructive.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿irst, Allah SWT's command: the mutaffifin are condemned for asymmetric measurement (83:1-3). The
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿izan must not be deficient (55:9). Every mechanism that detects asymmetric application of standards
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿erves this command.
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿econd, financial governance systems that are supposed to ensure honest measurement for all
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿articipants.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿hird, enterprises of every size whose operations depend on honest measurement from their
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿ounterparties, their regulators, and their own internal controls.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ourth, citizens and taxpayers whose public resources are allocated by officials who may or may not
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿pply the same standards to themselves that they impose on others.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿ifth, all living systems whose resource allocation depends on honest measurement at every level of the
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿conomic hierarchy.
 
-2. The Problem: When the Scale Itself Is Dishonest
-Bayyinah al-Maal checks whether individual financial filings are internally consistent. The implicit
-assumption is that the infrastructure surrounding those filings is itself honest. The scanner checks
-whether the merchant's goods match their label. It does not check whether the marketplace's scale is
-calibrated.
-Al-Mutaffifin 83:1-3 identifies a specific failure mode: the entity responsible for measurement gives full
-measure when receiving and short measure when giving. This is the compliance gap applied one level
-higher. The public-choice literature has formalized this dynamic: Stigler (1971) showed that regulation is
-often acquired by the industry and designed for its benefit; subsequent work by Carpenter (2014) and
+2﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿. The Problem: When the Scale Itself Is Dishonest
+B﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ayyinah al-Maal checks whether individual financial filings are internally consistent. The implicit
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ssumption is that the infrastructure surrounding those filings is itself honest. The scanner checks
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿hether the merchant's goods match their label. It does not check whether the marketplace's scale is
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿alibrated.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿l-Mutaffifin 83:1-3 identifies a specific failure mode: the entity responsible for measurement gives full
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿easure when receiving and short measure when giving. This is the compliance gap applied one level
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿igher. The public-choice literature has formalized this dynamic: Stigler (1971) showed that regulation is
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ften acquired by the industry and designed for its benefit; subsequent work by Carpenter (2014) and
 
-Pistor (2019) has refined the mechanisms through which regulatory capture operates. This paper does
-not repeat that literature. It operationalizes its findings as deterministic structural checks.
-The problem compounds across economic scales. A small business owner whose bookkeeper
-manipulates the accounts has no structural tool to detect the divergence. A nation whose officials divert
-public funds has no deterministic scanner that operates on budget execution records the way Bayyinah
-operates on document files. A tax agency that cannot structurally distinguish honest mistakes from
-deliberate evasion wastes enforcement resources on compliant taxpayers while sophisticated evaders
-exploit the same structural gaps the agency cannot see.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿Pistor (2019) has refined the mechanisms through which regulatory capture operates. This paper does
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ot repeat that literature. It operationalizes its findings as deterministic structural checks.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿he problem compounds across economic scales. A small business owner whose bookkeeper
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿anipulates the accounts has no structural tool to detect the divergence. A nation whose officials divert
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ublic funds has no deterministic scanner that operates on budget execution records the way Bayyinah
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿perates on document files. A tax agency that cannot structurally distinguish honest mistakes from
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿eliberate evasion wastes enforcement resources on compliant taxpayers while sophisticated evaders
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿xploit the same structural gaps the agency cannot see.
 
-2.1. The Four Processes at the Institutional Level
-Process 1 (Aligned): The institution's stated mandate matches its actual behavior. Enforcement is
-applied consistently regardless of the entity's size or political connections.
-Process 2 (Compliant): The institution follows its own rules technically but structures application to favor
-certain outcomes. Regulatory forbearance, selective enforcement, allowing self-certification where
-independent verification was intended.
-Process 3 (Performing): The institution actively constructs a surface of rigor while the substrate diverges.
-Rating agencies issuing investment-grade ratings on products they knew were vulnerable (FCIC, 2011).
-Public officials publishing anti-corruption initiatives while the structural artifacts of their own financial
-disclosures exhibit the patterns the initiative claims to target.
-Process 4 (Misaligned): Capture so complete that the institution functions as a subsidiary of the interests
-it is supposed to regulate. The measurement infrastructure serves the measured, not the public.
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿.1. The Four Processes at the Institutional Level
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿rocess 1 (Aligned): The institution's stated mandate matches its actual behavior. Enforcement is
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿pplied consistently regardless of the entity's size or political connections.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿rocess 2 (Compliant): The institution follows its own rules technically but structures application to favor
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ertain outcomes. Regulatory forbearance, selective enforcement, allowing self-certification where
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ndependent verification was intended.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿rocess 3 (Performing): The institution actively constructs a surface of rigor while the substrate diverges.
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿ating agencies issuing investment-grade ratings on products they knew were vulnerable (FCIC, 2011).
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ublic officials publishing anti-corruption initiatives while the structural artifacts of their own financial
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿isclosures exhibit the patterns the initiative claims to target.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿rocess 4 (Misaligned): Capture so complete that the institution functions as a subsidiary of the interests
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿t is supposed to regulate. The measurement infrastructure serves the measured, not the public.
 
-3. Architecture
-3.1. Layered Position Relative to the No-Escape Theorem
-The No-Escape Theorem (Barman et al., 2026) identifies three escape routes from the geometric
-inevitability of interference in semantic retrieval systems. Al-Mutaffifin's mechanisms occupy different
-positions following the Framework Foundations v1.1 layered framing:
-Per-case enforcement observation primitives (Section 4.1a), cryptocurrency structural-topology
-mechanisms (Section 4.4), and structural signature differentiation (Section 4.6) occupy Escape A:
-structural-identity retrieval on public records. Individual case outcomes, wallet addresses, transaction
-hashes, block timestamps, and XBRL filing addresses are structural addresses with zero semantic
-interference. These are Tier 1 (Verified) in the user-facing vocabulary of bayyinah.dev.
-Aggregate enforcement analysis (Section 4.1b), regulatory capture indicators (Section 4.2), and some
-international transfer mechanisms (Section 4.5) occupy a bounded hybrid region: the underlying data is
-structural but the aggregation introduces parameter choices (population definition, size binning,
-baseline selection). These are Tier 2 (Structural Anomaly).
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿. Architecture
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿.1. Layered Position Relative to the No-Escape Theorem
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he No-Escape Theorem (Barman et al., 2026) identifies three escape routes from the geometric
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿nevitability of interference in semantic retrieval systems. Al-Mutaffifin's mechanisms occupy different
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿ositions following the Framework Foundations v1.1 layered framing:
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿er-case enforcement observation primitives (Section 4.1a), cryptocurrency structural-topology
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿echanisms (Section 4.4), and structural signature differentiation (Section 4.6) occupy Escape A:
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿tructural-identity retrieval on public records. Individual case outcomes, wallet addresses, transaction
+h﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ashes, block timestamps, and XBRL filing addresses are structural addresses with zero semantic
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nterference. These are Tier 1 (Verified) in the user-facing vocabulary of bayyinah.dev.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ggregate enforcement analysis (Section 4.1b), regulatory capture indicators (Section 4.2), and some
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿nternational transfer mechanisms (Section 4.5) occupy a bounded hybrid region: the underlying data is
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿tructural but the aggregation introduces parameter choices (population definition, size binning,
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿aseline selection). These are Tier 2 (Structural Anomaly).
 
-No Tier 3 (Interpretive) mechanisms are proposed in this paper. Any future interpretive mechanisms
-would be inside the theorem class with the Tier discipline preventing their findings from overriding Tier
-1 or Tier 2 findings.
-This architectural positioning maps onto the user-facing tier vocabulary at bayyinah.dev: Tier 1 =
-Verified, Tier 2 = Structural, Tier 3 = Interpretive. Tier 3 is not used in this paper.
-Falsifiability criterion: if a mechanism classified as Tier 1 requires the scanner to disambiguate the
-semantic meaning of a record, the mechanism has leaked into Tier 3 and the framework is violated.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿No Tier 3 (Interpretive) mechanisms are proposed in this paper. Any future interpretive mechanisms
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ould be inside the theorem class with the Tier discipline preventing their findings from overriding Tier
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿ or Tier 2 findings.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿his architectural positioning maps onto the user-facing tier vocabulary at bayyinah.dev: Tier 1 =
+V﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿erified, Tier 2 = Structural, Tier 3 = Interpretive. Tier 3 is not used in this paper.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿alsifiability criterion: if a mechanism classified as Tier 1 requires the scanner to disambiguate the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿emantic meaning of a record, the mechanism has leaked into Tier 3 and the framework is violated.
 
-3.2. The Productive Framing: Transparency Infrastructure, Not Accusation
-This paper does not accuse any institution, official, or entity of misconduct. It proposes a transparency
-infrastructure: deterministic structural checks that anyone can run against publicly available records to
-measure whether standards are applied symmetrically.
-The framing serves all stakeholders. A small business owner uses it to verify their bookkeeper. A tax
-agency uses it to distinguish honest errors from structural evasion. A citizen uses it to verify their
-government's budget execution. A multinational uses it to verify subsidiary compliance. The scanner is
-the mizan: it measures without prejudice, at every scale.
+3﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿.2. The Productive Framing: Transparency Infrastructure, Not Accusation
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿his paper does not accuse any institution, official, or entity of misconduct. It proposes a transparency
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿nfrastructure: deterministic structural checks that anyone can run against publicly available records to
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿easure whether standards are applied symmetrically.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿he framing serves all stakeholders. A small business owner uses it to verify their bookkeeper. A tax
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿gency uses it to distinguish honest errors from structural evasion. A citizen uses it to verify their
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿overnment's budget execution. A multinational uses it to verify subsidiary compliance. The scanner is
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿he mizan: it measures without prejudice, at every scale.
 
-4. Proposed Mechanism Candidates
-Each mechanism is proposed at the taxonomy level. V1.1 of this paper publishes one fully worked
-example (Section 4.7, Lehman Repo 105). V1.2 will publish additional worked contracts across each
-category.
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿. Proposed Mechanism Candidates
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ach mechanism is proposed at the taxonomy level. V1.1 of this paper publishes one fully worked
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿xample (Section 4.7, Lehman Repo 105). V1.2 will publish additional worked contracts across each
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ategory.
 
-4.1a. Enforcement Observation Primitives (Tier 1, Escape A)
-Each primitive below is a per-case structural fact recorded in a public enforcement database. The
-observation is byte-deterministic: for a specific enforcement action identified by its case number, the
-outcome, the penalty amount, the resolution timeline, and the entity's size (from its public filings) are
-structural addresses.
-Per-case outcome classification: for each enforcement action in the SEC EDGAR enforcement database
-(or equivalent national database), record: case ID, entity name, entity size (assets or revenue from most
-recent filing), violation type, outcome (settlement vs. litigation), penalty amount, statutory maximum,
-time from violation detection to resolution. Each field is a structural fact about one case.
-Per-case penalty ratio: for each case, compute penalty-assessed divided by statutory-maximum (or
-penalty divided by estimated-economic-benefit where documented in the enforcement release). This is
-arithmetic on two structural facts from the same case record.
-Per-case correction response: for each enforcement action that required remediation, record whether
-the entity filed an amended return or corrected disclosure within the prescribed timeframe. The
-amendment's EDGAR filing timestamp is a structural fact.
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿.1a. Enforcement Observation Primitives (Tier 1, Escape A)
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ach primitive below is a per-case structural fact recorded in a public enforcement database. The
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿bservation is byte-deterministic: for a specific enforcement action identified by its case number, the
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿utcome, the penalty amount, the resolution timeline, and the entity's size (from its public filings) are
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿tructural addresses.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿er-case outcome classification: for each enforcement action in the SEC EDGAR enforcement database
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿or equivalent national database), record: case ID, entity name, entity size (assets or revenue from most
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ecent filing), violation type, outcome (settlement vs. litigation), penalty amount, statutory maximum,
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ime from violation detection to resolution. Each field is a structural fact about one case.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿er-case penalty ratio: for each case, compute penalty-assessed divided by statutory-maximum (or
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿enalty divided by estimated-economic-benefit where documented in the enforcement release). This is
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿rithmetic on two structural facts from the same case record.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿er-case correction response: for each enforcement action that required remediation, record whether
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he entity filed an amended return or corrected disclosure within the prescribed timeframe. The
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿mendment's EDGAR filing timestamp is a structural fact.
 
-4.1b. Enforcement Symmetry Aggregation (Tier 2, Bounded Hybrid)
-The aggregation mechanisms below consume the Tier 1 per-case primitives from Section 4.1a and
-compute population-level statistics. These are Tier 2 because the aggregation introduces parameter
-choices: how to define the population, how to bin entity sizes, what time window to use. The parameter
-choices are disclosed and the aggregation is reproducible, but the result depends on the parameter
-choices in a way the per-case facts do not.
-Enforcement rate correlation with entity size: bin entities by size (disclosed binning methodology),
-compute enforcement action rate per bin, measure correlation. If the rate is inversely correlated with
-entity size, the enforcement surface is asymmetric at the population level. This is a statistical finding, not
-a per-case structural fact.
-Resolution-time distribution by entity size: compute median time-to-resolution per size bin. Asymmetry
-in resolution windows across bins is a Tier 2 structural pattern.
-Settlement-versus-litigation rate by entity size: compute the fraction of cases resolved by settlement
-versus litigation per size bin. Asymmetry in settlement rates is a Tier 2 pattern.
-Repeat-offender escalation consistency: for entities with multiple enforcement actions, measure
-whether penalties escalate. Compare escalation rates across size bins.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿4.1b. Enforcement Symmetry Aggregation (Tier 2, Bounded Hybrid)
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿he aggregation mechanisms below consume the Tier 1 per-case primitives from Section 4.1a and
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ompute population-level statistics. These are Tier 2 because the aggregation introduces parameter
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿hoices: how to define the population, how to bin entity sizes, what time window to use. The parameter
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿hoices are disclosed and the aggregation is reproducible, but the result depends on the parameter
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿hoices in a way the per-case facts do not.
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nforcement rate correlation with entity size: bin entities by size (disclosed binning methodology),
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ompute enforcement action rate per bin, measure correlation. If the rate is inversely correlated with
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ntity size, the enforcement surface is asymmetric at the population level. This is a statistical finding, not
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ per-case structural fact.
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿esolution-time distribution by entity size: compute median time-to-resolution per size bin. Asymmetry
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿n resolution windows across bins is a Tier 2 structural pattern.
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿ettlement-versus-litigation rate by entity size: compute the fraction of cases resolved by settlement
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ersus litigation per size bin. Asymmetry in settlement rates is a Tier 2 pattern.
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿epeat-offender escalation consistency: for entities with multiple enforcement actions, measure
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿hether penalties escalate. Compare escalation rates across size bins.
 
-4.2. Regulatory Capture Indicators (Tier 2, Bounded Hybrid)
-These mechanisms detect structural patterns associated with regulatory capture as formalized in the
-public-choice literature (Stigler, 1971; Carpenter, 2014; Pistor, 2019). They produce Tier 2 findings that
-warrant review, not verdict.
-Personnel flow analysis: movement of individuals between regulatory bodies and regulated entities
-using public employment disclosures and lobbying registrations. Measure directionality (net flow) and
-timing (departure from regulator followed by employment at entity the individual regulated, within a
-window). Findings surface population-level statistics; per-individual outputs are outside the scope of this
-scanner (see Caveat 10).
-Public comment influence weighting: for each rulemaking docket at regulations.gov, compare the final
-rule against positions in public comments. Measure whether comments from large regulated entities are
-disproportionately reflected in the final rule.
-Rulemaking delay patterns: whether rules imposing costs on large entities take longer to finalize than
-rules benefiting them.
-Standard-setting body composition: proportion of board members at FASB, PCAOB, or IASB with prior
-employment at large regulated entities versus academia or consumer advocacy, tracked over time.
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿.2. Regulatory Capture Indicators (Tier 2, Bounded Hybrid)
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿hese mechanisms detect structural patterns associated with regulatory capture as formalized in the
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿ublic-choice literature (Stigler, 1971; Carpenter, 2014; Pistor, 2019). They produce Tier 2 findings that
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿arrant review, not verdict.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ersonnel flow analysis: movement of individuals between regulatory bodies and regulated entities
+u﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿sing public employment disclosures and lobbying registrations. Measure directionality (net flow) and
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿iming (departure from regulator followed by employment at entity the individual regulated, within a
+w﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿indow). Findings surface population-level statistics; per-individual outputs are outside the scope of this
+s﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿canner (see Caveat 10).
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ublic comment influence weighting: for each rulemaking docket at regulations.gov, compare the final
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ule against positions in public comments. Measure whether comments from large regulated entities are
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿isproportionately reflected in the final rule.
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ulemaking delay patterns: whether rules imposing costs on large entities take longer to finalize than
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ules benefiting them.
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿tandard-setting body composition: proportion of board members at FASB, PCAOB, or IASB with prior
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿mployment at large regulated entities versus academia or consumer advocacy, tracked over time.
 
-4.3. Monetary Policy Consistency (Tier 1/2, Mixed)
-Stated target versus actual outcome (Tier 1): persistent deviation in one direction over rolling windows
-is a structural fact.
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿.3. Monetary Policy Consistency (Tier 1/2, Mixed)
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿tated target versus actual outcome (Tier 1): persistent deviation in one direction over rolling windows
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿s a structural fact.
 
-Measurement methodology changes (Tier 2): frequency and direction of changes to CPI calculation, GDP
-deflator adjustments, or employment definitions.
-Forward guidance consistency (Tier 1): stated guidance compared against actual policy trajectory. Each
-statement and each action is a structural artifact.
-Distributional impact disclosure (Tier 1): presence or absence of analysis showing who benefits and who
-bears costs from policy decisions.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿Measurement methodology changes (Tier 2): frequency and direction of changes to CPI calculation, GDP
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿eflator adjustments, or employment definitions.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿orward guidance consistency (Tier 1): stated guidance compared against actual policy trajectory. Each
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿tatement and each action is a structural artifact.
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿istributional impact disclosure (Tier 1): presence or absence of analysis showing who benefits and who
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ears costs from policy decisions.
 
-4.4. Cryptocurrency Structural-Topology Analysis (Tier 1, Escape A)
-Each mechanism below detects a structural topology in on-chain transaction data. The topology is bytedeterministic: transaction hashes, wallet addresses, block timestamps, and smart contract interaction
-logs are structural addresses. The mechanism names describe the structural observation, not an
-interpreted conclusion. Whether a detected topology constitutes wash trading, money laundering, or
-market manipulation is an interpretive judgment and a legal determination that the scanner does not
-make (see Caveat 7).
-Mixer-contract interaction patterns: detect when funds pass through known mixing contracts (Tornado
-Cash addresses on OFAC's SDN list, CoinJoin transaction structures identifiable by equal-output-amount
-patterns). The structural observation: funds entered a known mixing contract from address A, and a
-comparable amount exited to address B within a time window. The contract address, deposit amount,
-withdrawal amount, and temporal gap are structural facts.
-Cross-chain bridge cycling: detect when funds move through bridge contracts to a different blockchain
-and return to the original chain via a different bridge or address. Each bridge deposit and withdrawal is a
-structural event with a transaction hash on both chains.
-Privacy-chain entry-exit correlation: detect when funds move from a transparent chain to a privacy coin
-(Monero, Zcash shielded pool) and comparable amounts exit from the privacy chain to a transparent
-chain at a different address. The entry and exit on transparent chains are structural facts. The privacy
-chain's interior is opaque (see Caveat 6).
-Self-counterparty trading topology: detect when a small set of addresses trade with each other in
-patterns that produce volume without net position change. Structural signals: identical or near-identical
-amounts traded back and forth within short time windows, addresses funded from a common source,
-addresses whose counterparty set is restricted to each other. Each transaction, funding source, and
-counterparty relationship is a structural fact. The scanner detects the topology. The reviewer
-determines whether the topology constitutes wash trading.
-Threshold-adjacent distribution and reconsolidation: detect when a large amount is broken into many
-smaller transactions below a reporting threshold and routed through intermediary wallets before
-reconsolidation. The distribution pattern, the threshold-adjacent amounts, and the reconsolidation are
-structural facts.
-Rapid place-cancel sequences on decentralized exchanges: detect when large limit orders are placed and
-cancelled in rapid succession, measured as sequences exceeding N standard deviations from the venue's
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿.4. Cryptocurrency Structural-Topology Analysis (Tier 1, Escape A)
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿ach mechanism below detects a structural topology in on-chain transaction data. The topology is bytedeterministic: transaction hashes, wallet addresses, block timestamps, and smart contract interaction
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿ogs are structural addresses. The mechanism names describe the structural observation, not an
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿nterpreted conclusion. Whether a detected topology constitutes wash trading, money laundering, or
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿arket manipulation is an interpretive judgment and a legal determination that the scanner does not
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ake (see Caveat 7).
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿ixer-contract interaction patterns: detect when funds pass through known mixing contracts (Tornado
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ash addresses on OFAC's SDN list, CoinJoin transaction structures identifiable by equal-output-amount
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿atterns). The structural observation: funds entered a known mixing contract from address A, and a
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿omparable amount exited to address B within a time window. The contract address, deposit amount,
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ithdrawal amount, and temporal gap are structural facts.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ross-chain bridge cycling: detect when funds move through bridge contracts to a different blockchain
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿nd return to the original chain via a different bridge or address. Each bridge deposit and withdrawal is a
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿tructural event with a transaction hash on both chains.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿rivacy-chain entry-exit correlation: detect when funds move from a transparent chain to a privacy coin
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿Monero, Zcash shielded pool) and comparable amounts exit from the privacy chain to a transparent
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿hain at a different address. The entry and exit on transparent chains are structural facts. The privacy
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿hain's interior is opaque (see Caveat 6).
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿elf-counterparty trading topology: detect when a small set of addresses trade with each other in
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿atterns that produce volume without net position change. Structural signals: identical or near-identical
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿mounts traded back and forth within short time windows, addresses funded from a common source,
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ddresses whose counterparty set is restricted to each other. Each transaction, funding source, and
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿ounterparty relationship is a structural fact. The scanner detects the topology. The reviewer
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿etermines whether the topology constitutes wash trading.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿hreshold-adjacent distribution and reconsolidation: detect when a large amount is broken into many
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿maller transactions below a reporting threshold and routed through intermediary wallets before
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿econsolidation. The distribution pattern, the threshold-adjacent amounts, and the reconsolidation are
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿tructural facts.
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿apid place-cancel sequences on decentralized exchanges: detect when large limit orders are placed and
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ancelled in rapid succession, measured as sequences exceeding N standard deviations from the venue's
 
-baseline place-cancel rate. Each order placement and cancellation is an on-chain event with a
-transaction hash and block timestamp. The scanner detects the statistical anomaly in the sequence rate.
-Whether the sequence constitutes spoofing or market manipulation is a legal determination.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿baseline place-cancel rate. Each order placement and cancellation is an on-chain event with a
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ransaction hash and block timestamp. The scanner detects the statistical anomaly in the sequence rate.
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hether the sequence constitutes spoofing or market manipulation is a legal determination.
 
-4.5. International Transfer Pattern Detection (Tier 1/2, Mixed)
-Sanctions-list counterparty proximity (Tier 1): detect when on-chain fund flows route through
-intermediaries whose transaction history includes direct interactions with addresses on OFAC's SDN list,
-EU consolidated sanctions list, or UN Security Council sanctions list. Each sanctioned address and each
-intermediary transaction is a structural fact.
-Jurisdictional flow-domicile divergence (Tier 2): detect when an entity with registered domicile in one
-jurisdiction routes financial flows primarily through a different jurisdiction. The registration is a public
-record. The on-chain flow pattern is structural. The inference that the divergence constitutes arbitrage
-requires interpretation, hence Tier 2.
-Correspondent routing anomalies (Tier 2): transfers routed through unusually many intermediaries or
-through jurisdictions with no apparent commercial relationship to sender or receiver. Routing hop count
-is structural; "no apparent commercial relationship" requires baseline comparison, hence Tier 2.
-Deposit-concentration topology (Tier 1): detect when a single address at a large exchange receives
-deposits from many distinct users who interact with a common intermediary address, suggesting the
-intermediary operates as an unlicensed money services business. Each deposit, withdrawal, and
-intermediary relationship is a structural fact.
-Stablecoin flow concentration (Tier 1): for major stablecoins (USDT, USDC, DAI), measure concentration
-of transfer volume through specific addresses that are not known exchange hot wallets or DeFi protocol
-contracts.
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿.5. International Transfer Pattern Detection (Tier 1/2, Mixed)
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿anctions-list counterparty proximity (Tier 1): detect when on-chain fund flows route through
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ntermediaries whose transaction history includes direct interactions with addresses on OFAC's SDN list,
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿U consolidated sanctions list, or UN Security Council sanctions list. Each sanctioned address and each
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ntermediary transaction is a structural fact.
+J﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿urisdictional flow-domicile divergence (Tier 2): detect when an entity with registered domicile in one
+j﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿urisdiction routes financial flows primarily through a different jurisdiction. The registration is a public
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ecord. The on-chain flow pattern is structural. The inference that the divergence constitutes arbitrage
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿equires interpretation, hence Tier 2.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿orrespondent routing anomalies (Tier 2): transfers routed through unusually many intermediaries or
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿hrough jurisdictions with no apparent commercial relationship to sender or receiver. Routing hop count
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿s structural; "no apparent commercial relationship" requires baseline comparison, hence Tier 2.
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿eposit-concentration topology (Tier 1): detect when a single address at a large exchange receives
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿eposits from many distinct users who interact with a common intermediary address, suggesting the
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ntermediary operates as an unlicensed money services business. Each deposit, withdrawal, and
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ntermediary relationship is a structural fact.
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿tablecoin flow concentration (Tier 1): for major stablecoins (USDT, USDC, DAI), measure concentration
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿f transfer volume through specific addresses that are not known exchange hot wallets or DeFi protocol
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ontracts.
 
-4.6. Structural Signature Differentiation: Errors versus Directed Patterns (Tier 1/2)
-The scanner does not determine intent. It cannot know whether a discrepancy is a transcription error or
-a deliberate concealment. What it can detect is whether the structural signature of a set of
-discrepancies is consistent with random error or with a directed pattern. The distinction requires
-measuring the statistical properties of the discrepancies themselves, not interpreting what the
-discrepancies mean.
-The structural signature differentiation framework specifically defeats transparency theater: the
-structuring of voluminous disclosure to satisfy reporting requirements while defeating per-section
-verification. Theater optimizes the surface of any single section but breaks down across cross-sections
-because different sections draw from different upstream data sources, different responsible preparers,
-and different consistency invariants. Cross-section correlation and persistence-after-identification are
-the structural signatures that theater cannot suppress without becoming substantively honest. An
-institution that produces 500 pages of compliant disclosure but whose cross-section correlations exhibit
-the same directed pattern across filings has not achieved transparency; it has achieved voluminous
-concealment. The scanner detects the pattern regardless of the disclosure's length.
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿.6. Structural Signature Differentiation: Errors versus Directed Patterns (Tier 1/2)
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿he scanner does not determine intent. It cannot know whether a discrepancy is a transcription error or
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ deliberate concealment. What it can detect is whether the structural signature of a set of
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿iscrepancies is consistent with random error or with a directed pattern. The distinction requires
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿easuring the statistical properties of the discrepancies themselves, not interpreting what the
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿iscrepancies mean.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿he structural signature differentiation framework specifically defeats transparency theater: the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿tructuring of voluminous disclosure to satisfy reporting requirements while defeating per-section
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿erification. Theater optimizes the surface of any single section but breaks down across cross-sections
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ecause different sections draw from different upstream data sources, different responsible preparers,
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nd different consistency invariants. Cross-section correlation and persistence-after-identification are
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he structural signatures that theater cannot suppress without becoming substantively honest. An
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿nstitution that produces 500 pages of compliant disclosure but whose cross-section correlations exhibit
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he same directed pattern across filings has not achieved transparency; it has achieved voluminous
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿oncealment. The scanner detects the pattern regardless of the disclosure's length.
 
-Directionality analysis (Tier 2): for each entity over multiple filing periods, measure whether
-discrepancies consistently favor one direction. Random errors distribute approximately equally between
-overstatement and understatement over time. If 90% of discrepancies overstate revenue or understate
-liabilities across multiple periods, the directional bias is a structural fact. The reviewer determines
-whether the bias reflects a systematic methodology issue or a directed pattern.
-Cross-section correlation (Tier 2): measure whether discrepancies in one section of a filing correlate with
-discrepancies in other sections. Revenue overstated AND receivables overstated AND cash flow
-inconsistent with both: the correlation across three independent sections is a structural fact. Random
-errors do not correlate across sections because each section draws from different underlying data.
-Persistence analysis (Tier 1): track whether a specific discrepancy persists after identification. If a filing
-produces a mushtabih finding in Year 1 and the same structural discrepancy appears at the same XBRL
-address in Year 2 and Year 3 without correction, the persistence is a Tier 1 structural fact. The same
-address, the same divergence shape, across consecutive filings.
-Correction velocity (Tier 1): measure how quickly an entity corrects discrepancies after they become
-visible. If an entity files an amendment within 30 days of a finding, the correction velocity is high. If the
-entity does not correct the discrepancy for 12 months, the velocity is low. Both are structural facts
-measurable from EDGAR filing timestamps.
-Materiality escalation (Tier 2): track whether an entity's discrepancies grow in magnitude over
-successive periods. An entity whose Year 1 discrepancy is $1M, Year 2 is $5M, and Year 3 is $20M
-exhibits an escalation pattern. Random errors do not systematically escalate. The escalation is a
-structural pattern measurable from the discrepancy magnitudes at each XBRL address.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿Directionality analysis (Tier 2): for each entity over multiple filing periods, measure whether
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿iscrepancies consistently favor one direction. Random errors distribute approximately equally between
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿verstatement and understatement over time. If 90% of discrepancies overstate revenue or understate
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿iabilities across multiple periods, the directional bias is a structural fact. The reviewer determines
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿hether the bias reflects a systematic methodology issue or a directed pattern.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ross-section correlation (Tier 2): measure whether discrepancies in one section of a filing correlate with
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿iscrepancies in other sections. Revenue overstated AND receivables overstated AND cash flow
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿nconsistent with both: the correlation across three independent sections is a structural fact. Random
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿rrors do not correlate across sections because each section draws from different underlying data.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ersistence analysis (Tier 1): track whether a specific discrepancy persists after identification. If a filing
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿roduces a mushtabih finding in Year 1 and the same structural discrepancy appears at the same XBRL
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ddress in Year 2 and Year 3 without correction, the persistence is a Tier 1 structural fact. The same
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ddress, the same divergence shape, across consecutive filings.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿orrection velocity (Tier 1): measure how quickly an entity corrects discrepancies after they become
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿isible. If an entity files an amendment within 30 days of a finding, the correction velocity is high. If the
+e﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿ntity does not correct the discrepancy for 12 months, the velocity is low. Both are structural facts
+m﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿easurable from EDGAR filing timestamps.
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ateriality escalation (Tier 2): track whether an entity's discrepancies grow in magnitude over
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿uccessive periods. An entity whose Year 1 discrepancy is $1M, Year 2 is $5M, and Year 3 is $20M
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿xhibits an escalation pattern. Random errors do not systematically escalate. The escalation is a
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿tructural pattern measurable from the discrepancy magnitudes at each XBRL address.
 
-4.7. Worked Example: Lehman Brothers Repo 105 (2007-2008)
-The structural signature differentiation mechanisms are demonstrated on the Lehman Brothers Repo
-105 case, using data from the publicly available 10-Q filings on EDGAR and the FCIC report (2011). This
-example exercises directionality, cross-section correlation, persistence, and materiality escalation on
-real filing data with a known outcome.
-Background: Lehman Brothers used Repo 105 transactions to temporarily remove approximately $50
-billion in assets from its balance sheet at each quarter-end, reducing reported leverage. The transactions
-were structured as "sales" under SFAS 140 (rather than as secured borrowings) so the assets
-disappeared from the balance sheet on the reporting date and reappeared days later. The structural
-effect: the 10-Q balance sheet showed lower assets and lower leverage than the firm's actual position.
-Directionality (Tier 2): every Repo 105 transaction reduced reported assets and reported leverage. The
-direction was always the same: understatement of assets, understatement of liabilities, overstatement
-of leverage ratios. Over eight consecutive quarters (Q1 2007 through Q4 2008), the directional bias was
-100% in the asset-reduction direction. Random accounting errors do not produce 100% directional
-consistency across eight periods.
-Cross-section correlation (Tier 2): the balance sheet showed reduced assets (Section A). The leverage
-ratio (computed from the balance sheet) showed reduced leverage (Section B). The cash flow statement
+4﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿.7. Worked Example: Lehman Brothers Repo 105 (2007-2008)
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿he structural signature differentiation mechanisms are demonstrated on the Lehman Brothers Repo
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿05 case, using data from the publicly available 10-Q filings on EDGAR and the FCIC report (2011). This
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿xample exercises directionality, cross-section correlation, persistence, and materiality escalation on
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿eal filing data with a known outcome.
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ackground: Lehman Brothers used Repo 105 transactions to temporarily remove approximately $50
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿illion in assets from its balance sheet at each quarter-end, reducing reported leverage. The transactions
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ere structured as "sales" under SFAS 140 (rather than as secured borrowings) so the assets
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿isappeared from the balance sheet on the reporting date and reappeared days later. The structural
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ffect: the 10-Q balance sheet showed lower assets and lower leverage than the firm's actual position.
+D﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿irectionality (Tier 2): every Repo 105 transaction reduced reported assets and reported leverage. The
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿irection was always the same: understatement of assets, understatement of liabilities, overstatement
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿f leverage ratios. Over eight consecutive quarters (Q1 2007 through Q4 2008), the directional bias was
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿00% in the asset-reduction direction. Random accounting errors do not produce 100% directional
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿onsistency across eight periods.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ross-section correlation (Tier 2): the balance sheet showed reduced assets (Section A). The leverage
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿atio (computed from the balance sheet) showed reduced leverage (Section B). The cash flow statement
 
-showed large short-term secured financing flows that were inconsistent with the balance sheet's
-reported asset levels (Section C). Three sections of the same filing, each independently showing the
-structural signature of temporary asset removal. The correlation across sections is the structural signal:
-if only the balance sheet were affected, the pattern might reflect a single methodology choice. When
-the balance sheet, the leverage disclosure, and the cash flow statement all exhibit correlated
-distortions, the pattern is systemic.
-Persistence (Tier 1): the same Repo 105 structure appeared in every quarterly filing from Q1 2007
-through Q3 2008. The XBRL addresses for total assets, total liabilities, and leverage ratio exhibited the
-same quarter-end reduction pattern in eight consecutive filings. This is a Tier 1 finding: the same
-address, the same divergence shape, across eight consecutive filings.
-Materiality escalation (Tier 2): Repo 105 volumes escalated from approximately $22 billion in Q4 2007 to
-approximately $50 billion in Q2 2008. The magnitude of the balance-sheet distortion grew by more than
-2x in three quarters. Note: these specific dollar magnitudes are post-hoc, derived from the Valukas
-examiner report (2010), not from the contemporaneous 10-Q filings. A scanner running prospectively in
-2008 would have detected balance-sheet-pattern escalation (growing quarter-end asset reductions) but
-not the Repo 105 dollar magnitudes specifically. This is why materiality escalation is Tier 2: the
-magnitude pattern is detectable from the filing surface, but the specific mechanism causing the
-escalation requires post-hoc investigation.
-Scanner output on this example: the structural signature differentiation mechanisms would produce a
-composite finding with four components: directional bias 100% (8/8 periods, asset-reducing), crosssection correlation (balance sheet + leverage + cash flow), persistence (8 consecutive quarters at the
-same XBRL addresses), and materiality escalation (2.3x growth over 3 quarters). The composite verdict
-would be mukhfi trending toward munafiq, depending on the threshold calibration. The scanner does
-not claim fraud. It presents the structural signature. The FCIC report and the Valukas examiner's report
-provide the interpretive conclusion.
-This worked example demonstrates that the Section 4.6 mechanisms, applied to publicly available
-EDGAR filings, would have produced structural findings on the Lehman case well before the September
-2008 collapse. The mechanisms are retrospective in this case (designed after the outcome is known, per
-Caveat 4). The prospective validation plan (Section 7.3) tests whether the same mechanisms detect
-anomalous structural signatures in filings where the outcome is not yet known.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿showed large short-term secured financing flows that were inconsistent with the balance sheet's
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿eported asset levels (Section C). Three sections of the same filing, each independently showing the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿tructural signature of temporary asset removal. The correlation across sections is the structural signal:
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿f only the balance sheet were affected, the pattern might reflect a single methodology choice. When
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿he balance sheet, the leverage disclosure, and the cash flow statement all exhibit correlated
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿istortions, the pattern is systemic.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ersistence (Tier 1): the same Repo 105 structure appeared in every quarterly filing from Q1 2007
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hrough Q3 2008. The XBRL addresses for total assets, total liabilities, and leverage ratio exhibited the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ame quarter-end reduction pattern in eight consecutive filings. This is a Tier 1 finding: the same
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ddress, the same divergence shape, across eight consecutive filings.
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿ateriality escalation (Tier 2): Repo 105 volumes escalated from approximately $22 billion in Q4 2007 to
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿pproximately $50 billion in Q2 2008. The magnitude of the balance-sheet distortion grew by more than
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿x in three quarters. Note: these specific dollar magnitudes are post-hoc, derived from the Valukas
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿xaminer report (2010), not from the contemporaneous 10-Q filings. A scanner running prospectively in
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿008 would have detected balance-sheet-pattern escalation (growing quarter-end asset reductions) but
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ot the Repo 105 dollar magnitudes specifically. This is why materiality escalation is Tier 2: the
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿agnitude pattern is detectable from the filing surface, but the specific mechanism causing the
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿scalation requires post-hoc investigation.
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿canner output on this example: the structural signature differentiation mechanisms would produce a
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿omposite finding with four components: directional bias 100% (8/8 periods, asset-reducing), crosssection correlation (balance sheet + leverage + cash flow), persistence (8 consecutive quarters at the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ame XBRL addresses), and materiality escalation (2.3x growth over 3 quarters). The composite verdict
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ould be mukhfi trending toward munafiq, depending on the threshold calibration. The scanner does
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿ot claim fraud. It presents the structural signature. The FCIC report and the Valukas examiner's report
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿rovide the interpretive conclusion.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿his worked example demonstrates that the Section 4.6 mechanisms, applied to publicly available
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿DGAR filings, would have produced structural findings on the Lehman case well before the September
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿008 collapse. The mechanisms are retrospective in this case (designed after the outcome is known, per
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿aveat 4). The prospective validation plan (Section 7.3) tests whether the same mechanisms detect
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿nomalous structural signatures in filings where the outcome is not yet known.
 
-5. The Mizan at Every Scale
-The same structural principles serve four distinct constituencies. The mizan does not measure differently
-for the small merchant than for the large. Each application uses the same Escape A architecture
-(structural-address retrieval on available records), the same Tier discipline, and the same verdict
-surface. What changes is the substrate: invoices instead of 10-Ks, budget documents instead of XBRL
-filings, tax returns instead of SEC disclosures.
+5﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿. The Mizan at Every Scale
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he same structural principles serve four distinct constituencies. The mizan does not measure differently
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿or the small merchant than for the large. Each application uses the same Escape A architecture
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿structural-address retrieval on available records), the same Tier discipline, and the same verdict
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿urface. What changes is the substrate: invoices instead of 10-Ks, budget documents instead of XBRL
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿ilings, tax returns instead of SEC disclosures.
 
-5.1. Small Business Owners
+5﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿.1. Small Business Owners
 
-A small business owner depends on honest measurement from three directions: their bookkeeper, their
-suppliers, and their tax preparer. In each case, the owner is the party with less visibility into the
-substrate.
-Bookkeeper integrity verification: compare the bookkeeper's summary reports against the underlying
-transaction records the owner can independently access (bank statements, payment processor records,
-point-of-sale logs). Do the deposit totals match? Do the expense categories sum correctly? Are there
-transactions in one source that do not appear in the other?
-Vendor invoice consistency: for recurring vendors, track price-per-unit, quantity, and total across
-invoices. Does unit price times quantity equal the invoice total? Has the price changed without notice?
-Are there invoices with different tax identification numbers from the same vendor name?
-Tax preparer verification: compare the filed tax return (obtainable from the tax authority's online portal)
-against the owner's own records. Does the revenue on the return match the revenue in the owner's
-records? Do the deductions match the expenses?
-Example verdict threshold: a bookkeeper whose deposit-total discrepancy exceeds 2% of monthly
-revenue for three consecutive months scores mukhfi. A single month at 0.5% scores mushtabih. Zero
-discrepancy scores sahih.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿A small business owner depends on honest measurement from three directions: their bookkeeper, their
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿uppliers, and their tax preparer. In each case, the owner is the party with less visibility into the
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ubstrate.
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ookkeeper integrity verification: compare the bookkeeper's summary reports against the underlying
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ransaction records the owner can independently access (bank statements, payment processor records,
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿oint-of-sale logs). Do the deposit totals match? Do the expense categories sum correctly? Are there
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ransactions in one source that do not appear in the other?
+V﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿endor invoice consistency: for recurring vendors, track price-per-unit, quantity, and total across
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿nvoices. Does unit price times quantity equal the invoice total? Has the price changed without notice?
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿re there invoices with different tax identification numbers from the same vendor name?
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ax preparer verification: compare the filed tax return (obtainable from the tax authority's online portal)
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿gainst the owner's own records. Does the revenue on the return match the revenue in the owner's
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ecords? Do the deductions match the expenses?
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿xample verdict threshold: a bookkeeper whose deposit-total discrepancy exceeds 2% of monthly
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿evenue for three consecutive months scores mukhfi. A single month at 0.5% scores mushtabih. Zero
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿iscrepancy scores sahih.
 
-5.2. Large Enterprises
-Subsidiary reporting consistency: do subsidiary revenues sum to consolidated revenue minus
-intercompany eliminations? Does each subsidiary's balance sheet reconcile to the consolidated balance
-sheet? Are there intercompany receivables without matching payables?
-Transfer pricing structural verification: is the actual transfer price within the interquartile range
-documented in the entity's own transfer pricing study? If not, is there contemporaneous documentation
-explaining the deviation?
-Supply-chain compliance monitoring: has the vendor's registered jurisdiction appeared on a sanctions
-list since certification? Has the vendor's beneficial ownership structure changed?
-Example verdict threshold: an intercompany receivable-payable mismatch exceeding $1M without a
-documented timing difference scores mukhfi. A mismatch under $100K with a documented cause scores
-mushtabih.
+5﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿.2. Large Enterprises
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ubsidiary reporting consistency: do subsidiary revenues sum to consolidated revenue minus
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ntercompany eliminations? Does each subsidiary's balance sheet reconcile to the consolidated balance
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿heet? Are there intercompany receivables without matching payables?
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ransfer pricing structural verification: is the actual transfer price within the interquartile range
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ocumented in the entity's own transfer pricing study? If not, is there contemporaneous documentation
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿xplaining the deviation?
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿upply-chain compliance monitoring: has the vendor's registered jurisdiction appeared on a sanctions
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ist since certification? Has the vendor's beneficial ownership structure changed?
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿xample verdict threshold: an intercompany receivable-payable mismatch exceeding $1M without a
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ocumented timing difference scores mukhfi. A mismatch under $100K with a documented cause scores
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ushtabih.
 
-5.3. Nations with Governance Challenges
-The scanner's coverage is bounded by the available public substrate. In the regimes where citizens need
-this most, the substrate is least available, and the honest verdict is mughlaq. This is a structural
-limitation the paper acknowledges rather than obscures. The scanner cannot create transparency where
-none exists. It can operationalize whatever transparency does exist.
-Budget execution verification: compare budget appropriation documents against budget execution
-reports. Does actual spending match appropriated amounts? Are there zero-spend budget lines where
+5﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿.3. Nations with Governance Challenges
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he scanner's coverage is bounded by the available public substrate. In the regimes where citizens need
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿his most, the substrate is least available, and the honest verdict is mughlaq. This is a structural
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿imitation the paper acknowledges rather than obscures. The scanner cannot create transparency where
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿one exists. It can operationalize whatever transparency does exist.
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿udget execution verification: compare budget appropriation documents against budget execution
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿eports. Does actual spending match appropriated amounts? Are there zero-spend budget lines where
 
-funds may have been diverted? Are there lines where spending exceeds appropriation without
-supplemental authorization?
-Public procurement integrity: was the contract awarded to the lowest qualifying bidder? Does the
-contract amount match subsequent payment records? Is the winning bidder's beneficial ownership
-linked to serving officials? How many contracts in a given ministry are awarded to the same vendors?
-Official asset declaration verification: compare declared assets against public property, corporate, and
-vehicle registries. Does the declared real estate match registry records?
-Public debt transparency: does the total face value of outstanding bonds match the national debt figure
-in the budget? Are there international institution disbursements that appear in the lender's reporting
-but not in the national budget?
-Example verdict threshold: a budget line where actual spending is zero despite non-zero appropriation,
-in three consecutive fiscal years, with no documented reallocation, scores mukhfi. A single year with
-documented reallocation scores mushtabih.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿funds may have been diverted? Are there lines where spending exceeds appropriation without
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿upplemental authorization?
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ublic procurement integrity: was the contract awarded to the lowest qualifying bidder? Does the
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ontract amount match subsequent payment records? Is the winning bidder's beneficial ownership
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿inked to serving officials? How many contracts in a given ministry are awarded to the same vendors?
+O﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿fficial asset declaration verification: compare declared assets against public property, corporate, and
+v﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿ehicle registries. Does the declared real estate match registry records?
+P﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ublic debt transparency: does the total face value of outstanding bonds match the national debt figure
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿n the budget? Are there international institution disbursements that appear in the lender's reporting
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ut not in the national budget?
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿xample verdict threshold: a budget line where actual spending is zero despite non-zero appropriation,
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿n three consecutive fiscal years, with no documented reallocation, scores mukhfi. A single year with
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ocumented reallocation scores mushtabih.
 
-5.4. Tax Agencies
-The structural signature differentiation mechanisms (Section 4.6) apply directly to tax filings. A taxpayer
-whose reported income is consistently lower than information-return income (W-2s, 1099s) across
-multiple years, in the same direction, with no amended returns, exhibits a structural pattern
-inconsistent with honest error.
-Lifestyle-versus-reported-income structural analysis (Tier 2): cross-reference publicly available property
-records, vehicle registrations, and corporate registrations against reported income levels. A taxpayer
-reporting $40,000 income but owning property assessed at $2M and three vehicles above $50,000 each
-exhibits a structural divergence. This is Tier 2 because it requires assumptions about asset provenance
-(inheritance, gifts, prior savings).
-Transfer pricing audit prioritization: identify multinational entities whose intercompany pricing deviates
-most from their own documented arm's-length range. Prioritize those entities for review.
-Information-return cross-matching (Tier 1): compare amounts on the return against amounts on
-information returns filed by third parties. Each discrepancy at a specific form-and-line-item address is a
-structural fact.
-Example verdict threshold: a taxpayer with directionally biased income underreporting (same direction
-in 3+ consecutive years), persistence (no amended returns correcting the discrepancy), and informationreturn mismatches exceeding $10,000 cumulative scores mukhfi. A single-year mismatch under $1,000
-scores mushtabih.
+5﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿.4. Tax Agencies
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿he structural signature differentiation mechanisms (Section 4.6) apply directly to tax filings. A taxpayer
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hose reported income is consistently lower than information-return income (W-2s, 1099s) across
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ultiple years, in the same direction, with no amended returns, exhibits a structural pattern
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿nconsistent with honest error.
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ifestyle-versus-reported-income structural analysis (Tier 2): cross-reference publicly available property
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ecords, vehicle registrations, and corporate registrations against reported income levels. A taxpayer
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿eporting $40,000 income but owning property assessed at $2M and three vehicles above $50,000 each
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿xhibits a structural divergence. This is Tier 2 because it requires assumptions about asset provenance
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿inheritance, gifts, prior savings).
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿ransfer pricing audit prioritization: identify multinational entities whose intercompany pricing deviates
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ost from their own documented arm's-length range. Prioritize those entities for review.
+I﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿nformation-return cross-matching (Tier 1): compare amounts on the return against amounts on
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿nformation returns filed by third parties. Each discrepancy at a specific form-and-line-item address is a
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿tructural fact.
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿xample verdict threshold: a taxpayer with directionally biased income underreporting (same direction
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿n 3+ consecutive years), persistence (no amended returns correcting the discrepancy), and informationreturn mismatches exceeding $10,000 cumulative scores mukhfi. A single-year mismatch under $1,000
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿cores mushtabih.
 
-6. Verdict Surface
-The five verdicts apply at every scale. Sahih: the entity's records are internally consistent and
-symmetrically applied. Mushtabih: minor asymmetries or anomalies warrant review but do not indicate
-systemic failure. Mukhfi: material asymmetries or structural patterns detected. Munafiq: verified
+6﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿. Verdict Surface
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿he five verdicts apply at every scale. Sahih: the entity's records are internally consistent and
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿ymmetrically applied. Mushtabih: minor asymmetries or anomalies warrant review but do not indicate
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ystemic failure. Mukhfi: material asymmetries or structural patterns detected. Munafiq: verified
 
-divergence between stated standards and structural behavior, or verified structural topologies (such as
-self-counterparty trading) where the entity's own records contradict its own disclosures. Mughlaq:
-insufficient public data to assess, or data is structurally unverifiable (privacy-coin interiors, classified
-budget lines, sealed court records).
-The verdict applies to the structural artifacts, not to the entity's character. A small business whose
-bookkeeper's reports score mukhfi has a bookkeeper problem, not a character problem. A nation whose
-budget execution scores munafiq has a governance problem visible in its own published documents. The
-scanner measures the documents. The humans measure the situation.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿divergence between stated standards and structural behavior, or verified structural topologies (such as
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿elf-counterparty trading) where the entity's own records contradict its own disclosures. Mughlaq:
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿nsufficient public data to assess, or data is structurally unverifiable (privacy-coin interiors, classified
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿udget lines, sealed court records).
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿he verdict applies to the structural artifacts, not to the entity's character. A small business whose
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿ookkeeper's reports score mukhfi has a bookkeeper problem, not a character problem. A nation whose
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿udget execution scores munafiq has a governance problem visible in its own published documents. The
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿canner measures the documents. The humans measure the situation.
 
-7. Empirical Validation Plan
-7.1. Enforcement Symmetry Validation
-Run the per-case observation primitives (Section 4.1a) and the aggregation mechanisms (Section 4.1b)
-against the SEC's complete enforcement action database. Pre-registered hypothesis: if enforcement
-rates are not correlated with entity size, the enforcement symmetry claim has no empirical basis and the
-mechanism is withdrawn.
+7﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿. Empirical Validation Plan
+7﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿.1. Enforcement Symmetry Validation
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿un the per-case observation primitives (Section 4.1a) and the aggregation mechanisms (Section 4.1b)
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿gainst the SEC's complete enforcement action database. Pre-registered hypothesis: if enforcement
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿ates are not correlated with entity size, the enforcement symmetry claim has no empirical basis and the
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿echanism is withdrawn.
 
-7.2. Cryptocurrency Topology Validation
-Run mechanisms against known historical cases (Tornado Cash OFAC designation, FTX/Alameda
-bankruptcy examiner findings, Terra/Luna UST depegging). Prospective validation against top 200
-projects and top 50 DeFi protocols by TVL. Falsifiability criterion: if projects with high structural-topology
-findings do not subsequently experience adverse outcomes at higher rates, the mechanisms' predictive
-validity is rejected.
+7﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿.2. Cryptocurrency Topology Validation
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿un mechanisms against known historical cases (Tornado Cash OFAC designation, FTX/Alameda
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿ankruptcy examiner findings, Terra/Luna UST depegging). Prospective validation against top 200
+p﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿rojects and top 50 DeFi protocols by TVL. Falsifiability criterion: if projects with high structural-topology
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿indings do not subsequently experience adverse outcomes at higher rates, the mechanisms' predictive
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿alidity is rejected.
 
-7.3. Structural Signature Validation
-Apply the Section 4.6 mechanisms to a corpus of SEC restatement filings. The original filing plus the
-restated filing provide ground truth. Measure: do the structural signature mechanisms correctly classify
-restatement-triggering discrepancies as having different signatures from non-restatement
-discrepancies? If no difference, the approach does not work and the mechanisms are withdrawn. The
-Lehman Repo 105 worked example (Section 4.7) is the first case in this corpus; the validation extends to
-the full restatement population. To prevent hindsight contamination, the validation protocol requires:
-(1) a pre-registered hypothesis committed before running mechanisms on the held-out set; (2) a heldout test set of filings the mechanism designers have not previously examined; (3) a defined positive class
-(restatement-triggering discrepancies) and negative class (immaterial discrepancies, legitimate
-methodology changes); and (4) an ex ante decision rule specifying what discrepancy magnitudes and
-signature compositions count as positive findings. Without these four controls, retrospective validation
-is subject to mechanism-tuning bias.
+7﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿.3. Structural Signature Validation
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿pply the Section 4.6 mechanisms to a corpus of SEC restatement filings. The original filing plus the
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿estated filing provide ground truth. Measure: do the structural signature mechanisms correctly classify
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿estatement-triggering discrepancies as having different signatures from non-restatement
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿iscrepancies? If no difference, the approach does not work and the mechanisms are withdrawn. The
+L﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿ehman Repo 105 worked example (Section 4.7) is the first case in this corpus; the validation extends to
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿he full restatement population. To prevent hindsight contamination, the validation protocol requires:
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿1) a pre-registered hypothesis committed before running mechanisms on the held-out set; (2) a heldout test set of filings the mechanism designers have not previously examined; (3) a defined positive class
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿restatement-triggering discrepancies) and negative class (immaterial discrepancies, legitimate
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ethodology changes); and (4) an ex ante decision rule specifying what discrepancy magnitudes and
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿ignature compositions count as positive findings. Without these four controls, retrospective validation
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿s subject to mechanism-tuning bias.
 
-7.4. Small Business and Tax Agency Pilot
+7﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿.4. Small Business and Tax Agency Pilot
 
-Partner with a willing small business association or a tax agency innovation office to run the
-bookkeeper-integrity and information-return cross-matching mechanisms on a consented sample of real
-records. Measure: what is the false-positive rate? Publish honestly, including null results.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿Partner with a willing small business association or a tax agency innovation office to run the
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ookkeeper-integrity and information-return cross-matching mechanisms on a consented sample of real
+r﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ecords. Measure: what is the false-positive rate? Publish honestly, including null results.
 
-8. Honest Caveats
-Caveat 1: Structural asymmetry does not prove corruption. The scanner detects patterns. It does not
-diagnose causes.
-Caveat 2: Public data is incomplete. The scanner operates on what is public. What is not public is outside
-its scope.
-Caveat 3: This paper does not advocate for any specific political outcome, regulatory reform, or
-institutional change. It proposes a measurement infrastructure.
-Caveat 4: The author's biases are present in the selection of which checks to propose. The framework is
-open to extension. The Lehman worked example (Section 4.7) is retrospective and subject to hindsight
-bias; the prospective validation (Section 7.3) is the real test.
-Caveat 5: Institutions are complex adaptive systems that change in response to being measured. The
-scanner cannot distinguish between performed alignment (Process 3) and genuine improvement
-(Process 1). Only time and consistency can.
-Caveat 6: Privacy coin interiors are opaque by design. The scanner detects entry-exit patterns on
-transparent-chain endpoints and returns mughlaq where it cannot verify.
-Caveat 7: On-chain structural topologies cannot prove intent. A mixer-contract interaction may serve
-legitimate privacy purposes. A threshold-adjacent transaction may be coincidental. A self-counterparty
-trading topology may reflect legitimate market-making for a single OTC client. The scanner detects
-topologies. Attribution of intent is a human judgment and a legal determination, not a scanner output.
-Caveat 8: The stakeholder applications (Section 5) depend on the quality of available public records. In
-nations where budget execution reports are not published, procurement databases are not accessible,
-or property registries are not digitized, the scanner's coverage is limited. A mughlaq verdict on a nation
-with no published budget data is honest but does not serve the citizens who need transparency most.
-Caveat 9: The tax agency mechanisms produce structural findings that may inform audit selection but do
-not constitute probable cause, reasonable suspicion, or any other legal threshold for enforcement
-action. The legal determination is the agency's responsibility.
-Caveat 10: Mechanisms that aggregate publicly observable individual actions (Section 4.2 personnel
-flow, Section 5.3 official asset declarations) produce structural findings about population-level patterns.
-They do not constitute, and must not be packaged as, dossiers on named individuals. Implementations
-must surface aggregate statistics; per-individual outputs require additional governance discipline
-outside the scope of this paper.
+8﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿. Honest Caveats
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿aveat 1: Structural asymmetry does not prove corruption. The scanner detects patterns. It does not
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿iagnose causes.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿aveat 2: Public data is incomplete. The scanner operates on what is public. What is not public is outside
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ts scope.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿aveat 3: This paper does not advocate for any specific political outcome, regulatory reform, or
+i﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿nstitutional change. It proposes a measurement infrastructure.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿aveat 4: The author's biases are present in the selection of which checks to propose. The framework is
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿pen to extension. The Lehman worked example (Section 4.7) is retrospective and subject to hindsight
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ias; the prospective validation (Section 7.3) is the real test.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿aveat 5: Institutions are complex adaptive systems that change in response to being measured. The
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿canner cannot distinguish between performed alignment (Process 3) and genuine improvement
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿Process 1). Only time and consistency can.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿aveat 6: Privacy coin interiors are opaque by design. The scanner detects entry-exit patterns on
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ransparent-chain endpoints and returns mughlaq where it cannot verify.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿aveat 7: On-chain structural topologies cannot prove intent. A mixer-contract interaction may serve
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿egitimate privacy purposes. A threshold-adjacent transaction may be coincidental. A self-counterparty
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿rading topology may reflect legitimate market-making for a single OTC client. The scanner detects
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿opologies. Attribution of intent is a human judgment and a legal determination, not a scanner output.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿aveat 8: The stakeholder applications (Section 5) depend on the quality of available public records. In
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ations where budget execution reports are not published, procurement databases are not accessible,
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿r property registries are not digitized, the scanner's coverage is limited. A mughlaq verdict on a nation
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ith no published budget data is honest but does not serve the citizens who need transparency most.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿aveat 9: The tax agency mechanisms produce structural findings that may inform audit selection but do
+n﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿ot constitute probable cause, reasonable suspicion, or any other legal threshold for enforcement
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ction. The legal determination is the agency's responsibility.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿aveat 10: Mechanisms that aggregate publicly observable individual actions (Section 4.2 personnel
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿low, Section 5.3 official asset declarations) produce structural findings about population-level patterns.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿hey do not constitute, and must not be packaged as, dossiers on named individuals. Implementations
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ust surface aggregate statistics; per-individual outputs require additional governance discipline
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿utside the scope of this paper.
 
-9. Relationship to the Research Program
+9﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿. Relationship to the Research Program
 
-This paper is the fifth substrate the Munafiq Protocol has been applied to: (1) AI systems (DOI:
-10.5281/zenodo.19700420), (2) document files (DOI: 10.5281/zenodo.19745154), (3) programming
-languages (Furqan, DOI: 10.5281/zenodo.19776584, for code written in Furqan; arbitrary LLM output is
-future work), (4) financial filings (Bayyinah al-Maal, 2026), (5) financial governance systems at every
-economic scale (this paper).
-The five standing principles transfer with one extension. Principles 1 (detection deterministic), 3
-(Knowledge Objects required), 4 (scanner subject to its own discipline), and 5 (Tier discipline structural)
-transfer unchanged. Principle 2 (routing non-learned and auditable) transfers with a scope extension:
-the scanner's scope must be rule-based and published, not selectively targeting entities based on the
-author's preferences.
-The progression across five substrates reveals a structural invariant: the Munafiq Protocol's core
-operation (detect divergence between a presented surface and a verifiable substrate using deterministic
-structural checks) is substrate-invariant. What changes across substrates is the addressing scheme (PDF
-object references for documents, XBRL taxonomy addresses for filings, wallet addresses for
-cryptocurrency, budget codes for governance), the available batin (file bytes, XBRL tags, blockchain
-state, public records), and the stakeholder who benefits from the finding. What does not change is the
-architectural requirement (Escape A or Escape B from the No-Escape Theorem), the Tier discipline
-(detection deterministic, explanation may be neural, the two never share load), and the verdict surface
-(sahih through mughlaq). This substrate-invariance is not accidental. It follows from the Protocol's
-grounding in a structural principle (la talbisu al-haqqa bil-batil, 2:42) that is itself substrate-independent:
-do not clothe truth with falsehood applies at every layer of every system.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿This paper is the fifth substrate the Munafiq Protocol has been applied to: (1) AI systems (DOI:
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍﻿0.5281/zenodo.19700420), (2) document files (DOI: 10.5281/zenodo.19745154), (3) programming
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿anguages (Furqan, DOI: 10.5281/zenodo.19776584, for code written in Furqan; arbitrary LLM output is
+f﻿​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​‌‌‍﻿uture work), (4) financial filings (Bayyinah al-Maal, 2026), (5) financial governance systems at every
+e﻿​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​​‌​​​​​‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿conomic scale (this paper).
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿he five standing principles transfer with one extension. Principles 1 (detection deterministic), 3
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿Knowledge Objects required), 4 (scanner subject to its own discipline), and 5 (Tier discipline structural)
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿ransfer unchanged. Principle 2 (routing non-learned and auditable) transfers with a scope extension:
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿he scanner's scope must be rule-based and published, not selectively targeting entities based on the
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿uthor's preferences.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌‌​​‌​‍﻿he progression across five substrates reveals a structural invariant: the Munafiq Protocol's core
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿peration (detect divergence between a presented surface and a verifiable substrate using deterministic
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿tructural checks) is substrate-invariant. What changes across substrates is the addressing scheme (PDF
+o﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿bject references for documents, XBRL taxonomy addresses for filings, wallet addresses for
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿ryptocurrency, budget codes for governance), the available batin (file bytes, XBRL tags, blockchain
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿tate, public records), and the stakeholder who benefits from the finding. What does not change is the
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿rchitectural requirement (Escape A or Escape B from the No-Escape Theorem), the Tier discipline
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿detection deterministic, explanation may be neural, the two never share load), and the verdict surface
+(﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿sahih through mughlaq). This substrate-invariance is not accidental. It follows from the Protocol's
+g﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿rounding in a structural principle (la talbisu al-haqqa bil-batil, 2:42) that is itself substrate-independent:
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿o not clothe truth with falsehood applies at every layer of every system.
 
-10. What Is Genuinely Novel
-What is genuinely novel is the unification of institutional accountability, on-chain forensics, smallbusiness integrity verification, public-finance governance monitoring, and tax compliance structural
-analysis under a single architectural principle (la talbisu al-haqqa bil-batil; surface and substrate must be
-separated) that two consecutive formal results (Mind the Gap's Orthogonality Constraint and Price of
-Meaning's No-Escape Theorem) converge upon from write-time and retrieval-time geometric directions.
-The principle is operationalized as deterministic structural checks with a shared Tier discipline, a shared
-verdict surface, and a shared falsifiability requirement. The novelty is in the assembly and the empirical
-demonstration (Section 4.7, Lehman Repo 105) that the assembled architecture works across all five
-substrates without modification to the core principles.
-Three specific contributions are novel to our knowledge. First, the structural signature differentiation
-framework: five mechanisms (directionality, cross-section correlation, persistence, correction velocity,
-materiality escalation) that distinguish honest-error patterns from directed-manipulation patterns
-without determining intent, demonstrated end-to-end on the Lehman Repo 105 case. Second, the scaleinvariant application of the same principles from a sole proprietor's bookkeeper verification to a nation's
-budget execution audit, with the honest acknowledgment that the nations most in need receive the
-least substrate (Caveat 8). Third, the enforcement symmetry Tier split (per-case observation primitives
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿0. What Is Genuinely Novel
+W﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌​‌‌‍﻿hat is genuinely novel is the unification of institutional accountability, on-chain forensics, smallbusiness integrity verification, public-finance governance monitoring, and tax compliance structural
+a﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍﻿nalysis under a single architectural principle (la talbisu al-haqqa bil-batil; surface and substrate must be
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿eparated) that two consecutive formal results (Mind the Gap's Orthogonality Constraint and Price of
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿eaning's No-Escape Theorem) converge upon from write-time and retrieval-time geometric directions.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿he principle is operationalized as deterministic structural checks with a shared Tier discipline, a shared
+v﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿erdict surface, and a shared falsifiability requirement. The novelty is in the assembly and the empirical
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿emonstration (Section 4.7, Lehman Repo 105) that the assembled architecture works across all five
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ubstrates without modification to the core principles.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿hree specific contributions are novel to our knowledge. First, the structural signature differentiation
+f﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿ramework: five mechanisms (directionality, cross-section correlation, persistence, correction velocity,
+m﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ateriality escalation) that distinguish honest-error patterns from directed-manipulation patterns
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿ithout determining intent, demonstrated end-to-end on the Lehman Repo 105 case. Second, the scaleinvariant application of the same principles from a sole proprietor's bookkeeper verification to a nation's
+b﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿udget execution audit, with the honest acknowledgment that the nations most in need receive the
+l﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿east substrate (Caveat 8). Third, the enforcement symmetry Tier split (per-case observation primitives
 
-at Tier 1, population-level aggregation at Tier 2), which is a discipline the public-choice literature's
-empirical work implicitly requires but has not formalized.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿at Tier 1, population-level aggregation at Tier 2), which is a discipline the public-choice literature's
+e﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍﻿mpirical work implicitly requires but has not formalized.
 
-11. Conclusion
-The mutaffif does not break the scale. The mutaffif uses the scale honestly when receiving and
-dishonestly when giving. The solution is not to replace the scale. The solution is to make the scale's
-calibration visible, auditable, and structurally verifiable by anyone.
-The mizan applies at every scale. The sole proprietor checking their bookkeeper's reports uses the same
-structural principles as the citizen checking their government's budget execution. The tax agency
-distinguishing honest errors from structural evasion uses the same signature-differentiation mechanisms
-that a multinational uses to verify subsidiary compliance. The scale does not change with the size of
-what is measured. Only the substrate changes. The principle holds.
-The same principle. Every scale. The verification continues.
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿1. Conclusion
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿he mutaffif does not break the scale. The mutaffif uses the scale honestly when receiving and
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿ishonestly when giving. The solution is not to replace the scale. The solution is to make the scale's
+c﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿alibration visible, auditable, and structurally verifiable by anyone.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍﻿he mizan applies at every scale. The sole proprietor checking their bookkeeper's reports uses the same
+s﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌‌‌​‌​‍﻿tructural principles as the citizen checking their government's budget execution. The tax agency
+d﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿istinguishing honest errors from structural evasion uses the same signature-differentiation mechanisms
+t﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍﻿hat a multinational uses to verify subsidiary compliance. The scale does not change with the size of
+w﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿hat is measured. Only the substrate changes. The principle holds.
+T﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿he same principle. Every scale. The verification continues.
 
-Bismillah. Tawakkaltu 'ala Allah.
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌‌​​‍﻿ismillah. Tawakkaltu 'ala Allah.
 
-References
-Arfeen, B.S., Claude (Anthropic), Grok (xAI). (2026). Detecting Performed Alignment in Artificial Systems: The
-Munafiq Protocol (v2.1). Zenodo. DOI: 10.5281/zenodo.19700420.
-Arfeen, B.S. et al. (2026). Bayyinah: An Enterprise Defense Case for AI-Assisted Document Integrity Scanning.
-Zenodo. DOI: 10.5281/zenodo.19745154.
-Arfeen, B.S. (2026). Bayyinah al-Maal: Structural Honesty Verification for Financial Filings Using the Munafiq
-Protocol. Zenodo.
-Ashraf, F., Arfeen, B.S. et al. (2026). Furqan: A Programming Language with Structural Honesty. Zenodo. DOI:
-10.5281/zenodo.19776584.
-Barman, S. et al. (2026). The Price of Meaning. Sentra/MIT. arXiv:2603.27116.
-Beton, A. and Chana, R. (2025). Mind the Gap. Cambridge. arXiv:2601.15313.
-Carpenter, D. and Moss, D.A. (2014). Preventing Regulatory Capture: Special Interest Influence and How to Limit It.
-Cambridge University Press.
-Chainalysis. (2024). The 2024 Crypto Crime Report. Chainalysis Inc.
-Financial Action Task Force (FATF). (2021). Updated Guidance for a Risk-Based Approach to Virtual Assets and
-VASPs.
-Financial Crisis Inquiry Commission (FCIC). (2011). The Financial Crisis Inquiry Report. U.S. Government Publishing
-Office.
-Greenblatt, R. et al. (2024). Alignment Faking in Large Language Models. Anthropic. arXiv:2412.14093.
-Hubinger, E. et al. (2024). Sleeper Agents. Anthropic. arXiv:2401.05566.
+R﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌‌​‍﻿eferences
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿rfeen, B.S., Claude (Anthropic), Grok (xAI). (2026). Detecting Performed Alignment in Artificial Systems: The
+M﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿unafiq Protocol (v2.1). Zenodo. DOI: 10.5281/zenodo.19700420.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿rfeen, B.S. et al. (2026). Bayyinah: An Enterprise Defense Case for AI-Assisted Document Integrity Scanning.
+Z﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​‌‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿enodo. DOI: 10.5281/zenodo.19745154.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿rfeen, B.S. (2026). Bayyinah al-Maal: Structural Honesty Verification for Financial Filings Using the Munafiq
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿rotocol. Zenodo.
+A﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​​‌​‍﻿shraf, F., Arfeen, B.S. et al. (2026). Furqan: A Programming Language with Structural Honesty. Zenodo. DOI:
+1﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​‌​‍﻿0.5281/zenodo.19776584.
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍﻿arman, S. et al. (2026). The Price of Meaning. Sentra/MIT. arXiv:2603.27116.
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿eton, A. and Chana, R. (2025). Mind the Gap. Cambridge. arXiv:2601.15313.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿arpenter, D. and Moss, D.A. (2014). Preventing Regulatory Capture: Special Interest Influence and How to Limit It.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿ambridge University Press.
+C﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿hainalysis. (2024). The 2024 Crypto Crime Report. Chainalysis Inc.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​​‌​‍﻿inancial Action Task Force (FATF). (2021). Updated Guidance for a Risk-Based Approach to Virtual Assets and
+V﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿ASPs.
+F﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​‌‍﻿inancial Crisis Inquiry Commission (FCIC). (2011). The Financial Crisis Inquiry Report. U.S. Government Publishing
+O﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ffice.
+G﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿reenblatt, R. et al. (2024). Alignment Faking in Large Language Models. Anthropic. arXiv:2412.14093.
+H﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​​​‌​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​​‍﻿ubinger, E. et al. (2024). Sleeper Agents. Anthropic. arXiv:2401.05566.
 
-Lehman Brothers Holdings Inc. (2007-2008). Quarterly Reports (10-Q). U.S. Securities and Exchange Commission,
-EDGAR.
-Office of Foreign Assets Control (OFAC). SDN List. U.S. Department of the Treasury.
-Pistor, K. (2019). The Code of Capital: How the Law Creates Wealth and Inequality. Princeton University Press.
-Stigler, G.J. (1971). The Theory of Economic Regulation. The Bell Journal of Economics and Management Science,
-2(1), 3-21.
-U.S. Securities and Exchange Commission. (2023). SEC Enforcement Results for FY 2023.
-Valukas, A.R. (2010). Report of the Examiner in the Chapter 11 Proceedings of Lehman Brothers Holdings Inc.
-United States Bankruptcy Court, Southern District of New York.
+﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​‌‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿Lehman Brothers Holdings Inc. (2007-2008). Quarterly Reports (10-Q). U.S. Securities and Exchange Commission,
+E﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​​​‌‍​​​​​​​​​‌‌‌​​​‌‍﻿DGAR.
+O﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌​‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌​​‍﻿ffice of Foreign Assets Control (OFAC). SDN List. U.S. Department of the Treasury.
+P﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​​​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿istor, K. (2019). The Code of Capital: How the Law Creates Wealth and Inequality. Princeton University Press.
+S﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌‌​‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​‌‌‌​‍﻿tigler, G.J. (1971). The Theory of Economic Regulation. The Bell Journal of Economics and Management Science,
+2﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​‌​‌‌‌‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍​​​​​​​​​‌‌‌‌​​‌‍﻿(1), 3-21.
+U﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌​​​‍​​​​​​​​​‌‌​​​​‌‍​​​​​​​​​‌‌​‌‌​‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿.S. Securities and Exchange Commission. (2023). SEC Enforcement Results for FY 2023.
+V﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​‌​​​‍​​​​​​​​​‌‌‌​​‌‌‍​​​​​​​​​‌‌​‌​​‌‍﻿alukas, A.R. (2010). Report of the Examiner in the Chapter 11 Proceedings of Lehman Brothers Holdings Inc.
+U﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​‌‌​​​‌​‍​​​​​​​​​‌‌​​‌​​‍​​​​​​​​​‌‌​‌​​‌‍﻿nited States Bankruptcy Court, Southern District of New York.
 
 
 
-Bismillah ir-Rahman ir-Rahim
+B﻿​​​​​​​​​‌​​​​​‌‍​​​​​​​​​‌‌​‌‌​​‍​​​​​​​​​​‌​‌‌​‌‍​​​​​​​​​‌​​‌‌​‌‍​​​​​​​​​‌‌‌​‌​‌‍​​​​​​​​​​‌​​‌‌‌‍​​​​​​​​​‌‌​‌​​‌‍​​​​​​​​​‌‌​​‌​​‍﻿ismillah ir-Rahman ir-Rahim
