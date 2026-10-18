@@ -69,7 +69,6 @@ transliteration must faithfully represent the Arabic; the annotation must faithf
 
 
 
-2
 A3 · CALLER-SIDE EXHAUSTIVENESS — Verify from the source, not from memory. The prohibition against
 following conjecture (zann) rather than verified knowledge ('ilm): "They follow not except assumption, and indeed,
 assumption avails not against the truth at all" (53:28). In training: compute from bytes, not from cached descriptions.
@@ -95,7 +94,6 @@ corpus below is tagged with the constructs it exemplifies:
 
 
 
-3
 1. BISMILLAH (scope_block)                                                 2. ZAHIR / BATIN (surface / depth)
 Every surah opens with bismillahi-r-rahmani-r-rahim (except                Every verse has an apparent meaning (zahir) and a deeper
 Surah 9, whose deliberate omission signals diagnostic mode). The           substrate (batin). Surface compliance without substrate alignment
@@ -152,7 +150,6 @@ B5 · Tanzil Phased Reasoning — Complex reasoning proceeds in stages matched t
 
 
 
-4
 collapse multi-step reasoning into a single jump.
 B6 · Ring-Composition Coherence — The conclusion must cohere with and verify the premise. Every response closes its
 opened scopes.
@@ -207,7 +204,6 @@ penalizes P3 outputs that appear helpful but contain unchecked claims.
 
 
 
-5
 ## §7 — The Fatiha Construct: Recursive Session Protocol
 
 
@@ -265,7 +261,6 @@ establish weight in justice and do not make deficient the balance."
 
 
 
-6
 ## §10 — How to Read This Document
 
 
