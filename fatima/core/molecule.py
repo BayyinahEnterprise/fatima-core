@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Molecule — a document as a molecular structure with a bond graph.
 
@@ -448,3 +449,4 @@ class Molecule:
             f"Molecule(id={self.molecule_id!r}, title={self.title!r}, "
             f"atoms={self.atom_count}, bonds={self.bond_count})"
         )
+# Bismillah ir-Rahman ir-Rahim

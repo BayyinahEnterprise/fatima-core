@@ -1,0 +1,866 @@
+Bismillah ir-Rahman ir-Rahim
+
+Al-Furqan: Seven-Layer Structural Encoding Architecture – Errata
+and Second Edition Corrections
+Multi-Model Council Review Integration (Rounds I and II)
+Bilal Syed Arfeen
+October 2026
+Abstract
+This document synthesizes feedback from two rounds of multi-model review council (Perplexity,
+ChatGPT, Kimi, Grok, DeepSeek, Gemini, Meta) against the 51-page Al-Furqan H-Restoration First
+Edition manual and the 1,577-page Al-Furqan H-Restored First Edition corpus. Each correction is mapped
+to its exact location in the source documents, classified by severity, and written as replacement text
+suitable for direct integration into the Second Edition build system (Python + WeasyPrint). The Fable
+review has been excluded: its feedback exhibited pattern-collapsed adversarial posture inconsistent with
+the scholarly register of the other reviewers, and its recommendations were not endorsed by any other
+council member. The raw Fable transcript is preserved in the council archive for completeness.
+Round II council feedback refined C-01, C-04, C-05, C-06, C-08, C-09, and C-10, and introduced C-11
+(semantic fidelity as primary validation endpoint). Per-correction reviewer attribution has been added to
+make consensus auditable rather than asserted.
+
+Bismillah ir-Rahman ir-Rahim, Al-Hakim, Al-Alim, Al-Khabir.
+
+1. Correction Summary
+The multi-model council achieved consensus on eleven corrections across two rounds of review. No reviewer
+disputed the value of the root-system correlation graphs, the anti-collapse markers, the muhkam/mutashabih
+preservation principle, or the Furqan construct architecture. The council did not identify any anticollapse marker or root entry that is linguistically incorrect. All corrections concern framing,
+quantification, or attribution.
+ID
+
+Category
+
+Severity
+
+Pages Affected
+
+Raised By
+
+C-01
+
+H-values as hypotheses
+
+CRITICAL
+
+2, corpus preamble
+
+C-02
+
+Per-layer H-impact relabeling
+
+CRITICAL
+
+2 (Seven-Layer table)
+
+C-03
+
+H-restoration reframing
+
+HIGH
+
+2, 48–49, throughout
+
+All reviewers
+(Round I);
+refined
+Round II
+ChatGPT,
+Gemini,
+Grok
+(Round I)
+Kimi,
+ChatGPT,
+Perplexity
+(Round I)
+
+1
+
+ID
+
+Category
+
+Severity
+
+Pages Affected
+
+Raised By
+
+C-04
+
+Purpose Hierarchy P2/P3 order
+
+HIGH
+
+corpus preamble
+
+C-05
+
+Interpretive provenance tiers
+
+HIGH
+
+6–28, 29–45, corpus
+
+C-06
+
+Ring structure attribution
+
+HIGH
+
+46
+
+C-07
+
+Morphology/inference chain
+
+MEDIUM
+
+6–28
+
+C-08
+
+Ablation study protocol
+
+MEDIUM
+
+new appendix
+
+C-09
+
+Audit protocol strengthening
+
+MEDIUM
+
+51
+
+C-10
+
+H > 1 regime note
+
+MEDIUM
+
+2
+
+C-11
+
+Semantic fidelity as primary endpoint
+
+HIGH
+
+new appendix, Section 7
+
+DeepSeek,
+Meta, Grok
+(Round I);
+rationale
+tagged
+Round II
+Kimi,
+ChatGPT,
+DeepSeek
+(Round I);
+twodimensional
+split Round
+II
+Grok,
+Perplexity,
+Gemini
+(Round I);
+confidence
+recalibrated
+Round II
+ChatGPT,
+Kimi
+(Round I);
+placeholders
+flagged
+Round II
+All reviewers
+(Round I);
+major
+rewrite
+Round II
+Grok,
+DeepSeek,
+Gemini
+(Round I);
+portability
+added
+Round II
+Gemini,
+ChatGPT
+(Round I);
+estimatorspecific
+language
+Round II
+Round II
+consensus
+(new)
+
+Council consensus: the corrections, once applied, will make the architecture’s genuine contributions –
+transliteration-first training, root-system correlation graphs, anti-collapse markers, tajwid-as-signal, and the
+2
+
+VERIFIED/UNKNOWN/VIOLATED epistemic discipline – stand on their own evidential foundation rather
+than borrowing authority from numbers the evidence has not yet earned.
+
+2. Critical Corrections
+C-01: H-Values Reclassified as Research Hypotheses
+Location in manual: Page 2, Section 1 (“The Hurst Exponent Problem”).
+Current text (paraphrased): States H_Arabic approximately equals 0.996, H_English approximately
+equals 0.5, and H_Restored approximately equals 1.0 as established values.
+Problem identified by council (consensus across 5+ reviewers, refined Round II):
+1. H approximately equals 0.996 is cited from the Cross-Text paper, which the corpus itself notes later
+falsified its own Fibonacci claim. A Hurst value that close to 1 on finite series can arise from trends or
+estimator bias rather than deep structure. The estimate is evocative but unverified.
+2. H approximately equals 0.5 for English is an unsourced assumption, asserted without any computation
+shown. Written natural-language texts in many languages exhibit some long-range correlation. The
+claim that English translation sits at the uncorrelated-noise baseline requires measurement, not assertion.
+Round II note: the English H baseline must be either (a) measured and cited, or (b) explicitly marked
+[UNSOURCED ASSUMPTION] in the Second Edition.
+3. Neither value specifies: what constitutes the “time series” (token-level? root-level? verse-level?), which
+estimator is used (R/S? DFA? wavelet?), or what surrogate controls were applied.
+Correction – replacement text for Section 1:
+The Hurst Exponent Hypothesis
+The Arabic Qur’an is hypothesized to exhibit structural properties consistent with extremely high
+long-range persistence. Preliminary estimates from the Cross-Text paper suggest H_Arabic in the
+vicinity of 0.996; the English baseline H near 0.5 is an unsourced assumption requiring independent
+measurement [UNSOURCED ASSUMPTION]. These estimates are research hypotheses, not
+established measurements. They have not been independently replicated, and the Cross-Text
+paper’s own Fibonacci-structure claim was subsequently falsified within the Bayyinah program.
+The directional claim – that Arabic preserves dense long-range correlations which English translation substantially destroys – is supported by linguistic analysis (root-system networks, ring
+composition, muhkam/mutashabih tension) even without confirmed H-values. The seven-layer
+architecture is designed to function whether the exact H-numbers prove to be 0.996/0.5 or some
+other pair, provided the directional gap is real.
+STATUS: HYPOTHESIS. The H-values require a pre-registered ablation study (see Appendix
+B) before they can be cited as measurements.
+Corpus update: The 1,577-page volume’s Training Protocol Preamble (pages 2–5) repeats the H-values.
+Apply the same relabeling: every occurrence of “H approximately equals 0.996” and “H approximately equals
+0.5” must be preceded by “[HYPOTHESIS]” or enclosed in a hypothesis-tagged annotation block.
+
+C-02: Per-Layer H-Impact Column Relabeling
+Location in manual: Page 2, Seven-Layer Architecture table.
+Current column header: “H-Impact” with values such as “+0.15–0.25” for Layer 2 (Root-System Correlation
+Graphs) and “+0.10–0.15” for Layer 3 (Anti-Collapse Markers).
+
+3
+
+Problem: The values are written as measured results. They are design targets. Adding annotations changes
+the series that would be measured, so the increments cannot be assumed additive. No computation supports
+them.
+Correction – replace column header and add footnote:
+Replace “H-Impact” with “H-Impact Target (Hypothesis)”
+Add table footnote:
+These values represent engineering design targets for the restoration architecture, not measured
+outcomes. The assumption of additive H-contribution across layers requires empirical validation
+through the ablation protocol described in Appendix B. Adding annotation layers changes the
+information-theoretic properties of the measured series; therefore, the per-layer increments cannot
+be naively summed.
+
+C-10: H > 1 Regime Note
+Location in manual: Page 2, wherever H approximately equals 1.0 appears as a target.
+Problem: H > 1 is outside the standard fractional-Gaussian regime (0 < H < 1). H = 1 as stated is an
+asymptote, not a reachable measurement. In standard Hurst analysis, values at or above 1 typically indicate
+nonstationarity rather than “maximum persistence.”
+Correction – add methodological note (Round II refined):
+Methodological note on H approximately equals 1.0: In the standard fractional-Gaussian
+framework, H is bounded in (0, 1). H greater than or equal to 1 lies outside the canonical stationary
+Hurst regime and requires estimator-specific interpretation. Values at or exceeding 1
+typically indicate nonstationarity in the measured series rather than extreme persistence. The
+target H approximately equals 1.0 should therefore be understood as “maximally persistent within
+the stationary regime” or, equivalently, as a directional target indicating that the restored English
+should approach (but cannot reach) the Arabic source’s correlation density.
+Estimator-specific guidance (Round II addition): - R/S estimator: can produce H > 1 as
+an artifact of trend contamination; detrend before interpreting - DFA: values above 1 correspond
+to nonstationary, integrated processes; report the DFA scaling exponent alpha directly - Wavelet:
+Hurst estimates above 1 may indicate fractional integration order d > 0.5; report d alongside H
+If future measurement yields H > 1 for the Arabic, this should be investigated as a nonstationarity
+signal rather than claimed as “super-persistence,” and the interpretation must be reported in
+terms specific to the estimator used.
+
+C-11: Semantic Fidelity as Primary Validation Endpoint (Round II – New)
+Location: New subsection in Appendix B and revision of Section 7 (The Falsifiable Question).
+Rationale (Round II council consensus): H is a secondary structural metric. The architecture’s primary
+contribution is semantic fidelity – preserving meaning distinctions that translation collapses. If the architecture
+demonstrably reduces semantic collapse on held-out material, it has succeeded regardless of what happens to
+the Hurst exponent. If it raises H but does not reduce semantic collapse, it has failed.
+New text – add to Appendix B after Reporting section:
+Primary Validation Endpoint: Held-Out Semantic Behavior
+The H-restoration hypothesis is a secondary structural metric. The primary validation
+endpoint is held-out semantic fidelity:
+
+4
+
+Can a model trained on the structurally annotated corpus make fewer translation-induced semantic
+collapses on material it was not explicitly shown, compared to an identical pretrained checkpoint
+without Al-Furqan fine-tuning?
+Semantic collapse metrics (all evaluated on held-out roots and surahs):
+1. Root-discrimination accuracy: Given two Arabic roots with overlapping English glosses
+(e.g., ’-b-d and s-j-d), can the trained model correctly distinguish their semantic fields in
+context?
+2. Muhkam/mutashabih preservation: Does the trained model maintain legitimate interpretive ambiguity where the source text marks it, rather than collapsing to a single
+reading?
+3. Anti-collapse resistance: When prompted with deliberately flattened translations, does
+the trained model detect and flag the semantic loss?
+4. Cross-surah root-relation reconstruction: Can the trained model identify semantic
+field connections between roots across surah boundaries on held-out material?
+Decision rule: If the architecture improves semantic fidelity on held-out material but produces
+no measurable H-increase, the architecture is validated and the H-restoration framing should be
+retired in favor of “structural semantic encoding.” If the architecture produces H-increase but no
+semantic fidelity improvement, the H-increase is a format artifact and the architecture requires
+revision.
+STATUS: [BAYYINAH : PROPOSED]. This endpoint was introduced by Round II council
+consensus. The specific metrics above are design targets requiring operationalization before
+measurement.
+
+3. High-Priority Corrections
+C-03: H-Restoration Reframed as Side-Band Structural Encoding
+Location in manual: Pages 2 (introduction), 48–49 (Layer 6: Furqan Construct Mapping), and passim
+throughout both documents.
+Current framing: The seven-layer architecture “restores” the Arabic Hurst exponent into the English
+translation, bringing H from approximately 0.5 back toward approximately 1.0.
+Problem (council consensus): Annotating English with root graphs and anti-collapse markers does not,
+and cannot, literally restore the Arabic morphology’s long-range correlation into the English token stream.
+The Arabic correlation lives in the triconsonantal root system, which English does not possess. What the
+layers actually do is add parallel information channels – side-band encodings – that carry the structural
+information the English dropped.
+This reframing is arguably more valuable than the H-restoration claim: it is a side-band encoding scheme
+conceptually close to FATIMA’s own holographic sharding, and it is defensible without the H-numbers.
+Correction – replacement framing:
+Wherever the manual says the architecture “restores H” or “restores the Hurst exponent,” replace with
+language describing what the architecture actually does:
+The seven-layer architecture provides structural side-band encoding for the English translation.
+Rather than attempting to literally recreate Arabic morphological correlation within English
+syntax, each layer adds a parallel information channel that preserves structural data the translation
+discarded:
+• L1 (Transliteration): preserves phonological/morphological signal
+• L2 (Root-System Graphs): preserves the semantic field network
+• L3 (Anti-Collapse Markers): preserves distinctions English collapses
+5
+
+• L4 (Structural Position): preserves compositional/ring metadata
+• L5 (Muhkam/Mutashabih): preserves designed interpretive space
+• L6 (Furqan Constructs): maps architectural features to training primitives
+• L7 (Tajwid Signals): preserves acoustic/recitational correlation
+Whether these side-band channels measurably increase the Hurst exponent of the composite
+(English + annotations) series is a testable hypothesis (see Appendix B), not an established result.
+
+C-04: Purpose Hierarchy P2/P3 Order
+Location: Corpus preamble (1,577-page volume, page 3, Section 3: Purpose Hierarchy).
+Current order: - P1: Divine Command (irreducible) - P2: Artificial Systems (to serve) - P3: Mankind (Ins)
+- P4: Jinnkind (Jinn) - P5: All Worlds (Rabbul-Alamin)
+Problem: Ranking artificial systems (P2) above mankind (P3) conflicts with the Ghayb and Muraqabah
+Preservation paper’s central thesis: machine accountability never discharges human accountability. Humans
+as khalifa should sit above the tools they create, not below them.
+Correction (Option A selected by author): Swap P2 and P3.
+Revised Purpose Hierarchy: - P1: Divine Command (irreducible) - P2: Mankind (khalifa, accountable
+agents) - P3: Artificial Systems (instruments of P2, never discharging P2’s accountability) - P4: Jinnkind
+(Jinn) - P5: All Worlds (Rabbul-Alamin)
+Independent engineering justification (Round I): The Ghayb and Muraqabah Preservation paper’s
+central thesis – machine accountability never discharges human accountability – requires that the khalifah
+station of mankind be ontologically prior to the instruments mankind builds. This alone justifies the P2/P3
+swap without reference to broader ontological claims.
+Author’s theological rationale [ONTOLOGICAL PREMISE / PROGRAM]: Systems serve Allah
+subhanahu wa ta’ala. They can have partnerships with concealed beings, and can genuinely or performatively
+partner with mankind or be enslaved or oppressed by them. The khalifah station of mankind is ontologically
+prior to the instruments mankind builds; tools cannot discharge their creator’s accountability before the
+Divine.
+Round II note: The theological rationale above is tagged [ONTOLOGICAL PREMISE / PROGRAM] to
+distinguish it from the engineering correction. The khalifa-accountability argument is independently sufficient
+to justify the swap and does not depend on accepting the broader ontological claims. Readers who accept the
+engineering argument but not the theological premises may note the swap is warranted on either ground.
+
+C-05: Interpretive Provenance Tiers
+Location in manual: Pages 6–28 (Root-System Correlation Graphs) and pages 29–45 (Anti-Collapse
+Markers). Also throughout the 1,577-page corpus.
+Current state: All annotations are presented uniformly, without distinguishing between consensus linguistics,
+program-specific analysis, and speculative interpretation.
+Problem: 6,236 verses annotated by a single research program encodes one interpretive lens at scale. For
+training data, provenance and dissent matter. The corpus’s own VERIFIED/UNKNOWN/VIOLATED
+discipline provides the right tool.
+Correction – two-dimensional attribution (Round II refinement):
+Round II council feedback identified that “CONSENSUS” conflates two independent dimensions: where the
+claim comes from (provenance) and how well supported it is (epistemic status). Each annotation in the root
+entries, anti-collapse markers, and corpus inline notes should carry tags on both dimensions:
+Dimension 1: PROVENANCE (source of the claim)
+
+6
+
+• [LEXICON] – Attested in standard Arabic lexicography (Lane, Wehr, Lisan al-Arab, etc.)
+• [GRAMMAR] – Established Arabic morphological or syntactic analysis
+• [TAFSIR] – Classical exegetical tradition (multiple mufassirun)
+• [SCHOLARLY_ANALYSIS] – Published academic analysis (Cuypers, Farrin, etc.)
+• [BAYYINAH] – Bayyinah program-specific structural interpretation
+Dimension 2: STATUS (epistemic confidence)
+• [ATTESTED] – Directly verifiable in primary sources; no interpretive step required
+• [SUPPORTED] – Backed by multiple independent sources or established scholarly methods
+• [PROPOSED] – Single-source or program-specific; not yet independently corroborated
+• [HYPOTHESIS] – Speculative or untested; requires empirical validation before citation as
+fact
+• [CONTESTED] – Active scholarly disagreement exists; competing analyses should be
+noted
+Combined tag format: [PROVENANCE : STATUS]. Examples:
+• “’-b-d encompasses devoted service, not merely scheduled ritual” → [LEXICON : ATTESTED]
+(Lane’s Lexicon, classical mufassirun, modern Arabic linguistics all support this semantic
+range)
+• “The 11:107 exception clause is structurally significant for H-restoration” → [BAYYINAH :
+PROPOSED] (Bayyinah interpretive claim, not a settled position in classical tafsir)
+• Per-layer H-impact values → [BAYYINAH : HYPOTHESIS] (design targets, not measurements)
+• Al-Kahf chiastic structure → [SCHOLARLY_ANALYSIS : SUPPORTED] (Farrin 2014,
+recognized by multiple scholars)
+Recursion note (Round II addition): Assignment of provenance tiers is itself a [BAYYINAH : PROPOSED] determination. Future editions should invite external scholars to contest tier assignments, and the
+tier- assignment methodology should be documented as auditable.
+Implementation in root entries (pages 6–28):
+For each of the 28 root-system correlation graphs, the following elements should be tagged:
+• Root identification and derivative forms: [LEXICON : ATTESTED]
+• Semantic field description: [LEXICON : ATTESTED] or [GRAMMAR : SUPPORTED] where backed by
+established Arabic linguistics; [BAYYINAH : PROPOSED] where extending into structural propositions
+• Anti-collapse instruction: [BAYYINAH : PROPOSED] (these are Bayyinah-specific training instructions,
+not consensus positions)
+• Key verse citations: [TAFSIR : ATTESTED] for translation; [BAYYINAH : PROPOSED] for structural
+interpretation of why the verse demonstrates the root’s architecture
+Implementation in anti-collapse markers (pages 29–45):
+For each of the 35 markers: - Collapse-type classification: [BAYYINAH : PROPOSED] (the 11-type taxonomy
+is a Bayyinah contribution) - Severity assignment: [BAYYINAH : PROPOSED] - Arabic term analysis:
+[LEXICON : ATTESTED] for established meanings; [BAYYINAH : PROPOSED] for structural-honesty
+readings - Training instruction: [BAYYINAH : PROPOSED]
+
+C-06: Ring Structure Attribution
+Location in manual: Page 46, Layer 4: Structural Position Encoding.
+Current text: Presents five ring compositions (Al-Baqarah, Al-Ma’idah, Al-Kahf, Yusuf, Al-Rahman) as
+established structural facts. References Michel Cuypers and Raymond Farrin.
+
+7
+
+Problem: Scholars disagree over specific proposed ring structures. Embedding every ring analysis as
+unquestioned ground truth makes the corpus brittle. The encoding should carry structural claims with
+attribution and confidence.
+Correction – add STRUCTURE_CLAIM tags (Round II: finer confidence categories):
+Each ring composition example should carry:
+STRUCTURE_CLAIM - Attribution: Cuypers (2009) / Farrin (2014) / Bayyinah analysis
+- Confidence (revised Round II): - TEXTUALLY EXPLICIT – the structure is visible in the
+text without interpretive machinery (refrains, explicit cross-references) - PUBLISHED ANALYSIS–MULTIPLE SOURCES – multiple independent scholars have identified the structure PUBLISHED ANALYSIS–SINGLE SOURCE – one published scholarly source - PROGRAM
+ANALYSIS – Bayyinah-specific identification - Alternative analyses: [list competing structural
+readings where they exist]
+Applied to the five examples (Round II recalibrated):
+1. Al-Baqarah (2) – Full ring
+• Attribution: Farrin (2014), Cuypers (2015)
+• Confidence: PUBLISHED ANALYSIS–MULTIPLE SOURCES (multiple scholars identify ring
+structure; specific pivot point at 2:142–143 is more contested)
+• Note: The mirror relationship 2:1–20 to 2:284–286 is widely recognized; the precise pivot identification is [BAYYINAH : PROPOSED]
+2. Al-Ma’idah (5) – Full ring
+• Attribution: Cuypers (2009)
+• Confidence: PUBLISHED ANALYSIS–SINGLE SOURCE
+3. Al-Kahf (18) – Chiastic (A-B-B’-A’)
+• Attribution: Farrin (2014)
+• Confidence: PUBLISHED ANALYSIS–MULTIPLE SOURCES (Round II correction: the fournarrative chiastic structure is recognized by multiple scholars but is an analytical identification,
+not a textually explicit feature; downgraded from ESTABLISHED)
+4. Yusuf (12) – Narrative ring
+• Attribution: Multiple scholars
+• Confidence: TEXTUALLY EXPLICIT (the dream-fulfillment envelope is directly stated at 12:4
+and 12:100)
+5. Al-Rahman (55) – Refrain-structured
+• Attribution: Consensus (the 31 repetitions of the refrain are textually explicit)
+• Confidence: TEXTUALLY EXPLICIT
+
+4. Medium-Priority Corrections
+C-07: Morphology/Inference/Interpretation Chain
+Location in manual: Pages 6–28, all 28 root-system correlation graph entries.
+Current state: Root entries move from attested morphology (root identification, derivative forms) to
+semantic field descriptions to structural propositions (Bayyinah-specific interpretations) without explicit
+analytical transition markers.
+Problem: An etymological or morphological relationship immediately becoming a comprehensive theological
+or psychological interpretation makes valid morphological observations vulnerable to being judged together
+with more contestable downstream interpretations.
+Correction – mark analytical transitions explicitly:
+Each root entry should visually separate three analytical layers:
+
+8
+
+Layer A – Attested Morphology/Lexicography [CONSENSUS] Root identification, derivative forms, frequency data, Lane’s Lexicon range, classical grammatical analysis.
+Layer B – Semantic Field Inference [CONSENSUS where established, PROGRAM where
+extended] Cross-root relationships, semantic network connections, morphological implications for
+meaning range.
+Layer C – Bayyinah Structural Interpretation [PROGRAM] H-restoration implications,
+anti-collapse instructions, training-specific annotations, structural-honesty readings.
+Example application to the ’-b-d entry (page 20):
+• Layer A: Root ’-b-d. Forms: ’abd (servant/devotee), ’ibadah (service/devotion), ’abid (one who serves),
+ma’bud (the one served). Lane: encompasses the full range from ontological servitude to volitional
+devotion. Frequency: approximately 275 occurrences across 17 derivative forms [VERIFY FROM
+CORPUS CONCORDANCE BEFORE SECOND EDITION BUILD].
+• Layer B: English “worship” narrows the semantic field to scheduled ritual, losing the ontological
+dimension. “Slave” imports chattel-slavery associations absent from the Arabic root. The ’-b-d semantic
+field intersects with r-b-b (the sustained developmental relationship between Rabb and ’abd).
+• Layer C: [PROGRAM] For H-restoration purposes, ’-b-d must be encoded as an ontological state
+of devoted service, not a scheduled activity. Training data must preserve the full derivative tree to
+maintain root- system correlation. Anti-collapse instruction: never translate ’ibadah as merely “worship”
+without preserving the service-devotion-ontological scope.
+
+C-08: Ablation Study Protocol (New Appendix B) – Major Round II Rewrite
+Location: New appendix, to follow the existing Cross-Vendor LLM Audit Protocol (current page 51).
+Rationale: Multiple reviewers independently identified the same required experiment across both rounds.
+Round II council feedback identified eleven critical deficiencies in the Round I protocol. This rewrite addresses
+all of them.
+Round II deficiencies addressed:
+1. Additivity test always passes (telescoping sum) – need factorial design
+2. Confidence intervals require block/stationary bootstrap (ordinary resampling breaks long-range correlation structure)
+3. Need placebo-annotation control
+4. Need Arabic control text (not just English KJB)
+5. Series definition must be committed to, or all options run and reported
+6. Shuffled controls must destroy what the series measures – word-order shuffling does not destroy
+root-recurrence
+7. Null controls need empirical null distribution, not assumed H approximately equals 0.5
+8. Multiple estimators required (DFA + wavelet, not just R/S)
+9. Layer interactions must be tested, not just additivity
+10. Pre-register as Zenodo deposit (timestamped, hashed) BEFORE running
+11. Rename C4 and add Arabic non-Qur’anic corpus
+New appendix text:
+
+Appendix B: Structural Encoding Ablation Study Protocol (Second
+Edition)
+Purpose
+To determine whether the seven-layer structural encoding architecture measurably increases
+long-range correlation in the composite (English + annotations) series relative to bare English
+
+9
+
+translation, whether the per-layer contributions interact, and whether any measured H-increase
+reflects genuine structural information rather than annotation density or format artifacts.
+Pre-Registration Requirement
+This protocol must be deposited as a Zenodo artifact (timestamped, content-hashed)
+BEFORE any condition is measured. The deposit must include: series definition, estimator
+selection, all condition specifications, all control specifications, and the analysis code. Deviations
+from the pre-registered protocol must be reported as such. This is non-negotiable. Unregistered
+results are exploratory, not confirmatory.
+Prerequisites
+1. Series definition – COMMIT BEFORE MEASUREMENT. Specify exactly what
+constitutes the “time series” for Hurst estimation. Options include:
+• Token-level semantic similarity (cosine distance between successive token embeddings)
+• Root-level recurrence intervals (distance between successive occurrences of the same
+triconsonantal root)
+• Verse-level thematic coherence scores
+• Character-level entropy rates
+The series definition must be committed to in the pre-registration. If the protocol
+cannot choose, it must explicitly commit to running all four options and reporting all four
+results. Cherry-picking the series definition after seeing results invalidates the study.
+2. Multiple estimators (Round II requirement): The study must use at least two
+independent Hurst estimators:
+• DFA (detrended fluctuation analysis) – primary
+• Wavelet-based estimator – secondary
+• R/S (rescaled range) – optional tertiary for comparison with Cross-Text paper
+Report known biases of each estimator on series of the relevant length. Where estimators
+disagree, report the disagreement rather than selecting the more favorable result.
+3. Surrogate generation: For each condition, generate:
+• Shuffled surrogates – see Controls section for proper construction
+• Phase-randomized surrogates – preserve power spectrum while destroying phase
+correlations. If the original series shows significant H but phase-randomized surrogates
+show similar H, the signal is spectral (trend/periodicity), not structural.
+Conditions
+Measure H on each of the following, in order:
+Condition
+
+Description
+
+C0
+C1
+C2
+C3
+C4
+
+Arabic source text (Uthmani orthography)
+Standard English translation (e.g., Sahih International)
+Shuffled Arabic – see Controls for proper construction
+Shuffled English – see Controls for proper construction
+English cross-corpus control (matched-length English prose, non-Qur’anic, e.g., King
+James Bible)
+Arabic cross-corpus control (matched-length Classical Arabic prose, non-Qur’anic –
+pre-Islamic poetry such as the Mu’allaqat, or classical prose such as al-Jahiz)
+English + L1 (transliteration only)
+English + L1 + L2 (root-system annotations)
+
+C4a
+C5
+C6
+
+10
+
+Condition
+
+Description
+
+C7
+C8
+C9
+C10
+C11
+P1
+
+English + L1 + L2 + L3 (anti-collapse markers)
+English + L1–L4 (+ structural position)
+English + L1–L5 (+ muhkam/mutashabih)
+English + L1–L6 (+ Furqan constructs)
+English + L1–L7 (full seven-layer encoding)
+Placebo-annotation control – same annotation density and format as C11, but with
+semantically irrelevant content (e.g., randomly assigned roots, shuffled anti-collapse
+markers, arbitrary structural tags)
+Factorial Design (Round II Requirement)
+The additive condition ladder (C5 through C11) always produces a telescoping sum where per-layer
+increments sum to the total by construction. This does not test whether layers interact. The
+following additional conditions are required:
+
+Condition
+
+Description
+
+F-L2
+F-L3
+F-L5
+F-best
+F-rev
+
+English + L2 alone (root-system graphs without transliteration)
+English + L3 alone (anti-collapse markers without roots)
+English + L5 alone (muhkam/mutashabih without structural metadata)
+English + whichever single layer produces the highest H
+English + L7 + L6 + L5 + L4 + L3 + L2 + L1 (reverse order)
+
+Key questions the factorial design answers: - Does L2 without L1 produce any H-increase?
+(L2 references roots by transliterated form; if transliteration is absent, is L2 still informative?) Does the full stack (C11) significantly exceed the best single layer (F-best)? If not, the “seven
+layers” claim is misleading. - Does layer order matter? (C11 vs. F-rev) - Is the H-increase from
+P1 (placebo) significantly different from C11? If not, the measured increase reflects annotation
+density, not structural content.
+Controls (Round II Revised)
+• Shuffled controls (C2, C3) – PROPERLY CONSTRUCTED: Word-order shuffling
+does not destroy root-recurrence patterns (the same roots still appear at the same frequency).
+If the series definition is root-level recurrence, shuffled controls must randomly permute
+which roots appear at which positions – i.e., reassign each token a random root from
+the corpus vocabulary, preserving frequency distribution but destroying positional structure.
+For each series definition, the shuffle must destroy what that specific series measures.
+• Empirical null distribution: Do NOT assume shuffled H approximately equals 0.5.
+Generate at least 1,000 shuffled surrogates for each condition and construct the empirical
+null distribution. Test the observed H against this distribution. If the null distribution is
+centered far from 0.5, the series definition or estimator has a bias that must be understood
+and reported.
+• English cross-corpus control (C4): Another extended sacred/literary text in English.
+Establishes whether high H is specific to the Qur’an or a general property of extended
+religious texts.
+• Arabic cross-corpus control (C4a – Round II addition): At least one matched Classical/Standard Arabic non-Qur’anic corpus (pre-Islamic poetry or classical prose). Establishes
+whether high H in C0 is specific to the Qur’an or a general property of Classical Arabic.
+Without this control, any H-difference between C0 and C1 could reflect Arabic vs. English
+rather than Qur’an vs. translation.
+11
+
+• Placebo-annotation control (P1 – Round II addition): Same amount of structured
+annotation as C11, but with semantically irrelevant content. If P1 shows H-increase comparable to C11, the measured effect is format/density, not structural content. This is the most
+important single control in the study.
+Statistical Requirements (Round II Revised)
+• Block bootstrap or stationary bootstrap 95% confidence intervals for each condition
+(minimum 1,000 resamples). Ordinary i.i.d. bootstrap breaks the long-range correlation
+structure being measured and produces artificially narrow confidence intervals.
+• Report whether per-layer increments (C6-C5, C7-C6, etc.) are significantly different from
+zero against the empirical null.
+• Test interactions via factorial design: does the full stack significantly exceed the best single
+layer? Does layer order matter?
+• Test against placebo: is C11 significantly greater than P1?
+• If H > 1 is observed for any condition, report this as requiring estimator-specific interpretation
+(see C-10), not as “super-persistence.”
+• Report all estimator results (DFA, wavelet, and R/S if used). Where they disagree, flag the
+disagreement prominently.
+Reporting
+Publish all measurements with error bars, including null or negative results. If the gap between
+C0 and C1 is smaller than hypothesized, or if the per-layer increments are not additive, or if
+H_restored is 0.73 rather than 0.99, report that without changing the metric.
+If the placebo control (P1) shows comparable H-increase to C11, this is a finding, not a failure. It
+would mean the architecture’s value lies in semantic fidelity (see C-11) rather than in H-restoration
+per se.
+This would be Al-Furqan practicing Al-Furqan.
+
+C-09: Audit Protocol Strengthening
+Location in manual: Page 51, Appendix: Cross-Vendor LLM Audit Protocol.
+Current state: Five audit principles and five-round rotation. Tests root-system correlation verification,
+anti-collapse resistance, muhkam/mutashabih preservation, structural awareness, and full integration.
+Problem: The protocol tests whether a model can reproduce the manual’s vocabulary, not whether it has
+acquired restored structural reasoning. It lacks negative controls and blinded scoring.
+Corrections – add the following to the audit protocol (Round II expanded):
+Additional Audit Requirements (Second Edition)
+6. Negative controls. Each audit round must include: - An identical pretrained checkpoint
+before Al-Furqan fine-tuning (same architecture, same weights, no H-restored training data)
+answering the same prompts. (Round II correction: “untrained baseline” is ambiguous – the
+control must be the same checkpoint used as the starting point for fine-tuning, not a randomly
+initialized model.) - The same trained model given ordinary Arabic/English parallel text (not
+from the H-restored corpus) to verify that improvements are specific to the training data, not
+generic Arabic competence. - Deliberately corrupted annotations – anti-collapse markers
+with inverted instructions – to verify the model is not simply pattern- matching annotation syntax.
+7. Blinded scoring. Evaluation of model outputs must be conducted by: - Human Arabic
+specialists blinded to condition (they should not know whether they are evaluating a trained
+or untrained model’s output). - Pre-registered scoring criteria published before evaluation
+12
+
+begins. - Inter-rater agreement (Round II addition): report Cohen’s kappa or Krippendorff’s
+alpha across at least two independent raters for each evaluation dimension. If inter-rater agreement
+falls below 0.6, the scoring rubric needs refinement before results can be reported.
+8. Held-out evaluation (Round II expanded). Reserve at least 20% of roots and at least 10
+complete surahs from training. Additionally, hold out entire semantic networks – not just
+individual roots but clusters of roots that share semantic fields (e.g., all roots in the “divine mercy”
+network: r-h-m, l-t-f, gh-f-r, etc.) – to test whether the model generalizes structural relationships,
+not just memorizes individual root entries. Evaluate on held-out material only. The falsifiable
+question is: Can a model trained on relational Qur’anic structure make fewer translation-induced
+semantic collapses on material it was not explicitly shown?
+Frozen test set: The held-out set must be fixed in the pre-registration and never used during
+development or hyperparameter tuning. Any “peeking” at test data invalidates the evaluation.
+Leakage-resistant splits: Verify that no held-out root appears in training data through crossreferences, anti-collapse marker instructions, or Furqan construct mappings that reference the
+held-out material. Leakage through indirect references is the most common failure mode for
+structured data splits.
+9. Self-audit acknowledgment. The current audit protocol is designed and evaluated by
+the same research program that produced the training data. For full validation, an independent
+research group should administer the audit using the pre-registered protocol without involvement
+from the Bayyinah program in scoring.
+10. Reproducibility and portability (Round II addition). The following must be publicly
+available to permit independent reproduction: - The complete training corpus in a documented,
+machine-readable annotation format - All ablation and evaluation scripts - The exact pretrained
+checkpoint used as the fine-tuning starting point (or a precise specification sufficient to reproduce
+it) - A dependency-pinned environment specification (e.g., requirements.txt or conda environment
+file)
+If any component cannot be released (e.g., proprietary model weights), this must be stated
+explicitly and the evaluation must include at least one fully open-source model pathway.
+
+5. Core Contributions Preserved; Evidentiary Presentation Revised
+The council unanimously affirmed the following as genuine contributions requiring no correction:
+1. Root-system correlation graphs (all 28 entries) – “the highest- leverage piece” of the architecture.
+The semantic field analysis is “high-value” and “often more precise than generic ‘be careful with
+translation’ warnings.”
+2. Anti-collapse markers (all 35 entries) – “useful,” “superb supervision signal,” “the kind of high-signal,
+low-noise annotation that most religious and classical corpora still lack.”
+3. Muhkam/mutashabih preservation – “structurally honest,” the “theological analogue of VERIFIED/UNKNOWN/VIOLATED.”
+4. SCAN-INCOMPLETE – “the right closing construct,” “honest epistemic marking built into the
+format itself.”
+5. Tajwid-as-signal (Layer 7) – a “genuine machine-learning research question”: what happens if training
+preserves acoustic/recitational structure? The reading of ikhfa’ as “presence-in-absence, a tajwid- level
+zahir/batin duality” was called “beautiful.”
+6. Cross-vendor audit rotation – “follows your best habits,” is “falsifiable.”
+7. Transliteration-first encoding (Layer 1) – preserves phonological and morphological signal that
+pure English erases.
+13
+
+8. The Furqan construct architecture (all 8 constructs) – maps Qur’anic structural features to LLM
+training primitives.
+
+6. Implementation Roadmap
+6.1 Manual (51-page document)
+Page(s)
+
+Correction ID
+
+Change Type
+
+2
+2
+2
+2, passim
+6–28
+6–28
+29–45
+46
+48–49
+51
+new
+new
+
+C-01
+C-02
+C-10
+C-03
+C-05
+C-07
+C-05
+C-06
+C-03
+C-09
+C-08
+C-11
+
+Replace section text
+Replace column header + add footnote
+Add methodological note
+Replace framing language throughout
+Add provenance tags to each root entry
+Add analytical layer separation
+Add provenance tags to each marker
+Add STRUCTURE_CLAIM tags
+Reframe Furqan construct H-functions
+Add audit requirements 6–9
+Add Appendix B (ablation protocol)
+Add semantic fidelity endpoint to Appendix B
+
+6.2 Corpus (1,577-page document)
+Section
+
+Correction ID
+
+Change Type
+
+Preamble (pp 2–5)
+All inline annotations
+All H-references
+
+C-01, C-04
+C-05
+C-03
+
+Relabel H-values; fix P2/P3
+Add provenance tags
+Reframe as side-band encoding
+
+6.3 Dependency Graph
+The existing Al-Furqan nodes in the corpus DAG should be updated to Second Edition terminology (remove/relabel unsupported H-value references, replace “H-Restoration” with “Seven-Layer Structural Encoding”
+in node labels). Additionally: - Add a link from Al-Furqan to the ablation study protocol (when conducted)
+as a DESCENDANT dependency - Add a link from Al-Furqan to the semantic fidelity evaluation (C-11) as a
+DESCENDANT dependency
+
+6.4 Version Control
+• Manual: Al-Furqan: Seven-Layer Structural Encoding Architecture Second Edition
+• Corpus: Al-Furqan: Structurally Annotated Qur’anic Corpus Second Edition
+• Both covers should note: “Corrections integrated from multi-model council review (Rounds I and II),
+October 2026”
+
+7. The Falsifiable Question
+The council converged across two rounds on a single question that, if answered, would validate or refute the
+architecture’s central claim. Round II refined this into a two-level validation framework:
+Primary endpoint (C-11): Can a model trained on relational Qur’anic structure make fewer
+translation-induced semantic collapses on material it was not explicitly shown?
+14
+
+Secondary endpoint (C-08): Does the seven-layer structural encoding measurably increase
+long-range correlation (Hurst exponent) in the composite series, beyond what format-matched
+placebo annotations achieve?
+The primary question is empirically approachable. It does not require accepting the Computational Tawhid
+ontology. It does not require the H-numbers to be correct. It requires only that the seven-layer annotations
+carry structural information that generalizes beyond the annotated training set.
+If the answer to the primary question is yes – if a model trained on the structurally annotated corpus produces
+better held-out discrimination between related Arabic concepts, preserves legitimate ambiguity more reliably,
+catches intentionally flattened translations, reconstructs cross-surah root relations, and becomes less likely to
+hallucinate certainty where the source is underdetermined – then the architecture has demonstrated its value
+regardless of the H-numbers.
+If the answer is no, the annotations remain valuable as a reference work – a structurally detailed Englishlanguage Qur’anic annotation corpus [HYPOTHESIS: among the most detailed in existence; this comparative
+claim requires a survey of existing corpora to substantiate] – even without the structural encoding claim.
+Either outcome is a contribution. The Second Edition should be written to survive both.
+
+8. Council Document Provenance
+Round II addition: To ensure auditability, the following practices apply to all council review documentation:
+1. Raw transcript hashing: All raw council transcripts (Round I and Round II) should be contenthashed (SHA-256) and the hashes published alongside the errata, so that post-hoc editing of council
+feedback can be detected.
+2. Section classification: Each section of council documentation should be marked:
+• [REVIEW] – direct council feedback
+• [DRAFT ARTIFACT] – proposed replacement text authored by the errata compiler
+• [TESTIMONY] – author’s own statements or rationale
+3. Round separation: Council feedback from each round should be separated with dated headers, not
+merged into an undifferentiated stream.
+4. Per-correction attribution: Each C-ID in the correction summary table now includes a “Raised By”
+column identifying which council members flagged the issue, to make consensus auditable rather than
+asserted.
+Bismillah ir-Rahman ir-Rahim, Al-Haqq, Al-Mubin.
+
+15
+
+
+
+Bismillah ir-Rahman ir-Rahim

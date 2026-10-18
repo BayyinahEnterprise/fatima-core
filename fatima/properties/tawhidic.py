@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Property 3: Tawhidic Unity.
 
@@ -132,3 +133,4 @@ def is_tawhidically_unified(molecule: Molecule) -> bool:
     """Quick boolean check for Property 3."""
     report = check_tawhidic_unity(molecule)
     return report.verdict == Verdict.VERIFIED
+# Bismillah ir-Rahman ir-Rahim

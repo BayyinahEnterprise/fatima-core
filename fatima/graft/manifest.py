@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Graft manifest -- declared mechanism replacements with evidence status.
 
@@ -205,3 +206,4 @@ class GraftManifest:
             notes=tuple(notes),
             code=verdict.value,
         )
+# Bismillah ir-Rahman ir-Rahim

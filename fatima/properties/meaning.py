@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Property 4: Meaning-Integrity.
 
@@ -123,3 +124,4 @@ def is_meaning_integral(molecule: Molecule) -> bool:
     """Quick boolean check for Property 4."""
     report = check_meaning_integrity(molecule)
     return report.verdict == Verdict.VERIFIED
+# Bismillah ir-Rahman ir-Rahim

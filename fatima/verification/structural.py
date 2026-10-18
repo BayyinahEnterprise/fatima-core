@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Level 2: Structural Verification — cross-reference consistency.
 
@@ -26,3 +27,4 @@ def verify_structural(molecule: Molecule) -> VerificationReport:
     canonical entry point for the verification architecture.
     """
     return molecule.verify_structural()
+# Bismillah ir-Rahman ir-Rahim

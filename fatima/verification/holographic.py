@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Level 3: Holographic Verification — reconstruction from cross-sections.
 
@@ -172,3 +173,4 @@ def verify_holographic(
         violations=tuple(violations),
         level_name="holographic",
     )
+# Bismillah ir-Rahman ir-Rahim

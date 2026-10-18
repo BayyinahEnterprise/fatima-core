@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 fatima.verification — Three-valued verification architecture.
 
@@ -7,3 +8,4 @@ Level 3: Holographic — sufficient cross-sections reconstruct the whole
 Level 4: Fitrah      — structural coherence of reconstructed meaning
 Level 5: Authenticity — self-authentication through coherence
 """
+# Bismillah ir-Rahman ir-Rahim

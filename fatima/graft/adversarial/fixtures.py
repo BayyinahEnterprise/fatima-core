@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Fixture pairs -- the smallest unit of semantic adversarial memory.
 
@@ -119,3 +120,4 @@ def check_fixture_pair(
         f"reviewer attested {reviewer_attested_faithful}; "
         f"fixture expects {pair.expected_faithful}",
     )
+# Bismillah ir-Rahman ir-Rahim

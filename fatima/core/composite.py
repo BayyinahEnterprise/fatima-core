@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Composite Molecule — hierarchical decomposition for large documents.
 
@@ -322,3 +323,4 @@ class CompositeMolecule:
             f"total_atoms={self.total_atoms}, "
             f"total_bonds={self.total_bonds})"
         )
+# Bismillah ir-Rahman ir-Rahim

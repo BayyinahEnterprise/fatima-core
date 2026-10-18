@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Property 2: Fitrah-Alignment.
 
@@ -33,3 +34,4 @@ def is_fitrah_aligned(molecule: Molecule) -> bool:
     """Quick boolean check for Property 2."""
     report = check_fitrah_alignment(molecule)
     return report.verdict == Verdict.VERIFIED
+# Bismillah ir-Rahman ir-Rahim

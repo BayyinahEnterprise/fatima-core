@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Atom — the indivisible semantic unit of a FATIMA document.
 
@@ -179,3 +180,4 @@ class Atom:
             f"Atom(id={self.atom_id!r}, type={self.content_type!r}, "
             f"bonds={len(self.bond_ids)}, content={preview!r})"
         )
+# Bismillah ir-Rahman ir-Rahim

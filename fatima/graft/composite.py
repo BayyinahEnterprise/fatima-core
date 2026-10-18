@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Composite graft boundary -- five-level guarantees across sub-molecules.
 
@@ -96,3 +97,4 @@ def verify_composite_grafts(
         per_sub=dict(sub_reports),
         inter_bond_status=inter_bond_report,
     )
+# Bismillah ir-Rahman ir-Rahim

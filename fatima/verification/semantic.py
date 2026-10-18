@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Level 4: Meaning-Integrity and Fitrah-Alignment Verification.
 Level 5: Provenance Authenticity -- external trust anchoring.
@@ -230,3 +231,4 @@ def verify_authenticity(
         violations=all_violations,
         level_name="authenticity",
     )
+# Bismillah ir-Rahman ir-Rahim

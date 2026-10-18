@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 External anchor interface -- pluggable external time reference.
 
@@ -115,3 +116,4 @@ def verify_anchor(
     return GraftReport.ok(
         "anchor", 1.0, f"verified by {provider.name}"
     )
+# Bismillah ir-Rahman ir-Rahim

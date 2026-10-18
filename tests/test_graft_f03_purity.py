@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 GRAFT-F03-PURITY-001 regression tests.
 
@@ -83,3 +84,4 @@ def test_missing_commitments_is_unknown_not_verified():
     m.add_atom(Atom("a1", "Uncommitted proposition", "proposition"))
     r = check_meaning_integrity(m)
     assert r.verdict is Verdict.UNKNOWN
+# Bismillah ir-Rahman ir-Rahim

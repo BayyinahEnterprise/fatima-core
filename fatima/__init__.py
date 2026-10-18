@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 FATIMA — Fitrah-Aligned Tawhidic Integrity for Meaning and Authenticity
 
@@ -23,3 +24,4 @@ Bismillahir-Rahmanir-Rahim
 """
 
 __version__ = "0.1.0"
+# Bismillah ir-Rahman ir-Rahim

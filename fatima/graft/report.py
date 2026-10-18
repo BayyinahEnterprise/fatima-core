@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 GraftReport -- a lightweight report for the graft and provenance layers.
 
@@ -86,3 +87,4 @@ class GraftReport:
             notes=notes,
             code=verdict.value,
         )
+# Bismillah ir-Rahman ir-Rahim

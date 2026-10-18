@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Level 1: Syntactic Verification — bit-level integrity.
 
@@ -21,3 +22,4 @@ def verify_syntactic(molecule: Molecule) -> VerificationReport:
     canonical entry point for the verification architecture.
     """
     return molecule.verify_syntactic()
+# Bismillah ir-Rahman ir-Rahim

@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Adversarial regression memory -- fixture pairs for semantic plumbing tests.
 
@@ -6,3 +7,4 @@ when given an independent reviewer's attestation, correctly reports the
 reviewer's verdict. The fixtures test the plumbing, not the semantic
 understanding itself.
 """
+# Bismillah ir-Rahman ir-Rahim

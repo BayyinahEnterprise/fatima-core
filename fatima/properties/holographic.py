@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Property 1: Holographic Redundancy.
 
@@ -35,3 +36,4 @@ def is_holographically_redundant(molecule: Molecule) -> bool:
     """Quick boolean check for Property 1."""
     report = check_holographic_redundancy(molecule)
     return report.verdict == Verdict.VERIFIED
+# Bismillah ir-Rahman ir-Rahim

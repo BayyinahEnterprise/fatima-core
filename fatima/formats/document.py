@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Document encoder — converts structured text to a FATIMA Molecule.
 
@@ -545,3 +546,4 @@ def _infer_bonds(atoms: list[Atom], full_text: str) -> list[Bond]:
                          rationale=f"Shared terms: {shared}")
 
     return bonds
+# Bismillah ir-Rahman ir-Rahim

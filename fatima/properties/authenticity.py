@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Property 5: Provenance Authenticity -- external trust anchoring.
 
@@ -55,3 +56,4 @@ def is_authentic(
         molecule, provenance=provenance, key_provider=key_provider,
     )
     return report.verdict == Verdict.VERIFIED
+# Bismillah ir-Rahman ir-Rahim

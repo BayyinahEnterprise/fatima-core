@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 fatima.core — Atomic data structures for FATIMA encoding.
 
@@ -17,3 +18,4 @@ __all__ = [
     "Atom", "Bond", "BondType", "Molecule",
     "CompositeMolecule", "InterMoleculeBond",
 ]
+# Bismillah ir-Rahman ir-Rahim

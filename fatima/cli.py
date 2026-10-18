@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 FATIMA CLI — encode, verify, and inspect .fatima files.
 
@@ -345,3 +346,4 @@ def _print_bond_distribution(mol: Molecule, indent: int = 0) -> None:
 
 if __name__ == "__main__":
     sys.exit(main())
+# Bismillah ir-Rahman ir-Rahim

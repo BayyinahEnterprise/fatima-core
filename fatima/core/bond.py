@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Bond — typed semantic relationship between atoms.
 
@@ -169,3 +170,4 @@ class Bond:
             weight=data.get("weight", 1.0),
             rationale=data.get("rationale", ""),
         )
+# Bismillah ir-Rahman ir-Rahim

@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Graft protocol -- disciplined mechanism replacement on the fatima-core substrate.
 
@@ -14,3 +15,4 @@ anchor      -- AnchorProof, AnchorProvider, NullAnchor, verify_anchor
 composite   -- CompositeGraftReport, verify_composite_grafts
 adversarial -- fixture pairs for paraphrase/negation plumbing tests
 """
+# Bismillah ir-Rahman ir-Rahim

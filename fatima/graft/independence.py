@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Independence ledger -- structural non-collusion check.
 
@@ -98,3 +99,4 @@ def check_independence(record: IndependenceRecord) -> GraftReport:
         1.0,
         "no declared collapse; independence still not proven",
     )
+# Bismillah ir-Rahman ir-Rahim

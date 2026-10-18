@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Three-valued verification verdict.
 
@@ -128,3 +129,4 @@ class VerificationReport:
             violations=tuple(v for r in reports for v in r.violations),
             level_name=max(reports, key=lambda r: r.level).level_name,
         )
+# Bismillah ir-Rahman ir-Rahim

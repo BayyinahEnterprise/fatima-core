@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Composite Molecule Verification — all five properties at both levels.
 
@@ -317,3 +318,4 @@ class CompositeVerificationResult:
             )
 
         return "\n".join(lines)
+# Bismillah ir-Rahman ir-Rahim

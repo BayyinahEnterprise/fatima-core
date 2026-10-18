@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 Level 5: Provenance Authenticity -- external trust anchor for FATIMA documents.
 
@@ -196,3 +197,4 @@ def verify_provenance(
         violations=all_notes,
         level_name="provenance",
     )
+# Bismillah ir-Rahman ir-Rahim

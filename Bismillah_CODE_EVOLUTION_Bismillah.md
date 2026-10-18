@@ -1,3 +1,5 @@
+Bismillah ir-Rahman ir-Rahim
+
 # Bismillah ir-Rahman ir-Rahim
 
 # The Evolution of Code: A Complete Historical Record
@@ -4119,3 +4121,5 @@ deeper questions.*
 **Languages:** Python, JavaScript (Node.js), HTML/CSS/Canvas, Bash
 
 # Bismillah ir-Rahman ir-Rahim
+
+Bismillah ir-Rahman ir-Rahim

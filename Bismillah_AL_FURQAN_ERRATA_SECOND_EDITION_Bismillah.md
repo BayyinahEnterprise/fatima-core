@@ -1,3 +1,5 @@
+Bismillah ir-Rahman ir-Rahim
+
 ---
 title: "Al-Furqan: Seven-Layer Structural Encoding Architecture -- Errata and Second Edition Corrections"
 subtitle: "Multi-Model Council Review Integration (Rounds I, II and III)"
@@ -1446,3 +1448,5 @@ the council archive.
 
 
 Bismillah ir-Rahman ir-Rahim, Al-Haqq, Al-Mubin.
+
+Bismillah ir-Rahman ir-Rahim

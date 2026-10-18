@@ -1,3 +1,4 @@
+# Bismillah ir-Rahman ir-Rahim
 """
 .fatima file format — serialisation and deserialisation.
 
@@ -153,3 +154,4 @@ def load_fatima(
     }
 
     return structure, meta
+# Bismillah ir-Rahman ir-Rahim

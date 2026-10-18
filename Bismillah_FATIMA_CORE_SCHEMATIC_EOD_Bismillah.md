@@ -1,3 +1,5 @@
+Bismillah ir-Rahman ir-Rahim
+
 # Bismillah ir-Rahman ir-Rahim
 
 # FATIMA -- Anatomy of the Code (End of Day)
@@ -667,3 +669,5 @@ None applied. These target the provenance and attestation subsystems.
 ---
 
 *Wa mā tawfīqī illā billāh. Extracted, not imagined: every symbol above appears in the source at commit `4ea1e80`.*
+
+Bismillah ir-Rahman ir-Rahim
