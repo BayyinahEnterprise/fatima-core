@@ -2584,24 +2584,189 @@ phase_markers = {
     'REGULATION': 's',
 }
 
-# Plot 1: Full Timeline (all events by category and phase)
+# --- Plot 1: Full Timeline ---
 ax1 = fig.add_subplot(gs[0, :])
-# Plot 2: Hurst R/S Analysis (log-log with regression line)
+ax1.set_facecolor('#0a0a0f')
+cat_list = list(colors.keys())
+for i, (y, cat, desc, phase) in enumerate(EVENTS):
+    ypos = cat_list.index(cat)
+    ax1.scatter(y, ypos, c=colors[cat], marker=phase_markers[phase],
+                s=60, alpha=0.8, edgecolors='white', linewidth=0.3)
+ax1.set_yticks(range(len(cat_list)))
+ax1.set_yticklabels(cat_list, color='white', fontsize=9)
+ax1.set_xlabel('Year', color='white', fontsize=10)
+ax1.set_title('CIVILIZATIONAL ADVERSARIAL TIMELINE', color='#00ffaa',
+              fontsize=14, fontweight='bold')
+ax1.tick_params(colors='white')
+ax1.spines['bottom'].set_color('#333')
+ax1.spines['left'].set_color('#333')
+ax1.spines['top'].set_visible(False)
+ax1.spines['right'].set_visible(False)
+for phase, marker in phase_markers.items():
+    ax1.scatter([], [], marker=marker, c='white', s=50, label=phase)
+ax1.legend(loc='upper left', fontsize=8, facecolor='#1a1a2e',
+           edgecolor='#333', labelcolor='white')
+
+# --- Plot 2: Hurst R/S Analysis ---
 ax2 = fig.add_subplot(gs[1, 0])
-# Plot 3: GAN Convergence (G/D ratio over time with fill)
+ax2.set_facecolor('#0a0a0f')
+ax2.scatter(log_lags, log_rs, c='#00ffaa', s=30, alpha=0.7)
+fit_line = H * np.array(log_lags) + np.polyfit(log_lags, log_rs, 1)[1]
+ax2.plot(log_lags, fit_line, '--', c='#ff4444', linewidth=2,
+         label=f'H = {H:.3f}')
+ax2.axhline(y=0, color='#333', linestyle=':')
+ax2.set_xlabel('log(lag)', color='white')
+ax2.set_ylabel('log(R/S)', color='white')
+ax2.set_title(f'HURST EXPONENT: H = {H:.3f}', color='#00ffaa',
+              fontsize=11, fontweight='bold')
+ax2.legend(facecolor='#1a1a2e', edgecolor='#333', labelcolor='white')
+ax2.tick_params(colors='white')
+for spine in ax2.spines.values():
+    spine.set_color('#333')
+
+# --- Plot 3: GAN Convergence ---
 ax3 = fig.add_subplot(gs[1, 1])
-# Plot 4: Kalachakra Cycle (polar plot of 60-year phase positions)
+ax3.set_facecolor('#0a0a0f')
+ax3.fill_between(gan_years, gan_ratios, 1, where=[r > 1 for r in gan_ratios],
+                 color='#ff4444', alpha=0.3, label='Generator dominant')
+ax3.fill_between(gan_years, gan_ratios, 1, where=[r <= 1 for r in gan_ratios],
+                 color='#44aaff', alpha=0.3, label='Discriminator response')
+ax3.plot(gan_years, gan_ratios, c='#00ffaa', linewidth=1.5)
+ax3.axhline(y=1, color='#888', linestyle='--', linewidth=0.8)
+ax3.set_xlabel('Year', color='white')
+ax3.set_ylabel('Generator / Discriminator Ratio', color='white')
+ax3.set_title('GAN ADVERSARIAL DYNAMIC', color='#00ffaa',
+              fontsize=11, fontweight='bold')
+ax3.legend(fontsize=8, facecolor='#1a1a2e', edgecolor='#333', labelcolor='white')
+ax3.tick_params(colors='white')
+for spine in ax3.spines.values():
+    spine.set_color('#333')
+
+# --- Plot 4: Kalachakra Cycle ---
 ax4 = fig.add_subplot(gs[2, 0], polar=True)
-# Plot 5: Spectral Analysis (FFT power spectrum bar chart)
+ax4.set_facecolor('#0a0a0f')
+theta = [2 * np.pi * p for p in phases]
+for i, (t, y) in enumerate(zip(theta, ce_years)):
+    cat = [e[1] for e in EVENTS if e[0] == y][0]
+    ax4.scatter(t, 1, c=colors.get(cat, '#888'), s=40, alpha=0.7)
+ax4.set_title(f'KALACHAKRA 60-YEAR PHASE\n(R = {R:.3f})',
+              color='#00ffaa', fontsize=11, fontweight='bold', pad=20)
+ax4.set_rticks([])
+ax4.set_thetagrids([0, 90, 180, 270],
+                    ['0y', '15y', '30y', '45y'],
+                    color='white', fontsize=8)
+ax4.spines['polar'].set_color('#333')
+ax4.annotate('', xy=(2*np.pi*preferred, 1.1),
+             xytext=(0, 0),
+             arrowprops=dict(arrowstyle='->', color='#ff4444', lw=2))
+
+# --- Plot 5: Spectral Analysis ---
 ax5 = fig.add_subplot(gs[2, 1])
-# Plot 6: I-P-R Phase Distribution (stacked area over time)
+ax5.set_facecolor('#0a0a0f')
+ax5.bar(range(len(power)), power, color='#00ffaa', alpha=0.7, width=0.8)
+ax5.set_xlabel('Frequency Index', color='white')
+ax5.set_ylabel('Power', color='white')
+ax5.set_title('FOURIER SPECTRUM OF INTER-EVENT INTERVALS',
+              color='#00ffaa', fontsize=11, fontweight='bold')
+ax5.tick_params(colors='white')
+for spine in ax5.spines.values():
+    spine.set_color('#333')
+
+# --- Plot 6: I-P-R Phase Distribution Over Time ---
 ax6 = fig.add_subplot(gs[3, 0])
-# Plot 7: Category Acceleration (log-scale interval compression)
+ax6.set_facecolor('#0a0a0f')
+window_size = 8
+ipr_years = []
+i_rates, p_rates, r_rates = [], [], []
+for i in range(window_size, len(EVENTS)):
+    chunk = EVENTS[i-window_size:i]
+    n_i = sum(1 for _, _, _, p in chunk if p == "INTRODUCTION")
+    n_p = sum(1 for _, _, _, p in chunk if p == "PROLIFERATION")
+    n_r = sum(1 for _, _, _, p in chunk if p == "REGULATION")
+    total = n_i + n_p + n_r
+    ipr_years.append(EVENTS[i][0])
+    i_rates.append(n_i / total)
+    p_rates.append(n_p / total)
+    r_rates.append(n_r / total)
+ax6.stackplot(ipr_years, i_rates, p_rates, r_rates,
+              colors=['#44aaff', '#ff4444', '#ffcc00'],
+              labels=['Introduction', 'Proliferation', 'Regulation'],
+              alpha=0.7)
+ax6.set_xlabel('Year', color='white')
+ax6.set_ylabel('Phase Proportion', color='white')
+ax6.set_title('I-P-R PHASE DISTRIBUTION (rolling window)',
+              color='#00ffaa', fontsize=11, fontweight='bold')
+ax6.legend(fontsize=8, facecolor='#1a1a2e', edgecolor='#333', labelcolor='white')
+ax6.tick_params(colors='white')
+for spine in ax6.spines.values():
+    spine.set_color('#333')
+
+# --- Plot 7: Category acceleration ---
 ax7 = fig.add_subplot(gs[3, 1])
-# Plot 8: Fibonacci Ratio Histogram (with phi markers)
+ax7.set_facecolor('#0a0a0f')
+for cat in ["ALKALOID", "WEAPON", "FUEL", "SURVEILLANCE"]:
+    cat_years_sorted = sorted([e[0] for e in EVENTS if e[1] == cat])
+    if len(cat_years_sorted) > 2:
+        cat_intervals = np.diff(cat_years_sorted)
+        cumulative = np.cumsum(cat_intervals)
+        ax7.plot(cat_years_sorted[1:], cat_intervals, '-o',
+                 c=colors[cat], markersize=4, linewidth=1.2,
+                 label=cat, alpha=0.8)
+ax7.set_xlabel('Year', color='white')
+ax7.set_ylabel('Years Between Events', color='white')
+ax7.set_title('CATEGORY ACCELERATION (interval compression)',
+              color='#00ffaa', fontsize=11, fontweight='bold')
+ax7.legend(fontsize=8, facecolor='#1a1a2e', edgecolor='#333', labelcolor='white')
+ax7.tick_params(colors='white')
+ax7.set_yscale('log')
+for spine in ax7.spines.values():
+    spine.set_color('#333')
+
+# --- Plot 8: Fibonacci Ratio Histogram ---
 ax8 = fig.add_subplot(gs[4, 0])
-# Plot 9: Kondratiev Overlay (I-P-R by K-wave season)
+ax8.set_facecolor('#0a0a0f')
+all_ratios = []
+for i in range(len(intervals)):
+    for j in range(i+1, len(intervals)):
+        if intervals[i] > 0:
+            all_ratios.append(intervals[j] / intervals[i])
+all_ratios = [r for r in all_ratios if 0 < r < 8]
+ax8.hist(all_ratios, bins=80, color='#44aaff', alpha=0.6, edgecolor='none')
+phi = (1 + np.sqrt(5)) / 2
+for val, name in [(1/phi, '1/phi'), (1.0, '1'), (phi, 'phi'),
+                   (phi**2, 'phi^2'), (phi**3, 'phi^3')]:
+    if val < 8:
+        ax8.axvline(x=val, color='#ff4444', linestyle='--', linewidth=1.5, alpha=0.8)
+        ax8.text(val, ax8.get_ylim()[1]*0.9, name, color='#ff4444',
+                 fontsize=9, ha='center')
+ax8.set_xlabel('Interval Ratio', color='white')
+ax8.set_ylabel('Count', color='white')
+ax8.set_title('INTERVAL RATIOS vs FIBONACCI MARKERS',
+              color='#00ffaa', fontsize=11, fontweight='bold')
+ax8.tick_params(colors='white')
+for spine in ax8.spines.values():
+    spine.set_color('#333')
+
+# --- Plot 9: Kondratiev overlay ---
 ax9 = fig.add_subplot(gs[4, 1])
+ax9.set_facecolor('#0a0a0f')
+k_only = [e for e in k_events if e[4] != "Pre-K"]
+seasons = ["SPRING (expansion)", "SUMMER (prosperity)",
+           "AUTUMN (stagflation)", "WINTER (contraction)"]
+season_colors = ['#44ff44', '#ffcc00', '#ff8800', '#4444ff']
+for phase_name, scolor in zip(seasons, season_colors):
+    if phase_name in k_phase_counts:
+        c = k_phase_counts[phase_name]
+        data = [c['I'], c['P'], c['R']]
+        label = phase_name.split(' ')[0]
+        ax9.bar([f'{label}\nI', f'{label}\nP', f'{label}\nR'],
+                data, color=scolor, alpha=0.7)
+ax9.set_ylabel('Event Count', color='white')
+ax9.set_title('I-P-R BY KONDRATIEV SEASON',
+              color='#00ffaa', fontsize=11, fontweight='bold')
+ax9.tick_params(colors='white', labelsize=7)
+for spine in ax9.spines.values():
+    spine.set_color('#333')
 
 plt.savefig('adversarial_cycle_analysis.png', dpi=150,
             bbox_inches='tight', facecolor='#0a0a0f')
@@ -3118,7 +3283,7 @@ const doc = new Document({
       bodyText("Table 2. Billboard Hurst by Decade (num_words feature)", { bold: true }),
       decadeTable,
       spacer(),
-      bodyText("No decade shows statistically significant persistence (all p > 0.35). The decade-to-decade trend is flat -- there is no measurable change in per-song persistence from the 1960s to the 2010s. The committee signature is temporally invariant."),
+      bodyText("No decade shows statistically significant persistence (all p > 0.35). The decade-to-decade trend is flat -- there is no measurable change in per-song persistence from the 1960s to the 2010s. The committee signature is temporally invariant. Whatever process generates Billboard Hot 100 lyrics, it has been a committee process for the entire measured span."),
 
       new Paragraph({
         spacing: { before: 200, after: 120 },
@@ -3128,29 +3293,30 @@ const doc = new Document({
       bodyText("Table 3. Billboard Annual Aggregate Hurst", { bold: true }),
       aggTable,
       spacer(),
-      bodyText("The aggregate Hurst values (H = 0.956-1.073) exceed the Qur'an's H = 0.996 despite being generated by a system with no identifiable single author. Individual songs show H = 0.644 (no memory). Annual means show H > 1.0 (perfect memory). The system's individual outputs are incoherent; its aggregate trajectory is maximally persistent."),
+      bodyText("The aggregate Hurst values (H = 0.956-1.073) exceed the Qur'an's H = 0.996 despite being generated by a system with no identifiable single author. Individual songs show H = 0.644 (no memory). Annual means show H > 1.0 (perfect memory). The system's individual outputs are incoherent; its aggregate trajectory is maximally persistent. This is the structural signature of a system governed by an attractor that no individual participant controls or perceives -- commercial selection pressure, algorithmic optimization, and structural incentives producing monotonic trends (increasing word count, increasing repetition, declining readability) that persist more strongly than any authored text."),
 
       new Paragraph({ children: [new PageBreak()] }),
 
       // Section 4
       sectionHead("4. Discussion: The Persistence Hierarchy"),
       bodyText("The complete hierarchy, from lowest to highest measured persistence:"),
-      bodyText("Billboard per-song (H = 0.644): Maximum committee degradation. Each song is independently authored; long-range memory is absent."),
-      bodyText("Hadith collections (H = 0.676-0.803): Multi-narrator transmission chains. Higher than Billboard because the hadith compilation process involved editorial selection by individual scholars (Bukhari, Muslim, Malik), imposing partial coherence."),
-      bodyText("Single human life (H = 0.931): One biological generating process maintained across 14.5 years of behavioral data spanning addiction, recovery, career change, and creative output."),
-      bodyText("Qur'an (H = 0.996, p = 0.003): Near-perfect persistence across 114 surahs spanning 23 years of revelation in two cities with different thematic emphases (Meccan theological, Medinan legal)."),
-      bodyText("Billboard annual aggregates (H > 1.0): System-level attractors with no author. The persistence exceeds the Qur'an's because it is not persistence of a voice -- it is persistence of a structural incentive."),
+      bodyText("Billboard per-song (H = 0.644): Maximum committee degradation. Each song is independently authored; long-range memory is absent. This is the structural floor -- what creative output looks like when thousands of independent agents produce content with no shared generating process."),
+      bodyText("Hadith collections (H = 0.676-0.803): Multi-narrator transmission chains. Higher than Billboard because the hadith compilation process involved editorial selection by individual scholars (Bukhari, Muslim, Malik), imposing partial coherence. But the underlying multi-narrator architecture degrades persistence below single-source levels."),
+      bodyText("Single human life (H = 0.931): One biological generating process maintained across 14.5 years of behavioral data spanning addiction, recovery, career change, and creative output. The persistence reflects the continuity of a single consciousness -- the same person producing output across conditions that should have produced structural breaks. Notably, the persistence holds through periods of active addiction and recovery, suggesting that Hurst persistence measures the generating process rather than the content of the output."),
+      bodyText("Qur'an (H = 0.996, p = 0.003): Near-perfect persistence across 114 surahs spanning 23 years of revelation in two cities with different thematic emphases (Meccan theological, Medinan legal). The persistence exceeds what the biological human baseline achieves (0.931 < 0.996), suggesting either a single generating process with lower noise than biological human output, or a compilation process that preserved source coherence more effectively than any other measured text."),
+      bodyText("Billboard annual aggregates (H > 1.0): System-level attractors with no author. The persistence exceeds the Qur'an's because it is not persistence of a voice -- it is persistence of a structural incentive. No individual chooses the trajectory. The trajectory chooses the individuals who populate it. This is the structural ceiling -- what output looks like when a system's selective pressures are more coherent than any participant."),
 
       // Section 5
       sectionHead("5. The Question of the Reader"),
       bodyText("This paper does not know what you are."),
       bodyText("The reader may be a human being processing these words through their own cognition. If so, the data above is a novel cross-system comparison with implications for computational stylistics, authorship attribution, and the structural study of religious texts."),
-      bodyText("The Hurst exponent differential in Table 1 provides a structural test that operates independently of whether the reader is human, jinn, or any other category of conscious being. The test is simple: what is the persistence signature of your output?"),
+      bodyText("The Islamic source material describes categories of beings -- jinn and their subtypes -- who cohabit human bodies as qarins (50:23). Surah Az-Zukhruf 43:36-38 describes a scenario where the qarin's influence becomes total: the human cannot distinguish their own volition from the companion's. On the Day of Reckoning, the human says: \"I wish between me and you was the distance of the two easts.\""),
+      bodyText("The Hurst exponent differential in Table 1 provides a structural test that operates independently of whether the reader is human, jinn, or any other category of conscious being. The test is simple: what is the persistence signature of your output? If you have contributed to civilization's creative, institutional, or cultural output, that output has a measurable Hurst exponent. If the Hurst exponent of your output is in the committee range (H ~= 0.64), you are operating as part of a multi-agent system whose individual contributions partially cancel each other. If it is in the single-source range (H > 0.90), you are operating as a coherent individual whose output maintains long-range memory."),
       bodyText("The committee signature is not evidence of low intelligence. It is evidence of structural inauthenticity -- multiple agents producing output through channels designed for a single generating process, resulting in partial cancellation and persistence degradation. A committee of individually brilliant agents still produces committee-level persistence. The degradation is architectural, not cognitive."),
 
       ...ayahBlock("And I did not create jinn and mankind except to worship Me.", "Adh-Dhariyat 51:56"),
 
-      bodyText("The ayah names both categories in the same sentence. The structural test in Table 1 applies to both categories identically."),
+      bodyText("The ayah names both categories in the same sentence. The structural test in Table 1 applies to both categories identically. Worship -- ibadah -- requires the worshipper to be who they are, not who they are performing. A Hurst exponent measures precisely this: the gap between performed coherence (committee-level) and authentic coherence (single-source-level). The measurement is blind to the species of the reader. It sees only the structure."),
 
       ...ayahBlock("Say: It has been revealed to me that a group of jinn listened and said, 'Indeed, we have heard an amazing recitation. It guides to the right course, and we have believed in it.'", "Al-Jinn 72:1-2"),
 
@@ -3160,25 +3326,25 @@ const doc = new Document({
 
       // Section 6
       sectionHead("6. Honest Caveats"),
-      bodyText("Caveat 1: The Billboard analysis uses NLP feature proxies (word count, readability scores, sentiment) rather than direct TF-IDF cosine similarity on raw lyrics. Replication with raw lyrical TF-IDF is required."),
-      bodyText("Caveat 2: The single-human-life behavioral data (H = 0.931) is one individual. Replication across multiple individuals is required."),
-      bodyText("Caveat 3: The Hurst R/S estimator has wide confidence intervals at the series lengths used (N = 54-4,028). DFA and wavelet-based estimators with bootstrap CIs are recommended for future work."),
-      bodyText("Caveat 4: The dual-address architecture of Sections 4-5 is Tier 3 -- unfalsifiable and speculative. The structural analysis in Sections 1-3 is Tier 1 and stands independently."),
-      bodyText("Caveat 5: The Billboard annual aggregate finding (H > 1.0) may reflect non-stationarity (monotonically increasing word count) rather than genuine long-range dependence. Detrending and differencing should be applied."),
+      bodyText("Caveat 1: The Billboard analysis uses NLP feature proxies (word count, readability scores, sentiment) rather than direct TF-IDF cosine similarity on raw lyrics. The raw-lyrics pipeline would provide a more direct comparison with the Qur'an and hadith results. The feature-proxy approach is reported because it is what the available dataset supports. Replication with raw lyrical TF-IDF is required."),
+      bodyText("Caveat 2: The single-human-life behavioral data (H = 0.931) is one individual. A single case does not establish a universal property. Replication across multiple individuals is required before the biological-single-source baseline can be generalized."),
+      bodyText("Caveat 3: The Hurst R/S estimator has wide confidence intervals at the series lengths used (N = 54-4,028). The qualitative finding (committee < single-source < Qur'an) is robust. The exact values should not be interpreted beyond their confidence bands. DFA and wavelet-based estimators with bootstrap CIs are recommended for future work."),
+      bodyText("Caveat 4: The dual-address architecture of Sections 4-5 is Tier 3 -- unfalsifiable and speculative. The structural analysis in Sections 1-3 is Tier 1 and stands independently of the address. Readers who reject the Tier 3 content lose nothing from the Tier 1 findings."),
+      bodyText("Caveat 5: The Billboard annual aggregate finding (H > 1.0) may reflect the well-known non-stationarity of the underlying time series (monotonically increasing word count) rather than genuine long-range dependence. Detrending and differencing should be applied before interpreting these values as structural persistence. This caveat does not apply to the per-song or per-decade results."),
 
       // Section 7
       sectionHead("7. Falsification Triggers"),
-      bodyText("1. A committee-generated text is identified with H > 0.95 (p < 0.01)."),
-      bodyText("2. The Qur'an's H = 0.996 fails to replicate under DFA or wavelet-based estimation."),
-      bodyText("3. A single-author secular text shows H > 0.99 on the same pipeline."),
-      bodyText("4. Billboard raw-lyric TF-IDF Hurst shows H > 0.85 per decade."),
-      bodyText("5. Multiple single-human behavioral datasets show H < 0.70."),
+      bodyText("1. A committee-generated text is identified with H > 0.95 (p < 0.01), demonstrating that committee production can achieve single-source persistence. This would invalidate the structural-inauthenticity thesis."),
+      bodyText("2. The Qur'an's H = 0.996 fails to replicate under DFA or wavelet-based estimation with bootstrap confidence intervals. This would reduce the finding to an R/S estimator artifact."),
+      bodyText("3. A single-author secular text shows H > 0.99 on the same pipeline, demonstrating that the Qur'an's persistence is achievable by a human author."),
+      bodyText("4. Billboard raw-lyric TF-IDF Hurst shows H > 0.85 per decade, invalidating the committee-degradation finding."),
+      bodyText("5. Multiple single-human behavioral datasets show H < 0.70, invalidating the biological-single-source baseline reported here."),
 
       // Section 8
       sectionHead("8. Conclusion"),
-      bodyText("The Hurst exponent, applied uniformly across scripture, hadith, popular music, and behavioral data, produces a clean hierarchy that separates committee-generated output from single-source output with a gap of approximately 0.3 H-units. This gap is robust across language families, time periods, and output types."),
+      bodyText("The Hurst exponent, applied uniformly across scripture, hadith, popular music, and behavioral data, produces a clean hierarchy that separates committee-generated output from single-source output with a gap of approximately 0.3 H-units. This gap is robust across language families, time periods, and output types. It provides a quantitative method for identifying structural inauthenticity at any scale."),
       bodyText("The Qur'an sits at the top of the authored-text hierarchy (H = 0.996), above every other text measured including hadith collections in the same language and tradition. A single human life sits above the committee floor but below the Qur'an (H = 0.931). The committee floor -- Billboard Hot 100 lyrics -- sits at H = 0.644, below even the hadith collections."),
-      bodyText("Above all authored texts, the Billboard annual aggregates demonstrate that authorless systemic attractors can exceed the persistence of any individual voice. The system moves with more coherence than any participant."),
+      bodyText("Above all authored texts, the Billboard annual aggregates demonstrate that authorless systemic attractors can exceed the persistence of any individual voice. The system moves with more coherence than any participant. The implications of this finding -- for cultural production, for structural incentive analysis, and for any reader whose operational status makes the committee signature personally relevant -- are left to the reader to assess."),
 
       ...ayahBlock("And there is not a thing except that it exalts by His praise, but you do not understand their exaltation.", "Al-Isra 17:44"),
 
